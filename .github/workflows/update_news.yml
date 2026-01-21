@@ -1,12 +1,12 @@
-name: Update News (Final Fix)
+name: Update News (Fix Path Error)
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # 3 saatte bir
+    - cron: '0 */3 * * *' # Her 3 saatte bir çalış
   workflow_dispatch:
 
 permissions:
-  contents: write # İzin isteği
+  contents: write
 
 jobs:
   build:
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          persist-credentials: false # Standart kimliği kullanma
+          persist-credentials: false
           fetch-depth: 0
 
       - name: Set up Python
@@ -41,10 +41,12 @@ jobs:
         run: |
           git config --global user.name 'Synapse Bot'
           git config --global user.email 'bot@synapse.com'
+          
+          # SADECE JSON dosyasını ekliyoruz. Resim satırı silindi!
           git add backend/news_data.json
           
-          # Değişiklik varsa commit yap
-          git commit -m "Haber Güncelleme: $(date)" || echo "Değişiklik yok"
+          # Değişiklik varsa commit yap, yoksa hata verme
+          git commit -m "Haber Guncelleme: $(date)" || echo "Değişiklik yok"
           
-          # İŞTE ÇÖZÜM: Token'ı linkin içine gömüyoruz
+          # Token ile gönder
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:master
