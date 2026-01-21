@@ -1,16 +1,13 @@
 import feedparser
 import json
 import os
-import requests
 import random
 from datetime import datetime
 from openai import OpenAI
 
 # --- AYARLAR ---
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
-GITHUB_REPO_URL = "https://raw.githubusercontent.com/barisakar24/synapse-backend/master/backend/images/"
 JSON_FILE = 'news_data.json'
-IMAGE_FOLDER = 'images'
 
 RSS_URLS = [
     "https://neurosciencenews.com/feed/",
@@ -27,16 +24,30 @@ CATEGORIES = {
     "Genetik": ["gene", "dna", "rna", "mutation", "genome", "crispr"]
 }
 
-def ensure_directories():
-    if not os.path.exists(IMAGE_FOLDER):
-        os.makedirs(IMAGE_FOLDER)
+# Eğer haberde resim yoksa kullanılacak yedekler
+DEFAULT_IMAGES = {
+    "Nöroloji": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+    "Psikoloji": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+    "Yapay Zeka": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+    "Genetik": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+    "Genel": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80"
+}
 
 def load_existing_news():
     if os.path.exists(JSON_FILE):
         with open(JSON_FILE, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            return data.get('news_list', [])
+            return json.load(f).get('news_list', [])
     return []
+
+def get_image_from_rss(entry, category):
+    """RSS'den resim bulur, yoksa kategoriye göre varsayılanı verir"""
+    if 'media_content' in entry:
+        return entry.media_content[0]['url']
+    if 'links' in entry:
+        for link in entry.links:
+            if 'image' in link.type:
+                return link.href
+    return DEFAULT_IMAGES.get(category, DEFAULT_IMAGES["Genel"])
 
 def assign_category(text):
     text = text.lower()
@@ -46,19 +57,18 @@ def assign_category(text):
                 return cat
     return "Bilim & Teknoloji"
 
-def generate_content_and_image(title, summary, link, source_name):
-    """GPT-4o ile Başlık/Makale ve DALL-E 3 ile Görsel Üretir"""
+def generate_turkish_content(title, summary, source_name):
+    """Sadece Metin ve Başlık Üretir (DALL-E Yok)"""
     try:
-        # 1. METİN VE BAŞLIK ÜRETİMİ
         print(f"🧠 GPT Analiz Ediyor: {title[:30]}...")
         prompt = (
             f"Haber: {title}\nÖzet: {summary}\nKaynak: {source_name}\n\n"
             f"GÖREVLER:\n"
-            f"1. Bu haber için çok çarpıcı, 'clickbait' olmayan ama ilgi çekici TÜRKÇE bir başlık yaz.\n"
-            f"2. Haberi Türkçe'ye çevirip 4-5 paragraflık zengin bir makale haline getir.\n"
+            f"1. Bu haber için ilgi çekici TÜRKÇE bir başlık yaz.\n"
+            f"2. Haberi Türkçe'ye çevirip detaylı bir makale haline getir.\n"
             f"3. En alta APA formatında kaynak ekle.\n"
-            f"4. Yanıtı tam olarak şu JSON formatında ver (başka hiçbir şey yazma):\n"
-            f'{{"title": "Türkçe Başlık", "content": "Makale içeriği...", "image_prompt": "DALL-E için İngilizce görsel tarifi"}}'
+            f"4. Yanıtı SADECE şu JSON formatında ver:\n"
+            f'{{"title": "Türkçe Başlık", "content": "Makale içeriği..."}}'
         )
 
         response = client.chat.completions.create(
@@ -67,38 +77,12 @@ def generate_content_and_image(title, summary, link, source_name):
             response_format={"type": "json_object"},
             temperature=0.7
         )
-        
-        gpt_data = json.loads(response.choices[0].message.content)
-        
-        # 2. GÖRSEL ÜRETİMİ (DALL-E 3)
-        print(f"🎨 Görsel Çiziliyor...")
-        image_response = client.images.generate(
-            model="dall-e-3",
-            prompt=f"Cinematic, elegant, high-tech, abstract neuroscience or technology style, dark mode aesthetic, 8k resolution. Context: {gpt_data['image_prompt']}",
-            size="1024x1024",
-            quality="standard",
-            n=1,
-        )
-        image_url = image_response.data[0].url
-        
-        # 3. GÖRSELİ İNDİR VE KAYDET
-        img_filename = f"img_{int(datetime.now().timestamp())}_{random.randint(100,999)}.png"
-        img_path = os.path.join(IMAGE_FOLDER, img_filename)
-        
-        img_data = requests.get(image_url).content
-        with open(img_path, 'wb') as handler:
-            handler.write(img_data)
-            
-        final_image_url = GITHUB_REPO_URL + img_filename
-        
-        return gpt_data['title'], gpt_data['content'], final_image_url
-
+        return json.loads(response.choices[0].message.content)
     except Exception as e:
-        print(f"Hata oluştu: {e}")
-        return None, None, None
+        print(f"GPT Hatası: {e}")
+        return None
 
 def main():
-    ensure_directories()
     existing_news = load_existing_news()
     existing_links = [n['link'] for n in existing_news]
     
@@ -110,48 +94,49 @@ def main():
             feed = feedparser.parse(url)
             source_name = feed.feed.get('title', 'Science Source')
             
-            # Her kaynaktan en yeni 1 haberi kontrol et (API tasarrufu için az tutuyoruz)
-            for entry in feed.entries[:1]:
+            for entry in feed.entries[:2]: # Her siteden en yeni 2 haberi kontrol et
                 link = entry.link
                 
-                # --- DEDUPLICATION (AYNI HABER VARSA GEÇ) ---
                 if link in existing_links:
-                    print(f"♻️ Zaten var: {entry.title[:30]}")
-                    continue
+                    continue # Zaten varsa geç
 
                 title = entry.title
                 summary = getattr(entry, 'summary', '')
                 
-                # GPT ve DALL-E İşlemi
-                tr_title, content, image_url = generate_content_and_image(title, summary, link, source_name)
+                # GPT ile Türkçe içerik üret
+                gpt_result = generate_turkish_content(title, summary, source_name)
                 
-                if tr_title and content and image_url:
+                if gpt_result:
+                    category = assign_category(title + " " + summary)
+                    # Resmi RSS'den al, yoksa stok foto kullan
+                    image_url = get_image_from_rss(entry, category)
+
                     news_item = {
-                        "title": tr_title, # Artık Türkçe!
+                        "title": gpt_result['title'],
                         "original_title": title,
-                        "content": content,
-                        "category": assign_category(title + " " + summary),
-                        "image": image_url, # GitHub'daki kalıcı link
+                        "content": gpt_result['content'],
+                        "category": category,
+                        "image": image_url, 
                         "link": link,
                         "date": datetime.now().isoformat(),
                         "timestamp": datetime.now().timestamp()
                     }
                     new_articles.append(news_item)
-                    print(f"✅ Yeni Makale Eklendi: {tr_title}")
+                    print(f"✅ Eklendi: {gpt_result['title']}")
                 
         except Exception as e:
             print(f"RSS Hatası: {e}")
 
-    # Yeni haberleri eskilere ekle (En yeniler en başa)
     updated_news_list = new_articles + existing_news
-    
-    # Listeyi 50 haberle sınırla ki dosya şişmesin
-    updated_news_list = updated_news_list[:50]
+    updated_news_list = updated_news_list[:50] # Liste çok şişmesin
 
-    # Günün haberi: Son 24 saatte eklenenlerden rastgele biri, yoksa en yenisi
-    now_ts = datetime.now().timestamp()
-    recent_ones = [n for n in updated_news_list if (now_ts - n['timestamp']) < 86400]
-    daily_news = random.choice(recent_ones) if recent_ones else updated_news_list[0]
+    # Günün haberi seçimi
+    if new_articles:
+        daily_news = random.choice(new_articles)
+    elif updated_news_list:
+        daily_news = updated_news_list[0]
+    else:
+        daily_news = None
 
     final_data = {
         "last_updated": datetime.now().isoformat(),
@@ -161,8 +146,6 @@ def main():
 
     with open(JSON_FILE, 'w', encoding='utf-8') as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
-
-    print(f"🏁 İşlem Tamam. {len(new_articles)} yeni haber eklendi.")
 
 if __name__ == "__main__":
     main()

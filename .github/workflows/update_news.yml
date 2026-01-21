@@ -1,9 +1,12 @@
-name: Update News (AI & Images)
+name: Update News (RSS Images)
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Her 3 saatte bir çalış
+    - cron: '0 */3 * * *' # Her 3 saatte bir
   workflow_dispatch:
+
+permissions:
+  contents: write # 128 hatasını çözmek için bu şart!
 
 jobs:
   build:
@@ -12,9 +15,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.MY_GITHUB_TOKEN }} # <--- İŞTE ÇÖZÜM BU!
-          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser python-dateutil openai requests
+          pip install feedparser python-dateutil openai
 
       - name: Run News Generator
         env: 
@@ -36,12 +36,6 @@ jobs:
         run: |
           git config --global user.name 'Synapse Bot'
           git config --global user.email 'bot@synapse.com'
-          
           git add backend/news_data.json
-          git add backend/images/*
-          
-          # Değişiklik varsa commit at, yoksa devam et
-          git commit -m "Otomatik güncelleme: $(date)" || echo "Değişiklik yok"
-          
-          # Token ile yetkilendirilmiş push işlemi
+          git commit -m "Haber güncelleme: $(date)" || exit 0
           git push
