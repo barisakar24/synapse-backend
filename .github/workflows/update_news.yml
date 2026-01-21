@@ -1,9 +1,9 @@
-name: Update News (Fix Path Error)
+name: Update News (NO IMAGES)
 
 on:
   schedule:
     - cron: '0 */3 * * *' # Her 3 saatte bir çalış
-  workflow_dispatch:
+  workflow_dispatch:      # Elle tetiklemek için
 
 permissions:
   contents: write
@@ -42,10 +42,10 @@ jobs:
           git config --global user.name 'Synapse Bot'
           git config --global user.email 'bot@synapse.com'
           
-          # SADECE JSON dosyasını ekliyoruz. Resim satırı silindi!
+          # SADECE JSON dosyasını ekle (Resim satırı SİLİNDİ)
           git add backend/news_data.json
           
-          # Değişiklik varsa commit yap, yoksa hata verme
+          # Değişiklik varsa commit yap
           git commit -m "Haber Guncelleme: $(date)" || echo "Değişiklik yok"
           
           # Token ile gönder
