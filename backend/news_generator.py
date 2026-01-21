@@ -1,48 +1,42 @@
 import feedparser
 import json
-import random
 import os
-import time
+import requests
+import random
 from datetime import datetime
-import dateutil.parser
 from openai import OpenAI
 
 # --- AYARLAR ---
-# GitHub Actions Secrets'tan API Key'i alacağız
 client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+GITHUB_REPO_URL = "https://raw.githubusercontent.com/barisakar24/synapse-backend/master/backend/images/"
+JSON_FILE = 'news_data.json'
+IMAGE_FOLDER = 'images'
 
 RSS_URLS = [
-    "https://neurosciencenews.com/feed/",          # Genel Sinirbilim & Nöroloji
-    "https://www.sciencedaily.com/rss/mind_brain.xml", # Beyin & Zihin
-    "https://www.medicalnewstoday.com/rss/psychology-psychiatry", # Psikoloji
-    "https://www.technologyreview.com/feed/",      # Yapay Zeka
-    "https://www.genengnews.com/feed/"             # Genetik
+    "https://neurosciencenews.com/feed/",
+    "https://www.sciencedaily.com/rss/mind_brain.xml",
+    "https://www.medicalnewstoday.com/rss/psychology-psychiatry",
+    "https://www.technologyreview.com/feed/",
+    "https://www.genengnews.com/feed/"
 ]
 
 CATEGORIES = {
-    "Nöroloji": ["brain", "neuron", "synapse", "alzheimer", "parkinson", "stroke", "neuro", "cortex"],
-    "Psikoloji": ["psychology", "behavior", "mental", "depression", "anxiety", "cognitive", "therapy", "emotion"],
-    "Yapay Zeka": ["artificial intelligence", "ai", "machine learning", "robot", "algorithm", "neural network", "chatgpt"],
-    "Genetik": ["gene", "dna", "rna", "mutation", "genome", "crispr", "hereditary", "biology"]
+    "Nöroloji": ["brain", "neuron", "synapse", "alzheimer", "parkinson", "stroke", "neuro"],
+    "Psikoloji": ["psychology", "behavior", "mental", "depression", "anxiety", "cognitive"],
+    "Yapay Zeka": ["artificial intelligence", "ai", "machine learning", "robot", "algorithm"],
+    "Genetik": ["gene", "dna", "rna", "mutation", "genome", "crispr"]
 }
 
-DEFAULT_IMAGES = {
-    "Nöroloji": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-    "Psikoloji": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
-    "Yapay Zeka": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-    "Genetik": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-    "Genel": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80"
-}
+def ensure_directories():
+    if not os.path.exists(IMAGE_FOLDER):
+        os.makedirs(IMAGE_FOLDER)
 
-def get_image(entry):
-    """RSS'den resim bulmaya çalışır"""
-    if 'media_content' in entry:
-        return entry.media_content[0]['url']
-    if 'links' in entry:
-        for link in entry.links:
-            if 'image' in link.type:
-                return link.href
-    return None
+def load_existing_news():
+    if os.path.exists(JSON_FILE):
+        with open(JSON_FILE, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+            return data.get('news_list', [])
+    return []
 
 def assign_category(text):
     text = text.lower()
@@ -50,91 +44,125 @@ def assign_category(text):
         for word in keywords:
             if word in text:
                 return cat
-    return "Tüm Haberler"
+    return "Bilim & Teknoloji"
 
-def generate_article_with_gpt4o(title, summary, link, source_name):
-    """GPT-4o kullanarak makale ve APA kaynakça oluşturur"""
+def generate_content_and_image(title, summary, link, source_name):
+    """GPT-4o ile Başlık/Makale ve DALL-E 3 ile Görsel Üretir"""
     try:
-        print(f"🤖 GPT-4o Analiz Ediyor: {title[:30]}...")
-        
+        # 1. METİN VE BAŞLIK ÜRETİMİ
+        print(f"🧠 GPT Analiz Ediyor: {title[:30]}...")
         prompt = (
-            f"Aşağıdaki haber başlığı ve özetini kullanarak, uzman bir sinirbilim yazarı gibi davran.\n"
-            f"Konu: {title}\nÖzet: {summary}\nKaynak: {source_name}\nLink: {link}\n\n"
-            f"İstekler:\n"
-            f"1. Bu haberi Türkçe'ye çevir ve detaylandır.\n"
-            f"2. En az 5-6 paragraf uzunluğunda, akademik ama anlaşılır bir makale yaz.\n"
-            f"3. Makalenin en sonuna 'KAYNAKÇA' başlığı altında, bu haberi APA formatında kaynak göster (Erişim tarihi bugünün tarihi olsun).\n"
-            f"4. Sadece makale metnini ve kaynakçayı ver, başka bir şey yazma."
+            f"Haber: {title}\nÖzet: {summary}\nKaynak: {source_name}\n\n"
+            f"GÖREVLER:\n"
+            f"1. Bu haber için çok çarpıcı, 'clickbait' olmayan ama ilgi çekici TÜRKÇE bir başlık yaz.\n"
+            f"2. Haberi Türkçe'ye çevirip 4-5 paragraflık zengin bir makale haline getir.\n"
+            f"3. En alta APA formatında kaynak ekle.\n"
+            f"4. Yanıtı tam olarak şu JSON formatında ver (başka hiçbir şey yazma):\n"
+            f'{{"title": "Türkçe Başlık", "content": "Makale içeriği...", "image_prompt": "DALL-E için İngilizce görsel tarifi"}}'
         )
 
         response = client.chat.completions.create(
             model="gpt-4o",
-            messages=[
-                {"role": "system", "content": "Sen Synapse uygulaması için içerik üreten uzman bir bilim editörüsün."},
-                {"role": "user", "content": prompt}
-            ],
-            temperature=0.7,
+            messages=[{"role": "user", "content": prompt}],
+            response_format={"type": "json_object"},
+            temperature=0.7
         )
-        return response.choices[0].message.content
+        
+        gpt_data = json.loads(response.choices[0].message.content)
+        
+        # 2. GÖRSEL ÜRETİMİ (DALL-E 3)
+        print(f"🎨 Görsel Çiziliyor...")
+        image_response = client.images.generate(
+            model="dall-e-3",
+            prompt=f"Cinematic, elegant, high-tech, abstract neuroscience or technology style, dark mode aesthetic, 8k resolution. Context: {gpt_data['image_prompt']}",
+            size="1024x1024",
+            quality="standard",
+            n=1,
+        )
+        image_url = image_response.data[0].url
+        
+        # 3. GÖRSELİ İNDİR VE KAYDET
+        img_filename = f"img_{int(datetime.now().timestamp())}_{random.randint(100,999)}.png"
+        img_path = os.path.join(IMAGE_FOLDER, img_filename)
+        
+        img_data = requests.get(image_url).content
+        with open(img_path, 'wb') as handler:
+            handler.write(img_data)
+            
+        final_image_url = GITHUB_REPO_URL + img_filename
+        
+        return gpt_data['title'], gpt_data['content'], final_image_url
+
     except Exception as e:
-        print(f"GPT Hatası: {e}")
-        return f"{summary}\n\n(Yapay zeka özeti oluşturulamadı. Orijinal kaynak: {link})"
+        print(f"Hata oluştu: {e}")
+        return None, None, None
 
 def main():
-    all_news = []
-    print("🌍 Haberler taranıyor...")
+    ensure_directories()
+    existing_news = load_existing_news()
+    existing_links = [n['link'] for n in existing_news]
+    
+    new_articles = []
+    print("🌍 RSS Taraması Başlıyor...")
 
     for url in RSS_URLS:
         try:
             feed = feedparser.parse(url)
             source_name = feed.feed.get('title', 'Science Source')
             
-            # Her kaynaktan sadece en yeni 2 haberi alalım (API kotası şişmesin)
-            for entry in feed.entries[:2]:
-                title = entry.title
+            # Her kaynaktan en yeni 1 haberi kontrol et (API tasarrufu için az tutuyoruz)
+            for entry in feed.entries[:1]:
                 link = entry.link
-                summary = getattr(entry, 'summary', '')
-                pub_date = getattr(entry, 'published', str(datetime.now()))
                 
-                # Kategori ve Resim
-                cat = assign_category(title + " " + summary)
-                img = get_image(entry) or DEFAULT_IMAGES.get(cat, DEFAULT_IMAGES["Genel"])
+                # --- DEDUPLICATION (AYNI HABER VARSA GEÇ) ---
+                if link in existing_links:
+                    print(f"♻️ Zaten var: {entry.title[:30]}")
+                    continue
 
-                # GPT-4o ile İçerik Üretimi
-                full_content = generate_article_with_gpt4o(title, summary, link, source_name)
-
-                news_item = {
-                    "title": title, # Orijinal başlık (veya istersen GPT'ye başlık da attırabilirsin)
-                    "original_summary": summary,
-                    "content": full_content, # GPT'nin yazdığı uzun makale
-                    "category": cat,
-                    "image": img,
-                    "link": link,
-                    "date": pub_date,
-                    "timestamp": datetime.now().timestamp()
-                }
-                all_news.append(news_item)
+                title = entry.title
+                summary = getattr(entry, 'summary', '')
+                
+                # GPT ve DALL-E İşlemi
+                tr_title, content, image_url = generate_content_and_image(title, summary, link, source_name)
+                
+                if tr_title and content and image_url:
+                    news_item = {
+                        "title": tr_title, # Artık Türkçe!
+                        "original_title": title,
+                        "content": content,
+                        "category": assign_category(title + " " + summary),
+                        "image": image_url, # GitHub'daki kalıcı link
+                        "link": link,
+                        "date": datetime.now().isoformat(),
+                        "timestamp": datetime.now().timestamp()
+                    }
+                    new_articles.append(news_item)
+                    print(f"✅ Yeni Makale Eklendi: {tr_title}")
                 
         except Exception as e:
-            print(f"Hata ({url}): {e}")
+            print(f"RSS Hatası: {e}")
 
-    # En yeni haber en üstte
-    all_news.sort(key=lambda x: x['timestamp'], reverse=True)
+    # Yeni haberleri eskilere ekle (En yeniler en başa)
+    updated_news_list = new_articles + existing_news
+    
+    # Listeyi 50 haberle sınırla ki dosya şişmesin
+    updated_news_list = updated_news_list[:50]
 
-    # Günün Haberi (Rastgele bir tanesi)
-    daily_news = random.choice(all_news) if all_news else None
+    # Günün haberi: Son 24 saatte eklenenlerden rastgele biri, yoksa en yenisi
+    now_ts = datetime.now().timestamp()
+    recent_ones = [n for n in updated_news_list if (now_ts - n['timestamp']) < 86400]
+    daily_news = random.choice(recent_ones) if recent_ones else updated_news_list[0]
 
-    # JSON Kaydı
     final_data = {
         "last_updated": datetime.now().isoformat(),
         "daily_news": daily_news,
-        "news_list": all_news
+        "news_list": updated_news_list
     }
 
-    with open('news_data.json', 'w', encoding='utf-8') as f:
+    with open(JSON_FILE, 'w', encoding='utf-8') as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
 
-    print(f"✅ İşlem Tamam! {len(all_news)} makale oluşturuldu.")
+    print(f"🏁 İşlem Tamam. {len(new_articles)} yeni haber eklendi.")
 
 if __name__ == "__main__":
     main()

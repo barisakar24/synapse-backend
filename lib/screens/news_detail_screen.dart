@@ -3,76 +3,45 @@ import 'package:flutter/cupertino.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class NewsDetailScreen extends StatelessWidget {
-  const NewsDetailScreen({super.key});
+  final Map<String, dynamic> newsData;
 
-  // Tema Renkleri
-  final Color _accentColor = const Color(0xFFFFD233); // Neon Sarı
-  final Color _backgroundColor = const Color(0xFF0F1115);
-  final Color _surfaceColor = const Color(0xFF1E1E1E);
+  const NewsDetailScreen({super.key, required this.newsData});
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: _backgroundColor,
+      backgroundColor: const Color(0xFF0F1115),
       body: CustomScrollView(
         slivers: [
-          // 1. Üst Kısım: Hareketli (Paralaks) Görsel
+          // 1. Resimli Başlık (SliverAppBar)
           SliverAppBar(
-            expandedHeight: 400.0,
+            expandedHeight: 300.0,
             floating: false,
             pinned: true,
-            backgroundColor: _backgroundColor,
-            leading: Padding(
-              padding: const EdgeInsets.all(8.0),
-              child: _buildGlassButton(
-                context, 
-                icon: CupertinoIcons.back, 
-                onTap: () => Navigator.pop(context)
+            backgroundColor: const Color(0xFF0F1115),
+            flexibleSpace: FlexibleSpaceBar(
+              background: Image.network(
+                newsData['image'] ?? "https://picsum.photos/800",
+                fit: BoxFit.cover,
               ),
             ),
-            actions: [
-              Padding(
-                padding: const EdgeInsets.all(8.0),
-                child: _buildGlassButton(context, icon: CupertinoIcons.bookmark, onTap: () {}),
+            leading: Container(
+              margin: const EdgeInsets.all(8),
+              decoration: const BoxDecoration(
+                color: Colors.black54,
+                shape: BoxShape.circle,
               ),
-              Padding(
-                padding: const EdgeInsets.only(right: 8.0, top: 8.0, bottom: 8.0),
-                child: _buildGlassButton(context, icon: CupertinoIcons.share, onTap: () {}),
-              ),
-            ],
-            flexibleSpace: FlexibleSpaceBar(
-              background: Stack(
-                fit: StackFit.expand,
-                children: [
-                  Image.network(
-                    "https://picsum.photos/800/800?random=1",
-                    fit: BoxFit.cover,
-                  ),
-                  // Görselin altına siyah gölge atıyoruz ki yazı ile birleştiği yer yumuşak olsun
-                  Container(
-                    decoration: BoxDecoration(
-                      gradient: LinearGradient(
-                        begin: Alignment.topCenter,
-                        end: Alignment.bottomCenter,
-                        colors: [
-                          Colors.transparent,
-                          Colors.transparent,
-                          _backgroundColor.withOpacity(0.8),
-                          _backgroundColor,
-                        ],
-                        stops: const [0.0, 0.6, 0.9, 1.0],
-                      ),
-                    ),
-                  ),
-                ],
+              child: IconButton(
+                icon: const Icon(CupertinoIcons.back, color: Colors.white),
+                onPressed: () => Navigator.pop(context),
               ),
             ),
           ),
 
-          // 2. İçerik Kısmı
+          // 2. İçerik
           SliverToBoxAdapter(
             child: Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 24.0),
+              padding: const EdgeInsets.all(20.0),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
@@ -80,155 +49,76 @@ class NewsDetailScreen extends StatelessWidget {
                   Container(
                     padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
                     decoration: BoxDecoration(
-                      color: _accentColor,
-                      borderRadius: BorderRadius.circular(20),
+                      color: const Color(0xFF2962FF).withOpacity(0.2),
+                      borderRadius: BorderRadius.circular(8),
                     ),
                     child: Text(
-                      "NEUROSCIENCE",
-                      style: GoogleFonts.poppins(
-                        color: Colors.black,
-                        fontWeight: FontWeight.bold,
-                        fontSize: 12,
-                      ),
+                      newsData['category'] ?? "Genel",
+                      style: const TextStyle(color: Color(0xFF2962FF), fontWeight: FontWeight.bold),
                     ),
                   ),
-                  const SizedBox(height: 16),
+                  const SizedBox(height: 15),
 
                   // Başlık
                   Text(
-                    "Beyin Haritalamada Yeni Dönem: Yapay Zeka Destekli MR Görüntüleme",
+                    newsData['title'],
                     style: GoogleFonts.poppins(
-                      color: Colors.white,
-                      fontSize: 28,
+                      fontSize: 24,
                       fontWeight: FontWeight.bold,
-                      height: 1.2,
+                      color: Colors.white,
+                      height: 1.3,
                     ),
                   ),
-                  const SizedBox(height: 20),
+                  const SizedBox(height: 10),
 
-                  // Yazar ve Tarih Bilgisi
+                  // Tarih
                   Row(
                     children: [
-                      const CircleAvatar(
-                        radius: 22,
-                        backgroundImage: NetworkImage("https://randomuser.me/api/portraits/women/44.jpg"),
-                      ),
-                      const SizedBox(width: 12),
-                      Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Text(
-                            "Doç. Dr. Elif Yılmaz",
-                            style: GoogleFonts.poppins(
-                              color: Colors.white,
-                              fontWeight: FontWeight.w600,
-                              fontSize: 14,
-                            ),
-                          ),
-                          Text(
-                            "21 Ocak 2026 • 5 dk okuma",
-                            style: GoogleFonts.poppins(
-                              color: Colors.grey,
-                              fontSize: 12,
-                            ),
-                          ),
-                        ],
+                      const Icon(Icons.access_time, color: Colors.grey, size: 16),
+                      const SizedBox(width: 5),
+                      Text(
+                        "AI tarafından oluşturuldu • Synapse",
+                        style: GoogleFonts.poppins(color: Colors.grey, fontSize: 12),
                       ),
                     ],
                   ),
-                  
-                  const SizedBox(height: 30),
-                  const Divider(color: Colors.white10),
-                  const SizedBox(height: 30),
+                  const Divider(color: Colors.white24, height: 40),
 
-                  // Haber Metni
+                  // GPT-4o Makale Metni
                   Text(
-                    "Sinirbilim araştırmaları, son yıllarda yapay zeka teknolojilerinin entegrasyonu ile büyük bir ivme kazandı. Özellikle fMRI ve DTI gibi görüntüleme tekniklerinde elde edilen verilerin işlenmesi, klasik yöntemlerle aylar sürerken, yeni geliştirilen algoritmalar sayesinde saniyeler içinde analiz edilebiliyor.\n\n"
-                    "Bu yeni yöntem, 'Synapse' adı verilen bir proje kapsamında geliştirildi. Araştırmacılar, beynin daha önce haritalanamayan bölgelerindeki mikro bağlantıları görünür kılmayı başardı.\n\n"
-                    "Uzmanlar, bu gelişmenin Alzheimer ve Parkinson gibi nörodejeneratif hastalıkların erken teşhisinde devrim yaratabileceğini belirtiyor. Geleneksel yöntemlerin aksine, bu yeni AI modeli, yapısal bozukluklar oluşmadan önce, sinirsel aktivitedeki mikroskobik değişimleri tespit edebiliyor.",
-                    style: GoogleFonts.lora( // Okuma için serif font daha rahattır veya Poppins light kullanılabilir.
-                      color: Colors.grey[300],
-                      fontSize: 18,
-                      height: 1.8, // Satır arası boşluk okumayı kolaylaştırır
+                    newsData['content'] ?? newsData['original_summary'] ?? "İçerik yüklenemedi.",
+                    style: GoogleFonts.merriweather( // Okuma için serif font daha iyidir
+                      fontSize: 16,
+                      color: Colors.white70,
+                      height: 1.8,
                     ),
                   ),
-
+                  
                   const SizedBox(height: 40),
-
-                  // Alıntı Kutusu (Quote)
-                  Container(
-                    padding: const EdgeInsets.all(20),
-                    decoration: BoxDecoration(
-                      color: _surfaceColor,
-                      border: Border(left: BorderSide(color: _accentColor, width: 4)),
-                      borderRadius: const BorderRadius.only(
-                        topRight: Radius.circular(16),
-                        bottomRight: Radius.circular(16),
-                      ),
-                    ),
-                    child: Text(
-                      "“Bu sadece bir başlangıç. Gelecekte beynin dijital bir kopyasını oluşturup, hastalıkları simülasyon ortamında tedavi etmeyi hedefliyoruz.”",
-                      style: GoogleFonts.poppins(
-                        color: Colors.white70,
-                        fontStyle: FontStyle.italic,
-                        fontSize: 16,
-                      ),
-                    ),
-                  ),
-
-                  const SizedBox(height: 40),
-
-                  // Alt Buton (Call to Action)
-                  SizedBox(
-                    width: double.infinity,
-                    height: 56,
-                    child: ElevatedButton(
-                      onPressed: () {
-                        // Tarayıcı açma kodu buraya gelecek
-                      },
-                      style: ElevatedButton.styleFrom(
-                        backgroundColor: Colors.white,
-                        foregroundColor: Colors.black,
-                        shape: RoundedRectangleBorder(
-                          borderRadius: BorderRadius.circular(16),
-                        ),
-                      ),
-                      child: Text(
-                        "Makalenin Tamamını Oku",
-                        style: GoogleFonts.poppins(
-                          fontSize: 16,
-                          fontWeight: FontWeight.bold,
+                  
+                  // Orijinal Kaynak Linki Butonu
+                  if (newsData['link'] != null)
+                    SizedBox(
+                      width: double.infinity,
+                      child: OutlinedButton.icon(
+                        onPressed: () {
+                          // url_launcher ile açılabilir
+                        },
+                        icon: const Icon(Icons.link, color: Colors.white),
+                        label: const Text("Orijinal Kaynağa Git", style: TextStyle(color: Colors.white)),
+                        style: OutlinedButton.styleFrom(
+                          side: const BorderSide(color: Colors.white24),
+                          padding: const EdgeInsets.symmetric(vertical: 15),
                         ),
                       ),
                     ),
-                  ),
+                    
                   const SizedBox(height: 50),
                 ],
               ),
             ),
           ),
         ],
-      ),
-    );
-  }
-
-  // Özel Glassmorphism Buton Widget'ı
-  Widget _buildGlassButton(BuildContext context, {required IconData icon, required VoidCallback onTap}) {
-    return GestureDetector(
-      onTap: onTap,
-      child: Container(
-        height: 44,
-        width: 44,
-        decoration: BoxDecoration(
-          color: Colors.black.withOpacity(0.3), // Yarı saydam siyah
-          shape: BoxShape.circle,
-          border: Border.all(color: Colors.white.withOpacity(0.2)),
-        ),
-        child: Icon(
-          icon,
-          color: Colors.white,
-          size: 20,
-        ),
       ),
     );
   }

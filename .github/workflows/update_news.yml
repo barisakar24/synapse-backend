@@ -1,9 +1,9 @@
-name: Update News with GPT-4o
+name: Update News (AI & Images)
 
 on:
   schedule:
-    - cron: '0 6 * * *' # Her gün sabah 06:00'da çalışır
-  workflow_dispatch: # Elle tetiklemek için
+    - cron: '0 */3 * * *' # Her 3 saatte bir çalış
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r backend/requirements.txt
+          pip install feedparser python-dateutil openai requests
 
       - name: Run News Generator
         env: 
@@ -36,6 +36,8 @@ jobs:
         run: |
           git config --global user.name 'Synapse Bot'
           git config --global user.email 'bot@synapse.com'
+          # Hem json'u hem de yeni inen resimleri ekle
           git add backend/news_data.json
-          git commit -m "GPT-4o ile haberler güncellendi: $(date)" || exit 0
+          git add backend/images/*
+          git commit -m "Otomatik güncelleme: $(date)" || exit 0
           git push
