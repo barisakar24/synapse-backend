@@ -34,7 +34,8 @@ class _LayoutScaffoldState extends State<LayoutScaffold> {
       bottomNavigationBar: Container(
         decoration: BoxDecoration(
           color: const Color(0xFF0F1115).withOpacity(0.85), // Yarı saydam koyu zemin
-          border: const Border(top: BorderSide(color: Colors.white10, width: 0.5)),
+          borderRadius: const BorderRadius.vertical(top: Radius.circular(20)), // Yuvarlatılmış köşeler
+          border: Border.all(color: Colors.white.withOpacity(0.1), width: 0.5), // İnce çerçeve
           boxShadow: [
             BoxShadow(
               color: Colors.black.withOpacity(0.5),
@@ -44,28 +45,30 @@ class _LayoutScaffoldState extends State<LayoutScaffold> {
           ],
         ),
         child: ClipRRect(
+          borderRadius: const BorderRadius.vertical(top: Radius.circular(20)),
           child: BackdropFilter(
-            filter: ImageFilter.blur(sigmaX: 10, sigmaY: 10), // Buzlu cam efekti
+            filter: ImageFilter.blur(sigmaX: 15, sigmaY: 15), // Daha güçlü blur
             child: BottomNavigationBar(
               currentIndex: _currentIndex,
               onTap: (index) => setState(() => _currentIndex = index),
               type: BottomNavigationBarType.fixed,
               backgroundColor: Colors.transparent, // Container rengini kullanması için
               elevation: 0,
+              iconSize: 28, // İkonları biraz büyüttük
               selectedItemColor: const Color(0xFFFFD700), // Seçili ikon Altın Sarısı (Gold)
               unselectedItemColor: Colors.grey.shade600,
               showUnselectedLabels: true,
-              selectedLabelStyle: GoogleFonts.poppins(fontSize: 11, fontWeight: FontWeight.w600),
-              unselectedLabelStyle: GoogleFonts.poppins(fontSize: 10, fontWeight: FontWeight.w500),
+              selectedLabelStyle: GoogleFonts.poppins(fontSize: 12, fontWeight: FontWeight.w600),
+              unselectedLabelStyle: GoogleFonts.poppins(fontSize: 11, fontWeight: FontWeight.w500),
               items: const [
                 BottomNavigationBarItem(
-                    icon: Icon(CupertinoIcons.compass), activeIcon: Icon(CupertinoIcons.compass_fill), label: 'Keşfet'),
+                    icon: Icon(CupertinoIcons.news), activeIcon: Icon(CupertinoIcons.news_solid), label: 'Haberler'),
                 BottomNavigationBarItem(
                     icon: Icon(CupertinoIcons.play_circle), activeIcon: Icon(CupertinoIcons.play_circle_fill), label: 'Dersler'),
                 BottomNavigationBarItem(
                     icon: Icon(CupertinoIcons.sparkles), activeIcon: Icon(CupertinoIcons.sparkles), label: 'Quiz'),
                 BottomNavigationBarItem(
-                    icon: Icon(CupertinoIcons.cube), activeIcon: Icon(CupertinoIcons.cube_fill), label: 'Atlas'),
+                    icon: Icon(Icons.grain), activeIcon: Icon(Icons.grain), label: 'Atlas'),
                 BottomNavigationBarItem(
                     icon: Icon(CupertinoIcons.person_crop_circle),
                     activeIcon: Icon(CupertinoIcons.person_crop_circle_fill),

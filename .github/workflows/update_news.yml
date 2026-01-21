@@ -3,10 +3,7 @@ name: Update News (AI & Images)
 on:
   schedule:
     - cron: '0 */3 * * *' # Her 3 saatte bir çalış
-  workflow_dispatch: # Elle tetiklemek için
-
-permissions:
-  contents: write # Yazma izni istiyoruz
+  workflow_dispatch:
 
 jobs:
   build:
@@ -16,7 +13,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
         with:
-          persist-credentials: false # Kendi token'ımızı kullanacağız
+          token: ${{ secrets.MY_GITHUB_TOKEN }} # <--- İŞTE ÇÖZÜM BU!
           fetch-depth: 0
 
       - name: Set up Python
@@ -36,18 +33,15 @@ jobs:
           python news_generator.py
 
       - name: Commit and Push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'Synapse Bot'
           git config --global user.email 'bot@synapse.com'
           
-          # Dosyaları ekle
           git add backend/news_data.json
           git add backend/images/*
           
-          # Değişiklik varsa commit yap, yoksa hata verme
-          git commit -m "Otomatik güncelleme: $(date)" || exit 0
+          # Değişiklik varsa commit at, yoksa devam et
+          git commit -m "Otomatik güncelleme: $(date)" || echo "Değişiklik yok"
           
-          # 👇 KRİTİK DEĞİŞİKLİK: Kimlik kartı (Token) ile push yapıyoruz
-          git push "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" HEAD:master
+          # Token ile yetkilendirilmiş push işlemi
+          git push
