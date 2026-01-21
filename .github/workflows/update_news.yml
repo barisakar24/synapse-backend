@@ -1,12 +1,12 @@
-name: Update News (RSS Images)
+name: Update News (Final Fix)
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Her 3 saatte bir
+    - cron: '0 */3 * * *' # 3 saatte bir
   workflow_dispatch:
 
 permissions:
-  contents: write # 128 hatasını çözmek için bu şart!
+  contents: write # İzin isteği
 
 jobs:
   build:
@@ -15,6 +15,9 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false # Standart kimliği kullanma
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -32,10 +35,16 @@ jobs:
           cd backend
           python news_generator.py
 
-      - name: Commit and Push changes
+      - name: Commit and Push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'Synapse Bot'
           git config --global user.email 'bot@synapse.com'
           git add backend/news_data.json
-          git commit -m "Haber güncelleme: $(date)" || exit 0
-          git push
+          
+          # Değişiklik varsa commit yap
+          git commit -m "Haber Güncelleme: $(date)" || echo "Değişiklik yok"
+          
+          # İŞTE ÇÖZÜM: Token'ı linkin içine gömüyoruz
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:master
