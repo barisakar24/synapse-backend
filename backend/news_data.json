@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-01-21T15:41:21.600950",
+    "last_updated": "2026-01-21T18:55:45.102500",
     "daily_news": {
-        "title": "Herkesin Peşinde Olduğu Yapay Zeka Egemenliği: Gerçekten Mümkün mü?",
-        "original_title": "Everyone wants AI sovereignty. No one can truly have it.",
-        "content": "Hükümetler, 2030 yılına kadar 'egemen yapay zeka' yatırımları için 1,3 trilyon dolar ayırmayı planlıyor. Bu yatırımların amacı, ülkelerin kendi yapay zeka yeteneklerini kontrol edebilmesi gerektiği önermesine dayanıyor. Bu fonlar, yerel veri merkezleri, yerel olarak eğitilmiş modeller, bağımsız tedarik zincirleri ve ulusal yetenek havuzları için finansmanı içeriyor. Bu plan, ülkelerin yapay zeka alanında bağımsızlıklarını artırmak amacıyla atılan bir adım olarak değerlendiriliyor. Ancak, küreselleşmiş bir dünyada bu tür bir egemenliğin ne kadar gerçekçi olduğu tartışma konusu olmaya devam ediyor.\n\nKaynak: MIT Technology Review",
+        "title": "Maya Biyosentezi ile Medicarpin Üretimi: Kanser ve Enfeksiyonlara Karşı Yeni Umut",
+        "original_title": "Biosynthesis of Medicarpin in Engineered Yeast",
+        "content": "Maya tabanlı de novo sentezi ile elde edilen medicarpin, tümör karşıtı ve antibiyotik özellikleriyle dikkat çeken bir izoflavonoiddir. Bu yöntem, günümüzün kimyasal sentez sınırlamalarını aşan verimli ve sürdürülebilir bir üretim seçeneği sunmaktadır. Bilim insanları, kısa bir süre önce laboratuvar ölçeğinde bu konseptin uygulanabilirliğini kanıtlamayı başardılar.\n\nMedicarpin, özellikle kanser tedavisinde ve çeşitli enfeksiyonlarla mücadelede kullanılan önemli bir bileşiktir. Geleneksel kimyasal sentez yöntemleri, genellikle yüksek maliyetli ve çevreye zarar verici olabiliyor. Bu nedenle, biyosentez gibi alternatif yöntemler, hem çevresel sürdürülebilirlik hem de üretim maliyetlerinin düşürülmesi açısından büyük önem taşıyor.\n\nMaya kullanılarak yapılan biyosentez işlemi, medicarpin üretiminde yenilikçi bir yaklaşım olarak öne çıkıyor. Bu yöntem, genetik mühendislik teknikleriyle mayaların genetik olarak değiştirilmesi ve istenen bileşiği üretmelerinin sağlanmasını içeriyor. Bu sayede, daha önce kimyasal sentez ile elde edilemeyen verimlilikte medicarpin üretmek mümkün hale geliyor.\n\nBu çalışma, gelecekteki ilaç üretim süreçlerinde önemli bir adım olarak değerlendiriliyor. İlerleyen dönemlerde, bu teknolojinin daha geniş ölçekli üretimlere uygulanabileceği ve tıbbi alanlarda yaygın bir şekilde kullanılabileceği düşünülüyor. Ayrıca, bu tür biyoteknolojik yaklaşımlar, diğer farmasötik bileşiklerin üretiminde de benzer şekilde devrim niteliğinde gelişmelere yol açabilir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (2023). Biosynthesis of Medicarpin in Engineered Yeast. Erişim adresi: https://www.genengnews.com/topics/bioprocessing/biosynthesis-of-medicarpin-in-engineered-yeast/",
         "category": "Yapay Zeka",
         "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/01/21/1131513/everyone-wants-ai-sovereignty-no-one-can-truly-have-it/",
-        "date": "2026-01-21T15:41:21.173217",
-        "timestamp": 1769010081.173227
+        "link": "https://www.genengnews.com/topics/bioprocessing/biosynthesis-of-medicarpin-in-engineered-yeast/",
+        "date": "2026-01-21T18:55:45.102460",
+        "timestamp": 1769021745.102469
     },
     "news_list": [
+        {
+            "title": "Kendi Amino Asitlerini Üreten Hücre Hatları",
+            "original_title": "Cell Lines That Make Their Own Amino Acids",
+            "content": "Yeni Çin Hamsteri Yumurtalık (CHO) hücre hatları, ek amino asitler üretebilir ve daha az atık metabolit üretir. Araştırmacılar, bunun biyofarma üreticileri için yem ve atık işleme gereksinimlerini azaltacağını umuyor. \n\nGeleneksel CHO hücre hatları, biyofarmasötiklerin üretiminde yaygın olarak kullanılmakla birlikte, hücrelerin dışarıdan besin alması gerekliliği nedeniyle belirli amino asitlerin sürekli olarak sağlanması gerekir. Bu da üretim sürecini zorlaştırır ve maliyetleri artırır. Ancak, yeni geliştirilen CHO hücre hatları, kendi amino asitlerini üretebilme kapasitesine sahip olduğundan, bu sorunların üstesinden gelinmesine yardımcı olabilir.\n\nBu gelişme, biyofarmasötik üretiminde hem maliyetleri düşürebilir hem de çevresel atıkları azaltabilir. Araştırmacılar, bu hücre hatlarının daha sürdürülebilir ve verimli bir üretim süreci sağlayabileceğini belirtiyorlar. Bu, özellikle büyük ölçekli üretimlerde önemli bir avantaj sağlayabilir.\n\nKaynak:\nGEN – Genetic Engineering and Biotechnology News. (tarih). Cell Lines That Make Their Own Amino Acids. https://www.genengnews.com/topics/bioprocessing/cell-lines-that-make-their-own-amino-acids/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/cell-lines-that-make-their-own-amino-acids/",
+            "date": "2026-01-21T18:55:24.222546",
+            "timestamp": 1769021724.222559
+        },
+        {
+            "title": "Maya Biyosentezi ile Medicarpin Üretimi: Kanser ve Enfeksiyonlara Karşı Yeni Umut",
+            "original_title": "Biosynthesis of Medicarpin in Engineered Yeast",
+            "content": "Maya tabanlı de novo sentezi ile elde edilen medicarpin, tümör karşıtı ve antibiyotik özellikleriyle dikkat çeken bir izoflavonoiddir. Bu yöntem, günümüzün kimyasal sentez sınırlamalarını aşan verimli ve sürdürülebilir bir üretim seçeneği sunmaktadır. Bilim insanları, kısa bir süre önce laboratuvar ölçeğinde bu konseptin uygulanabilirliğini kanıtlamayı başardılar.\n\nMedicarpin, özellikle kanser tedavisinde ve çeşitli enfeksiyonlarla mücadelede kullanılan önemli bir bileşiktir. Geleneksel kimyasal sentez yöntemleri, genellikle yüksek maliyetli ve çevreye zarar verici olabiliyor. Bu nedenle, biyosentez gibi alternatif yöntemler, hem çevresel sürdürülebilirlik hem de üretim maliyetlerinin düşürülmesi açısından büyük önem taşıyor.\n\nMaya kullanılarak yapılan biyosentez işlemi, medicarpin üretiminde yenilikçi bir yaklaşım olarak öne çıkıyor. Bu yöntem, genetik mühendislik teknikleriyle mayaların genetik olarak değiştirilmesi ve istenen bileşiği üretmelerinin sağlanmasını içeriyor. Bu sayede, daha önce kimyasal sentez ile elde edilemeyen verimlilikte medicarpin üretmek mümkün hale geliyor.\n\nBu çalışma, gelecekteki ilaç üretim süreçlerinde önemli bir adım olarak değerlendiriliyor. İlerleyen dönemlerde, bu teknolojinin daha geniş ölçekli üretimlere uygulanabileceği ve tıbbi alanlarda yaygın bir şekilde kullanılabileceği düşünülüyor. Ayrıca, bu tür biyoteknolojik yaklaşımlar, diğer farmasötik bileşiklerin üretiminde de benzer şekilde devrim niteliğinde gelişmelere yol açabilir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (2023). Biosynthesis of Medicarpin in Engineered Yeast. Erişim adresi: https://www.genengnews.com/topics/bioprocessing/biosynthesis-of-medicarpin-in-engineered-yeast/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/biosynthesis-of-medicarpin-in-engineered-yeast/",
+            "date": "2026-01-21T18:55:45.102460",
+            "timestamp": 1769021745.102469
+        },
         {
             "title": "Yapay Zeka: İş Dünyasının Geleceğini Yeniden Düşünmek",
             "original_title": "Rethinking AI’s future in an augmented workplace",
