@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Nöroanatomi 101",
+    "description": "Beynin temel yapı taşlarını ne kadar tanıyorsun?",
+    "image": "https://picsum.photos/500/300?random=10",
+    "questions": [
+      {
+        "type": "text",
+        "question": "Beynin en dış katmanı olan ve kıvrımlı yapıya ne ad verilir?",
+        "options": ["Serebellum", "Korteks", "Talamus", "Hipokampus"],
+        "answer_index": 1
+      },
+      {
+        "type": "image",
+        "image_url": "https://picsum.photos/600/300?random=11",
+        "question": "Görseldeki kırmızı ile işaretli alan hangi lobu temsil etmektedir?",
+        "options": ["Frontal Lob", "Parietal Lob", "Temporal Lob", "Oksipital Lob"],
+        "answer_index": 0
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Sinaptik İletim",
+    "description": "Nöronlar arası iletişimin kimyasal dünyası.",
+    "image": "https://picsum.photos/500/300?random=12",
+    "questions": [
+      {
+        "type": "text",
+        "question": "Hangi nörotransmitter 'ödül hormonu' olarak bilinir?",
+        "options": ["Serotonin", "Dopamin", "GABA", "Asetilkolin"],
+        "answer_index": 1
+      }
+    ]
+  }
+]

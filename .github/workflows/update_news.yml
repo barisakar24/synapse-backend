@@ -1,0 +1,41 @@
+name: Update News with GPT-4o
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Her gün sabah 06:00'da çalışır
+  workflow_dispatch: # Elle tetiklemek için
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install -r backend/requirements.txt
+
+      - name: Run News Generator
+        env: 
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }} 
+        run: |
+          cd backend
+          python news_generator.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'Synapse Bot'
+          git config --global user.email 'bot@synapse.com'
+          git add backend/news_data.json
+          git commit -m "GPT-4o ile haberler güncellendi: $(date)" || exit 0
+          git push

@@ -1,0 +1,37 @@
+name: synapse
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Hizalamalar tam bu hizada olmalı (flutter ile aynı hizada)
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.2.1
+  cached_network_image: ^3.4.1
+  youtube_player_flutter: ^9.1.0
+  http: ^1.2.1
+  model_viewer_plus: ^1.7.0  # <-- Bunu ekle
+  shared_preferences: ^2.2.2
+  video_player: ^2.8.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sag.glb
+    - assets/sol.glb
+    - assets/beyin_final_v5.glb
+    - assets/subcortical.glb
+    - assets/quiz_data.json
+    - assets/synapse_bg.mp4
+    - assets/google_logo.png

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="$FLUTTER_BASE_HREF">
+
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
+
+  <!-- iOS meta tags & icons -->
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="synapse">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>synapse</title>
+  <link rel="manifest" href="manifest.json">
+  <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.3.0/model-viewer.min.js"></script>
+
+  <script>
+    // --- GÖRSEL AYARLAR ---
+    const VURGU_RENGI = [1.0, 0.84, 0.0, 1.0]; // Seçim rengi (Altın Sarısı)
+    const GERCEKCI_BEYIN_RENGI = [0.75, 0.50, 0.50, 1.0]; // Normal renk
+    const DOKU_PURUZLULUGU = 0.3;
+
+    // Global Değişkenler
+    let sonSecilenMateryal = null;
+    let baslangicX = 0;
+    let baslangicY = 0;
+
+    // --- RENK VE DOKU UYGULAMA ---
+    function dokuVeRengiUygula(viewer) {
+      if (!viewer || !viewer.model) return;
+      
+      const model = viewer.model;
+      if (model.materials) {
+        model.materials.forEach(mat => {
+           // Varsayılan dokuyu uygula
+           mat.pbrMetallicRoughness.setBaseColorFactor(GERCEKCI_BEYIN_RENGI);
+           mat.pbrMetallicRoughness.setRoughnessFactor(DOKU_PURUZLULUGU);
+           mat.pbrMetallicRoughness.setMetallicFactor(0.0);
+        });
+      }
+    }
+
+    window.addEventListener('load', function() {
+      // Model Viewer Yüklendi mi diye sürekli kontrol et
+      setInterval(function() {
+        var viewer = document.querySelector('model-viewer');
+        // Flutter Shadow DOM içindeyse oraya bak
+        if (!viewer) {
+           var fv = document.querySelector('flutter-view');
+           if (fv && fv.shadowRoot) viewer = fv.shadowRoot.querySelector('model-viewer');
+        }
+
+        if (viewer && !viewer.classList.contains('js-hazir')) {
+          viewer.classList.add('js-hazir');
+
+          viewer.addEventListener('load', () => {
+             sonSecilenMateryal = null;
+             dokuVeRengiUygula(viewer);
+          });
+          
+          if (viewer.loaded) dokuVeRengiUygula(viewer);
+
+          // Tıklama ile sürüklemeyi ayırt etmek için
+          viewer.addEventListener('pointerdown', function(e) {
+            baslangicX = e.clientX;
+            baslangicY = e.clientY;
+          });
+
+          viewer.addEventListener('click', function(event) {
+             let farkX = Math.abs(event.clientX - baslangicX);
+             let farkY = Math.abs(event.clientY - baslangicY);
+             if (farkX > 5 || farkY > 5) return; // Sürükleme yapılmışsa tıklama sayma
+
+             let material = viewer.materialFromPoint(event.clientX, event.clientY);
+
+             // Önceki seçimi temizle
+             if (sonSecilenMateryal) {
+                 sonSecilenMateryal.pbrMetallicRoughness.setBaseColorFactor(GERCEKCI_BEYIN_RENGI);
+                 sonSecilenMateryal.pbrMetallicRoughness.setRoughnessFactor(DOKU_PURUZLULUGU);
+                 sonSecilenMateryal = null;
+             }
+
+             if (material) {
+                 // Yeni seçimi boya
+                 material.pbrMetallicRoughness.setBaseColorFactor(VURGU_RENGI);
+                 material.pbrMetallicRoughness.setRoughnessFactor(0.6);
+                 sonSecilenMateryal = material;
+
+                 // İsmi temizle ve Flutter'a gönder
+                 let hamIsim = material.name || "Bilinmiyor";
+                 let temizIsim = hamIsim.split('.').pop()
+                                  .replace(/_/g, ' ')
+                                  .replace('G ', 'Gyrus ')
+                                  .replace('S ', 'Sulcus ');
+
+                 // Koordinatları ve ismi JSON olarak gönderiyoruz
+                 var veri = JSON.stringify({
+                     "isim": temizIsim,
+                     "x": event.clientX,
+                     "y": event.clientY
+                 });
+                 if (window.tiklamaYakala) window.tiklamaYakala(veri);
+
+             } else {
+                 // Boşluğa tıklandı
+                 if (window.tiklamaYakala) window.tiklamaYakala(""); 
+             }
+          });
+        }
+      }, 500); // Yarım saniyede bir kontrol et
+    });
+  </script>
+</head>
+<body>
+  <script src="flutter_bootstrap.js" async></script>
+</body>
+</html>
