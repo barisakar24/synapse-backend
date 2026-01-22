@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-01-22T15:39:43.185455",
+    "last_updated": "2026-01-22T18:47:22.162888",
     "daily_news": {
-        "title": "Yann LeCun'un Yeni Girişimi: Büyük Dil Modellerine Karşı Bir Bahis",
-        "original_title": "The Download: Yann LeCun’s new venture, and lithium’s on the rise",
-        "content": "Bugünün The Download bülteninde, teknoloji dünyasında olup bitenlere dair günlük bir doz sunuluyor. Turing Ödülü sahibi ve üst düzey bir yapay zeka araştırmacısı olan Yann LeCun, uzun zamandır karşıt bir figür olarak biliniyor. LeCun'un yeni girişimi, büyük dil modellerine karşı bir bahis olarak öne çıkıyor. LeCun, bu alanda geleneksel yaklaşımların ötesine geçerek daha farklı bir yol izlemeyi hedefliyor. Yapay zeka ve teknoloji dünyasındaki bu gelişmeler, özellikle dil modelleri ve yapay zeka uygulamaları konusundaki tartışmaları yeniden alevlendirecek gibi görünüyor.\n\nKaynak: MIT Technology Review.",
+        "title": "ChatGPT Sağlık: Dr. Google'ın Yerini Alabilir mi?",
+        "original_title": "“Dr. Google” had its issues. Can ChatGPT Health do better?",
+        "content": "Son yirmi yıldır, yeni tıbbi semptomlar yaşamaya başlayan herkes için ilk adım açıktı: İnternette araştırmak. Bu uygulama o kadar yaygındı ki, alaycı bir lakap bile kazandı: 'Dr. Google'. Ancak zaman değişiyor ve birçok kişi artık tıbbi bilgi aramak için büyük dil modellerini (LLM) kullanıyor. OpenAI'ye göre, 230 milyon insan sorularını bu yeni teknolojilere yöneltiyor. \"Dr. Google\" olarak bilinen bu eski alışkanlık, çevrimiçi arama motorları aracılığıyla semptomların ve potansiyel sağlık durumlarının araştırılmasını kapsıyordu. Ancak bu yöntem, genellikle kişileri yanlış yönlendirebilir veya gereksiz yere endişelendirebilirdi. \n\nBüyük dil modelleri (LLM), sağlık alanında bilgi arayışında olan kullanıcılara daha doğru ve kişiselleştirilmiş yanıtlar sunma potansiyeline sahip. Örneğin, ChatGPT gibi modeller, kullanıcıların tıbbi semptomlarını daha iyi anlamalarına yardımcı olabilir ve onları uygun kaynaklara yönlendirebilir. Ancak bu sistemlerin de kendi sınırlamaları ve sorunları var. Özellikle, sağlıkla ilgili yanlış bilgi yayma riski, bu tür bir teknoloji kullanıldığında önemle ele alınması gereken bir konu.\n\nMIT Technology Review'da yer alan bir habere göre, bu yeni teknolojilerin kullanımı, tıbbi bilgiye erişimi daha erişilebilir hale getirse de, kullanıcıların bu bilgileri dikkatli ve eleştirel bir şekilde değerlendirmeleri gerekiyor. Ayrıca, bu tür sistemlerin bir sağlık profesyonelinin yerini alamayacağı ve yalnızca bir rehber olarak kullanılmaları gerektiği vurgulanıyor.\n\nSonuç olarak, büyük dil modelleri sağlık alanında bilgi arayışında devrim yaratabilir, ancak bu teknolojilerin sorumlu bir şekilde kullanılması ve yanlış bilgiyle mücadele edilmesi hayati önem taşıyor. Sağlık profesyonelleri ve teknoloji geliştiricileri arasında daha fazla işbirliği, bu tür sistemlerin daha güvenli ve etkili bir şekilde kullanılmasına yardımcı olabilir. \n\nKaynak: MIT Technology Review. (tarih). “Dr. Google” had its issues. Can ChatGPT Health do better? Erişim adresi: https://www.technologyreview.com/",
         "category": "Yapay Zeka",
         "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/01/22/1131680/the-download-yann-lecun-lithium-rise/",
-        "date": "2026-01-22T15:39:42.967124",
-        "timestamp": 1769096382.967137
+        "link": "https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/",
+        "date": "2026-01-22T18:47:12.953651",
+        "timestamp": 1769107632.953658
     },
     "news_list": [
+        {
+            "title": "Süper Yaşlıların Genetik Sırrı: Zihinsel Keskinliği Korumanın Anahtarı",
+            "original_title": "The genetic advantage that helps some people stay sharp for life",
+            "content": "Yeni bir araştırma, 80 yaş ve üzerindeki süper yaşlıların belirgin bir genetik avantaja sahip olduğunu ortaya koyuyor. Bu kişiler, Alzheimer riskiyle en çok ilişkilendirilen geni taşıma olasılığı bakımından, diğer sağlıklı yaşlılarla karşılaştırıldığında çok daha düşük bir orana sahipler. Araştırmacılar ayrıca, bu grupta koruyucu bir gen varyantının daha yüksek seviyelerde olduğunu keşfettiler. Bu bulgular bir araya geldiğinde, bazı insanların neden şaşırtıcı derecede genç zihinlerle yaşlandığını açıklamaya yardımcı oluyor.\n\nYıllar geçtikçe, yaşlanmayla birlikte bilişsel gerileme birçok insan için kaçınılmaz hale gelir. Ancak, bazı yaşlılar bu trendin dışına çıkarak, bilişsel yeteneklerini yaşlarına rağmen korumaya devam ederler. Süper yaşlılar olarak adlandırılan bu grup, yaşlanmanın etkilerine karşı dirençli görünmektedir.\n\nYeni bulgular, yaşlanmanın genetik yönünü anlamamıza yardımcı olabilir ve Alzheimer gibi nörodejeneratif hastalıkların önlenmesine yönelik yeni yollar açabilir. Bilim insanları, süper yaşlıların genetik haritalarını inceleyerek, onları diğerlerinden ayıran genetik faktörleri belirlemeye çalışıyorlar.\n\nBu araştırmanın sonuçları, yaşlılıkta zihinsel keskinliği korumanın sadece yaşam tarzı faktörlerine bağlı olmadığını, aynı zamanda genetik bir temele de sahip olabileceğini gösteriyor. Bu alandaki çalışmalar, yaşlanma sürecini daha iyi anlamamızı ve yaşa bağlı hastalıklara karşı daha etkili stratejiler geliştirmemizi sağlayabilir.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/01/260122093435.htm",
+            "date": "2026-01-22T18:46:56.522124",
+            "timestamp": 1769107616.522132
+        },
+        {
+            "title": "ChatGPT Sağlık: Dr. Google'ın Yerini Alabilir mi?",
+            "original_title": "“Dr. Google” had its issues. Can ChatGPT Health do better?",
+            "content": "Son yirmi yıldır, yeni tıbbi semptomlar yaşamaya başlayan herkes için ilk adım açıktı: İnternette araştırmak. Bu uygulama o kadar yaygındı ki, alaycı bir lakap bile kazandı: 'Dr. Google'. Ancak zaman değişiyor ve birçok kişi artık tıbbi bilgi aramak için büyük dil modellerini (LLM) kullanıyor. OpenAI'ye göre, 230 milyon insan sorularını bu yeni teknolojilere yöneltiyor. \"Dr. Google\" olarak bilinen bu eski alışkanlık, çevrimiçi arama motorları aracılığıyla semptomların ve potansiyel sağlık durumlarının araştırılmasını kapsıyordu. Ancak bu yöntem, genellikle kişileri yanlış yönlendirebilir veya gereksiz yere endişelendirebilirdi. \n\nBüyük dil modelleri (LLM), sağlık alanında bilgi arayışında olan kullanıcılara daha doğru ve kişiselleştirilmiş yanıtlar sunma potansiyeline sahip. Örneğin, ChatGPT gibi modeller, kullanıcıların tıbbi semptomlarını daha iyi anlamalarına yardımcı olabilir ve onları uygun kaynaklara yönlendirebilir. Ancak bu sistemlerin de kendi sınırlamaları ve sorunları var. Özellikle, sağlıkla ilgili yanlış bilgi yayma riski, bu tür bir teknoloji kullanıldığında önemle ele alınması gereken bir konu.\n\nMIT Technology Review'da yer alan bir habere göre, bu yeni teknolojilerin kullanımı, tıbbi bilgiye erişimi daha erişilebilir hale getirse de, kullanıcıların bu bilgileri dikkatli ve eleştirel bir şekilde değerlendirmeleri gerekiyor. Ayrıca, bu tür sistemlerin bir sağlık profesyonelinin yerini alamayacağı ve yalnızca bir rehber olarak kullanılmaları gerektiği vurgulanıyor.\n\nSonuç olarak, büyük dil modelleri sağlık alanında bilgi arayışında devrim yaratabilir, ancak bu teknolojilerin sorumlu bir şekilde kullanılması ve yanlış bilgiyle mücadele edilmesi hayati önem taşıyor. Sağlık profesyonelleri ve teknoloji geliştiricileri arasında daha fazla işbirliği, bu tür sistemlerin daha güvenli ve etkili bir şekilde kullanılmasına yardımcı olabilir. \n\nKaynak: MIT Technology Review. (tarih). “Dr. Google” had its issues. Can ChatGPT Health do better? Erişim adresi: https://www.technologyreview.com/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/",
+            "date": "2026-01-22T18:47:12.953651",
+            "timestamp": 1769107632.953658
+        },
+        {
+            "title": "Davos'ta Sıcak Hava, Büyük Egolar ve Soğuk Güç Gösterileri",
+            "original_title": "Dispatch from Davos: hot air, big egos and cold flexes",
+            "content": "Bu hikaye ilk olarak, Editör Mat Honan tarafından hazırlanan ve teknoloji dünyasındaki en büyük haberleri içeren sadece abonelere özel bültenimiz The Debrief'te yer aldı. Bir sonraki sayının yayınlandığında hemen okumak için abone olun. Yılın bu zamanında Davos'ta havanın soğuk olması beklenir. Dünyanın elitlerinin karlar içinde yürümesi bu etkinliğin cazibesinin bir parçasıdır. Bu yılki Davos toplantısı, her zamanki gibi, büyük egoların sergilendiği ve güçlü kişiliklerin öne çıktığı bir sahne oldu. Soğuk hava koşulları, katılımcıların sıcak hava ve abartılı söylemleri ile tezat oluşturdu. Dünyanın dört bir yanından liderler, iş insanları ve düşünce önderleri, günümüzün en acil meselelerini konuşmak için bir araya geldi, ancak bu buluşmalar çoğu zaman somut çözümler yerine gösterişli söylemlerle sınırlı kaldı.\n\nKaynak: MIT Technology Review, Mat Honan. (Yayın Tarihi). Dispatch from Davos: hot air, big egos and cold flexes. Erişim Tarihi: (Erişim Tarihi).",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/01/22/1131687/hot-air-cold-flexes-at-davos/",
+            "date": "2026-01-22T18:47:21.932626",
+            "timestamp": 1769107641.932634
+        },
         {
             "title": "Yann LeCun'un Yeni Girişimi: Büyük Dil Modellerine Karşı Bir Bahis",
             "original_title": "The Download: Yann LeCun’s new venture, and lithium’s on the rise",
