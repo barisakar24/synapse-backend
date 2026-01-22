@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-01-22T18:47:22.162888",
+    "last_updated": "2026-01-22T21:31:41.424105",
     "daily_news": {
-        "title": "ChatGPT Sağlık: Dr. Google'ın Yerini Alabilir mi?",
-        "original_title": "“Dr. Google” had its issues. Can ChatGPT Health do better?",
-        "content": "Son yirmi yıldır, yeni tıbbi semptomlar yaşamaya başlayan herkes için ilk adım açıktı: İnternette araştırmak. Bu uygulama o kadar yaygındı ki, alaycı bir lakap bile kazandı: 'Dr. Google'. Ancak zaman değişiyor ve birçok kişi artık tıbbi bilgi aramak için büyük dil modellerini (LLM) kullanıyor. OpenAI'ye göre, 230 milyon insan sorularını bu yeni teknolojilere yöneltiyor. \"Dr. Google\" olarak bilinen bu eski alışkanlık, çevrimiçi arama motorları aracılığıyla semptomların ve potansiyel sağlık durumlarının araştırılmasını kapsıyordu. Ancak bu yöntem, genellikle kişileri yanlış yönlendirebilir veya gereksiz yere endişelendirebilirdi. \n\nBüyük dil modelleri (LLM), sağlık alanında bilgi arayışında olan kullanıcılara daha doğru ve kişiselleştirilmiş yanıtlar sunma potansiyeline sahip. Örneğin, ChatGPT gibi modeller, kullanıcıların tıbbi semptomlarını daha iyi anlamalarına yardımcı olabilir ve onları uygun kaynaklara yönlendirebilir. Ancak bu sistemlerin de kendi sınırlamaları ve sorunları var. Özellikle, sağlıkla ilgili yanlış bilgi yayma riski, bu tür bir teknoloji kullanıldığında önemle ele alınması gereken bir konu.\n\nMIT Technology Review'da yer alan bir habere göre, bu yeni teknolojilerin kullanımı, tıbbi bilgiye erişimi daha erişilebilir hale getirse de, kullanıcıların bu bilgileri dikkatli ve eleştirel bir şekilde değerlendirmeleri gerekiyor. Ayrıca, bu tür sistemlerin bir sağlık profesyonelinin yerini alamayacağı ve yalnızca bir rehber olarak kullanılmaları gerektiği vurgulanıyor.\n\nSonuç olarak, büyük dil modelleri sağlık alanında bilgi arayışında devrim yaratabilir, ancak bu teknolojilerin sorumlu bir şekilde kullanılması ve yanlış bilgiyle mücadele edilmesi hayati önem taşıyor. Sağlık profesyonelleri ve teknoloji geliştiricileri arasında daha fazla işbirliği, bu tür sistemlerin daha güvenli ve etkili bir şekilde kullanılmasına yardımcı olabilir. \n\nKaynak: MIT Technology Review. (tarih). “Dr. Google” had its issues. Can ChatGPT Health do better? Erişim adresi: https://www.technologyreview.com/",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/",
-        "date": "2026-01-22T18:47:12.953651",
-        "timestamp": 1769107632.953658
+        "title": "Oligodendrosit Farklılaşması MS Tedavisi Geliştirmede Umut Vadediyor",
+        "original_title": "Oligodendrocyte Differentiation Holds Promise for MS Treatment Development",
+        "content": "Oligodendrosit öncülerinin (OPC'ler) farklılaşma mekanizmaları tam olarak anlaşılamamıştır. Gen ekspresyonu analizi, lokalizasyon yöntemleri ve zaman atlamalı görüntüleme kullanılarak, OPC farklılaşması izlenmiş ve daha önce bilinmeyen mekanizmalar açıklığa kavuşturulmuştur. Bu bulgular, multipl skleroz (MS) gibi nörolojik rahatsızlıkların tedavi geliştirme süreçlerinde yeni yaklaşımlar sunabilir. Oligodendrositlerin, sinir sisteminde miyelin kılıfı üretmekle görevli hücreler olduğu göz önünde bulundurulduğunda, bu hücrelerin doğru şekilde farklılaşması ve işlev görmesi, sinir iletimini hızlandırarak MS gibi hastalıkların semptomlarını hafifletebilir. Bu araştırma, OPC'lerin nasıl ve ne zaman olgun oligodendrositler haline geldiğini daha iyi anlamamıza yardımcı olabilir. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (tarih). Oligodendrocyte Differentiation Holds Promise for MS Treatment Development. https://www.genengnews.com/topics/translational-medicine/oligodendrocyte-differentiation-holds-promise-for-ms-treatment-development/",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/translational-medicine/oligodendrocyte-differentiation-holds-promise-for-ms-treatment-development/",
+        "date": "2026-01-22T21:31:35.867904",
+        "timestamp": 1769117495.867915
     },
     "news_list": [
+        {
+            "title": "Oligodendrosit Farklılaşması MS Tedavisi Geliştirmede Umut Vadediyor",
+            "original_title": "Oligodendrocyte Differentiation Holds Promise for MS Treatment Development",
+            "content": "Oligodendrosit öncülerinin (OPC'ler) farklılaşma mekanizmaları tam olarak anlaşılamamıştır. Gen ekspresyonu analizi, lokalizasyon yöntemleri ve zaman atlamalı görüntüleme kullanılarak, OPC farklılaşması izlenmiş ve daha önce bilinmeyen mekanizmalar açıklığa kavuşturulmuştur. Bu bulgular, multipl skleroz (MS) gibi nörolojik rahatsızlıkların tedavi geliştirme süreçlerinde yeni yaklaşımlar sunabilir. Oligodendrositlerin, sinir sisteminde miyelin kılıfı üretmekle görevli hücreler olduğu göz önünde bulundurulduğunda, bu hücrelerin doğru şekilde farklılaşması ve işlev görmesi, sinir iletimini hızlandırarak MS gibi hastalıkların semptomlarını hafifletebilir. Bu araştırma, OPC'lerin nasıl ve ne zaman olgun oligodendrositler haline geldiğini daha iyi anlamamıza yardımcı olabilir. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (tarih). Oligodendrocyte Differentiation Holds Promise for MS Treatment Development. https://www.genengnews.com/topics/translational-medicine/oligodendrocyte-differentiation-holds-promise-for-ms-treatment-development/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/oligodendrocyte-differentiation-holds-promise-for-ms-treatment-development/",
+            "date": "2026-01-22T21:31:35.867904",
+            "timestamp": 1769117495.867915
+        },
+        {
+            "title": "İlaç Sektöründe Yapay Zeka Platformlarına Büyük Yatırım",
+            "original_title": "Pharma Bets Big on AI Platforms with Flurry of New Year Deals",
+            "content": "Chai Discovery, Noetik ve Boltz, çok yıllık ilaç ortaklıklarına girerek odaklarını moleküllerden modellere kaydırdı. Bu, tek varlık üzerine yapılan bahislerden uzaklaşılarak geniş keşifler için yapay zeka altyapısına yapılan yatırımlara doğru bir kültürel değişimi işaret ediyor. İlaç sektörü, yapay zekanın sunduğu geniş olanakları keşfetmek ve geliştirmek için büyük bir adım atıyor. Bu yeni anlaşmalar, şirketlerin yapay zeka platformlarına büyük yatırımlar yaparak, yeni nesil ilaç keşif süreçlerini hızlandırmayı hedeflediklerini gösteriyor. Yapay zeka, ilaç geliştirme süreçlerinde daha geniş ve etkili keşifler yapılmasını sağlayarak, endüstride önemli bir rol oynayacak gibi görünüyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/artificial-intelligence/pharma-bets-big-on-ai-platforms-with-flurry-of-new-year-deals/",
+            "date": "2026-01-22T21:31:41.424061",
+            "timestamp": 1769117501.424069
+        },
         {
             "title": "Süper Yaşlıların Genetik Sırrı: Zihinsel Keskinliği Korumanın Anahtarı",
             "original_title": "The genetic advantage that helps some people stay sharp for life",
