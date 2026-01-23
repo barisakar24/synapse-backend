@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-01-23T13:05:40.972476",
+    "last_updated": "2026-01-23T15:35:16.000214",
     "daily_news": {
-        "title": "Nefes Tabanlı Testler: Mikrobiyom Sağlığını İzlemede Yeni Bir Araç",
-        "original_title": "Breath-Based Testing Emerges as Tool for Monitoring Microbiome Health",
-        "content": "Araştırmalar, fareler ve çocuklar üzerinde yapılan çalışmalarla, hastalıkla ilişkili bağırsak bakterilerinin, solunan nefeste bulunan UOB'ler (uçucu organik bileşikler) aracılığıyla tespit edilebileceğini göstermiştir. Bu buluş, hastalıkla bağlantılı bağırsak sağlığı sorunlarını izlemek ve teşhis etmek için hızlı ve invaziv olmayan nefes testlerinin geliştirilmesine kapı aralayabilir.\n\nGenetik mühendisliği ve biyoteknoloji alanında yayın yapan GEN dergisinde yer alan bu araştırma, nefeste bulunan uçucu organik bileşiklerin, bağırsak mikrobiyomunun sağlık durumunu yansıtma potansiyelini vurguluyor. Bu buluş, gelecekte doktorların hastaların bağırsak sağlığı üzerinde hızlı değerlendirmeler yapmalarına olanak sağlayabilir.\n\nAraştırmanın, insan sağlığı üzerinde önemli etkileri olabilecek bu potansiyel tanı aracı üzerinde daha fazla çalışılmasına zemin hazırlaması bekleniyor.\n\nKaynak:\nGEN - Genetic Engineering and Biotechnology News. (t.y.). Breath-Based Testing Emerges as Tool for Monitoring Microbiome Health. https://www.genengnews.com/topics/translational-medicine/breath-based-testing-emerges-as-tool-for-monitoring-microbial-health/",
-        "category": "Genetik",
-        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/translational-medicine/breath-based-testing-emerges-as-tool-for-monitoring-microbial-health/",
-        "date": "2026-01-23T13:05:40.972437",
-        "timestamp": 1769173540.972445
+        "title": "Sağlıkta Yapay Zeka: ChatGPT Sağlık'ın Geleceği ve ABD'nin AI Düzenleme Mücadelesi",
+        "original_title": "The Download: chatbots for health, and US fights over AI regulation",
+        "content": "Son yirmi yıldır, yeni tıbbi semptomlar yaşamaya başlayan herkesin attığı ilk adım belliydi: İnternette arama yapmak. Bu noktada devreye “Dr. Google” giriyordu. Ancak, çevrim içi bilgi kaynaklarının çoğu zaman güvenilmez olması ve yanlış yönlendirme potansiyeli taşıması nedeniyle bu yöntem eleştirilere maruz kaldı. Şimdi ise sağlık alanında yapay zeka destekli bir seçenek olan ChatGPT Health, bu boşluğu doldurmayı vaat ediyor.\n\nChatGPT Health, kullanıcıların semptomlarını anlamalarına ve doğru bilgiye ulaşmalarına yardımcı olmak için tasarlanmış bir yapay zeka uygulaması. Kullanıcılar, bu platform üzerinden semptomlarını girerek daha hızlı ve güvenilir şekilde bilgi almayı umuyor. Ancak bu yeni teknolojinin, tıp profesyonellerinin yerini alıp alamayacağı ve etik sorunlar yaratıp yaratmayacağı tartışmaları da devam ediyor.\n\nDiğer yandan, Amerika Birleşik Devletleri'nde yapay zeka düzenlemesi konusunda hararetli tartışmalar yaşanıyor. Yapay zekanın hızlı gelişimi ve yaygınlaşması, düzenleyicileri bu teknolojiyi kontrol altına almanın yollarını aramaya itiyor. Bu süreçte, kullanıcıların güvenliğini sağlamak ve etik standartları korumak adına hangi adımların atılması gerektiği üzerinde duruluyor.\n\nKaynak: MIT Technology Review",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/",
+        "date": "2026-01-23T15:35:15.739961",
+        "timestamp": 1769182515.739984
     },
     "news_list": [
+        {
+            "title": "Şizofrenide Sesli Halüsinasyonların Beyindeki Bir Yanılsamadan Kaynaklanabileceği Keşfedildi",
+            "original_title": "A brain glitch may explain why some people hear voices",
+            "content": "Yeni araştırmalar, şizofreni hastalarında görülen işitsel halüsinasyonların, içsel düşüncelerin dış sesler olarak algılanmasına yol açan bir beyin yanılsamasından kaynaklanabileceğini öne sürüyor. Normalde, beyin kendi iç konuşmasının sesini tahmin eder ve buna olan tepkisini azaltır. Ancak, sesler duyan kişilerde beyin aktivitesi artar, sanki ses başka birine aitmiş gibi. Bu keşif, bilim insanlarının psikoz için erken uyarı işaretleri geliştirmelerine yardımcı olabilir.\n\nAPA Kaynağı: Mind & Brain News -- ScienceDaily.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/01/260122074033.htm",
+            "date": "2026-01-23T15:35:06.401268",
+            "timestamp": 1769182506.401278
+        },
+        {
+            "title": "Sağlıkta Yapay Zeka: ChatGPT Sağlık'ın Geleceği ve ABD'nin AI Düzenleme Mücadelesi",
+            "original_title": "The Download: chatbots for health, and US fights over AI regulation",
+            "content": "Son yirmi yıldır, yeni tıbbi semptomlar yaşamaya başlayan herkesin attığı ilk adım belliydi: İnternette arama yapmak. Bu noktada devreye “Dr. Google” giriyordu. Ancak, çevrim içi bilgi kaynaklarının çoğu zaman güvenilmez olması ve yanlış yönlendirme potansiyeli taşıması nedeniyle bu yöntem eleştirilere maruz kaldı. Şimdi ise sağlık alanında yapay zeka destekli bir seçenek olan ChatGPT Health, bu boşluğu doldurmayı vaat ediyor.\n\nChatGPT Health, kullanıcıların semptomlarını anlamalarına ve doğru bilgiye ulaşmalarına yardımcı olmak için tasarlanmış bir yapay zeka uygulaması. Kullanıcılar, bu platform üzerinden semptomlarını girerek daha hızlı ve güvenilir şekilde bilgi almayı umuyor. Ancak bu yeni teknolojinin, tıp profesyonellerinin yerini alıp alamayacağı ve etik sorunlar yaratıp yaratmayacağı tartışmaları da devam ediyor.\n\nDiğer yandan, Amerika Birleşik Devletleri'nde yapay zeka düzenlemesi konusunda hararetli tartışmalar yaşanıyor. Yapay zekanın hızlı gelişimi ve yaygınlaşması, düzenleyicileri bu teknolojiyi kontrol altına almanın yollarını aramaya itiyor. Bu süreçte, kullanıcıların güvenliğini sağlamak ve etik standartları korumak adına hangi adımların atılması gerektiği üzerinde duruluyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/",
+            "date": "2026-01-23T15:35:15.739961",
+            "timestamp": 1769182515.739984
+        },
         {
             "title": "Amerika'da Yapay Zeka Düzenlemesi Üzerine Yaklaşan Savaş",
             "original_title": "America’s coming war over AI regulation",
