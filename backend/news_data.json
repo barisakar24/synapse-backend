@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-01-23T15:35:16.000214",
+    "last_updated": "2026-01-23T18:47:21.339848",
     "daily_news": {
-        "title": "Sağlıkta Yapay Zeka: ChatGPT Sağlık'ın Geleceği ve ABD'nin AI Düzenleme Mücadelesi",
-        "original_title": "The Download: chatbots for health, and US fights over AI regulation",
-        "content": "Son yirmi yıldır, yeni tıbbi semptomlar yaşamaya başlayan herkesin attığı ilk adım belliydi: İnternette arama yapmak. Bu noktada devreye “Dr. Google” giriyordu. Ancak, çevrim içi bilgi kaynaklarının çoğu zaman güvenilmez olması ve yanlış yönlendirme potansiyeli taşıması nedeniyle bu yöntem eleştirilere maruz kaldı. Şimdi ise sağlık alanında yapay zeka destekli bir seçenek olan ChatGPT Health, bu boşluğu doldurmayı vaat ediyor.\n\nChatGPT Health, kullanıcıların semptomlarını anlamalarına ve doğru bilgiye ulaşmalarına yardımcı olmak için tasarlanmış bir yapay zeka uygulaması. Kullanıcılar, bu platform üzerinden semptomlarını girerek daha hızlı ve güvenilir şekilde bilgi almayı umuyor. Ancak bu yeni teknolojinin, tıp profesyonellerinin yerini alıp alamayacağı ve etik sorunlar yaratıp yaratmayacağı tartışmaları da devam ediyor.\n\nDiğer yandan, Amerika Birleşik Devletleri'nde yapay zeka düzenlemesi konusunda hararetli tartışmalar yaşanıyor. Yapay zekanın hızlı gelişimi ve yaygınlaşması, düzenleyicileri bu teknolojiyi kontrol altına almanın yollarını aramaya itiyor. Bu süreçte, kullanıcıların güvenliğini sağlamak ve etik standartları korumak adına hangi adımların atılması gerektiği üzerinde duruluyor.\n\nKaynak: MIT Technology Review",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/01/23/1131708/the-download-chatbots-for-health-and-us-fights-over-ai-regulation/",
-        "date": "2026-01-23T15:35:15.739961",
-        "timestamp": 1769182515.739984
+        "title": "Down Sendromlu Fare Modelinde Karaciğer Bozukluğu Diyetle İyileştirilebilir",
+        "original_title": "Diet Addresses Liver Dysfunction in Down Syndrome Mouse Model",
+        "content": "Bireyler Down sendromu ile birlikte karaciğer metabolizmasında önemli değişiklikler yaşarlar. Yeni bir çalışma, bu değişikliklerin diyet yoluyla değiştirilebilir olabileceğini öne sürüyor ve bu da daha iyi sağlık sonuçları için umut veriyor.\n\nÇalışmada, Down sendromu fare modeli kullanılarak, karaciğer fonksiyonlarındaki bozuklukların diyetle nasıl iyileştirilebileceği araştırıldı. Araştırmacılar, bu farelere belirli bir diyet uygulayarak karaciğer metabolizmalarındaki değişiklikleri gözlemlediler. Elde edilen veriler, diyet müdahalesinin karaciğer fonksiyonlarını olumlu yönde etkileyebileceğini gösteriyor.\n\nBu bulgular, Down sendromu olan bireyler için potansiyel bir tedavi yolunu işaret ediyor. Diyet değişiklikleri sayesinde karaciğer sağlığının iyileştirilebileceği ve böylece genel sağlık durumunun da olumlu yönde etkilenebileceği düşünülüyor. Ancak, bu sonuçların insanlara uygulanabilirliği için daha fazla araştırmaya ihtiyaç duyulmaktadır.\n\nKaynak:\nGenetic Engineering and Biotechnology News. (tarih). Diet Addresses Liver Dysfunction in Down Syndrome Mouse Model. https://www.genengnews.com/topics/omics/diet-addresses-liver-dysfunction-in-down-syndrome-mouse-model/",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/omics/diet-addresses-liver-dysfunction-in-down-syndrome-mouse-model/",
+        "date": "2026-01-23T18:47:21.339803",
+        "timestamp": 1769194041.339813
     },
     "news_list": [
+        {
+            "title": "Down Sendromlu Fare Modelinde Karaciğer Bozukluğu Diyetle İyileştirilebilir",
+            "original_title": "Diet Addresses Liver Dysfunction in Down Syndrome Mouse Model",
+            "content": "Bireyler Down sendromu ile birlikte karaciğer metabolizmasında önemli değişiklikler yaşarlar. Yeni bir çalışma, bu değişikliklerin diyet yoluyla değiştirilebilir olabileceğini öne sürüyor ve bu da daha iyi sağlık sonuçları için umut veriyor.\n\nÇalışmada, Down sendromu fare modeli kullanılarak, karaciğer fonksiyonlarındaki bozuklukların diyetle nasıl iyileştirilebileceği araştırıldı. Araştırmacılar, bu farelere belirli bir diyet uygulayarak karaciğer metabolizmalarındaki değişiklikleri gözlemlediler. Elde edilen veriler, diyet müdahalesinin karaciğer fonksiyonlarını olumlu yönde etkileyebileceğini gösteriyor.\n\nBu bulgular, Down sendromu olan bireyler için potansiyel bir tedavi yolunu işaret ediyor. Diyet değişiklikleri sayesinde karaciğer sağlığının iyileştirilebileceği ve böylece genel sağlık durumunun da olumlu yönde etkilenebileceği düşünülüyor. Ancak, bu sonuçların insanlara uygulanabilirliği için daha fazla araştırmaya ihtiyaç duyulmaktadır.\n\nKaynak:\nGenetic Engineering and Biotechnology News. (tarih). Diet Addresses Liver Dysfunction in Down Syndrome Mouse Model. https://www.genengnews.com/topics/omics/diet-addresses-liver-dysfunction-in-down-syndrome-mouse-model/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/omics/diet-addresses-liver-dysfunction-in-down-syndrome-mouse-model/",
+            "date": "2026-01-23T18:47:21.339803",
+            "timestamp": 1769194041.339813
+        },
         {
             "title": "Şizofrenide Sesli Halüsinasyonların Beyindeki Bir Yanılsamadan Kaynaklanabileceği Keşfedildi",
             "original_title": "A brain glitch may explain why some people hear voices",
