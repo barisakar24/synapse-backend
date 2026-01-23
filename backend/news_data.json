@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-01-22T21:31:41.424105",
+    "last_updated": "2026-01-23T02:24:18.102121",
     "daily_news": {
-        "title": "Oligodendrosit Farklılaşması MS Tedavisi Geliştirmede Umut Vadediyor",
-        "original_title": "Oligodendrocyte Differentiation Holds Promise for MS Treatment Development",
-        "content": "Oligodendrosit öncülerinin (OPC'ler) farklılaşma mekanizmaları tam olarak anlaşılamamıştır. Gen ekspresyonu analizi, lokalizasyon yöntemleri ve zaman atlamalı görüntüleme kullanılarak, OPC farklılaşması izlenmiş ve daha önce bilinmeyen mekanizmalar açıklığa kavuşturulmuştur. Bu bulgular, multipl skleroz (MS) gibi nörolojik rahatsızlıkların tedavi geliştirme süreçlerinde yeni yaklaşımlar sunabilir. Oligodendrositlerin, sinir sisteminde miyelin kılıfı üretmekle görevli hücreler olduğu göz önünde bulundurulduğunda, bu hücrelerin doğru şekilde farklılaşması ve işlev görmesi, sinir iletimini hızlandırarak MS gibi hastalıkların semptomlarını hafifletebilir. Bu araştırma, OPC'lerin nasıl ve ne zaman olgun oligodendrositler haline geldiğini daha iyi anlamamıza yardımcı olabilir. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (tarih). Oligodendrocyte Differentiation Holds Promise for MS Treatment Development. https://www.genengnews.com/topics/translational-medicine/oligodendrocyte-differentiation-holds-promise-for-ms-treatment-development/",
-        "category": "Genetik",
-        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/translational-medicine/oligodendrocyte-differentiation-holds-promise-for-ms-treatment-development/",
-        "date": "2026-01-22T21:31:35.867904",
-        "timestamp": 1769117495.867915
+        "title": "Yüksek MYC'li Tümörler Bağışıklık Sisteminden Nasıl Kaçıyor?",
+        "original_title": "High‑MYC Tumors Evade the Immune System by Clearing R‑Loop Alarm Signals",
+        "content": "Yüksek MYC seviyesine sahip tümörler, R-loop kaynaklı alarm sinyallerini ortadan kaldırarak bağışıklık sisteminden kaçmayı başarıyor. MYC tarafından yönlendirilen bu tümörler, RNA-bağlayıcı bir faza geçerek kendilerini bağışıklık saldırılarından korur. Bu durum, MYC yüksek kanserleri tekrar tespit edilebilir hale getirebilecek seçici bir zayıflığı ortaya çıkarıyor. \n\nBu tümörler, R-loop adı verilen ve DNA ile RNA arasında oluşan geçici yapıları kullanarak bağışıklık sisteminin uyarı mekanizmalarını etkisiz hale getirir. MYC'nin bu şekilde işlev görmesi, kanser hücrelerinin bağışıklık sisteminden gizlenerek hayatta kalmasını kolaylaştırır. Bilim insanları, bu mekanizmanın nasıl işlediğini anlayarak kanser tedavilerinde yeni hedefler keşfetmeyi umuyor. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/cancer/high%e2%80%91myc-tumors-evade-the-immune-system-by-clearing-r%e2%80%91loop-alarm-signals/",
+        "date": "2026-01-23T02:24:18.102084",
+        "timestamp": 1769135058.102092
     },
     "news_list": [
+        {
+            "title": "Erken Müdahale, Otizmli Çocukların Konuşma Dili Kazanmasında Etkili",
+            "original_title": "Early Intervention Helps Most Autistic Children Acquire Spoken Language",
+            "content": "Yeni araştırmalar, başlangıçta konuşamayan otizmli çocukların yaklaşık üçte ikisinin, kanıta dayalı erken müdahale sonrasında konuşma dili geliştirdiğini bildirmektedir. Çalışma, başarıyı etkileyen müdahale süresi ve motor taklit becerileri gibi temel faktörleri belirlemektedir. Drexel Üniversitesi'nin A.J. Drexel Otizm Enstitüsü'nden araştırmacılar tarafından yürütülen çalışmaya göre, kanıta dayalı erken müdahaleler aldıktan sonra, konuşamayan otizmli çocukların yaklaşık üçte ikisi tek kelimeler konuşmakta ve yaklaşık yarısı daha karmaşık bir dil geliştirmektedir. Bulgular [&#8230;] APA Formatında Kaynak: Neuroscience News. (2026). Early Intervention Helps Most Autistic Children Acquire Spoken Language. https://neurosciencenews.com/early-intervention-autism-language-30086/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/early-intervention-autism-language-30086/",
+            "date": "2026-01-23T02:24:10.442204",
+            "timestamp": 1769135050.442214
+        },
+        {
+            "title": "Yüksek MYC'li Tümörler Bağışıklık Sisteminden Nasıl Kaçıyor?",
+            "original_title": "High‑MYC Tumors Evade the Immune System by Clearing R‑Loop Alarm Signals",
+            "content": "Yüksek MYC seviyesine sahip tümörler, R-loop kaynaklı alarm sinyallerini ortadan kaldırarak bağışıklık sisteminden kaçmayı başarıyor. MYC tarafından yönlendirilen bu tümörler, RNA-bağlayıcı bir faza geçerek kendilerini bağışıklık saldırılarından korur. Bu durum, MYC yüksek kanserleri tekrar tespit edilebilir hale getirebilecek seçici bir zayıflığı ortaya çıkarıyor. \n\nBu tümörler, R-loop adı verilen ve DNA ile RNA arasında oluşan geçici yapıları kullanarak bağışıklık sisteminin uyarı mekanizmalarını etkisiz hale getirir. MYC'nin bu şekilde işlev görmesi, kanser hücrelerinin bağışıklık sisteminden gizlenerek hayatta kalmasını kolaylaştırır. Bilim insanları, bu mekanizmanın nasıl işlediğini anlayarak kanser tedavilerinde yeni hedefler keşfetmeyi umuyor. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/high%e2%80%91myc-tumors-evade-the-immune-system-by-clearing-r%e2%80%91loop-alarm-signals/",
+            "date": "2026-01-23T02:24:18.102084",
+            "timestamp": 1769135058.102092
+        },
         {
             "title": "Oligodendrosit Farklılaşması MS Tedavisi Geliştirmede Umut Vadediyor",
             "original_title": "Oligodendrocyte Differentiation Holds Promise for MS Treatment Development",
