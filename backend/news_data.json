@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-01-23T21:29:48.684085",
+    "last_updated": "2026-01-24T02:19:26.926904",
     "daily_news": {
-        "title": "İltihaplı Bağırsak Hastalığı ve Kolon Kanseri Arasındaki Bağlantı: TL1A İmmün Yolu",
-        "original_title": "IBD Linked to Colon Cancer Through TL1A-Driven Immune Pathway",
-        "content": "Son yapılan araştırmalar, iltihaplı bağırsak hastalığı (IBD) ile artan kolorektal kanser riski arasında önemli bir bağlantı olduğunu ortaya koyuyor. Bu bağlantı, TL1A adı verilen bir immün sinyal yolunun etkinleşmesi ve tümörleri destekleyen nötrofiller aracılığıyla gerçekleşiyor. Bu bulgu, olası tedavi hedeflerinin belirlenmesine ışık tutabilir.\n\nTL1A, bağışıklık sisteminin düzenlenmesinde rol oynayan bir proteindir ve özellikle iltihaplı bağırsak hastalığı olan bireylerde daha aktif hale gelebilir. Bu artan aktivite, bağışıklık sisteminin dengesini bozarak kolorektal kanser gelişimini teşvik edebilir. Araştırmacılar, TL1A sinyal yolunun nasıl çalıştığını daha iyi anlayarak, bu süreci durdurabilecek veya yavaşlatabilecek yeni tedavi yöntemleri geliştirmeyi hedefliyorlar.\n\nBu çalışma, TL1A'nın, kolorektal kanser riskini artıran iltihaplanma süreçlerini tetikleyen bir faktör olabileceğini öne sürüyor. Araştırmacılar, TL1A'nın rolünü daha iyi anlamanın, iltihaplı bağırsak hastalığı olan bireylerde kanser riskini azaltabilecek yeni stratejiler geliştirmek için önemli olduğunu vurguluyorlar.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/cancer/ibd-linked-to-colon-cancer-through-tl1a-driven-immune-pathway/)",
-        "category": "Genetik",
-        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/cancer/ibd-linked-to-colon-cancer-through-tl1a-driven-immune-pathway/",
-        "date": "2026-01-23T21:29:43.783853",
-        "timestamp": 1769203783.783862
+        "title": "Alzheimer Hastalarında Bilinç Değerlendirmesi İçin Beyin Uyarımı Yöntemi",
+        "original_title": "Brain Stimulation Method Can Evaluate Consciousness in Alzheimer’s Disease",
+        "content": "Araştırmacılar, manyetik uyarım ve EEG'den elde edilen bir beyin karmaşıklığı ölçüsünün, Alzheimer hastalarındaki bilinçli işlem bütünlüğünü etkili bir şekilde değerlendirebileceğini belirledi. Bu bulgular, hastalık ilerlemesini izlemek için yeni bir potansiyel metrik sunmaktadır.\n\nGünümüzde Alzheimer hastalığı, dünya genelinde milyonlarca insanı etkileyen ilerleyici bir nörodejeneratif bozukluk olarak bilinmektedir. Bu hastalığın teşhisi ve ilerlemesini izlemek için yenilikçi yöntemler geliştirmek, bilim insanları için büyük bir öncelik haline gelmiştir.\n\nSon araştırmalar, beynin karmaşıklığını ölçmenin, Alzheimer hastalarının bilinç seviyelerini değerlendirmek için etkili bir yol sunduğunu göstermektedir. Bu değerlendirme, Transkraniyal Manyetik Uyarım (TMS) ve Elektroensefalografi (EEG) teknolojilerinin birleşimi ile gerçekleştirilmiştir. TMS, beyne dışarıdan uygulanan manyetik darbelerle sinir aktivitelerini uyarırken, EEG bu aktivitelerin kaydını tutar. Bu yöntem, beynin karmaşıklık düzeyini ölçerek, hastaların bilinç durumunu değerlendirmeye olanak tanır.\n\nAraştırmanın bulguları, Alzheimer hastalığının ilerleyişinin izlenmesi için yeni ve umut verici bir ölçüt sunarken, aynı zamanda tedavi yaklaşımlarının özelleştirilmesi için de önemli bir adım olarak değerlendirilmektedir.\n\nKaynak: Neuroscience News",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/brain-stimulation-consciousness-alzheimers-disease-30087/",
+        "date": "2026-01-24T02:19:25.850212",
+        "timestamp": 1769221165.850221
     },
     "news_list": [
+        {
+            "title": "Alzheimer Hastalarında Bilinç Değerlendirmesi İçin Beyin Uyarımı Yöntemi",
+            "original_title": "Brain Stimulation Method Can Evaluate Consciousness in Alzheimer’s Disease",
+            "content": "Araştırmacılar, manyetik uyarım ve EEG'den elde edilen bir beyin karmaşıklığı ölçüsünün, Alzheimer hastalarındaki bilinçli işlem bütünlüğünü etkili bir şekilde değerlendirebileceğini belirledi. Bu bulgular, hastalık ilerlemesini izlemek için yeni bir potansiyel metrik sunmaktadır.\n\nGünümüzde Alzheimer hastalığı, dünya genelinde milyonlarca insanı etkileyen ilerleyici bir nörodejeneratif bozukluk olarak bilinmektedir. Bu hastalığın teşhisi ve ilerlemesini izlemek için yenilikçi yöntemler geliştirmek, bilim insanları için büyük bir öncelik haline gelmiştir.\n\nSon araştırmalar, beynin karmaşıklığını ölçmenin, Alzheimer hastalarının bilinç seviyelerini değerlendirmek için etkili bir yol sunduğunu göstermektedir. Bu değerlendirme, Transkraniyal Manyetik Uyarım (TMS) ve Elektroensefalografi (EEG) teknolojilerinin birleşimi ile gerçekleştirilmiştir. TMS, beyne dışarıdan uygulanan manyetik darbelerle sinir aktivitelerini uyarırken, EEG bu aktivitelerin kaydını tutar. Bu yöntem, beynin karmaşıklık düzeyini ölçerek, hastaların bilinç durumunu değerlendirmeye olanak tanır.\n\nAraştırmanın bulguları, Alzheimer hastalığının ilerleyişinin izlenmesi için yeni ve umut verici bir ölçüt sunarken, aynı zamanda tedavi yaklaşımlarının özelleştirilmesi için de önemli bir adım olarak değerlendirilmektedir.\n\nKaynak: Neuroscience News",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/brain-stimulation-consciousness-alzheimers-disease-30087/",
+            "date": "2026-01-24T02:19:25.850212",
+            "timestamp": 1769221165.850221
+        },
         {
             "title": "İltihaplı Bağırsak Hastalığı ve Kolon Kanseri Arasındaki Bağlantı: TL1A İmmün Yolu",
             "original_title": "IBD Linked to Colon Cancer Through TL1A-Driven Immune Pathway",
