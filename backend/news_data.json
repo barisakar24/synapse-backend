@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-01-25T12:59:04.197583",
+    "last_updated": "2026-01-25T15:28:57.035724",
     "daily_news": {
-        "title": "Beyin Dalgaları ile Felçli Hastalara Hareket Umudu",
-        "original_title": "Brain waves could help paralyzed patients move again",
-        "content": "Omurilik yaralanmaları yaşayan kişiler, beyinleri doğru sinyalleri göndermeye devam etmesine rağmen hareket kabiliyetini kaybedebilirler. Araştırmacılar, EEG beyin taramalarının bu sinyalleri yakalayıp omurga uyarıcılarına yönlendirip yönlendiremeyeceğini test etti. Sistem, bir hastanın hareket etmeye çalıştığı anı algılayabiliyor, ancak daha ince kontrol sağlamak hala bir zorluk teşkil ediyor. Bilim insanları, gelecekteki iyileştirmelerin niyeti harekete dönüştürebileceğini umuyorlar.\n\nKaynak: Mind & Brain News -- ScienceDaily (2023)",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/01/260124073926.htm",
-        "date": "2026-01-24T18:40:17.634188",
-        "timestamp": 1769280017.634201
+        "title": "Yapay Zeka İnsanları Yaratıcılık Testinde Geçti mi?",
+        "original_title": "Researchers tested AI against 100,000 humans on creativity",
+        "content": "Yakın zamanda gerçekleştirilen devasa bir çalışma, 100.000'den fazla insanı günümüzün en gelişmiş yapay zeka sistemleriyle karşılaştırarak şaşırtıcı bir sonuca ulaştı: üretici yapay zeka artık belirli yaratıcılık testlerinde ortalama bir insanı geçebiliyor. GPT-4 gibi modeller, özgün düşünce ve fikir üretimini ölçmek için tasarlanmış görevlerde güçlü bir performans sergiledi ve bazen tipik insan yanıtlarını geride bıraktı. Ancak, yapay zekanın ulaşabileceği bir sınır var. En yaratıcı insanlar — özellikle en üst yüzde 10'luk dilim — yapay zekayı özellikle şiir ve hikaye anlatımı gibi daha zengin yaratıcı işlerde geride bırakmaya devam ediyor. Bu çalışma, yapay zekanın yaratıcı düşünce kapasitesini ölçme konusunda önemli bir adım olarak görülüyor ve gelecekte insan-yapay zeka işbirliğinin potansiyelini daha da derinlemesine araştırmak için bir temel oluşturuyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.sciencedaily.com/releases/2026/01/260125083356.htm",
+        "date": "2026-01-25T15:28:55.925873",
+        "timestamp": 1769354935.925883
     },
     "news_list": [
+        {
+            "title": "Yapay Zeka İnsanları Yaratıcılık Testinde Geçti mi?",
+            "original_title": "Researchers tested AI against 100,000 humans on creativity",
+            "content": "Yakın zamanda gerçekleştirilen devasa bir çalışma, 100.000'den fazla insanı günümüzün en gelişmiş yapay zeka sistemleriyle karşılaştırarak şaşırtıcı bir sonuca ulaştı: üretici yapay zeka artık belirli yaratıcılık testlerinde ortalama bir insanı geçebiliyor. GPT-4 gibi modeller, özgün düşünce ve fikir üretimini ölçmek için tasarlanmış görevlerde güçlü bir performans sergiledi ve bazen tipik insan yanıtlarını geride bıraktı. Ancak, yapay zekanın ulaşabileceği bir sınır var. En yaratıcı insanlar — özellikle en üst yüzde 10'luk dilim — yapay zekayı özellikle şiir ve hikaye anlatımı gibi daha zengin yaratıcı işlerde geride bırakmaya devam ediyor. Bu çalışma, yapay zekanın yaratıcı düşünce kapasitesini ölçme konusunda önemli bir adım olarak görülüyor ve gelecekte insan-yapay zeka işbirliğinin potansiyelini daha da derinlemesine araştırmak için bir temel oluşturuyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/01/260125083356.htm",
+            "date": "2026-01-25T15:28:55.925873",
+            "timestamp": 1769354935.925883
+        },
         {
             "title": "Beyin Dalgaları ile Felçli Hastalara Hareket Umudu",
             "original_title": "Brain waves could help paralyzed patients move again",
