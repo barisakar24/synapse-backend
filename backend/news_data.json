@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-01-26T06:51:18.044877",
+    "last_updated": "2026-01-26T09:43:42.692591",
     "daily_news": {
-        "title": "Qiagen Hisseleri, Stratejik Seçenekleri Değerlendirdiği Haberiyle Yükselişte",
-        "original_title": "StockWatch: Qiagen Shares Rebound on Report It Is Assessing Strategic Options",
-        "content": "Son raporlara göre, Qiagen son haftalarda bazı ABD merkezli stratejik alıcılar da dahil olmak üzere birkaç potansiyel alıcıyla görüşmelerde bulundu. Bu görüşmeler, ürün portföyleri açısından Qiagen ile stratejik uyum gösteren şirketlerle yapılmış olabilir. Qiagen, bu rapor hakkında yorum yapmayı reddetti.\n\nBu gelişme, Qiagen hisselerinde bir toparlanma yaratmış durumda. Şirketin, potansiyel bir devralma hedefi olarak değerlendirilmesi, yatırımcılar arasında olumlu bir etki yaratmış gibi görünüyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). StockWatch: Qiagen Shares Rebound on Report It Is Assessing Strategic Options. GEN - Genetic Engineering and Biotechnology News. Retrieved from https://www.genengnews.com/topics/bioprocessing/stockwatch-qiagen-shares-rebound-on-report-it-is-assessing-strategic-options/",
-        "category": "Genetik",
-        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/bioprocessing/stockwatch-qiagen-shares-rebound-on-report-it-is-assessing-strategic-options/",
-        "date": "2026-01-25T18:40:40.461909",
-        "timestamp": 1769366440.461917
+        "title": "Alzheimer, Beynin Kendi Hatıralarını Silmesine Neden Olabilir",
+        "original_title": "Alzheimer’s may trick the brain into erasing its own memories",
+        "content": "Alzheimer hastalığı, hafızayı yok ederek nöronların kendi bağlantılarını budamaları için tek bir moleküler anahtarı çeviriyor olabilir. Araştırmacılar, hem amiloid beta hem de iltihabın aynı reseptörde birleşerek sinaps kaybını tetiklediğini buldular. Şaşırtıcı bir şekilde, nöronlar pasif kurbanlar değiller; bu sinyallere aktif olarak yanıt veriyorlar. Bu reseptörü hedef almak, mevcut amiloid odaklı ilaçların ötesinde hafızayı korumak için yeni bir yol sunabilir. \n\nAPA: Mind & Brain News -- ScienceDaily. (tarih). Alzheimer’s may trick the brain into erasing its own memories. Erişim adresi: [kaynak linki]",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.sciencedaily.com/releases/2026/01/260125083413.htm",
+        "date": "2026-01-26T09:43:41.895333",
+        "timestamp": 1769420621.895343
     },
     "news_list": [
+        {
+            "title": "Alzheimer, Beynin Kendi Hatıralarını Silmesine Neden Olabilir",
+            "original_title": "Alzheimer’s may trick the brain into erasing its own memories",
+            "content": "Alzheimer hastalığı, hafızayı yok ederek nöronların kendi bağlantılarını budamaları için tek bir moleküler anahtarı çeviriyor olabilir. Araştırmacılar, hem amiloid beta hem de iltihabın aynı reseptörde birleşerek sinaps kaybını tetiklediğini buldular. Şaşırtıcı bir şekilde, nöronlar pasif kurbanlar değiller; bu sinyallere aktif olarak yanıt veriyorlar. Bu reseptörü hedef almak, mevcut amiloid odaklı ilaçların ötesinde hafızayı korumak için yeni bir yol sunabilir. \n\nAPA: Mind & Brain News -- ScienceDaily. (tarih). Alzheimer’s may trick the brain into erasing its own memories. Erişim adresi: [kaynak linki]",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/01/260125083413.htm",
+            "date": "2026-01-26T09:43:41.895333",
+            "timestamp": 1769420621.895343
+        },
         {
             "title": "Qiagen Hisseleri, Stratejik Seçenekleri Değerlendirdiği Haberiyle Yükselişte",
             "original_title": "StockWatch: Qiagen Shares Rebound on Report It Is Assessing Strategic Options",
