@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-01-26T13:06:15.038715",
+    "last_updated": "2026-01-26T15:38:18.131308",
     "daily_news": {
-        "title": "Alzheimer, Beynin Kendi Hatıralarını Silmesine Neden Olabilir",
-        "original_title": "Alzheimer’s may trick the brain into erasing its own memories",
-        "content": "Alzheimer hastalığı, hafızayı yok ederek nöronların kendi bağlantılarını budamaları için tek bir moleküler anahtarı çeviriyor olabilir. Araştırmacılar, hem amiloid beta hem de iltihabın aynı reseptörde birleşerek sinaps kaybını tetiklediğini buldular. Şaşırtıcı bir şekilde, nöronlar pasif kurbanlar değiller; bu sinyallere aktif olarak yanıt veriyorlar. Bu reseptörü hedef almak, mevcut amiloid odaklı ilaçların ötesinde hafızayı korumak için yeni bir yol sunabilir. \n\nAPA: Mind & Brain News -- ScienceDaily. (tarih). Alzheimer’s may trick the brain into erasing its own memories. Erişim adresi: [kaynak linki]",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/01/260125083413.htm",
-        "date": "2026-01-26T09:43:41.895333",
-        "timestamp": 1769420621.895343
+        "title": "Antibiyotik Direncine Karşı Sentetik Bakteriyofaj Üretimi",
+        "original_title": "Antibiotic Resistance Combatted by Fully Synthetic Bacteriophage Assembly",
+        "content": "Antibiyotik direncine karşı mücadelede yeni bir yöntem olarak sentetik bakteriyofajların geliştirilmesi büyük bir adım olarak değerlendiriliyor. Golden Gate platformu, bakteriyofajları direkt olarak bakteriyofaj izolatları yerine, dizilim verilerini kullanarak sentetik olarak mühendislik süreçlerinden geçiriyor. Bu çalışma, <i>Pseudomonas aeruginosa</i> adlı bakteriye karşı etkili olan bir fajın sentetik olarak oluşturulmasına odaklanıyor. Bu sentetik bakteriyofaj, bakteriyel konak aralığını değiştirirken, enfeksiyon sürecini gerçek zamanlı olarak görselleştirmek için floresan raporlayıcılar içeriyor.\n\nBu yenilikçi yaklaşım, bakteriyofajların belirli bakterilere karşı etkisini artırmak ve enfeksiyon süreçlerini daha iyi anlamak için önemli bir araç olarak öne çıkıyor. Antibiyotik direnciyle mücadelede sentetik biyoloji tekniklerinin kullanılması, gelecekte antibiyotiklerin yerini alabilecek veya onlarla birlikte kullanılabilecek alternatif tedavi yöntemlerinin geliştirilmesine olanak tanıyor. Bu tür teknolojiler, özellikle antibiyotiklerin etkisiz kaldığı durumlarda hastaların tedavisi için umut vaat ediyor.\n\nÇalışmanın ortaya koyduğu sonuçlar, sadece bakteriyel enfeksiyonlarla mücadeleye yeni bir soluk getirmekle kalmıyor, aynı zamanda enfeksiyon süreçlerinin daha iyi anlaşılmasına da katkı sağlıyor. Sentetik bakteriyofajların mühendislik süreçleriyle elde edilmesi, gelecekte özelleştirilmiş tedavi yöntemlerinin geliştirilmesinde önemli rol oynayabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News, (tarih). Antibiotic Resistance Combatted by Fully Synthetic Bacteriophage Assembly. Erişim adresi: https://www.genengnews.com/topics/infectious-diseases/antibiotic-resistance-combatted-by-fully-synthetic-bacteriophage-assembly/",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/infectious-diseases/antibiotic-resistance-combatted-by-fully-synthetic-bacteriophage-assembly/",
+        "date": "2026-01-26T15:38:18.131265",
+        "timestamp": 1769441898.131274
     },
     "news_list": [
+        {
+            "title": "Sanal Dünyada Sesin Gücü: Güven ve Bağlantının Anahtarı",
+            "original_title": "The power of sound in a virtual world",
+            "content": "Günümüz dünyasında işletmeler, eğitim ve hatta gündelik sohbetler ekranlar aracılığıyla gerçekleşiyor. Bu bağlamda ses, farklılaşan bir faktör haline gelmiştir. Aydınlatma, kamera açıları ve sanal arka planlar konusunda takıntılıyız, ancak nasıl ses çıkardığımız da aynı derecede güvenilirlik, güven ve bağlantı kurmada kritik olabilir. Bu içgörü, ürün yönetimi başkan yardımcısı ve başkan olan Erik Vaveris'i yönlendiren unsur olmuştur.\n\nGeleneksel yüz yüze iletişimde ses tonu, vurgular ve sesin genel kalitesi, mesajın nasıl alındığı üzerinde önemli bir etkiye sahiptir. Sanal dünyada da benzer şekilde, ses kalitesi ve sesin duygusal tonu, iletişimin etkinliğinde belirleyici rol oynar. Çevrimiçi toplantılar ve eğitimler için sesin net ve pürüzsüz olması, katılımcıların dikkatini çekmek ve sürdürmek adına önem taşır.\n\nErik Vaveris, sesin sanal dünyadaki önemini vurgularken, bunun sadece teknik bir gereklilik değil, aynı zamanda duygusal bir bağ kurma aracı olduğunu belirtmektedir. İyi bir ses kalitesi, dinleyiciyle daha derin bir bağlantı kurulmasına yardımcı olabilir ve böylece daha etkili iletişim sağlanabilir.\n\nSonuç olarak, sanal dünyada iletişim kurarken sesin gücünü göz ardı etmemek gerekiyor. Sesin doğru kullanımı, sanal ortamda güvenilirlik ve samimiyet oluşturmanın anahtarı olabilir.\n\nKaynak: MIT Technology Review",
+            "category": "Bilim & Teknoloji",
+            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/01/26/1124655/the-power-of-sound-in-a-virtual-world/",
+            "date": "2026-01-26T15:37:55.268404",
+            "timestamp": 1769441875.268413
+        },
+        {
+            "title": "LLM'ler: Uzaylı Gibi Algılanan Yeni Biyologların Alanı",
+            "original_title": "The Download: why LLMs are like aliens, and the future of head transplants",
+            "content": "Bu, teknoloji dünyasında neler olup bittiğini günlük olarak sunan hafta içi haber bültenimiz The Download'un bugünkü sayısıdır. \n\nYeni biyologlarla tanışın: LLM'leri uzaylılar gibi inceleyenler \n\nBüyük dil modelleri ne kadar büyük? Artık, kimsenin tam olarak ne olduklarını, nasıl çalıştıklarını veya potansiyel etkilerini anlamadığı, son derece büyük ve karmaşık makinelerle bir arada yaşıyoruz. Bu makineler, istatistiksel öğrenme algoritmalarını kullanarak dil işleme görevlerini yerine getiren yapay zeka sistemleridir. Ancak bu sistemlerin karar alma süreçleri ve iç işleyişleri genellikle bir 'kara kutu' gibi kalmakta, yani kullanıcıları ve hatta yaratıcıları tarafından tam olarak anlaşılamamaktadır.\n\nBu belirsizlik, bazı bilim insanlarını ve araştırmacıları, bu modelleri uzaylı bir yaşam formu gibi ele alarak incelemeye yönlendirmektedir. Bu yaklaşımla, modellerin iç yapısını ve davranışlarını daha iyi anlama çabası güdülmektedir. Bu araştırmacılar, LLM'lerin nasıl öğrendiğini, nasıl genelleme yaptığını ve nasıl hata yaptığını çözmeye çalışarak, onların insan benzeri düşünceyi nasıl simüle ettiğini anlamaya çalışmaktadır.\n\nBu arada, tıp alanında da çığır açan gelişmeler yaşanmakta. Yakın zamanda yapılan çalışmalar, insan başı nakillerinin gelecekte mümkün olabileceğine işaret ediyor. Bu konudaki araştırmalar, hem etik hem de teknik açıdan büyük tartışmalara yol açmakta. Başarıyla gerçekleştirilmesi durumunda, bu tür nakiller, nörolojik ve fiziksel rahatsızlıkları olan insanlar için yeni umutlar doğurabilir.\n\nBu gelişmeler, teknolojinin ve biyolojinin sınırlarını zorlayarak, gelecekteki yaşam biçimlerimizin nasıl şekilleneceğine dair yeni perspektifler sunmaktadır. \n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/01/26/1131717/the-download-why-llms-are-like-aliens-and-the-future-of-head-transplants/",
+            "date": "2026-01-26T15:38:07.425689",
+            "timestamp": 1769441887.425698
+        },
+        {
+            "title": "Antibiyotik Direncine Karşı Sentetik Bakteriyofaj Üretimi",
+            "original_title": "Antibiotic Resistance Combatted by Fully Synthetic Bacteriophage Assembly",
+            "content": "Antibiyotik direncine karşı mücadelede yeni bir yöntem olarak sentetik bakteriyofajların geliştirilmesi büyük bir adım olarak değerlendiriliyor. Golden Gate platformu, bakteriyofajları direkt olarak bakteriyofaj izolatları yerine, dizilim verilerini kullanarak sentetik olarak mühendislik süreçlerinden geçiriyor. Bu çalışma, <i>Pseudomonas aeruginosa</i> adlı bakteriye karşı etkili olan bir fajın sentetik olarak oluşturulmasına odaklanıyor. Bu sentetik bakteriyofaj, bakteriyel konak aralığını değiştirirken, enfeksiyon sürecini gerçek zamanlı olarak görselleştirmek için floresan raporlayıcılar içeriyor.\n\nBu yenilikçi yaklaşım, bakteriyofajların belirli bakterilere karşı etkisini artırmak ve enfeksiyon süreçlerini daha iyi anlamak için önemli bir araç olarak öne çıkıyor. Antibiyotik direnciyle mücadelede sentetik biyoloji tekniklerinin kullanılması, gelecekte antibiyotiklerin yerini alabilecek veya onlarla birlikte kullanılabilecek alternatif tedavi yöntemlerinin geliştirilmesine olanak tanıyor. Bu tür teknolojiler, özellikle antibiyotiklerin etkisiz kaldığı durumlarda hastaların tedavisi için umut vaat ediyor.\n\nÇalışmanın ortaya koyduğu sonuçlar, sadece bakteriyel enfeksiyonlarla mücadeleye yeni bir soluk getirmekle kalmıyor, aynı zamanda enfeksiyon süreçlerinin daha iyi anlaşılmasına da katkı sağlıyor. Sentetik bakteriyofajların mühendislik süreçleriyle elde edilmesi, gelecekte özelleştirilmiş tedavi yöntemlerinin geliştirilmesinde önemli rol oynayabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News, (tarih). Antibiotic Resistance Combatted by Fully Synthetic Bacteriophage Assembly. Erişim adresi: https://www.genengnews.com/topics/infectious-diseases/antibiotic-resistance-combatted-by-fully-synthetic-bacteriophage-assembly/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/infectious-diseases/antibiotic-resistance-combatted-by-fully-synthetic-bacteriophage-assembly/",
+            "date": "2026-01-26T15:38:18.131265",
+            "timestamp": 1769441898.131274
+        },
         {
             "title": "Alzheimer, Beynin Kendi Hatıralarını Silmesine Neden Olabilir",
             "original_title": "Alzheimer’s may trick the brain into erasing its own memories",
