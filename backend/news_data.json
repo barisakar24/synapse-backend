@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-01-26T18:50:01.638543",
+    "last_updated": "2026-01-26T21:32:39.018528",
     "daily_news": {
-        "title": "HanchorBio ve WuXi Biologics Arasında Füzyon Protein İşbirliği",
-        "original_title": "HanchorBio and WuXi Biologics Form Fusion Protein Pipeline Partnership",
-        "content": "HanchorBio ve WuXi Biologics, klinik tercümeyi hızlandırmak ve HanchorBio'nun Fc Tabanlı Tasarım Biyolojikleri (FBDB) platformundan türetilen füzyon protein portföyünün ölçeklenebilir küresel geliştirme ve üretimini desteklemek amacıyla bir işbirliğine imza attılar. Bu ortaklık sayesinde, HanchorBio'nun yenilikçi protein terapileri, daha geniş bir hasta kitlesine daha hızlı bir şekilde ulaştırılabilecek. WuXi Biologics'in ileri teknoloji üretim imkanları ve küresel ağları, bu süreçte önemli bir rol oynayacak. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). HanchorBio and WuXi Biologics Form Fusion Protein Pipeline Partnership. Retrieved from https://www.genengnews.com/topics/bioprocessing/hanchorbio-and-wuxi-biologics-form-fusion-protein-pipeline-partnership/",
-        "category": "Genetik",
-        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/bioprocessing/hanchorbio-and-wuxi-biologics-form-fusion-protein-pipeline-partnership/",
-        "date": "2026-01-26T18:50:01.638514",
-        "timestamp": 1769453401.638519
+        "title": "Beyin Deneyimleri Hatıralara Dönüştürmek İçin Bilinçli Olarak Amiloid Oluşturabilir",
+        "original_title": "How Brain May Deliberately Form Amyloids to Turn Experiences Into Memories",
+        "content": "Meyve sineklerinde şaperon proteinlerini inceleyen araştırmacılar, sinir sisteminin duyusal deneyimleri kalıcı hatıralara dönüştürmek için bilinçli olarak amiloid oluşturabileceğine dair ilk doğrudan kanıtı sunduklarını bildirdiler.\n\nAraştırmanın bulguları, sinir sisteminin amiloidleri yalnızca nörodejeneratif hastalıklarla ilişkilendirilmek yerine, öğrenme ve hafıza süreçlerinde de rol oynayabileceğini öne sürüyor. Bu çalışma, amiloid oluşumunun biyolojik bir işlevi olabileceğine dair yeni bir bakış açısı sunuyor.\n\nAraştırmacılar, meyve sineği modelinde, belirli şaperon proteinlerinin amiloid yapılarının oluşumunu desteklediğini ve bu yapıların uzun süreli belleğin oluşumuna katkıda bulunduğunu gözlemlediler. Bu bulgu, amiloidlerin sadece patolojik bir yapı değil, aynı zamanda normal beyin fonksiyonunun bir parçası olabileceğini düşündürüyor.\n\nBu araştırmanın sonuçları, hafıza ve öğrenme süreçlerinin daha iyi anlaşılmasına yardımcı olabilir ve nörodejeneratif hastalıkların tedavisi için yeni stratejilerin geliştirilmesine ışık tutabilir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). How Brain May Deliberately Form Amyloids to Turn Experiences Into Memories. Retrieved from https://www.genengnews.com/topics/translational-medicine/how-brain-may-deliberately-form-amyloids-to-turn-experiences-into-memories/",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/translational-medicine/how-brain-may-deliberately-form-amyloids-to-turn-experiences-into-memories/",
+        "date": "2026-01-26T21:32:39.018497",
+        "timestamp": 1769463159.018506
     },
     "news_list": [
+        {
+            "title": "OpenAI'nin Bilim Dünyasına Büyük Hamlesi",
+            "original_title": "Inside OpenAI’s big play for science",
+            "content": "ChatGPT'nin üç yıl önceki çarpıcı çıkışından bu yana, OpenAI'nin teknolojisi evde, işte, okullarda ve insanların tarayıcı ya da telefon ekranlarının açık olduğu her yerde dikkate değer bir dizi günlük faaliyeti alt üst etti. Şimdi ise OpenAI, bilim insanlarına yönelik açık bir hamle yapıyor. Ekim ayında, firma yeni bir girişim başlattığını duyurdu...\n\nOpenAI'nin bu yeni hamlesi, bilim dünyasına yönelik daha derin bir etki yaratmayı amaçlıyor. Teknolojinin evrim geçirdiği bu süreçte, bilim insanlarına sunduğu potansiyel faydalar üzerinde duruluyor. Firmanın yeni girişimi, bilimsel araştırmaların hızlanmasına ve daha erişilebilir hale gelmesine katkıda bulunabilir. Özellikle veri analizi, modelleme ve simülasyon gibi süreçlerde OpenAI'nin araçları, araştırmacıların işini kolaylaştırabilir.\n\nBu gelişme, bilim insanlarının yapay zeka teknolojilerini daha verimli bir şekilde kullanabilmesi için çeşitli eğitim ve kaynakların sağlanmasını da içerebilir. OpenAI, bilimsel toplulukla daha yakın bir işbirliği kurarak, yenilikçi çözümler sunmayı hedefliyor. Bu adım, OpenAI'nin teknolojisini daha geniş kitlelere ulaştırma stratejisinin bir parçası olarak değerlendirilebilir.\n\nKaynakça:\nMIT Technology Review. (2023). Inside OpenAI’s big play for science.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/01/26/1131728/inside-openais-big-play-for-science/",
+            "date": "2026-01-26T21:32:19.119482",
+            "timestamp": 1769463139.119509
+        },
+        {
+            "title": "Bakteriyel Biyofilmler Böbrek Taşlarının İçerisinde Keşfedildi",
+            "original_title": "Bacterial Biofilms Unexpectedly Found Inside Most Common Kidney Stones",
+            "content": "Bakteriyel biyofilmler, en yaygın böbrek taşlarının içerisinde keşfedilerek, geleneksel oluşum teorilerini sorgulatan ve bu yaygın durumun önlenmesi ve tedavisi için potansiyel yeni hedefler ortaya çıkaran bir buluşa imza attı. Geleneksel olarak, böbrek taşlarının mineral birikimi sonucu oluştuğu düşünülüyordu. Ancak, bu yeni bulgular, bu taşların içinde bakteriyel biyofilmlerin varlığını ortaya koyarak, taş oluşum sürecinin biyolojik bir bileşeni olabileceğini gösteriyor. Bu keşif, böbrek taşı hastalarının tedavisinde daha etkili yöntemlerin geliştirilmesine kapı aralayabilir. Özellikle, taş oluşumunu önlemek veya oluşan taşları daha etkili bir şekilde tedavi etmek için antibiyotikler veya diğer biyofilm hedefli tedaviler kullanılabilir. Uzmanlar, bu tür biyofilmlerin böbrek taşı oluşumundaki rolünü ve bu keşfin klinik uygulamalara nasıl dönüştürülebileceğini anlamak için daha fazla araştırma yapılması gerektiğini belirtiyorlar. Bu gelişme, böbrek taşı hastalığına bakış açısını değiştirebilir ve tedavi yaklaşımlarını kökten etkileyebilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Bacterial biofilms unexpectedly found inside most common kidney stones. Erişim adresi: https://www.genengnews.com/topics/infectious-diseases/bacterial-biofilms-unexpectedly-found-inside-most-common-kidney-stones/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/infectious-diseases/bacterial-biofilms-unexpectedly-found-inside-most-common-kidney-stones/",
+            "date": "2026-01-26T21:32:29.656791",
+            "timestamp": 1769463149.656798
+        },
+        {
+            "title": "Beyin Deneyimleri Hatıralara Dönüştürmek İçin Bilinçli Olarak Amiloid Oluşturabilir",
+            "original_title": "How Brain May Deliberately Form Amyloids to Turn Experiences Into Memories",
+            "content": "Meyve sineklerinde şaperon proteinlerini inceleyen araştırmacılar, sinir sisteminin duyusal deneyimleri kalıcı hatıralara dönüştürmek için bilinçli olarak amiloid oluşturabileceğine dair ilk doğrudan kanıtı sunduklarını bildirdiler.\n\nAraştırmanın bulguları, sinir sisteminin amiloidleri yalnızca nörodejeneratif hastalıklarla ilişkilendirilmek yerine, öğrenme ve hafıza süreçlerinde de rol oynayabileceğini öne sürüyor. Bu çalışma, amiloid oluşumunun biyolojik bir işlevi olabileceğine dair yeni bir bakış açısı sunuyor.\n\nAraştırmacılar, meyve sineği modelinde, belirli şaperon proteinlerinin amiloid yapılarının oluşumunu desteklediğini ve bu yapıların uzun süreli belleğin oluşumuna katkıda bulunduğunu gözlemlediler. Bu bulgu, amiloidlerin sadece patolojik bir yapı değil, aynı zamanda normal beyin fonksiyonunun bir parçası olabileceğini düşündürüyor.\n\nBu araştırmanın sonuçları, hafıza ve öğrenme süreçlerinin daha iyi anlaşılmasına yardımcı olabilir ve nörodejeneratif hastalıkların tedavisi için yeni stratejilerin geliştirilmesine ışık tutabilir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). How Brain May Deliberately Form Amyloids to Turn Experiences Into Memories. Retrieved from https://www.genengnews.com/topics/translational-medicine/how-brain-may-deliberately-form-amyloids-to-turn-experiences-into-memories/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/how-brain-may-deliberately-form-amyloids-to-turn-experiences-into-memories/",
+            "date": "2026-01-26T21:32:39.018497",
+            "timestamp": 1769463159.018506
+        },
         {
             "title": "Chatbotlar Neden Yaşınızı Kontrol Etmeye Başlıyor?",
             "original_title": "Why chatbots are starting to check your age",
