@@ -1,14 +1,14 @@
 {
-    "last_updated": "2026-01-27T02:30:20.230468",
+    "last_updated": "2026-01-27T04:12:44.201081",
     "daily_news": {
-        "title": "10x Genomics, Üç İş Birliği ile Klinik Alana Yöneliyor",
-        "original_title": "Clinical Ambitions: 10x Expands Beyond Research with Trio of Collaborations",
-        "content": "10x Genomics, bu ay yaptığı üç iş birliği duyurusu ile akademik, hükümet ve endüstri müşterilerine yönelik geleneksel araştırma araçları odaklanmasının ötesine bakarak klinik tanılara genişleme sinyali verdi. Şirket, tek hücre ve mekansal biyoloji teknolojilerinin klinik potansiyelini geliştirmeyi amaçlayan bilimsel kanıtlar üretmek için üst düzey kurumlarla iş birliği yapıyor.\n\nBu iş birlikleri, 10x Genomics'in araştırma odaklı geçmişini genişleterek, sağlık hizmetlerinde önemli bir rol oynamaya yönelik stratejik bir adımı temsil ediyor. Şirket, bu teknolojilerin klinik uygulamalarını güçlendirmek için hedeflediği bilimsel kanıtları toplamak amacıyla önemli ölçüde yatırım yapıyor.\n\nKaynakça:\nGEN – Genetic Engineering and Biotechnology News (2023). Clinical Ambitions: 10x Expands Beyond Research with Trio of Collaborations. Erişim adresi: https://www.genengnews.com/topics/omics/clinical-ambitions-10x-expands-beyond-research-with-trio-of-collaborations/",
+        "title": "AI Tasarımı Anti-CRISPR'ler ile Hızlı Cas13 Engellemesi",
+        "original_title": "AI‑Designed Anti‑CRISPRs Enable Rapid Cas13 Inhibition",
+        "content": "AI tasarımı anti-CRISPR inhibitörleri, Cas13 aktivitesini hızla bloke eder ve CRISPR sistemlerini düzenlemek için programlanabilir bir yol sunabilir. Bu yaklaşım, AI hızlandırmalı protein tasarımının, gelecekte daha güvenli ve kontrollü gen düzenleme uygulamaları için araçları genişletebileceğini vurgulamaktadır.\n\nCRISPR teknolojisi, genetik mühendislikte devrim yaratan bir sistem olarak bilinirken, kontrolsüz veya hatalı uygulamaları potansiyel riskler taşıyabilmektedir. Bu nedenle, CRISPR sistemlerinin etkinliğini ve güvenliğini artırmak için yeni yöntemlere ihtiyaç duyulmaktadır. Yapay zeka kullanılarak tasarlanan anti-CRISPR proteinleri, bu ihtiyaçları karşılamada önemli bir adım olarak değerlendirilmektedir.\n\nAI tabanlı tasarım, protein mühendisliği süreçlerini hızlandırarak, bilim insanlarının belirli biyolojik hedeflere yönelik özel inhibitörler geliştirmesine olanak tanır. Bu bağlamda, AI tasarımı anti-CRISPR'lerin Cas13'ü etkili bir şekilde inhibe etmesi, gen düzenleme süreçlerinde daha fazla hassasiyet ve kontrol sağlamaktadır.\n\nBu gelişme, genetik mühendislik alanında önemli bir yenilik olarak kabul edilmekte ve hem araştırma hem de uygulama alanlarında geniş bir etki yaratması beklenmektedir. AI destekli protein tasarımı, genetik düzenleme araçlarının güvenliğini ve etkinliğini artırarak, gelecekteki biyoteknoloji uygulamalarının önünü açabilir.\n\nKaynak:\nGEN - Genetic Engineering and Biotechnology News. (tarih). AI‑Designed Anti‑CRISPRs Enable Rapid Cas13 Inhibition. https://www.genengnews.com/topics/genome-editing/ai%e2%80%91designed-anti%e2%80%91crisprs-enable-rapid-cas13-inhibition/",
         "category": "Yapay Zeka",
         "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/omics/clinical-ambitions-10x-expands-beyond-research-with-trio-of-collaborations/",
-        "date": "2026-01-27T02:30:20.230429",
-        "timestamp": 1769481020.230437
+        "link": "https://www.genengnews.com/topics/genome-editing/ai%e2%80%91designed-anti%e2%80%91crisprs-enable-rapid-cas13-inhibition/",
+        "date": "2026-01-27T02:30:14.227840",
+        "timestamp": 1769481014.227849
     },
     "news_list": [
         {
