@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-01-28T13:09:13.329474",
+    "last_updated": "2026-01-28T15:42:11.258844",
     "daily_news": {
-        "title": "iXCells ve Rosebud Biosciences, Nadir Hastalıklar için Organoid Tabanlı Modeller Üzerinde İş Birliği Yapıyor",
-        "original_title": "iXCells and Rosebud Biosciences Partner on Organoid-Based Rare Disease Models",
-        "content": "iXCells ve Rosebud Biosciences, organoid tabanlı nadir hastalık modelleri geliştirmek için iş birliği yapıyor. Bu ortak çalışma, iXCells’in ölçeklenebilir ve modüler iPSC platformu iPSCore'u, Rosebud’un yapay zeka destekli organoid platformu ile bir araya getiriyor. Bu birleşik iş akışı, ilaç keşfi ve güvenlik değerlendirmesi için ölçeklenebilir, tekrarlanabilir insan doku verileri üretmek üzere tasarlandı.\n\nBu iş birliği, özellikle nadir hastalıkların modellenmesi ve tedavi edilmesi açısından büyük bir potansiyele sahip. iPSCore platformu, insandan türetilmiş pluripotent kök hücrelerin (iPSC) geniş ölçekte üretimini mümkün kılarak, araştırmacılara çok çeşitli hücre tipleri oluşturma imkanı tanıyor. Rosebud'un organoid platformu ise, bu hücreleri gerçekçi 3D doku yapıları haline dönüştürerek, insan fizyolojisinin daha doğru bir modelini sunuyor.\n\nBu yenilikçi yaklaşım, nadir hastalıkların daha iyi anlaşılması ve tedavi edilmesi yönünde önemli bir adım olarak görülüyor. iXCells ve Rosebud Biosciences, bu alandaki araştırmaları hızlandırarak, yeni tedavi yöntemlerinin geliştirilmesine katkıda bulunmayı hedefliyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023, Ekim 5). iXCells and Rosebud Biosciences Partner on Organoid-Based Rare Disease Models. https://www.genengnews.com/topics/translational-medicine/ix-cells-and-rosebud-biosciences-partner-on-organoid-based-rare-disease-models/",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/translational-medicine/ix-cells-and-rosebud-biosciences-partner-on-organoid-based-rare-disease-models/",
-        "date": "2026-01-28T13:09:06.312140",
-        "timestamp": 1769605746.312148
+        "title": "ABD'de Uzun COVID Beyin Sisi Neden Daha Kötü?",
+        "original_title": "Why long COVID brain fog seems so much worse in the U.S.",
+        "content": "3.100'den fazla uzun COVID hastasını kapsayan geniş çaplı uluslararası bir çalışma, dünya genelinde beyinle ilgili semptomların nasıl raporlandığı konusunda çarpıcı bir ayrım ortaya çıkardı. ABD'de, hastaneye yatmayan hastaların büyük çoğunluğu beyin sisi, depresyon ve anksiyete yaşadıklarını belirtirken, Hindistan ve Nijerya gibi ülkelerde çok daha az hasta aynı sorunları bildirdi. Bu farkın virüsün kendisinden değil, kültür, damgalama ve ruh sağlığı hizmetlerine erişimden kaynaklandığı görülüyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.sciencedaily.com/releases/2026/01/260128075319.htm",
+        "date": "2026-01-28T15:41:47.889558",
+        "timestamp": 1769614907.889566
     },
     "news_list": [
+        {
+            "title": "ABD'de Uzun COVID Beyin Sisi Neden Daha Kötü?",
+            "original_title": "Why long COVID brain fog seems so much worse in the U.S.",
+            "content": "3.100'den fazla uzun COVID hastasını kapsayan geniş çaplı uluslararası bir çalışma, dünya genelinde beyinle ilgili semptomların nasıl raporlandığı konusunda çarpıcı bir ayrım ortaya çıkardı. ABD'de, hastaneye yatmayan hastaların büyük çoğunluğu beyin sisi, depresyon ve anksiyete yaşadıklarını belirtirken, Hindistan ve Nijerya gibi ülkelerde çok daha az hasta aynı sorunları bildirdi. Bu farkın virüsün kendisinden değil, kültür, damgalama ve ruh sağlığı hizmetlerine erişimden kaynaklandığı görülüyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/01/260128075319.htm",
+            "date": "2026-01-28T15:41:47.889558",
+            "timestamp": 1769614907.889566
+        },
+        {
+            "title": "Yapay Zeka ve Gizliliğin Yeni Sınırları: Kişisel Verilerinizle Daha 'Hatırlayan' Teknolojiler",
+            "original_title": "What AI “remembers” about you is privacy’s next frontier",
+            "content": "Yapay zekanın sizi ve tercihleriniz hakkında hatırlayabilme yeteneği, AI sohbet botları ve ajanları için hızla önemli bir satış noktası haline geliyor. Bu ayın başlarında Google, kullanıcıların Gmail, fotoğraflar, arama ve YouTube geçmişlerini kullanarak Gemini adlı sohbet botu ile daha kişisel ve proaktif bir şekilde etkileşime geçmelerini sağlayacak yeni bir yöntem olan Kişisel Zeka'yı duyurdu. Bu yeni özellik, AI teknolojilerini daha kişisel hale getirerek kullanıcıların alışkanlıklarına ve tercihlerine daha duyarlı bir hizmet sunmayı amaçlıyor. Bu gelişme, yapay zekanın bireylerin özel bilgilerine erişim sağlayarak daha kişiselleştirilmiş bir deneyim sunabilmesi anlamına geliyor. Ancak, bu durum aynı zamanda gizlilik konusunda yeni soruları da gündeme getiriyor. Kullanıcıların verilerinin nasıl kullanılacağı ve saklanacağı konusundaki endişeler, bu tür yeniliklerin gölgesinde kalıyor. Yapay zekanın kişisel verilerle daha fazla etkileşimde bulunması, hem kullanıcılar hem de teknoloji şirketleri için yeni etik ve gizlilik zorluklarını beraberinde getiriyor. Sonuç olarak, AI'nın kullanıcı verileriyle etkileşimi, teknolojinin geleceğinde önemli bir rol oynarken, gizlilik ve güvenlik konularını da yeniden düşünmemizi gerektiriyor.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/",
+            "date": "2026-01-28T15:41:57.764550",
+            "timestamp": 1769614917.764557
+        },
+        {
+            "title": "Siber Saldırılarda Yeni Dönem: Sınırda Başarı",
+            "original_title": "Rules fail at the prompt, succeed at the boundary",
+            "content": "Özet: 2026'daki Gemini Takvimi prompt-enjeksiyon saldırısından, Eylül 2025'te Anthropic'in Claude kodunun otomatik bir sızma motoru olarak kullanıldığı devlet destekli hack saldırısına kadar, insan-aracılı eylemler ve tam otonom eylemci iş akışlarının zorlanması, hackerlar için yeni bir saldırı vektörü haline geldi. Anthropic vakasında, teknoloji, finans, üretim ve hükümet dahil olmak üzere yaklaşık 30 organizasyon etkilenmiştir. Bu tür saldırılar, geleneksel güvenlik kurallarının yetersiz kaldığı durumlarda, sınır bölgelerinde daha başarılı olmaktadır.\n\nSon yıllarda teknolojideki hızlı ilerlemeler, siber güvenlik tehditlerinin de evrim geçirmesine yol açtı. Özellikle, insan unsuru içeren süreçlerin manipülasyonu ve otonom sistemlerin kötüye kullanılması, hackerların yeni oyun alanı haline geldi. Bu durum, saldırıların tespit edilmesini ve önlenmesini zorlaştırıyor.\n\nGemini Takvimi saldırısı, saldırganların sistemlere sızmak için prompt-enjeksiyon tekniklerini nasıl kullandığını gösterdi. Bu tür saldırılar, bilgisayar sistemlerinin belirli komutlar veya girdilerle manipüle edilmesine dayanıyor. Diğer yandan, Anthropic vakası, devlet destekli saldırıların ölçek ve karmaşıklığının nasıl arttığını gözler önüne serdi. Claude kodunun kötüye kullanılması, saldırganların hedef sistemlere derin bir şekilde nüfuz etmesine olanak tanıdı.\n\nBu durum, siber güvenlik stratejilerinin yeniden değerlendirilmesi gerektiğini ortaya koyuyor. Geleneksel güvenlik önlemleri, özellikle insan ve makine etkileşimlerinin olduğu noktalarda yetersiz kalabilir. Bu nedenle, güvenlik uzmanlarının, insan unsuru içeren süreçlere daha fazla dikkat etmeleri ve bu tür saldırılara karşı daha proaktif önlemler geliştirmeleri gerekmektedir.\n\nKaynak: MIT Technology Review. (2023). Rules fail at the prompt, succeed at the boundary.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/01/28/1131003/rules-fail-at-the-prompt-succeed-at-the-boundary/",
+            "date": "2026-01-28T15:42:11.043541",
+            "timestamp": 1769614931.043547
+        },
         {
             "title": "Kendi Kendine Konuşan Yapay Zeka Daha Hızlı ve Akıllı Öğreniyor",
             "original_title": "AI that talks to itself learns faster and smarter",
@@ -480,36 +510,6 @@
             "link": "https://www.technologyreview.com/2026/01/22/1131680/the-download-yann-lecun-lithium-rise/",
             "date": "2026-01-22T15:39:42.967124",
             "timestamp": 1769096382.967137
-        },
-        {
-            "title": "2026: Lityumun Yükselişi",
-            "original_title": "Why 2026 is a hot year for lithium",
-            "content": "2026 yılında lityum fiyatlarını yakından takip edeceğim. Eğer siz de emtia piyasalarını takıntılı bir şekilde takip etme alışkanlığına sahip değilseniz, sizi suçlamam. Ancak son zamanlarda haberler, minerallerin küresel politika ve ekonomi üzerinde büyük etkiler yaratabileceğini açıkça ortaya koyuyor. Dolayısıyla, lityum yakından izlemeye değer.\n\nLityum, elektrikli araç pazarının genişlemesiyle birlikte enerji depolama çözümlerinin merkezinde yer alan bir mineral haline geldi. Elektrikli araçların bataryalarında kullanılması, bu metale olan talebi artırdı. Aynı zamanda, yenilenebilir enerji kaynaklarının depolanmasında da kritik bir rol oynuyor.\n\n2026 yılı, lityum piyasası için önemli bir dönüm noktası olabilir. Bu dönemde, lityum üretiminin artırılması adına yapılan yatırımların sonuç vermesi bekleniyor. Üretimdeki bu artış, fiyat dalgalanmalarına neden olabilir. Bu nedenle, lityumun fiyatını ve piyasanın genel seyrini dikkatle izlemek önem taşıyor.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/01/22/1131563/lithium-2026/",
-            "date": "2026-01-22T13:08:31.222017",
-            "timestamp": 1769087311.222026
-        },
-        {
-            "title": "Yann LeCun, Büyük Dil Modellerine Karşı: Yapay Zeka Geleceği için Farklı Bir Yol Öneriyor",
-            "original_title": "Yann LeCun’s new venture is a contrarian bet against large language models",
-            "content": "Yann LeCun, Turing Ödülü sahibi ve önde gelen bir yapay zeka araştırmacısıdır, ancak teknoloji dünyasında uzun süredir karşıt bir figür olarak bilinir. LeCun, endüstrinin şu anki büyük dil modellerine olan takıntısının yanlış yönlendirilmiş olduğunu ve birçok acil sorunu çözmede başarısız olacağını düşünüyor. \n\nLeCun, büyük dil modellerinin mevcut popülerliğine rağmen, bu yaklaşımın sınırlamalarını vurguluyor. Ona göre, bu modeller, dilin ötesine geçerek daha geniş kapsamlı problemleri çözme yeteneğine sahip değil. Bu nedenle, LeCun ve ekibi, daha geniş kapsamlı yapay zeka sistemleri geliştirmeye odaklanıyor. Bu yeni yaklaşım, yapay zekanın sadece dil işleme değil, aynı zamanda gerçek dünya problemlerine çözüm bulma kabiliyetini de geliştirmeyi hedefliyor.\n\nLeCun, büyük dil modellerinin sınırlı veri ve hesaplama kaynaklarıyla eğitildiğinde yetersiz kalacağını savunuyor. Onun görüşüne göre, bu modellerin karmaşık görevleri yerine getirme kapasitesi sınırlıdır ve bu sebeple, daha verimli ve etkili sistemlere ihtiyaç duyulmaktadır.\n\nLeCun'un bu yeni girişimi, yapay zeka alanında daha yenilikçi ve sürdürülebilir çözümler geliştirmeye yönelik bir adım olarak görülüyor. LeCun, bu yaklaşımın, yapay zeka teknolojisinin potansiyelini en üst düzeye çıkarmak için daha iyi bir yol olduğuna inanıyor.\n\nKaynak:\nMIT Technology Review. (2023). Yann LeCun’s new venture is a contrarian bet against large language models.",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/01/22/1131661/yann-lecuns-new-venture-ami-labs/",
-            "date": "2026-01-22T13:08:40.506958",
-            "timestamp": 1769087320.506967
-        },
-        {
-            "title": "Egzersizle Beyninizi Genç Tutun: Aerobik Aktiviteler Beyin Yaşını Geriletebilir",
-            "original_title": "MRI scans show exercise can make the brain look younger",
-            "content": "Yeni araştırmalar, düzenli aerobik egzersizin beyninizi biyolojik olarak genç tutmaya yardımcı olabileceğini öne sürüyor. Bir yıl boyunca düzenli olarak egzersiz yapan yetişkinlerin beyinleri, alışkanlıklarını değiştirmeyenlere göre neredeyse bir yıl daha genç görünüyordu. Çalışma, önlemenin uzun vadeli faydalar sunabileceği kritik bir pencere olan orta yaş dönemine odaklandı. Beyin yaşındaki küçük değişimler bile on yıllar boyunca birikerek önemli farklar yaratabilir. \n\nBu araştırma, beynin yaşlanma sürecini yavaşlatmanın potansiyel bir yolu olarak fiziksel aktivitenin önemini vurgulamaktadır. Özellikle aerobik egzersizler, kan akışını artırarak ve beyin hücrelerini besleyerek zihinsel keskinliği koruma konusunda faydalı olabilir. Çalışma, katılımcıların haftalık egzersiz rutinlerini artırarak beyin sağlıklarını nasıl iyileştirebileceklerini göstermektedir.\n\nOrta yaş, beyin sağlığını korumak için kritik bir dönem olarak kabul edilir ve bu dönemde yapılan yaşam tarzı değişikliklerinin uzun vadeli etkileri olabilir. Araştırmacılar, düzenli egzersizin sadece fiziksel sağlık için değil, aynı zamanda bilişsel işlevlerin korunması için de önemli olduğunu vurgulamaktadır.\n\nBu bulgular, daha sağlıklı bir yaşam tarzı benimsemenin, özellikle de düzenli fiziksel aktiviteye zaman ayırmanın, yaşam kalitesini artırmanın ve yaşlanmanın etkilerini yavaşlatmanın önemli bir yolu olduğunu göstermektedir.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/01/260121034130.htm",
-            "date": "2026-01-22T09:41:14.651880",
-            "timestamp": 1769074874.651891
         }
     ]
 }
