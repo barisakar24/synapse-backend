@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-01-28T15:42:11.258844",
+    "last_updated": "2026-01-28T18:49:28.375513",
     "daily_news": {
-        "title": "ABD'de Uzun COVID Beyin Sisi Neden Daha Kötü?",
-        "original_title": "Why long COVID brain fog seems so much worse in the U.S.",
-        "content": "3.100'den fazla uzun COVID hastasını kapsayan geniş çaplı uluslararası bir çalışma, dünya genelinde beyinle ilgili semptomların nasıl raporlandığı konusunda çarpıcı bir ayrım ortaya çıkardı. ABD'de, hastaneye yatmayan hastaların büyük çoğunluğu beyin sisi, depresyon ve anksiyete yaşadıklarını belirtirken, Hindistan ve Nijerya gibi ülkelerde çok daha az hasta aynı sorunları bildirdi. Bu farkın virüsün kendisinden değil, kültür, damgalama ve ruh sağlığı hizmetlerine erişimden kaynaklandığı görülüyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/01/260128075319.htm",
-        "date": "2026-01-28T15:41:47.889558",
-        "timestamp": 1769614907.889566
+        "title": "Düşük pH ile mRNA Saflaştırmada Yenilikçi Yöntem: dsRNA'nın Denatürasyonu",
+        "original_title": "pH Denaturation of dsRNA for mRNA Purification",
+        "content": "Çift sarmallı RNA'nın (dsRNA) bağlarını kırmak için pH seviyesinin düşürülmesi, aşılar ve terapötikler için mRNA'yı saflaştırmada hızlı, maliyet etkin ve zararsız bir yöntem sunuyor. Bu teknik, biyoteknoloji üreticileri için önemli bir avantaj sağlıyor. pH seviyesinin düşürülmesiyle, dsRNA'nın yapısındaki bağlar çözülerek mRNA daha saf bir şekilde elde edilebiliyor. Bu yöntem, geleneksel saflaştırma süreçlerine göre daha hızlı ve ekonomik olmasının yanı sıra, çevreye ve insan sağlığına zarar vermeyen bir alternatif oluşturuyor. Biyoproses alanında bu yeni yaklaşım, mRNA tabanlı ürünlerin üretiminde devrim yaratacak potansiyele sahip.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). pH Denaturation of dsRNA for mRNA Purification. GEN - Genetic Engineering and Biotechnology News. https://www.genengnews.com/topics/bioprocessing/ph-denaturation-of-dsrna-for-mrna-purification/",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/bioprocessing/ph-denaturation-of-dsrna-for-mrna-purification/",
+        "date": "2026-01-28T18:49:28.375438",
+        "timestamp": 1769626168.375446
     },
     "news_list": [
+        {
+            "title": "Yenilikçi Tekrar Kullanılabilir Sensör ile Glikoz İzleme",
+            "original_title": "Glucose Monitoring with Novel Reusable Sensor",
+            "content": "Hamilton Company tarafından piyasaya sürülen, türünün ilk örneği olduğuna inanılan tekrar kullanılabilir bir sensör, çevrimiçi glikoz izleme için kullanılmaktadır. Bu prob, hücre kültürlerinde kritik süreç parametrelerini değerlendirmeye yardımcı olmayı amaçlamaktadır.\n\nBu yenilik, biyoproses alanında önemli bir gelişme olarak kabul ediliyor. Hücre kültürü süreçlerinde glikoz seviyelerinin doğru bir şekilde izlenmesi, hücrelerin sağlıklı büyümesi ve ürün verimliliği açısından kritik öneme sahiptir. Hamilton'un geliştirdiği bu sensör, kullanıcıların kesintisiz ve güvenilir veri almasını sağlayarak, süreç optimizasyonunu ve verimliliğini artırmayı hedefliyor.\n\nSensörün tekrar kullanılabilir olması, maliyet etkinliği açısından da önemli bir avantaj sunmaktadır. Geleneksel tek kullanımlık sensörlerin aksine, bu yeni teknoloji, daha az atık üreterek çevreye duyarlı bir çözüm sunuyor.\n\nBu gelişme, biyoteknoloji ve genetik mühendisliği alanında önemli bir yenilik olarak değerlendirilmektedir ve gelecekteki uygulamaları açısından büyük bir potansiyele sahiptir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (tarih). Glucose Monitoring with Novel Reusable Sensor. GEN – Genetic Engineering and Biotechnology News sitesinden alınmıştır: https://www.genengnews.com/topics/bioprocessing/glucose-monitoring-with-novel-reusable-sensor/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/glucose-monitoring-with-novel-reusable-sensor/",
+            "date": "2026-01-28T18:49:20.489376",
+            "timestamp": 1769626160.489383
+        },
+        {
+            "title": "Düşük pH ile mRNA Saflaştırmada Yenilikçi Yöntem: dsRNA'nın Denatürasyonu",
+            "original_title": "pH Denaturation of dsRNA for mRNA Purification",
+            "content": "Çift sarmallı RNA'nın (dsRNA) bağlarını kırmak için pH seviyesinin düşürülmesi, aşılar ve terapötikler için mRNA'yı saflaştırmada hızlı, maliyet etkin ve zararsız bir yöntem sunuyor. Bu teknik, biyoteknoloji üreticileri için önemli bir avantaj sağlıyor. pH seviyesinin düşürülmesiyle, dsRNA'nın yapısındaki bağlar çözülerek mRNA daha saf bir şekilde elde edilebiliyor. Bu yöntem, geleneksel saflaştırma süreçlerine göre daha hızlı ve ekonomik olmasının yanı sıra, çevreye ve insan sağlığına zarar vermeyen bir alternatif oluşturuyor. Biyoproses alanında bu yeni yaklaşım, mRNA tabanlı ürünlerin üretiminde devrim yaratacak potansiyele sahip.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). pH Denaturation of dsRNA for mRNA Purification. GEN - Genetic Engineering and Biotechnology News. https://www.genengnews.com/topics/bioprocessing/ph-denaturation-of-dsrna-for-mrna-purification/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/ph-denaturation-of-dsrna-for-mrna-purification/",
+            "date": "2026-01-28T18:49:28.375438",
+            "timestamp": 1769626168.375446
+        },
         {
             "title": "ABD'de Uzun COVID Beyin Sisi Neden Daha Kötü?",
             "original_title": "Why long COVID brain fog seems so much worse in the U.S.",
@@ -490,26 +510,6 @@
             "link": "https://www.technologyreview.com/2026/01/22/1131692/dr-google-had-its-issues-can-chatgpt-health-do-better/",
             "date": "2026-01-22T18:47:12.953651",
             "timestamp": 1769107632.953658
-        },
-        {
-            "title": "Davos'ta Sıcak Hava, Büyük Egolar ve Soğuk Güç Gösterileri",
-            "original_title": "Dispatch from Davos: hot air, big egos and cold flexes",
-            "content": "Bu hikaye ilk olarak, Editör Mat Honan tarafından hazırlanan ve teknoloji dünyasındaki en büyük haberleri içeren sadece abonelere özel bültenimiz The Debrief'te yer aldı. Bir sonraki sayının yayınlandığında hemen okumak için abone olun. Yılın bu zamanında Davos'ta havanın soğuk olması beklenir. Dünyanın elitlerinin karlar içinde yürümesi bu etkinliğin cazibesinin bir parçasıdır. Bu yılki Davos toplantısı, her zamanki gibi, büyük egoların sergilendiği ve güçlü kişiliklerin öne çıktığı bir sahne oldu. Soğuk hava koşulları, katılımcıların sıcak hava ve abartılı söylemleri ile tezat oluşturdu. Dünyanın dört bir yanından liderler, iş insanları ve düşünce önderleri, günümüzün en acil meselelerini konuşmak için bir araya geldi, ancak bu buluşmalar çoğu zaman somut çözümler yerine gösterişli söylemlerle sınırlı kaldı.\n\nKaynak: MIT Technology Review, Mat Honan. (Yayın Tarihi). Dispatch from Davos: hot air, big egos and cold flexes. Erişim Tarihi: (Erişim Tarihi).",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/01/22/1131687/hot-air-cold-flexes-at-davos/",
-            "date": "2026-01-22T18:47:21.932626",
-            "timestamp": 1769107641.932634
-        },
-        {
-            "title": "Yann LeCun'un Yeni Girişimi: Büyük Dil Modellerine Karşı Bir Bahis",
-            "original_title": "The Download: Yann LeCun’s new venture, and lithium’s on the rise",
-            "content": "Bugünün The Download bülteninde, teknoloji dünyasında olup bitenlere dair günlük bir doz sunuluyor. Turing Ödülü sahibi ve üst düzey bir yapay zeka araştırmacısı olan Yann LeCun, uzun zamandır karşıt bir figür olarak biliniyor. LeCun'un yeni girişimi, büyük dil modellerine karşı bir bahis olarak öne çıkıyor. LeCun, bu alanda geleneksel yaklaşımların ötesine geçerek daha farklı bir yol izlemeyi hedefliyor. Yapay zeka ve teknoloji dünyasındaki bu gelişmeler, özellikle dil modelleri ve yapay zeka uygulamaları konusundaki tartışmaları yeniden alevlendirecek gibi görünüyor.\n\nKaynak: MIT Technology Review.",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/01/22/1131680/the-download-yann-lecun-lithium-rise/",
-            "date": "2026-01-22T15:39:42.967124",
-            "timestamp": 1769096382.967137
         }
     ]
 }
