@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-01-28T04:11:24.109974",
+    "last_updated": "2026-01-28T06:49:40.979899",
     "daily_news": {
-        "title": "Episodik ve Semantik Bellek Arasındaki Sınırlar Bulanıklaşıyor",
-        "original_title": "Memory Rewritten: Study Finds No Clear Line Between Episodic and Semantic Retrieval",
-        "content": "Yeni bir çalışma, uzun süredir kabul gören episodik ve semantik belleğin ayrı beyin sistemlerine dayandığı inancını sorguluyor. Araştırmacılar, kişisel anıların ve genel bilginin geri çağrılmasının örtüşen sinir bölgelerini aktive ettiğini buldular. Bu keşif, demans gibi nörolojik rahatsızlıkları anlama şeklimizi değiştirebilir.\n\nEpisodik bellek, bireylerin kişisel deneyimlerini ve olaylarını hatırlamalarını sağlarken, semantik bellek daha çok genel bilgi ve kavramlarla ilişkilidir. Uzun süredir bu iki bellek türünün farklı beyin bölgeleri tarafından yönetildiği düşünülüyordu. Ancak, yapılan yeni araştırmalar bu sınırların o kadar da belirgin olmadığını gösteriyor.\n\nAraştırmacılar, hafıza geri çağrımını incelerken, kişisel anılar ve genel bilgiler üzerinde çalıştı. Beyin görüntüleme tekniklerini kullanarak, her iki tür bellek geri çağrımının da benzer sinirsel yapıların etkinleşmesine neden olduğunu gözlemlediler. Özellikle, her iki bellek türü de medial temporal lob ve prefrontal korteks gibi beyin bölgelerinde benzer aktiviteler gösterdi.\n\nBu bulgular, özellikle yaşla birlikte bellek problemleri yaşayan bireyler için önemli çıkarımlar sunmaktadır. Demans ve Alzheimer hastalığı gibi durumlar, genellikle bu iki bellek türü arasındaki dengeyi etkileyebilir. Yeni bulgular, bu hastalıkların tedavi yaklaşımlarına yeni bakış açıları getirebilir.\n\nÇalışmanın sonuçları, bellek sistemlerimizin daha önce düşünülenden çok daha karmaşık ve iç içe geçmiş olduğunu ortaya koyuyor. Bu da nörobilim alanında yeni araştırmalara kapı aralayabilir.\n\nAPA: Neuroscience News. (2023). Memory Rewritten: Study Finds No Clear Line Between Episodic and Semantic Retrieval. Retrieved from https://neurosciencenews.com/memory-rewritten-episodic-semantic-retrieval-30088/",
+        "title": "Beynimizdeki Sessiz Parazit: Toxoplasma Gondii'nin Gizemli Aktivitesi",
+        "original_title": "A common parasite in the brain is far more active than we thought",
+        "content": "Uzun süredir uykuda olduğu düşünülen yaygın bir parazit aslında çok daha aktif ve karmaşık. Araştırmacılar, Toxoplasma gondii kistlerinin tek bir uyuyan form içermek yerine, birden fazla parazit alt türleri barındırdığını keşfetti. Bazı alt türler, yeniden aktif hale gelmeye ve hastalığa neden olmaya hazır durumda bulunuyor, bu da enfeksiyonların neden bu kadar zor tedavi edildiğini açıklıyor. Bu keşif, paraziti tamamen ortadan kaldıracak ilaçların geliştirilmesi çabalarını yeniden şekillendirebilir.\n\nKaynak: Mind & Brain News -- ScienceDaily",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/memory-rewritten-episodic-semantic-retrieval-30088/",
-        "date": "2026-01-28T02:26:21.087085",
-        "timestamp": 1769567181.087096
+        "link": "https://www.sciencedaily.com/releases/2026/01/260127112124.htm",
+        "date": "2026-01-28T06:49:40.222522",
+        "timestamp": 1769582980.222532
     },
     "news_list": [
+        {
+            "title": "Beynimizdeki Sessiz Parazit: Toxoplasma Gondii'nin Gizemli Aktivitesi",
+            "original_title": "A common parasite in the brain is far more active than we thought",
+            "content": "Uzun süredir uykuda olduğu düşünülen yaygın bir parazit aslında çok daha aktif ve karmaşık. Araştırmacılar, Toxoplasma gondii kistlerinin tek bir uyuyan form içermek yerine, birden fazla parazit alt türleri barındırdığını keşfetti. Bazı alt türler, yeniden aktif hale gelmeye ve hastalığa neden olmaya hazır durumda bulunuyor, bu da enfeksiyonların neden bu kadar zor tedavi edildiğini açıklıyor. Bu keşif, paraziti tamamen ortadan kaldıracak ilaçların geliştirilmesi çabalarını yeniden şekillendirebilir.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/01/260127112124.htm",
+            "date": "2026-01-28T06:49:40.222522",
+            "timestamp": 1769582980.222532
+        },
         {
             "title": "Episodik ve Semantik Bellek Arasındaki Sınırlar Bulanıklaşıyor",
             "original_title": "Memory Rewritten: Study Finds No Clear Line Between Episodic and Semantic Retrieval",
@@ -500,16 +510,6 @@
             "link": "https://www.genengnews.com/topics/bioprocessing/biosynthesis-of-medicarpin-in-engineered-yeast/",
             "date": "2026-01-21T18:55:45.102460",
             "timestamp": 1769021745.102469
-        },
-        {
-            "title": "Yapay Zeka: İş Dünyasının Geleceğini Yeniden Düşünmek",
-            "original_title": "Rethinking AI’s future in an augmented workplace",
-            "content": "Yapay zekanın evrimi birçok farklı yoldan ilerleyebilir. Spektrumun bir ucunda, yapay zeka, şöhret ve yanlış yönlendirilmiş sermaye tarafından körüklenen geçici bir moda olarak reddedilir. Diğer uçta ise, geniş çapta işleri ortadan kaldırması ve ekonomileri istikrarsızlaştırması beklenen distopik bir güç olarak tasvir edilir. Piyasalar, şüphecilik ve iyimserlik arasında gidip gelirken, yapay zekanın gelecekteki rolü belirsizliğini koruyor. Bu belirsizlik içinde, yapay zekanın iş dünyasında nasıl daha olumlu bir şekilde entegre edilebileceği ve iş gücünü nasıl artırabileceği üzerine yeniden düşünmek önem taşıyor. Yapay zeka, doğru kullanıldığında, verimliliği ve yeniliği artırabilecek bir araç olabilir. Gelecekte, iş dünyası ve yapay zeka arasındaki etkileşim, insan becerilerini tamamlayan ve güçlendiren bir yapıya dönüşebilir. Bu süreçte, işletmelerin yapay zekayı nasıl entegre edeceği ve çalışanlarının bu yeni teknolojilerle nasıl etkileşimde bulunacağını planlaması kritik öneme sahiptir.",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/01/21/1131366/rethinking-ais-future-in-an-augmented-workplace/",
-            "date": "2026-01-21T15:41:14.925456",
-            "timestamp": 1769010074.925468
         }
     ]
 }
