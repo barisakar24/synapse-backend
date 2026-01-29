@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-01-28T21:38:17.966117",
+    "last_updated": "2026-01-29T02:43:41.636740",
     "daily_news": {
-        "title": "Nautilus ve Weill Cornell'den Parkinson'a Karşı Yeni Proteomik Teknoloji Hamlesi",
-        "original_title": "Nautilus, Weill Cornell Team Up to Apply Single Molecule Proteomics Tech to Parkinson’s",
-        "content": "Nautilus ve Weill Cornell Medicine'den bilim insanları, tek molekül proteomik teknolojisini Parkinson hastalığı ile ilişkilendirilen alfa-sinüklein proteini üzerindeki yeni içgörüleri açığa çıkarmak için kullanmayı umut ediyorlar. Bu işbirliği, hastalık uzmanlığını ve yeni bir proteomik teknolojisini birleştirerek Parkinson hastalığının daha iyi anlaşılmasına katkı sağlamayı amaçlıyor.\n\nNautilus'un geliştirdiği tek molekül proteomik teknolojisi, proteinlerin tek tek incelenmesine olanak tanıyarak, hastalıkların moleküler düzeyde anlaşılmasını kolaylaştırıyor. Weill Cornell Medicine ile yapılan bu işbirliği, Parkinson hastalığı ile ilişkilendirilen ve beyin hücrelerinde biriken alfa-sinüklein proteininin daha iyi anlaşılmasına yönelik önemli adımlar atmayı hedefliyor.\n\nBu yeni yaklaşım, Parkinson hastalığının erken teşhisi ve tedavisinde devrim niteliğinde gelişmeler sağlayabilir. Araştırmacılar, bu teknoloji sayesinde hastalığın ilerleyişini yavaşlatacak veya durduracak yeni tedavi yöntemleri geliştirmeyi umuyorlar.\n\nKaynak:\nGEN - Genetic Engineering and Biotechnology News. (tarih). Nautilus, Weill Cornell Team Up to Apply Single Molecule Proteomics Tech to Parkinson’s. https://www.genengnews.com/topics/omics/nautilus-weill-cornell-team-up-to-apply-single-molecule-proteomics-tech-to-parkinsons/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/omics/nautilus-weill-cornell-team-up-to-apply-single-molecule-proteomics-tech-to-parkinsons/",
-        "date": "2026-01-28T21:38:17.966073",
-        "timestamp": 1769636297.966082
+        "title": "Yapay Zeka Şirketlerinin Gelecek Nesil Nükleer Enerjiye Yatırım Yapmasının Nedeni",
+        "original_title": "Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear",
+        "content": "Yapay zeka (YZ) alanındaki hızlı gelişmeler, devasa veri merkezleri ve bu merkezlerin büyük hesaplama ihtiyaçlarını karşılayabilecek enerji kaynaklarına yönelik eşi benzeri görülmemiş yatırımları beraberinde getiriyor. Bu tesisler için potansiyel elektrik kaynaklarından biri de, önceki nesillerine kıyasla daha ucuz inşa edilebilen ve daha güvenli işletilebilen yeni nesil nükleer enerji santralleri olabilir. MIT Technology Review editörleri ve muhabirlerinin katılımıyla gerçekleşen bu yuvarlak masa tartışmasında, YZ şirketlerinin neden bu enerji kaynağına yöneldiği ve bu teknolojinin geleceği ele alınıyor.\n\nYZ'nin artan enerji ihtiyacı, geleneksel enerji kaynaklarına olan talebi artırırken, sürdürülebilir ve güvenilir alternatifler arayışını da beraberinde getiriyor. Yeni nesil nükleer santraller, hem çevresel hem de ekonomik avantajlar sunarak bu ihtiyacı karşılayabilecek bir çözüm olarak ön plana çıkıyor. Bu santrallerin, modüler yapıları sayesinde daha düşük maliyetlerle ve daha hızlı bir şekilde inşa edilebilmesi, yatırımcılar için cazip hale geliyor.\n\nAyrıca, bu tür santrallerde kullanılan gelişmiş güvenlik teknolojileri, geçmişte yaşanan nükleer kazaların tekrarlanma riskini azaltarak, daha güvenli bir enerji üretimi sağlıyor. Enerji arzında süreklilik ve güvenlik, özellikle YZ uygulamaları için kritik bir öneme sahip olduğundan, YZ şirketleri bu yeni nesil nükleer teknolojilere yatırım yapmayı tercih ediyor.\n\nSonuç olarak, YZ'nin enerji tüketimi artarken, bu talebi karşılamak için sürdürülebilir ve güvenli enerji kaynaklarına olan ihtiyaç da artıyor. Yeni nesil nükleer enerji santralleri, bu ihtiyaca cevap verebilecek potansiyel bir çözüm sunarak, YZ şirketlerinin yatırım listesinde üst sıralara yerleşiyor.\n\nKaynak: MIT Technology Review, (2023). Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear. Erişim tarihi: 2023",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/",
+        "date": "2026-01-29T02:43:33.596461",
+        "timestamp": 1769654613.596469
     },
     "news_list": [
+        {
+            "title": "Yapay Zeka Şirketlerinin Gelecek Nesil Nükleer Enerjiye Yatırım Yapmasının Nedeni",
+            "original_title": "Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear",
+            "content": "Yapay zeka (YZ) alanındaki hızlı gelişmeler, devasa veri merkezleri ve bu merkezlerin büyük hesaplama ihtiyaçlarını karşılayabilecek enerji kaynaklarına yönelik eşi benzeri görülmemiş yatırımları beraberinde getiriyor. Bu tesisler için potansiyel elektrik kaynaklarından biri de, önceki nesillerine kıyasla daha ucuz inşa edilebilen ve daha güvenli işletilebilen yeni nesil nükleer enerji santralleri olabilir. MIT Technology Review editörleri ve muhabirlerinin katılımıyla gerçekleşen bu yuvarlak masa tartışmasında, YZ şirketlerinin neden bu enerji kaynağına yöneldiği ve bu teknolojinin geleceği ele alınıyor.\n\nYZ'nin artan enerji ihtiyacı, geleneksel enerji kaynaklarına olan talebi artırırken, sürdürülebilir ve güvenilir alternatifler arayışını da beraberinde getiriyor. Yeni nesil nükleer santraller, hem çevresel hem de ekonomik avantajlar sunarak bu ihtiyacı karşılayabilecek bir çözüm olarak ön plana çıkıyor. Bu santrallerin, modüler yapıları sayesinde daha düşük maliyetlerle ve daha hızlı bir şekilde inşa edilebilmesi, yatırımcılar için cazip hale geliyor.\n\nAyrıca, bu tür santrallerde kullanılan gelişmiş güvenlik teknolojileri, geçmişte yaşanan nükleer kazaların tekrarlanma riskini azaltarak, daha güvenli bir enerji üretimi sağlıyor. Enerji arzında süreklilik ve güvenlik, özellikle YZ uygulamaları için kritik bir öneme sahip olduğundan, YZ şirketleri bu yeni nesil nükleer teknolojilere yatırım yapmayı tercih ediyor.\n\nSonuç olarak, YZ'nin enerji tüketimi artarken, bu talebi karşılamak için sürdürülebilir ve güvenli enerji kaynaklarına olan ihtiyaç da artıyor. Yeni nesil nükleer enerji santralleri, bu ihtiyaca cevap verebilecek potansiyel bir çözüm sunarak, YZ şirketlerinin yatırım listesinde üst sıralara yerleşiyor.\n\nKaynak: MIT Technology Review, (2023). Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear. Erişim tarihi: 2023",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/",
+            "date": "2026-01-29T02:43:33.596461",
+            "timestamp": 1769654613.596469
+        },
+        {
+            "title": "IFN Sinyalleşmesi Makrofaj Mitokondrilerini Nasıl Ayarlıyor?",
+            "original_title": "How IFN Signaling Tunes Macrophage Mitochondria in Inflammation Resolution",
+            "content": "Araştırmacılar, antiviral inflamatuar tepkilerle ilişkili bir sinyalin, makrofaj mitokondrilerini nasıl ayarladığını, doku hasarını temizlemeyi nasıl artırdığını ve kontrolsüz inflamasyonu nasıl önlediğini açıklayan bir mekanizma ortaya koydular. Makrofajlar, bağışıklık sisteminin önemli hücreleridir ve vücuttaki inflamasyonu kontrol etmede kritik bir rol oynarlar. Bu hücrelerin mitokondrileri, enerji üretim merkezleri olarak işlev görmekle birlikte, aynı zamanda hücresel sinyalleşmede de önemli görevler üstlenirler. İnterferon (IFN) sinyalleşmesi, makrofajların mitokondrilerini ayarlayarak, inflamasyonun çözülmesine ve doku tamirine katkıda bulunur. Böylece, makrofajların etkinliği artırılarak, aşırı ve kontrolsüz inflamasyonun önüne geçilir. Bu bulgular, inflamasyonla ilişkili hastalıkların tedavisinde yeni yaklaşımlar geliştirilmesine ışık tutabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). How IFN Signaling Tunes Macrophage Mitochondria in Inflammation Resolution. Retrieved from https://www.genengnews.com/topics/infectious-diseases/how-ifn-signaling-tunes-macrophage-mitochondria-in-inflammation-resolution/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/infectious-diseases/how-ifn-signaling-tunes-macrophage-mitochondria-in-inflammation-resolution/",
+            "date": "2026-01-29T02:43:41.636699",
+            "timestamp": 1769654621.636707
+        },
         {
             "title": "Yapay Zeka Modelleri için 'Spor Salonu': Daha Keskin Biyofarma Araştırmaları",
             "original_title": "No Pain, No Gain: Insilico ‘Gym’ Gets AI Models Into Shape",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/cancer/high%e2%80%91myc-tumors-evade-the-immune-system-by-clearing-r%e2%80%91loop-alarm-signals/",
             "date": "2026-01-23T02:24:18.102084",
             "timestamp": 1769135058.102092
-        },
-        {
-            "title": "Oligodendrosit Farklılaşması MS Tedavisi Geliştirmede Umut Vadediyor",
-            "original_title": "Oligodendrocyte Differentiation Holds Promise for MS Treatment Development",
-            "content": "Oligodendrosit öncülerinin (OPC'ler) farklılaşma mekanizmaları tam olarak anlaşılamamıştır. Gen ekspresyonu analizi, lokalizasyon yöntemleri ve zaman atlamalı görüntüleme kullanılarak, OPC farklılaşması izlenmiş ve daha önce bilinmeyen mekanizmalar açıklığa kavuşturulmuştur. Bu bulgular, multipl skleroz (MS) gibi nörolojik rahatsızlıkların tedavi geliştirme süreçlerinde yeni yaklaşımlar sunabilir. Oligodendrositlerin, sinir sisteminde miyelin kılıfı üretmekle görevli hücreler olduğu göz önünde bulundurulduğunda, bu hücrelerin doğru şekilde farklılaşması ve işlev görmesi, sinir iletimini hızlandırarak MS gibi hastalıkların semptomlarını hafifletebilir. Bu araştırma, OPC'lerin nasıl ve ne zaman olgun oligodendrositler haline geldiğini daha iyi anlamamıza yardımcı olabilir. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (tarih). Oligodendrocyte Differentiation Holds Promise for MS Treatment Development. https://www.genengnews.com/topics/translational-medicine/oligodendrocyte-differentiation-holds-promise-for-ms-treatment-development/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/oligodendrocyte-differentiation-holds-promise-for-ms-treatment-development/",
-            "date": "2026-01-22T21:31:35.867904",
-            "timestamp": 1769117495.867915
-        },
-        {
-            "title": "İlaç Sektöründe Yapay Zeka Platformlarına Büyük Yatırım",
-            "original_title": "Pharma Bets Big on AI Platforms with Flurry of New Year Deals",
-            "content": "Chai Discovery, Noetik ve Boltz, çok yıllık ilaç ortaklıklarına girerek odaklarını moleküllerden modellere kaydırdı. Bu, tek varlık üzerine yapılan bahislerden uzaklaşılarak geniş keşifler için yapay zeka altyapısına yapılan yatırımlara doğru bir kültürel değişimi işaret ediyor. İlaç sektörü, yapay zekanın sunduğu geniş olanakları keşfetmek ve geliştirmek için büyük bir adım atıyor. Bu yeni anlaşmalar, şirketlerin yapay zeka platformlarına büyük yatırımlar yaparak, yeni nesil ilaç keşif süreçlerini hızlandırmayı hedeflediklerini gösteriyor. Yapay zeka, ilaç geliştirme süreçlerinde daha geniş ve etkili keşifler yapılmasını sağlayarak, endüstride önemli bir rol oynayacak gibi görünüyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/artificial-intelligence/pharma-bets-big-on-ai-platforms-with-flurry-of-new-year-deals/",
-            "date": "2026-01-22T21:31:41.424061",
-            "timestamp": 1769117501.424069
         }
     ]
 }
