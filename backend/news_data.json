@@ -1,14 +1,14 @@
 {
-    "last_updated": "2026-01-29T15:45:31.646951",
+    "last_updated": "2026-01-29T18:59:34.482847",
     "daily_news": {
-        "title": "DeepMind'in AlphaGenome'u Genetik Varyasyonların Fonksiyonunu ve Hastalıkları Tahmin Ediyor",
-        "original_title": "DeepMind’s AlphaGenome Predicts Genetic Variation Function, Including Disease",
-        "content": "DeepMind'in Nobel Ödüllü AlphaFold ekibi, genom fonksiyonunu anlamak için düzenleyici varyant etkisi tahminini geliştiren bir DNA dizilimi modeli olan AlphaGenome'u geliştirdi. Bu yeni model, genetik varyasyonların fonksiyonunu tahmin ederek hastalıkların genetik kökenlerini daha iyi anlamamıza olanak tanıyor. \n\nAlphaGenome, genetik mühendisliği ve biyoteknoloji alanlarında önemli bir yenilik olarak dikkat çekiyor. DNA dizilimlerini analiz ederek, genetik varyasyonların nasıl işlediğini ve bu varyasyonların hastalıkların ortaya çıkmasında nasıl bir rol oynadığını anlamaya yardımcı oluyor. Bu, bilim insanlarının genetik hastalıkların teşhisini ve tedavisini geliştirmelerine olanak tanıyabilir.\n\nDeepMind'in bu yeni modeli, genetik varyasyonların işlevlerini tahmin etmede daha önceki yöntemlerden çok daha etkili olabilir. AlphaGenome, genetik araştırmalarda ve tıbbi teşhislerde devrim yaratma potansiyeline sahiptir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/artificial-intelligence/deepminds-alphagenome-predicts-genetic-variation-function-including-disease/)",
-        "category": "Genetik",
-        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/artificial-intelligence/deepminds-alphagenome-predicts-genetic-variation-function-including-disease/",
-        "date": "2026-01-29T15:45:31.646908",
-        "timestamp": 1769701531.646916
+        "title": "Parkinson'u Belirtiler Ortaya Çıkmadan Yıllar Önce Tespit Edebilen Kan Testi Geliştirildi",
+        "original_title": "A simple blood test could spot Parkinson’s years before symptoms",
+        "content": "Bilim insanları İsveç ve Norveç'te, Parkinson hastalığını en yıkıcı semptomları ortaya çıkmadan yıllar, hatta on yıllar önce tespit etmenin umut verici bir yolunu keşfetti. Araştırma, hücrelerin stresle başa çıkma ve DNA onarım süreçleriyle ilişkili ince biyolojik sinyalleri kanda tespit ederek, Parkinson'un sessizce ölçülebilir bir iz bıraktığı kısa bir erken pencereyi belirledi. Bu keşif, Parkinson'un erken teşhisine olanak tanıyabilir ve hastalığın ilerlemesini yavaşlatacak ya da durduracak tedavi yöntemlerinin geliştirilmesine kapı aralayabilir. Araştırma ekibi, Parkinson'un biyolojik izlerini taşıyan kan örneklerini analiz ederek, hücresel stres ve DNA onarımı gibi süreçlerle ilgili spesifik biyobelirteçleri tanımladı. Bu biyobelirteçler, hastalığın erken evrelerinde kanda tespit edilebiliyor, bu da Parkinson'un semptomlar ortaya çıkmadan önce teşhis edilmesine olanak tanıyor. Çalışmanın sonuçları, Parkinson hastalığının daha iyi anlaşılması ve yeni tedavi stratejilerinin geliştirilmesi açısından büyük bir potansiyele sahip. Araştırmacılar, bu kan testi yönteminin daha geniş popülasyonlarda doğrulanması için daha fazla çalışmaya ihtiyaç olduğunu belirtiyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.sciencedaily.com/releases/2026/01/260129080424.htm",
+        "date": "2026-01-29T15:45:07.533578",
+        "timestamp": 1769701507.533587
     },
     "news_list": [
         {
