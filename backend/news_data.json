@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-01-29T09:54:13.086726",
+    "last_updated": "2026-01-29T13:16:36.217939",
     "daily_news": {
-        "title": "Beyin Organoidleri: Otizme Yol Açan Mutasyonların Erken Gelişimdeki Ortak Yollarını Haritalıyor",
-        "original_title": "Brain Organoids Map How Distinct Autism Mutations Converge in Early Development",
-        "content": "Beyin organoidleri, otizmle ilişkili genetik mutasyonların erken insan beyin gelişimi sırasında ortak moleküler yollarda nasıl birleştiğini ortaya koyarak otizmin ortak nörobiyolojik özellikleri hakkında önemli bilgiler sunuyor. Bu araştırma, otizmin farklı genetik mutasyonlarının erken gelişim aşamalarında ortak bir zeminde nasıl kesiştiğini anlamamıza yardımcı olabilir. Bu bulgular, otizm spektrum bozukluklarının altında yatan biyolojik mekanizmaların daha iyi anlaşılmasına katkıda bulunabilir ve potansiyel tedavi hedeflerinin belirlenmesine yardımcı olabilir. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/translational-medicine/brain-organoids-map-how-distinct-autism-mutations-converge-in-early-development/",
-        "date": "2026-01-29T04:45:49.371277",
-        "timestamp": 1769661949.371287
+        "title": "Ölümü Yanlış Bulan Yaşam Uzunluğu Savunucuları: Vitalistler",
+        "original_title": "Meet the Vitalists: the hardcore longevity enthusiasts who believe death is “wrong”",
+        "content": "Nathan Cheng, son birkaç yıl içinde benzer konuşmalar yaparak, dinleyicilerine ölümün kötü bir şey olduğuna dair fikirlerini aktarmaya çalışıyor. Yaklaşık 80 kişilik bir topluluğa hitap eden Cheng, ölümün kötü bir şey olduğunu ve bunun yenilmesi gerektiğini savunuyor. Cheng'in bu konuşmaları, 'Vitalistler' olarak bilinen ve ölümün yanlış olduğuna inanan bir grup insan arasında yankı buluyor. Onlar için ölüm, kaçınılmaz bir sonuç değil, çözülmesi gereken bir problem. Bu grup, yaşam süresini uzatmanın ve ölümle mücadele etmenin insanlık için önemli bir hedef olduğuna inanıyor. Onlara göre, ölümle savaşmak, insanlığın geleceği için atılması gereken bir adım. Bu görüşler, bazı bilim insanları ve teknoloji uzmanları tarafından da destekleniyor ve tartışılıyor. Cheng ve onun gibi düşünenler, biyoteknoloji ve tıp alanındaki ilerlemelerin, ölümün üstesinden gelinmesi için umut verici olduğunu düşünüyor. \n\nKaynak: MIT Technology Review, 2023",
+        "category": "Bilim & Teknoloji",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/01/29/1131815/vitalism-longevity-enthusiasts-influence/",
+        "date": "2026-01-29T13:16:26.982401",
+        "timestamp": 1769692586.982411
     },
     "news_list": [
+        {
+            "title": "Kış Fırtınalarına Karşı Elektrik Şebekesi Nasıl Dayanıyor?",
+            "original_title": "How the grid can ride out winter storms",
+            "content": "ABD'nin doğu yarısı, hafta sonu devasa bir kar fırtınasıyla karşı karşıya kaldı. İyi haber şu ki, elektrik şebekesi, dondurucu sıcaklıklar ve artan talebe büyük ölçüde ayak uydurmayı başardı. Ancak, özellikle fosil yakıtlı santraller için bazı zorluklar yaşandı. Yapılan bir analiz, ülkenin en büyük şebeke operatörü olan PJM'nin bazı gerilim belirtileri gösterdiğini ortaya koydu.\n\nPJM, elektrik hizmetlerini genellikle sorunsuz bir şekilde sağlamasına rağmen, bu tür aşırı hava koşulları sırasında fosil yakıtlarla çalışan santrallerde bazı aksamalar yaşandığını belirtiyor. Bu aksamalar, kömür ve doğal gaz gibi kaynakların tedarik zincirinde yaşanan sıkıntılar nedeniyle meydana geldi. Özellikle kömür stoklarındaki azalmalar ve doğal gaz arzındaki kesintiler, santrallerin tam kapasiteyle çalışmasını zorlaştırdı.\n\nBuna karşın, yenilenebilir enerji kaynakları, bu tür zorlu hava koşullarında dahi güvenilir bir enerji kaynağı olarak öne çıkıyor. Rüzgar ve güneş enerjisi gibi kaynaklar, fosil yakıtların aksine tedarik zinciri sorunlarından daha az etkileniyor ve bu sayede daha stabil bir enerji arzı sağlıyor.\n\nŞebeke operatörleri, gelecekte benzer durumlarla daha iyi başa çıkabilmek adına enerji tedarikçi çeşitliliğini artırmayı ve altyapıyı güçlendirmeyi planlıyor. Bu tür önlemler, hem fosil yakıtlara olan bağımlılığı azaltmayı hem de yenilenebilir enerji kaynaklarının daha etkin kullanılmasını sağlamayı amaçlıyor. Böylece, elektrik şebekesi gelecekteki kış fırtınalarına karşı daha dayanıklı hale getirilebilir.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/",
+            "date": "2026-01-29T13:16:20.957926",
+            "timestamp": 1769692580.957936
+        },
+        {
+            "title": "Ölümü Yanlış Bulan Yaşam Uzunluğu Savunucuları: Vitalistler",
+            "original_title": "Meet the Vitalists: the hardcore longevity enthusiasts who believe death is “wrong”",
+            "content": "Nathan Cheng, son birkaç yıl içinde benzer konuşmalar yaparak, dinleyicilerine ölümün kötü bir şey olduğuna dair fikirlerini aktarmaya çalışıyor. Yaklaşık 80 kişilik bir topluluğa hitap eden Cheng, ölümün kötü bir şey olduğunu ve bunun yenilmesi gerektiğini savunuyor. Cheng'in bu konuşmaları, 'Vitalistler' olarak bilinen ve ölümün yanlış olduğuna inanan bir grup insan arasında yankı buluyor. Onlar için ölüm, kaçınılmaz bir sonuç değil, çözülmesi gereken bir problem. Bu grup, yaşam süresini uzatmanın ve ölümle mücadele etmenin insanlık için önemli bir hedef olduğuna inanıyor. Onlara göre, ölümle savaşmak, insanlığın geleceği için atılması gereken bir adım. Bu görüşler, bazı bilim insanları ve teknoloji uzmanları tarafından da destekleniyor ve tartışılıyor. Cheng ve onun gibi düşünenler, biyoteknoloji ve tıp alanındaki ilerlemelerin, ölümün üstesinden gelinmesi için umut verici olduğunu düşünüyor. \n\nKaynak: MIT Technology Review, 2023",
+            "category": "Bilim & Teknoloji",
+            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/01/29/1131815/vitalism-longevity-enthusiasts-influence/",
+            "date": "2026-01-29T13:16:26.982401",
+            "timestamp": 1769692586.982411
+        },
+        {
+            "title": "Barbados Hükümeti ve BioMed X, AI ile Erken Diyabetik Böbrek Hastalığı Modellemesini Geliştirmek için Ortaklık Kuruyor",
+            "original_title": "Barbados Government and BioMed X Partner to Improve AI-Based Early Diabetic Kidney Disease Modeling",
+            "content": "<p>Barbados Hükümeti, BioMed X ile birlikte çalışarak yapay zeka tabanlı erken diyabetik böbrek hastalığı modellemesini geliştirmeyi hedefliyor. Bu işbirliği, Barbadian hastalar ve sağlıklı kontrollerin çok katmanlı moleküler karakterizasyonunu yapay zeka destekli modelleme ile birleştirerek, nüfusa özgü dijital bir Afrika ikizi oluşturmayı amaçlıyor.</p>\n<p>Bu projede, Barbados'taki diyabetik böbrek hastalığı yaygınlığını ve ilerlemesini daha iyi anlamak için özel bir yaklaşım geliştiriliyor. Yapay zeka teknolojileri ve moleküler karakterizasyonun entegrasyonu sayesinde, hastalığın erken teşhisi ve tedavi yöntemleri üzerinde çalışılacak.</p>\n<p>Barbados hükümeti, bu tür inovatif projelerle sağlık sistemlerini güçlendirmeyi ve vatandaşlarının sağlık hizmetlerine erişimini artırmayı planlıyor. BioMed X ile kurulan bu ortaklık, yalnızca Barbados için değil, aynı zamanda Afrika kökenli diğer topluluklar için de önemli veriler sağlayabilir.</p>\n<p>Bu işbirliği ile elde edilecek bulgular, global sağlık sistemlerinde de yankı bulabilir ve genel olarak diyabetik böbrek hastalığı yönetimine katkıda bulunabilir.</p>\n<p>Kaynak: GEN - Genetic Engineering and Biotechnology News</p>",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/barbados-government-and-biomed-x-partner-to-improve-ai-based-early-diabetic-kidney-disease-modeling/",
+            "date": "2026-01-29T13:16:36.217897",
+            "timestamp": 1769692596.217906
+        },
         {
             "title": "Beyin Organoidleri: Otizme Yol Açan Mutasyonların Erken Gelişimdeki Ortak Yollarını Haritalıyor",
             "original_title": "Brain Organoids Map How Distinct Autism Mutations Converge in Early Development",
@@ -480,36 +510,6 @@
             "link": "https://www.technologyreview.com/2026/01/23/1131698/measles-surging-us-wastewater-tracking/",
             "date": "2026-01-23T13:05:20.576709",
             "timestamp": 1769173520.576718
-        },
-        {
-            "title": "Hücre ve Gen Terapisinde Robotik Otomasyon ve Üretimde Dönüm Noktası",
-            "original_title": "Milestone Reached in Cell and Gene Therapy Robotic Automation and Manufacturing Collaboration",
-            "content": "Hücre ve gen terapilerinin yaygın olarak benimsenmesinin önündeki en büyük engellerden biri, üretim maliyetleri ve değişkenliğidir. Bu zorluklar, gelişmiş terapilere daha geniş bir erişim sağlanmasını kısıtlamıştır. Ancak, yakın zamanda hücre ve gen terapilerinin üretiminde robotik otomasyon ve üretim alanında önemli bir dönüm noktası kaydedildi. Bu gelişme, bu tür tedavilerin daha erişilebilir hale gelmesi açısından umut verici bir adım olarak değerlendiriliyor. \n\nRobotik otomasyon, üretim sürecindeki insan hatasını azaltarak ve tutarlılığı artırarak maliyetleri düşürmeye yardımcı olabilir. Ayrıca, bu tür sistemler, üretim süreçlerini daha hızlı ve verimli hale getirerek, terapilerin daha geniş bir kitleye ulaşmasını sağlayabilir. Uzmanlar, bu teknolojik ilerlemelerin, hücre ve gen terapilerinin gelecekteki uygulamalarını önemli ölçüde etkileyeceğini öngörüyor. \n\nSonuç olarak, robotik otomasyon ve üretim teknolojilerindeki bu önemli gelişmeler, hücre ve gen terapilerinin daha geniş kitlelere ulaştırılmasını sağlayarak, bu alanda devrim yaratma potansiyeline sahiptir. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News (2023). Milestone reached in cell and gene therapy robotic automation and manufacturing collaboration. GEN - Genetic Engineering and Biotechnology News. Erişim adresi: https://www.genengnews.com/topics/bioprocessing/milestone-reached-in-cell-and-gene-therapy-robotic-automation-and-manufacturing-collaboration/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/bioprocessing/milestone-reached-in-cell-and-gene-therapy-robotic-automation-and-manufacturing-collaboration/",
-            "date": "2026-01-23T13:05:32.098866",
-            "timestamp": 1769173532.098874
-        },
-        {
-            "title": "Nefes Tabanlı Testler: Mikrobiyom Sağlığını İzlemede Yeni Bir Araç",
-            "original_title": "Breath-Based Testing Emerges as Tool for Monitoring Microbiome Health",
-            "content": "Araştırmalar, fareler ve çocuklar üzerinde yapılan çalışmalarla, hastalıkla ilişkili bağırsak bakterilerinin, solunan nefeste bulunan UOB'ler (uçucu organik bileşikler) aracılığıyla tespit edilebileceğini göstermiştir. Bu buluş, hastalıkla bağlantılı bağırsak sağlığı sorunlarını izlemek ve teşhis etmek için hızlı ve invaziv olmayan nefes testlerinin geliştirilmesine kapı aralayabilir.\n\nGenetik mühendisliği ve biyoteknoloji alanında yayın yapan GEN dergisinde yer alan bu araştırma, nefeste bulunan uçucu organik bileşiklerin, bağırsak mikrobiyomunun sağlık durumunu yansıtma potansiyelini vurguluyor. Bu buluş, gelecekte doktorların hastaların bağırsak sağlığı üzerinde hızlı değerlendirmeler yapmalarına olanak sağlayabilir.\n\nAraştırmanın, insan sağlığı üzerinde önemli etkileri olabilecek bu potansiyel tanı aracı üzerinde daha fazla çalışılmasına zemin hazırlaması bekleniyor.\n\nKaynak:\nGEN - Genetic Engineering and Biotechnology News. (t.y.). Breath-Based Testing Emerges as Tool for Monitoring Microbiome Health. https://www.genengnews.com/topics/translational-medicine/breath-based-testing-emerges-as-tool-for-monitoring-microbial-health/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/breath-based-testing-emerges-as-tool-for-monitoring-microbial-health/",
-            "date": "2026-01-23T13:05:40.972437",
-            "timestamp": 1769173540.972445
-        },
-        {
-            "title": "Erken Müdahale, Otizmli Çocukların Konuşma Dili Kazanmasında Etkili",
-            "original_title": "Early Intervention Helps Most Autistic Children Acquire Spoken Language",
-            "content": "Yeni araştırmalar, başlangıçta konuşamayan otizmli çocukların yaklaşık üçte ikisinin, kanıta dayalı erken müdahale sonrasında konuşma dili geliştirdiğini bildirmektedir. Çalışma, başarıyı etkileyen müdahale süresi ve motor taklit becerileri gibi temel faktörleri belirlemektedir. Drexel Üniversitesi'nin A.J. Drexel Otizm Enstitüsü'nden araştırmacılar tarafından yürütülen çalışmaya göre, kanıta dayalı erken müdahaleler aldıktan sonra, konuşamayan otizmli çocukların yaklaşık üçte ikisi tek kelimeler konuşmakta ve yaklaşık yarısı daha karmaşık bir dil geliştirmektedir. Bulgular [&#8230;] APA Formatında Kaynak: Neuroscience News. (2026). Early Intervention Helps Most Autistic Children Acquire Spoken Language. https://neurosciencenews.com/early-intervention-autism-language-30086/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/early-intervention-autism-language-30086/",
-            "date": "2026-01-23T02:24:10.442204",
-            "timestamp": 1769135050.442214
         }
     ]
 }
