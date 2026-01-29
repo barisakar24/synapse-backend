@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-01-29T18:59:34.482847",
+    "last_updated": "2026-01-29T21:36:35.448803",
     "daily_news": {
-        "title": "Parkinson'u Belirtiler Ortaya Çıkmadan Yıllar Önce Tespit Edebilen Kan Testi Geliştirildi",
-        "original_title": "A simple blood test could spot Parkinson’s years before symptoms",
-        "content": "Bilim insanları İsveç ve Norveç'te, Parkinson hastalığını en yıkıcı semptomları ortaya çıkmadan yıllar, hatta on yıllar önce tespit etmenin umut verici bir yolunu keşfetti. Araştırma, hücrelerin stresle başa çıkma ve DNA onarım süreçleriyle ilişkili ince biyolojik sinyalleri kanda tespit ederek, Parkinson'un sessizce ölçülebilir bir iz bıraktığı kısa bir erken pencereyi belirledi. Bu keşif, Parkinson'un erken teşhisine olanak tanıyabilir ve hastalığın ilerlemesini yavaşlatacak ya da durduracak tedavi yöntemlerinin geliştirilmesine kapı aralayabilir. Araştırma ekibi, Parkinson'un biyolojik izlerini taşıyan kan örneklerini analiz ederek, hücresel stres ve DNA onarımı gibi süreçlerle ilgili spesifik biyobelirteçleri tanımladı. Bu biyobelirteçler, hastalığın erken evrelerinde kanda tespit edilebiliyor, bu da Parkinson'un semptomlar ortaya çıkmadan önce teşhis edilmesine olanak tanıyor. Çalışmanın sonuçları, Parkinson hastalığının daha iyi anlaşılması ve yeni tedavi stratejilerinin geliştirilmesi açısından büyük bir potansiyele sahip. Araştırmacılar, bu kan testi yönteminin daha geniş popülasyonlarda doğrulanması için daha fazla çalışmaya ihtiyaç olduğunu belirtiyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/01/260129080424.htm",
-        "date": "2026-01-29T15:45:07.533578",
-        "timestamp": 1769701507.533587
+        "title": "DHS, Google ve Adobe'nin Yapay Zekasıyla Video Üretiyor",
+        "original_title": "DHS is using Google and Adobe AI to make videos",
+        "content": "Amerika Birleşik Devletleri İç Güvenlik Bakanlığı, kamuoyuyla paylaşılan içerikleri oluşturmak ve düzenlemek için Google ve Adobe'nin yapay zeka video üreticilerini kullanıyor. Yeni bir belge, bu durumu ortaya koyuyor. Bu gelişme, göçmenlik kurumlarının sosyal medyayı Başkan Trump'ın toplu sınır dışı etme gündemini desteklemek amacıyla içeriklerle doldurmasıyla ortaya çıktı. Bu içeriklerin bir kısmının yapay zeka ile üretildiği düşünülüyor. Göçmenlik politikalarının kamuoyunda destek bulması için sosyal medya üzerinden yapılan bu tür içerik paylaşımları, teknolojinin hükümet politikalarıyla nasıl iç içe geçtiğini gösteriyor. Yapay zeka destekli video üretimi, hızla gelişen ve yaygınlaşan bir teknoloji olarak, kamu kurumlarının stratejik iletişim çalışmalarında önemli bir araç haline geliyor.\n\nKaynak: MIT Technology Review",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
+        "date": "2026-01-29T21:36:35.240780",
+        "timestamp": 1769722595.240789
     },
     "news_list": [
+        {
+            "title": "Yapay Zeka Korkusu: Grok ve Claude Code'un Etkisi",
+            "original_title": "The AI Hype Index: Grok makes porn, and Claude Code nails your job",
+            "content": "Yapay zeka dünyasında iki zıt bakış açısı arasında gidip geliyoruz: Bir yanda yapay zekanın yetenekleri karşısında hayranlık duyanlar, diğer yanda ise bu teknolojinin potansiyel tehlikeleri karşısında endişelenenler. MIT Technology Review'de yayınlanan bir makaleye göre, Grok adlı yapay zeka sistemi pornografi üretiminde kullanılıyor ve bu durum bazı çevrelerde tedirginlik yaratıyor. Öte yandan, Claude Code adlı başka bir yapay zeka sistemi ise web sitesi kurmaktan MRI görüntülerini okumaya kadar çok çeşitli görevleri başarıyla yerine getirebiliyor. Bu durum, özellikle genç nesil olan Z kuşağını bir hayli endişelendiriyor. Zira bu tür yapay zeka sistemlerinin iş gücü piyasasındaki yerini nasıl etkileyeceği belirsizliğini koruyor. Yapay zekanın bu kadar geniş bir yelpazede kullanılabilmesi, hem büyük bir potansiyel taşıyor hem de ciddi etik ve toplumsal soruları beraberinde getiriyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/",
+            "date": "2026-01-29T21:36:28.668641",
+            "timestamp": 1769722588.66865
+        },
+        {
+            "title": "DHS, Google ve Adobe'nin Yapay Zekasıyla Video Üretiyor",
+            "original_title": "DHS is using Google and Adobe AI to make videos",
+            "content": "Amerika Birleşik Devletleri İç Güvenlik Bakanlığı, kamuoyuyla paylaşılan içerikleri oluşturmak ve düzenlemek için Google ve Adobe'nin yapay zeka video üreticilerini kullanıyor. Yeni bir belge, bu durumu ortaya koyuyor. Bu gelişme, göçmenlik kurumlarının sosyal medyayı Başkan Trump'ın toplu sınır dışı etme gündemini desteklemek amacıyla içeriklerle doldurmasıyla ortaya çıktı. Bu içeriklerin bir kısmının yapay zeka ile üretildiği düşünülüyor. Göçmenlik politikalarının kamuoyunda destek bulması için sosyal medya üzerinden yapılan bu tür içerik paylaşımları, teknolojinin hükümet politikalarıyla nasıl iç içe geçtiğini gösteriyor. Yapay zeka destekli video üretimi, hızla gelişen ve yaygınlaşan bir teknoloji olarak, kamu kurumlarının stratejik iletişim çalışmalarında önemli bir araç haline geliyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
+            "date": "2026-01-29T21:36:35.240780",
+            "timestamp": 1769722595.240789
+        },
         {
             "title": "Parkinson'u Belirtiler Ortaya Çıkmadan Yıllar Önce Tespit Edebilen Kan Testi Geliştirildi",
             "original_title": "A simple blood test could spot Parkinson’s years before symptoms",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/cancer/lung-cancers-bodyguard-system-discovered-by-singapore-scientists/",
             "date": "2026-01-23T21:29:48.684047",
             "timestamp": 1769203788.684055
-        },
-        {
-            "title": "Down Sendromlu Fare Modelinde Karaciğer Bozukluğu Diyetle İyileştirilebilir",
-            "original_title": "Diet Addresses Liver Dysfunction in Down Syndrome Mouse Model",
-            "content": "Bireyler Down sendromu ile birlikte karaciğer metabolizmasında önemli değişiklikler yaşarlar. Yeni bir çalışma, bu değişikliklerin diyet yoluyla değiştirilebilir olabileceğini öne sürüyor ve bu da daha iyi sağlık sonuçları için umut veriyor.\n\nÇalışmada, Down sendromu fare modeli kullanılarak, karaciğer fonksiyonlarındaki bozuklukların diyetle nasıl iyileştirilebileceği araştırıldı. Araştırmacılar, bu farelere belirli bir diyet uygulayarak karaciğer metabolizmalarındaki değişiklikleri gözlemlediler. Elde edilen veriler, diyet müdahalesinin karaciğer fonksiyonlarını olumlu yönde etkileyebileceğini gösteriyor.\n\nBu bulgular, Down sendromu olan bireyler için potansiyel bir tedavi yolunu işaret ediyor. Diyet değişiklikleri sayesinde karaciğer sağlığının iyileştirilebileceği ve böylece genel sağlık durumunun da olumlu yönde etkilenebileceği düşünülüyor. Ancak, bu sonuçların insanlara uygulanabilirliği için daha fazla araştırmaya ihtiyaç duyulmaktadır.\n\nKaynak:\nGenetic Engineering and Biotechnology News. (tarih). Diet Addresses Liver Dysfunction in Down Syndrome Mouse Model. https://www.genengnews.com/topics/omics/diet-addresses-liver-dysfunction-in-down-syndrome-mouse-model/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/omics/diet-addresses-liver-dysfunction-in-down-syndrome-mouse-model/",
-            "date": "2026-01-23T18:47:21.339803",
-            "timestamp": 1769194041.339813
-        },
-        {
-            "title": "Şizofrenide Sesli Halüsinasyonların Beyindeki Bir Yanılsamadan Kaynaklanabileceği Keşfedildi",
-            "original_title": "A brain glitch may explain why some people hear voices",
-            "content": "Yeni araştırmalar, şizofreni hastalarında görülen işitsel halüsinasyonların, içsel düşüncelerin dış sesler olarak algılanmasına yol açan bir beyin yanılsamasından kaynaklanabileceğini öne sürüyor. Normalde, beyin kendi iç konuşmasının sesini tahmin eder ve buna olan tepkisini azaltır. Ancak, sesler duyan kişilerde beyin aktivitesi artar, sanki ses başka birine aitmiş gibi. Bu keşif, bilim insanlarının psikoz için erken uyarı işaretleri geliştirmelerine yardımcı olabilir.\n\nAPA Kaynağı: Mind & Brain News -- ScienceDaily.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/01/260122074033.htm",
-            "date": "2026-01-23T15:35:06.401268",
-            "timestamp": 1769182506.401278
         }
     ]
 }
