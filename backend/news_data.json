@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-01-29T02:43:41.636740",
+    "last_updated": "2026-01-29T04:45:49.371325",
     "daily_news": {
-        "title": "Yapay Zeka Şirketlerinin Gelecek Nesil Nükleer Enerjiye Yatırım Yapmasının Nedeni",
-        "original_title": "Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear",
-        "content": "Yapay zeka (YZ) alanındaki hızlı gelişmeler, devasa veri merkezleri ve bu merkezlerin büyük hesaplama ihtiyaçlarını karşılayabilecek enerji kaynaklarına yönelik eşi benzeri görülmemiş yatırımları beraberinde getiriyor. Bu tesisler için potansiyel elektrik kaynaklarından biri de, önceki nesillerine kıyasla daha ucuz inşa edilebilen ve daha güvenli işletilebilen yeni nesil nükleer enerji santralleri olabilir. MIT Technology Review editörleri ve muhabirlerinin katılımıyla gerçekleşen bu yuvarlak masa tartışmasında, YZ şirketlerinin neden bu enerji kaynağına yöneldiği ve bu teknolojinin geleceği ele alınıyor.\n\nYZ'nin artan enerji ihtiyacı, geleneksel enerji kaynaklarına olan talebi artırırken, sürdürülebilir ve güvenilir alternatifler arayışını da beraberinde getiriyor. Yeni nesil nükleer santraller, hem çevresel hem de ekonomik avantajlar sunarak bu ihtiyacı karşılayabilecek bir çözüm olarak ön plana çıkıyor. Bu santrallerin, modüler yapıları sayesinde daha düşük maliyetlerle ve daha hızlı bir şekilde inşa edilebilmesi, yatırımcılar için cazip hale geliyor.\n\nAyrıca, bu tür santrallerde kullanılan gelişmiş güvenlik teknolojileri, geçmişte yaşanan nükleer kazaların tekrarlanma riskini azaltarak, daha güvenli bir enerji üretimi sağlıyor. Enerji arzında süreklilik ve güvenlik, özellikle YZ uygulamaları için kritik bir öneme sahip olduğundan, YZ şirketleri bu yeni nesil nükleer teknolojilere yatırım yapmayı tercih ediyor.\n\nSonuç olarak, YZ'nin enerji tüketimi artarken, bu talebi karşılamak için sürdürülebilir ve güvenli enerji kaynaklarına olan ihtiyaç da artıyor. Yeni nesil nükleer enerji santralleri, bu ihtiyaca cevap verebilecek potansiyel bir çözüm sunarak, YZ şirketlerinin yatırım listesinde üst sıralara yerleşiyor.\n\nKaynak: MIT Technology Review, (2023). Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear. Erişim tarihi: 2023",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/",
-        "date": "2026-01-29T02:43:33.596461",
-        "timestamp": 1769654613.596469
+        "title": "Beyin Organoidleri: Otizme Yol Açan Mutasyonların Erken Gelişimdeki Ortak Yollarını Haritalıyor",
+        "original_title": "Brain Organoids Map How Distinct Autism Mutations Converge in Early Development",
+        "content": "Beyin organoidleri, otizmle ilişkili genetik mutasyonların erken insan beyin gelişimi sırasında ortak moleküler yollarda nasıl birleştiğini ortaya koyarak otizmin ortak nörobiyolojik özellikleri hakkında önemli bilgiler sunuyor. Bu araştırma, otizmin farklı genetik mutasyonlarının erken gelişim aşamalarında ortak bir zeminde nasıl kesiştiğini anlamamıza yardımcı olabilir. Bu bulgular, otizm spektrum bozukluklarının altında yatan biyolojik mekanizmaların daha iyi anlaşılmasına katkıda bulunabilir ve potansiyel tedavi hedeflerinin belirlenmesine yardımcı olabilir. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/translational-medicine/brain-organoids-map-how-distinct-autism-mutations-converge-in-early-development/",
+        "date": "2026-01-29T04:45:49.371277",
+        "timestamp": 1769661949.371287
     },
     "news_list": [
+        {
+            "title": "Beyin Organoidleri: Otizme Yol Açan Mutasyonların Erken Gelişimdeki Ortak Yollarını Haritalıyor",
+            "original_title": "Brain Organoids Map How Distinct Autism Mutations Converge in Early Development",
+            "content": "Beyin organoidleri, otizmle ilişkili genetik mutasyonların erken insan beyin gelişimi sırasında ortak moleküler yollarda nasıl birleştiğini ortaya koyarak otizmin ortak nörobiyolojik özellikleri hakkında önemli bilgiler sunuyor. Bu araştırma, otizmin farklı genetik mutasyonlarının erken gelişim aşamalarında ortak bir zeminde nasıl kesiştiğini anlamamıza yardımcı olabilir. Bu bulgular, otizm spektrum bozukluklarının altında yatan biyolojik mekanizmaların daha iyi anlaşılmasına katkıda bulunabilir ve potansiyel tedavi hedeflerinin belirlenmesine yardımcı olabilir. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/brain-organoids-map-how-distinct-autism-mutations-converge-in-early-development/",
+            "date": "2026-01-29T04:45:49.371277",
+            "timestamp": 1769661949.371287
+        },
         {
             "title": "Yapay Zeka Şirketlerinin Gelecek Nesil Nükleer Enerjiye Yatırım Yapmasının Nedeni",
             "original_title": "Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear",
@@ -500,16 +510,6 @@
             "link": "https://neurosciencenews.com/early-intervention-autism-language-30086/",
             "date": "2026-01-23T02:24:10.442204",
             "timestamp": 1769135050.442214
-        },
-        {
-            "title": "Yüksek MYC'li Tümörler Bağışıklık Sisteminden Nasıl Kaçıyor?",
-            "original_title": "High‑MYC Tumors Evade the Immune System by Clearing R‑Loop Alarm Signals",
-            "content": "Yüksek MYC seviyesine sahip tümörler, R-loop kaynaklı alarm sinyallerini ortadan kaldırarak bağışıklık sisteminden kaçmayı başarıyor. MYC tarafından yönlendirilen bu tümörler, RNA-bağlayıcı bir faza geçerek kendilerini bağışıklık saldırılarından korur. Bu durum, MYC yüksek kanserleri tekrar tespit edilebilir hale getirebilecek seçici bir zayıflığı ortaya çıkarıyor. \n\nBu tümörler, R-loop adı verilen ve DNA ile RNA arasında oluşan geçici yapıları kullanarak bağışıklık sisteminin uyarı mekanizmalarını etkisiz hale getirir. MYC'nin bu şekilde işlev görmesi, kanser hücrelerinin bağışıklık sisteminden gizlenerek hayatta kalmasını kolaylaştırır. Bilim insanları, bu mekanizmanın nasıl işlediğini anlayarak kanser tedavilerinde yeni hedefler keşfetmeyi umuyor. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/high%e2%80%91myc-tumors-evade-the-immune-system-by-clearing-r%e2%80%91loop-alarm-signals/",
-            "date": "2026-01-23T02:24:18.102084",
-            "timestamp": 1769135058.102092
         }
     ]
 }
