@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-01-29T21:36:35.448803",
+    "last_updated": "2026-01-30T02:44:26.883740",
     "daily_news": {
-        "title": "DHS, Google ve Adobe'nin Yapay Zekasıyla Video Üretiyor",
-        "original_title": "DHS is using Google and Adobe AI to make videos",
-        "content": "Amerika Birleşik Devletleri İç Güvenlik Bakanlığı, kamuoyuyla paylaşılan içerikleri oluşturmak ve düzenlemek için Google ve Adobe'nin yapay zeka video üreticilerini kullanıyor. Yeni bir belge, bu durumu ortaya koyuyor. Bu gelişme, göçmenlik kurumlarının sosyal medyayı Başkan Trump'ın toplu sınır dışı etme gündemini desteklemek amacıyla içeriklerle doldurmasıyla ortaya çıktı. Bu içeriklerin bir kısmının yapay zeka ile üretildiği düşünülüyor. Göçmenlik politikalarının kamuoyunda destek bulması için sosyal medya üzerinden yapılan bu tür içerik paylaşımları, teknolojinin hükümet politikalarıyla nasıl iç içe geçtiğini gösteriyor. Yapay zeka destekli video üretimi, hızla gelişen ve yaygınlaşan bir teknoloji olarak, kamu kurumlarının stratejik iletişim çalışmalarında önemli bir araç haline geliyor.\n\nKaynak: MIT Technology Review",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
-        "date": "2026-01-29T21:36:35.240780",
-        "timestamp": 1769722595.240789
+        "title": "Hipokampus Ödülleri Tahmin Ediyor: Hafıza Yeniden Düzenleniyor",
+        "original_title": "Hippocampus Predicts Rewards by Reorganizing Memories",
+        "content": "Araştırmacılar, hipokampusun yalnızca hafıza için değil, aynı zamanda ödülleri tahmin eden bir model olarak da hareket ettiğini keşfettiler. Bu durum, nöral aktiviteyi ödülleri öngörecek şekilde kaydırarak Alzheimer hakkında yeni içgörüler sunmaktadır. Hipokampusun bu işlevi, ödül beklentisi ile ilgili etkinliklerin düzenlenmesinde önemli bir rol oynamaktadır. \n\nYapılan çalışmalarda, hipokampusun önceleri yalnızca hafıza ile ilişkilendirildiği, ancak bu yeni bulgularla birlikte ödül tahmini konusunda da aktif bir rol oynadığı anlaşılmıştır. Ödüllerin tahmin edilmesi, bireyin gelecekteki eylemlerini yönlendirmede kritik bir unsur olarak değerlendirilmektedir. Hipokampusun bu işlevi, Alzheimer gibi nörodejeneratif hastalıkların mekanizmalarının daha iyi anlaşılmasına katkıda bulunabilir.\n\nAraştırmacılar, hipokampusun ödülleri tahmin etme yeteneğinin, sinir hücreleri arasındaki bağlantıları yeniden düzenleyerek gerçekleştiğini belirtmektedir. Bu yeniden düzenleme, hafızanın yeniden yapılandırılmasına ve dolayısıyla daha etkin bir ödül tahmini sürecine olanak tanımaktadır. Bu bulgular, Alzheimer hastalığına yönelik tedavi yöntemlerinin geliştirilmesinde yeni stratejiler sunabilir.\n\nKaynak: Neuroscience News, 2026",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/hippocampus-reward-prediction-learning-alzheimers-30089/",
+        "date": "2026-01-30T02:44:09.628628",
+        "timestamp": 1769741049.628639
     },
     "news_list": [
+        {
+            "title": "Hipokampus Ödülleri Tahmin Ediyor: Hafıza Yeniden Düzenleniyor",
+            "original_title": "Hippocampus Predicts Rewards by Reorganizing Memories",
+            "content": "Araştırmacılar, hipokampusun yalnızca hafıza için değil, aynı zamanda ödülleri tahmin eden bir model olarak da hareket ettiğini keşfettiler. Bu durum, nöral aktiviteyi ödülleri öngörecek şekilde kaydırarak Alzheimer hakkında yeni içgörüler sunmaktadır. Hipokampusun bu işlevi, ödül beklentisi ile ilgili etkinliklerin düzenlenmesinde önemli bir rol oynamaktadır. \n\nYapılan çalışmalarda, hipokampusun önceleri yalnızca hafıza ile ilişkilendirildiği, ancak bu yeni bulgularla birlikte ödül tahmini konusunda da aktif bir rol oynadığı anlaşılmıştır. Ödüllerin tahmin edilmesi, bireyin gelecekteki eylemlerini yönlendirmede kritik bir unsur olarak değerlendirilmektedir. Hipokampusun bu işlevi, Alzheimer gibi nörodejeneratif hastalıkların mekanizmalarının daha iyi anlaşılmasına katkıda bulunabilir.\n\nAraştırmacılar, hipokampusun ödülleri tahmin etme yeteneğinin, sinir hücreleri arasındaki bağlantıları yeniden düzenleyerek gerçekleştiğini belirtmektedir. Bu yeniden düzenleme, hafızanın yeniden yapılandırılmasına ve dolayısıyla daha etkin bir ödül tahmini sürecine olanak tanımaktadır. Bu bulgular, Alzheimer hastalığına yönelik tedavi yöntemlerinin geliştirilmesinde yeni stratejiler sunabilir.\n\nKaynak: Neuroscience News, 2026",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/hippocampus-reward-prediction-learning-alzheimers-30089/",
+            "date": "2026-01-30T02:44:09.628628",
+            "timestamp": 1769741049.628639
+        },
+        {
+            "title": "Alzheimer Modelinde Hipokampal Tekrar Yapılanmasının Yapısı Bozuluyor",
+            "original_title": "Hippocampal Replay Persists but Loses Structure in Alzheimer’s Model",
+            "content": "Alzheimer hastalığı üzerine yapılan yeni bir araştırma, Alzheimer’ın fare modelinde hipokampal tekrar yapılanmasının devam ettiğini ancak yapısının bozulduğunu göstermektedir. Bu bozulma, yer hücresi haritalarını istikrarsızlaştırmakta ve hafızayı olumsuz etkilemektedir. Bu bulgular, erken teşhis için yeni olanaklar sunarken, tekrar yapılanma mekanizmalarını hedefleyen yeni tedavi yollarının da önünü açmaktadır. \n\nÇalışma, Alzheimer hastalığının erken evrelerinde meydana gelen bilişsel bozulmaları anlamak için önemli ipuçları sunmaktadır. Hipokampus, beyinde hafıza ve mekansal navigasyondan sorumlu olan bir bölgedir ve bu nedenle hipokampal yapılardaki bozulmalar, Alzheimer hastalığının semptomları ile doğrudan ilişkilidir. Araştırmada, farelerin hipokampal aktiviteleri gözlemlenmiş ve Alzheimer modelinde bu aktivitelerin daha düzensiz bir hale geldiği belirlenmiştir. \n\nBu düzensizlik, hipokampal tekrar yapılanmanın yapısal bütünlüğünü kaybetmesine ve yer hücresi haritalarının doğru bir şekilde oluşamamasına neden olmaktadır. Sonuç olarak, bu durum hafıza fonksiyonlarını ve öğrenme kapasitesini olumsuz yönde etkileyebilmektedir. \n\nAraştırmacılar, bu bulguların Alzheimer hastalığının erken teşhisi ve tedavisi için yeni yaklaşımlar geliştirilmesine olanak sağlayabileceğini belirtmektedir. Özellikle, hipokampal tekrar yapılanma süreçlerinin hedef alındığı terapiler, hastalığın ilerlemesini yavaşlatmak veya semptomlarını hafifletmek için potansiyel bir yol olarak görülmektedir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). Hippocampal replay persists but loses structure in Alzheimer’s model. Retrieved from https://www.genengnews.com/topics/translational-medicine/hippocampal-replay-persists-but-loses-structure-in-alzheimers-model/.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/hippocampal-replay-persists-but-loses-structure-in-alzheimers-model/",
+            "date": "2026-01-30T02:44:19.203123",
+            "timestamp": 1769741059.203132
+        },
+        {
+            "title": "Bağışıklık Tedavisi Farelerde Arterlerdeki Plağı Azaltıyor: Koroner Hastalık için Umut Verici Bir Müdahale",
+            "original_title": "Immunotherapy Reduces Plaque in Mouse Arteries, Suggesting Coronary Disease Intervention",
+            "content": "Bilim insanları, kalp arterlerinde iltihaplanma ve plak oluşumunu tetikleyen zararlı modüle edilmiş düz kas hücrelerini yok etmek amacıyla tasarlanmış bir immünoterapi geliştirdiler. Bu tedavi, kan damarlarının duvarlarında bulunan bu hücreleri hedef alarak kalp hastalıklarına karşı yeni bir müdahale yöntemi sunuyor. Çalışma, fare modelleri üzerinde gerçekleştirildi ve umut verici sonuçlar elde edildi. Araştırmacılar, bu yaklaşımın gelecekte insanlarda koroner arter hastalığı tedavisinde yeni bir seçenek olabileceğini belirtiyorlar. Genetik mühendisliği ile üretilmiş bu antikor, özellikle kalp sağlığını tehdit eden plak birikimlerinin azaltılmasında etkili olabilir. Bu buluş, kalp damar hastalıklarının tedavisinde immünoterapinin potansiyelini gözler önüne seriyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (Tarih). Immunotherapy Reduces Plaque in Mouse Arteries, Suggesting Coronary Disease Intervention. GEN - Genetic Engineering and Biotechnology News. https://www.genengnews.com/topics/drug-discovery/immunotherapy-reduces-plaque-in-mouse-arteries-suggesting-coronary-disease-intervention/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/drug-discovery/immunotherapy-reduces-plaque-in-mouse-arteries-suggesting-coronary-disease-intervention/",
+            "date": "2026-01-30T02:44:26.883704",
+            "timestamp": 1769741066.883712
+        },
         {
             "title": "Yapay Zeka Korkusu: Grok ve Claude Code'un Etkisi",
             "original_title": "The AI Hype Index: Grok makes porn, and Claude Code nails your job",
@@ -480,36 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/01/260124073920.htm",
             "date": "2026-01-24T18:40:24.002696",
             "timestamp": 1769280024.002704
-        },
-        {
-            "title": "Alzheimer Hastalarında Bilinç Değerlendirmesi İçin Beyin Uyarımı Yöntemi",
-            "original_title": "Brain Stimulation Method Can Evaluate Consciousness in Alzheimer’s Disease",
-            "content": "Araştırmacılar, manyetik uyarım ve EEG'den elde edilen bir beyin karmaşıklığı ölçüsünün, Alzheimer hastalarındaki bilinçli işlem bütünlüğünü etkili bir şekilde değerlendirebileceğini belirledi. Bu bulgular, hastalık ilerlemesini izlemek için yeni bir potansiyel metrik sunmaktadır.\n\nGünümüzde Alzheimer hastalığı, dünya genelinde milyonlarca insanı etkileyen ilerleyici bir nörodejeneratif bozukluk olarak bilinmektedir. Bu hastalığın teşhisi ve ilerlemesini izlemek için yenilikçi yöntemler geliştirmek, bilim insanları için büyük bir öncelik haline gelmiştir.\n\nSon araştırmalar, beynin karmaşıklığını ölçmenin, Alzheimer hastalarının bilinç seviyelerini değerlendirmek için etkili bir yol sunduğunu göstermektedir. Bu değerlendirme, Transkraniyal Manyetik Uyarım (TMS) ve Elektroensefalografi (EEG) teknolojilerinin birleşimi ile gerçekleştirilmiştir. TMS, beyne dışarıdan uygulanan manyetik darbelerle sinir aktivitelerini uyarırken, EEG bu aktivitelerin kaydını tutar. Bu yöntem, beynin karmaşıklık düzeyini ölçerek, hastaların bilinç durumunu değerlendirmeye olanak tanır.\n\nAraştırmanın bulguları, Alzheimer hastalığının ilerleyişinin izlenmesi için yeni ve umut verici bir ölçüt sunarken, aynı zamanda tedavi yaklaşımlarının özelleştirilmesi için de önemli bir adım olarak değerlendirilmektedir.\n\nKaynak: Neuroscience News",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/brain-stimulation-consciousness-alzheimers-disease-30087/",
-            "date": "2026-01-24T02:19:25.850212",
-            "timestamp": 1769221165.850221
-        },
-        {
-            "title": "İltihaplı Bağırsak Hastalığı ve Kolon Kanseri Arasındaki Bağlantı: TL1A İmmün Yolu",
-            "original_title": "IBD Linked to Colon Cancer Through TL1A-Driven Immune Pathway",
-            "content": "Son yapılan araştırmalar, iltihaplı bağırsak hastalığı (IBD) ile artan kolorektal kanser riski arasında önemli bir bağlantı olduğunu ortaya koyuyor. Bu bağlantı, TL1A adı verilen bir immün sinyal yolunun etkinleşmesi ve tümörleri destekleyen nötrofiller aracılığıyla gerçekleşiyor. Bu bulgu, olası tedavi hedeflerinin belirlenmesine ışık tutabilir.\n\nTL1A, bağışıklık sisteminin düzenlenmesinde rol oynayan bir proteindir ve özellikle iltihaplı bağırsak hastalığı olan bireylerde daha aktif hale gelebilir. Bu artan aktivite, bağışıklık sisteminin dengesini bozarak kolorektal kanser gelişimini teşvik edebilir. Araştırmacılar, TL1A sinyal yolunun nasıl çalıştığını daha iyi anlayarak, bu süreci durdurabilecek veya yavaşlatabilecek yeni tedavi yöntemleri geliştirmeyi hedefliyorlar.\n\nBu çalışma, TL1A'nın, kolorektal kanser riskini artıran iltihaplanma süreçlerini tetikleyen bir faktör olabileceğini öne sürüyor. Araştırmacılar, TL1A'nın rolünü daha iyi anlamanın, iltihaplı bağırsak hastalığı olan bireylerde kanser riskini azaltabilecek yeni stratejiler geliştirmek için önemli olduğunu vurguluyorlar.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/cancer/ibd-linked-to-colon-cancer-through-tl1a-driven-immune-pathway/)",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/ibd-linked-to-colon-cancer-through-tl1a-driven-immune-pathway/",
-            "date": "2026-01-23T21:29:43.783853",
-            "timestamp": 1769203783.783862
-        },
-        {
-            "title": "Singapurlu Bilim İnsanları Akciğer Kanserinin 'Koruma Sistemi'ni Keşfetti",
-            "original_title": "Lung Cancer’s “Bodyguard System” Discovered by Singapore Scientists",
-            "content": "Singapurlu bilim insanları, akciğer kanseriyle savaşta umut vadeden bir buluşa imza attı. Araştırmalarda, lahana ve brokoli gibi sebzelerde bulunan doğal bir bileşik olan kaempferol test edildi. Laboratuvar modellerinde, ilaçlara dirençli insan akciğer tümörleri üzerinde yapılan denemelerde, kaempferolün günlük kullanımı, 24 gün içinde tümörlerin önemli ölçüde küçülmesini sağladı. Bu etkileyici sonuç, kaempferolün akciğer kanseri tedavisinde potansiyel bir rol oynayabileceğini gösteriyor. Bilim insanları, bu doğal bileşiğin tümörlere karşı nasıl etkili olduğunu anlamak için daha fazla araştırma yapmayı planlıyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Lung Cancer’s “Bodyguard System” Discovered by Singapore Scientists. https://www.genengnews.com/topics/cancer/lung-cancers-bodyguard-system-discovered-by-singapore-scientists/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/lung-cancers-bodyguard-system-discovered-by-singapore-scientists/",
-            "date": "2026-01-23T21:29:48.684047",
-            "timestamp": 1769203788.684055
         }
     ]
 }
