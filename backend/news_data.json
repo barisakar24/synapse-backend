@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-02-09T13:40:13.298958",
+    "last_updated": "2026-02-09T16:03:31.566249",
     "daily_news": {
-        "title": "Akdeniz Diyeti ile Felç Riski Arasında Güçlü Bağlantı",
-        "original_title": "This popular diet was linked to a much lower stroke risk",
-        "content": "Uzun süreli bir çalışma, Akdeniz diyetini yakından takip eden kadınların çok daha düşük felç riski taşıdığını ortaya koydu. Araştırma, bitki bazlı yiyecekler, balık ve zeytinyağı tüketimini artırırken kırmızı et ve doymuş yağları azaltan kadınlarda en güçlü faydaların görüldüğünü belirtti. Bu diyet yaklaşımını benimseyen kadınların riski, daha az çalışılan kanamalı felçler de dahil olmak üzere, tüm ana felç türleri arasında düştü. Bulgular, diyetin, felç önlemede güçlü ama gözden kaçan bir faktör olabileceğini öne sürüyor.\n\nKaynak: Mind & Brain News. (tarih). This popular diet was linked to a much lower stroke risk. ScienceDaily'den alınmıştır.",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
-        "date": "2026-02-09T13:39:51.970292",
-        "timestamp": 1770644391.970303
+        "title": "Sağlığın Yeni Habercisi: CAG-170 Bağırsak Bakterisi",
+        "original_title": "Previously Unknown Gut Bacteria Emerge as Global Marker of Health",
+        "content": "<p>39 ülkeden 11,000 bağırsak mikrobiyomunun analizi sonucunda, kültüre edilememiş CAG-170 bakterisinin sağlıklı bireylerde zenginleştiği bulundu. Ayrıca, bu bakterilerin sindirim, B12 vitamini üretimi ve mikrobiyom dengesi ile bağlantılı olduğu ortaya kondu.</p><p>Bu bulgular, bağırsak sağlığının küresel bir göstergesi olarak CAG-170 bakterisinin önemini vurgulamaktadır. Araştırma, sağlıklı bir mikrobiyomun korunmasında ve sağlık durumunun değerlendirilmesinde bu tür bakterilerin rolünü daha iyi anlamamıza yardımcı olabilir. Sağlıklı bireylerde daha fazla bulunan CAG-170, sindirim sistemi işlevlerine katkıda bulunarak genel sağlık üzerinde olumlu etkiler yapabilir.</p><p>Bu bulgular, gelecekteki araştırmalar için yeni yollar açabilir ve probiyotik tedaviler veya bağırsak sağlığını hedefleyen diğer yaklaşımlar için yenilikçi stratejiler geliştirilmesine olanak sağlayabilir.</p><p>Kaynak: GEN - Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/omics/previously-unknown-gut-bacteria-emerge-as-global-marker-of-health/)</p>",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/omics/previously-unknown-gut-bacteria-emerge-as-global-marker-of-health/",
+        "date": "2026-02-09T16:03:31.566203",
+        "timestamp": 1770653011.566213
     },
     "news_list": [
+        {
+            "title": "Sağlığın Yeni Habercisi: CAG-170 Bağırsak Bakterisi",
+            "original_title": "Previously Unknown Gut Bacteria Emerge as Global Marker of Health",
+            "content": "<p>39 ülkeden 11,000 bağırsak mikrobiyomunun analizi sonucunda, kültüre edilememiş CAG-170 bakterisinin sağlıklı bireylerde zenginleştiği bulundu. Ayrıca, bu bakterilerin sindirim, B12 vitamini üretimi ve mikrobiyom dengesi ile bağlantılı olduğu ortaya kondu.</p><p>Bu bulgular, bağırsak sağlığının küresel bir göstergesi olarak CAG-170 bakterisinin önemini vurgulamaktadır. Araştırma, sağlıklı bir mikrobiyomun korunmasında ve sağlık durumunun değerlendirilmesinde bu tür bakterilerin rolünü daha iyi anlamamıza yardımcı olabilir. Sağlıklı bireylerde daha fazla bulunan CAG-170, sindirim sistemi işlevlerine katkıda bulunarak genel sağlık üzerinde olumlu etkiler yapabilir.</p><p>Bu bulgular, gelecekteki araştırmalar için yeni yollar açabilir ve probiyotik tedaviler veya bağırsak sağlığını hedefleyen diğer yaklaşımlar için yenilikçi stratejiler geliştirilmesine olanak sağlayabilir.</p><p>Kaynak: GEN - Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/omics/previously-unknown-gut-bacteria-emerge-as-global-marker-of-health/)</p>",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/omics/previously-unknown-gut-bacteria-emerge-as-global-marker-of-health/",
+            "date": "2026-02-09T16:03:31.566203",
+            "timestamp": 1770653011.566213
+        },
         {
             "title": "Akdeniz Diyeti ile Felç Riski Arasında Güçlü Bağlantı",
             "original_title": "This popular diet was linked to a much lower stroke risk",
@@ -500,16 +510,6 @@
             "link": "https://www.technologyreview.com/2026/01/27/1131793/openais-latest-product-lets-you-vibe-code-science/",
             "date": "2026-01-27T18:52:51.458810",
             "timestamp": 1769539971.45882
-        },
-        {
-            "title": "Beyin Hücrelerinde Yaşamı Koruyan Bir Anahtar Keşfedildi",
-            "original_title": "Scientists found a survival switch inside brain cells",
-            "content": "Bilim insanları, şeker metabolizmasının yaralanmış nöronların çökmesi veya hayatta kalması üzerinde şaşırtıcı bir rol oynadığını keşfettiler. İç koruyucu programları aktive ederek, belirli metabolik değişiklikler nörodejenerasyonu geçici olarak yavaşlatabilir. Bu bulgular, beynin kendini savunmasına yardımcı olacak yeni yolların ipuçlarını veriyor.\n\nNörodejeneratif hastalıklar üzerine yapılan araştırmalar, beynin savunma mekanizmalarını anlamada yeni fırsatlar yaratabilir. Beyin hücrelerinin içindeki bu 'hayatta kalma anahtarı', özellikle şeker metabolizmasının nasıl çalıştığını ve yaralı nöronları nasıl etkilediğini anlamak için önemli bir adımdır. Araştırmacılar, bu mekanizmanın nörodejeneratif hastalıkların tedavisinde nasıl kullanılabileceğini keşfetmeye çalışıyorlar.\n\nBu yeni bulgular, beynin kendini nasıl koruduğu hakkında daha derin bir anlayış sunarak, Alzheimer ve Parkinson gibi hastalıkların tedavisinde yeni stratejiler geliştirilmesine yardımcı olabilir.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/01/260127010138.htm",
-            "date": "2026-01-27T15:37:57.856916",
-            "timestamp": 1769528277.856924
         }
     ]
 }
