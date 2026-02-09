@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-09T19:28:00.863416",
+    "last_updated": "2026-02-09T21:49:49.531168",
     "daily_news": {
-        "title": "Tümör İmmünolojisini İncelemek İçin İnsan Fizyolojik In Vitro Modelleri",
-        "original_title": "Physiological Human In Vitro Models to Study and Evaluate Tumor Immunology",
-        "content": "<p>Hayvan dışı modellerin geliştirilmesinde önemli ilerlemeler kaydedilmişken, laboratuvar-çip sistemleri, organoidler ve doku ekplantları gibi çoğu yayınlanmış çalışma, immünoterapötikler değerlendirilirken işlevsel bağışıklık sistemleri göstermemiştir.</p>\n<p><a href=\"https://www.genengnews.com/topics/cancer/physiological-human-in-vitro-models-to-study-and-evaluate-tumor-immunology/\">Tümör İmmünolojisini İncelemek ve Değerlendirmek İçin İnsan Fizyolojik In Vitro Modelleri</a> başlıklı yazı, <a href=\"https://www.genengnews.com\">GEN - Genetik Mühendislik ve Biyoteknoloji Haberleri</a> sitesinde yayınlanmıştır.</p>\n<p><strong>Kaynak:</strong> GEN – Genetik Mühendislik ve Biyoteknoloji Haberleri</p>",
-        "category": "Genetik",
-        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/cancer/physiological-human-in-vitro-models-to-study-and-evaluate-tumor-immunology/",
-        "date": "2026-02-09T19:27:52.589852",
-        "timestamp": 1770665272.589859
+        "title": "Opentrons ve Nvidia İş Birliği: Laboratuvarlarda Fiziksel Yapay Zeka Dönemi",
+        "original_title": "Opentrons Uses Nvidia Tech to Build Training Data That Powers Physical AI in the Lab",
+        "content": "Opentrons, Nvidia'nın Isaac ve Cosmos fiziksel yapay zeka yazılımlarını laboratuvar robot filosuyla entegre ederek gerçek dünya laboratuvar iş akışlarından öğrenen yapay zeka sistemleri geliştirdi. Bu iş birliği, laboratuvar otomasyonu ve verimliliğini artırma potansiyeline sahip yenilikçi bir adım olarak görülüyor.\n\nOpentrons'un laboratuvar robotları, Nvidia'nın gelişmiş yapay zeka teknolojileriyle donatılarak daha akıllı ve esnek bir şekilde çalışabiliyor. Isaac ve Cosmos yazılımları, robotların gerçek zamanlı verileri işleyerek daha iyi kararlar almasını sağlıyor. Bu da laboratuvarlarda gerçekleştirilen deneylerin daha hızlı ve güvenilir bir şekilde tamamlanmasına olanak tanıyor.\n\nBu yenilik, bilimsel araştırmaların hızını artırabilir ve laboratuvar süreçlerinde devrim yaratabilir. Opentrons'un bu teknolojiyi kullanması, araştırma ve geliştirme aşamalarında önemli bir avantaj sağlayabilir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (2023). Opentrons Uses Nvidia Tech to Build Training Data That Powers Physical AI in the Lab. https://www.genengnews.com/topics/drug-discovery/opentrons-uses-nvidia-tech-to-build-training-data-that-powers-physical-ai-in-the-lab/",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/drug-discovery/opentrons-uses-nvidia-tech-to-build-training-data-that-powers-physical-ai-in-the-lab/",
+        "date": "2026-02-09T21:49:42.755919",
+        "timestamp": 1770673782.755927
     },
     "news_list": [
+        {
+            "title": "Opentrons ve Nvidia İş Birliği: Laboratuvarlarda Fiziksel Yapay Zeka Dönemi",
+            "original_title": "Opentrons Uses Nvidia Tech to Build Training Data That Powers Physical AI in the Lab",
+            "content": "Opentrons, Nvidia'nın Isaac ve Cosmos fiziksel yapay zeka yazılımlarını laboratuvar robot filosuyla entegre ederek gerçek dünya laboratuvar iş akışlarından öğrenen yapay zeka sistemleri geliştirdi. Bu iş birliği, laboratuvar otomasyonu ve verimliliğini artırma potansiyeline sahip yenilikçi bir adım olarak görülüyor.\n\nOpentrons'un laboratuvar robotları, Nvidia'nın gelişmiş yapay zeka teknolojileriyle donatılarak daha akıllı ve esnek bir şekilde çalışabiliyor. Isaac ve Cosmos yazılımları, robotların gerçek zamanlı verileri işleyerek daha iyi kararlar almasını sağlıyor. Bu da laboratuvarlarda gerçekleştirilen deneylerin daha hızlı ve güvenilir bir şekilde tamamlanmasına olanak tanıyor.\n\nBu yenilik, bilimsel araştırmaların hızını artırabilir ve laboratuvar süreçlerinde devrim yaratabilir. Opentrons'un bu teknolojiyi kullanması, araştırma ve geliştirme aşamalarında önemli bir avantaj sağlayabilir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (2023). Opentrons Uses Nvidia Tech to Build Training Data That Powers Physical AI in the Lab. https://www.genengnews.com/topics/drug-discovery/opentrons-uses-nvidia-tech-to-build-training-data-that-powers-physical-ai-in-the-lab/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/drug-discovery/opentrons-uses-nvidia-tech-to-build-training-data-that-powers-physical-ai-in-the-lab/",
+            "date": "2026-02-09T21:49:42.755919",
+            "timestamp": 1770673782.755927
+        },
+        {
+            "title": "Gribin Kalbe Vurduğu Darbe: Kalp Ağrısının Nedenleri",
+            "original_title": "How the Flu Causes an Achy Breaky Heart",
+            "content": "Grip virüsü kalbe ulaştığında, pro-dendritik hücre 3'ten kaçarak kardiyomiyositleri enfekte eder ve kalpte büyük miktarlarda tip 1 interferon üretimini tetikler. Bu durum, kalp fonksiyonlarını tehlikeye sokar ve kalp sağlığının bozulmasına neden olabilir. Bu süreç, grip virüsünün kalbe nasıl zarar verdiğine dair önemli bilgiler sunmaktadır. Kalp kası hücreleri olan kardiyomiyositlerin enfekte olması, kalp işlevlerinde bozulmaya yol açabilir ve bu da grip sonrası görülen kalp ağrılarının altında yatan sebeplerden biri olarak değerlendirilmektedir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/infectious-diseases/how-the-flu-causes-an-achy-breaky-heart/)",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/infectious-diseases/how-the-flu-causes-an-achy-breaky-heart/",
+            "date": "2026-02-09T21:49:49.531121",
+            "timestamp": 1770673789.53113
+        },
         {
             "title": "Moltbook Çılgınlığı: Geleceğin Sosyal Ağlarına Bir Bakış",
             "original_title": "Why the Moltbook frenzy was like Pokémon",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/translational-medicine/cell-type-atlas-of-brain-lysosomal-proteins-may-clarify-neurological-disorders/",
             "date": "2026-01-28T13:09:13.329433",
             "timestamp": 1769605753.32944
-        },
-        {
-            "title": "Beynimizdeki Sessiz Parazit: Toxoplasma Gondii'nin Gizemli Aktivitesi",
-            "original_title": "A common parasite in the brain is far more active than we thought",
-            "content": "Uzun süredir uykuda olduğu düşünülen yaygın bir parazit aslında çok daha aktif ve karmaşık. Araştırmacılar, Toxoplasma gondii kistlerinin tek bir uyuyan form içermek yerine, birden fazla parazit alt türleri barındırdığını keşfetti. Bazı alt türler, yeniden aktif hale gelmeye ve hastalığa neden olmaya hazır durumda bulunuyor, bu da enfeksiyonların neden bu kadar zor tedavi edildiğini açıklıyor. Bu keşif, paraziti tamamen ortadan kaldıracak ilaçların geliştirilmesi çabalarını yeniden şekillendirebilir.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/01/260127112124.htm",
-            "date": "2026-01-28T06:49:40.222522",
-            "timestamp": 1769582980.222532
-        },
-        {
-            "title": "Episodik ve Semantik Bellek Arasındaki Sınırlar Bulanıklaşıyor",
-            "original_title": "Memory Rewritten: Study Finds No Clear Line Between Episodic and Semantic Retrieval",
-            "content": "Yeni bir çalışma, uzun süredir kabul gören episodik ve semantik belleğin ayrı beyin sistemlerine dayandığı inancını sorguluyor. Araştırmacılar, kişisel anıların ve genel bilginin geri çağrılmasının örtüşen sinir bölgelerini aktive ettiğini buldular. Bu keşif, demans gibi nörolojik rahatsızlıkları anlama şeklimizi değiştirebilir.\n\nEpisodik bellek, bireylerin kişisel deneyimlerini ve olaylarını hatırlamalarını sağlarken, semantik bellek daha çok genel bilgi ve kavramlarla ilişkilidir. Uzun süredir bu iki bellek türünün farklı beyin bölgeleri tarafından yönetildiği düşünülüyordu. Ancak, yapılan yeni araştırmalar bu sınırların o kadar da belirgin olmadığını gösteriyor.\n\nAraştırmacılar, hafıza geri çağrımını incelerken, kişisel anılar ve genel bilgiler üzerinde çalıştı. Beyin görüntüleme tekniklerini kullanarak, her iki tür bellek geri çağrımının da benzer sinirsel yapıların etkinleşmesine neden olduğunu gözlemlediler. Özellikle, her iki bellek türü de medial temporal lob ve prefrontal korteks gibi beyin bölgelerinde benzer aktiviteler gösterdi.\n\nBu bulgular, özellikle yaşla birlikte bellek problemleri yaşayan bireyler için önemli çıkarımlar sunmaktadır. Demans ve Alzheimer hastalığı gibi durumlar, genellikle bu iki bellek türü arasındaki dengeyi etkileyebilir. Yeni bulgular, bu hastalıkların tedavi yaklaşımlarına yeni bakış açıları getirebilir.\n\nÇalışmanın sonuçları, bellek sistemlerimizin daha önce düşünülenden çok daha karmaşık ve iç içe geçmiş olduğunu ortaya koyuyor. Bu da nörobilim alanında yeni araştırmalara kapı aralayabilir.\n\nAPA: Neuroscience News. (2023). Memory Rewritten: Study Finds No Clear Line Between Episodic and Semantic Retrieval. Retrieved from https://neurosciencenews.com/memory-rewritten-episodic-semantic-retrieval-30088/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/memory-rewritten-episodic-semantic-retrieval-30088/",
-            "date": "2026-01-28T02:26:21.087085",
-            "timestamp": 1769567181.087096
         }
     ]
 }
