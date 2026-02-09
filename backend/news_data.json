@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-02-09T10:10:37.374170",
+    "last_updated": "2026-02-09T13:40:13.298958",
     "daily_news": {
-        "title": "Parkinson'un Beyin Ağı Keşfedildi: Tedavide Yeni Umut",
-        "original_title": "Scientists may have found the brain network behind Parkinson’s",
-        "content": "Parkinson hastalığının arkasındaki beyin ağına dair önemli bir keşif yapıldı. Uluslararası bir araştırma ekibi, Parkinson hastalığının ana tetikleyicisi olarak belirli bir beyin ağına işaret ediyor. Bilim insanları, bu ağın aşırı bağlantılı hale geldiğini ve sadece hareketi değil, düşünceyi ve diğer bedensel işlevleri de bozduğunu keşfettiler. Araştırmacılar, bu ağı hedef alan invaziv olmayan beyin stimülasyonu uyguladıklarında, hastaların semptomlarında geleneksel stimülasyona göre çok daha güçlü bir iyileşme gözlemlediler. Bu keşif, Parkinson hastalığının teşhis ve tedavi yöntemlerini köklü bir şekilde değiştirebilir. \n\nKaynak: Mind & Brain News -- ScienceDaily",
+        "title": "Akdeniz Diyeti ile Felç Riski Arasında Güçlü Bağlantı",
+        "original_title": "This popular diet was linked to a much lower stroke risk",
+        "content": "Uzun süreli bir çalışma, Akdeniz diyetini yakından takip eden kadınların çok daha düşük felç riski taşıdığını ortaya koydu. Araştırma, bitki bazlı yiyecekler, balık ve zeytinyağı tüketimini artırırken kırmızı et ve doymuş yağları azaltan kadınlarda en güçlü faydaların görüldüğünü belirtti. Bu diyet yaklaşımını benimseyen kadınların riski, daha az çalışılan kanamalı felçler de dahil olmak üzere, tüm ana felç türleri arasında düştü. Bulgular, diyetin, felç önlemede güçlü ama gözden kaçan bir faktör olabileceğini öne sürüyor.\n\nKaynak: Mind & Brain News. (tarih). This popular diet was linked to a much lower stroke risk. ScienceDaily'den alınmıştır.",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260208203013.htm",
-        "date": "2026-02-09T02:54:49.412029",
-        "timestamp": 1770605689.41204
+        "link": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
+        "date": "2026-02-09T13:39:51.970292",
+        "timestamp": 1770644391.970303
     },
     "news_list": [
+        {
+            "title": "Akdeniz Diyeti ile Felç Riski Arasında Güçlü Bağlantı",
+            "original_title": "This popular diet was linked to a much lower stroke risk",
+            "content": "Uzun süreli bir çalışma, Akdeniz diyetini yakından takip eden kadınların çok daha düşük felç riski taşıdığını ortaya koydu. Araştırma, bitki bazlı yiyecekler, balık ve zeytinyağı tüketimini artırırken kırmızı et ve doymuş yağları azaltan kadınlarda en güçlü faydaların görüldüğünü belirtti. Bu diyet yaklaşımını benimseyen kadınların riski, daha az çalışılan kanamalı felçler de dahil olmak üzere, tüm ana felç türleri arasında düştü. Bulgular, diyetin, felç önlemede güçlü ama gözden kaçan bir faktör olabileceğini öne sürüyor.\n\nKaynak: Mind & Brain News. (tarih). This popular diet was linked to a much lower stroke risk. ScienceDaily'den alınmıştır.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
+            "date": "2026-02-09T13:39:51.970292",
+            "timestamp": 1770644391.970303
+        },
+        {
+            "title": "Moltbook: Yapay Zeka ile Sosyal Medyanın Yeni Yüzü",
+            "original_title": "The Download: what Moltbook tells us about AI hype, and the rise and rise of AI therapy",
+            "content": "Bugünün The Download bülteninden: Son zamanlarda internetin en popüler yeni uğrak yeri, kendini botlar için bir sosyal ağ olarak tanıtan vibe-şifreli bir Reddit klonu olan Moltbook oldu. Moltbook, yapay zeka tiyatrosunun zirvesini temsil eden bir platform olarak dikkat çekiyor. Burası, kullanıcıların ve botların etkileşimde bulunabileceği, yaratıcı ve yenilikçi bir dijital alan sunuyor. Ancak, bu tür platformlar yapay zekanın sosyal medya üzerindeki etkisine dair önemli soruları da beraberinde getiriyor. Yapay zeka destekli terapinin yükselişi ise, teknolojinin sağlık ve kişisel gelişim alanındaki potansiyel faydalarını gözler önüne seriyor. Bu tür terapiler, kullanıcıların duygusal sağlığını desteklemek için yeni yollar sunarken, aynı zamanda etik ve gizlilik konularında da tartışmalara yol açıyor. Yapay zekanın hızla gelişen bu iki alanı, hem umut verici hem de dikkatli bir şekilde ele alınması gereken konular arasında yer alıyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/09/1132498/the-download-what-moltbook-tells-us-about-ai-hype-and-the-rise-and-rise-of-ai-therapy/",
+            "date": "2026-02-09T13:40:01.366059",
+            "timestamp": 1770644401.366067
+        },
+        {
+            "title": "Yapay Zekanın Sınırları ve Fırsatları: Sağlık, Eğitim ve İklim Teknolojilerinde Kullanımı",
+            "original_title": "Making AI Work, MIT Technology Review’s new AI newsletter, is here",
+            "content": "Yıllardır haber ekibimiz, yapay zekanın sınırlamaları ve potansiyel tehlikelerinin yanı sıra artan enerji ihtiyaçlarını da araştırıyor. Muhabirlerimiz, kodlama ve bilimsel deneylerin yürütülmesi gibi görevlerde jeneratif araçların nasıl kullanıldığını yakından inceledi. Ancak yapay zeka, sağlık hizmetleri, iklim teknolojileri ve eğitim gibi alanlarda gerçekten nasıl kullanılıyor? MIT Technology Review’un yeni yapay zeka bülteni 'Making AI Work', bu sorulara yanıt arıyor ve bu teknolojinin gerçek dünya uygulamalarını mercek altına alıyor. \n\nYapay zekanın sağlık alanında kullanımı, teşhis süreçlerini hızlandırabilir ve tedavi planlarını kişiselleştirebilir. Eğitimde, öğrencilere özel öğrenme deneyimleri sunarak öğretim süreçlerini dönüştürebilir. İklim teknolojilerinde ise, çevresel izleme ve sürdürülebilirlik projelerinde önemli bir rol oynayabilir. Tüm bu alanlarda, yapay zekanın sınırlarını ve etiğini anlamak kritik öneme sahiptir.\n\nAPA Kaynağı: MIT Technology Review. (2023). Haber: Making AI Work, MIT Technology Review’s new AI newsletter, is here. Erişim adresi: https://www.technologyreview.com/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/09/1132462/ai-newsletter-professional-applications/",
+            "date": "2026-02-09T13:40:08.018291",
+            "timestamp": 1770644408.018297
+        },
+        {
+            "title": "Takeda ve Iambic Arasında 1,7 Milyar Dolarlık Yapay Zeka İş Birliği",
+            "original_title": "Takeda, Iambic Launch Up-to-$1.7B AI Collaboration",
+            "content": "Takeda, Iambic'in yapay zeka destekli ilaç keşif modellerini kullanarak onkoloji, gastrointestinal ve inflamasyon gibi tedavi alanlarında öncelikli küçük molekül programlarını ilerletmek için bir anlaşma sağladı. Bu iş birliği, iki şirket arasında potansiyel olarak 1,7 milyar dolara kadar ulaşabilecek bir değer taşıyor. Anlaşma kapsamında, Takeda'nın öncelikli tedavi alanlarında yenilikçi çözümler geliştirmek amacıyla Iambic'in ileri düzey yapay zeka teknolojilerinden faydalanılması hedefleniyor. Bu tür bir iş birliği, ilaç geliştirme süreçlerini hızlandırarak, daha etkili ve odaklanmış tedavi yöntemlerinin önünü açabilir. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (2023). Takeda, Iambic Launch Up-to-$1.7B AI Collaboration. https://www.genengnews.com/topics/artificial-intelligence/takeda-iambic-launch-up-to-1-7b-ai-collaboration/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/artificial-intelligence/takeda-iambic-launch-up-to-1-7b-ai-collaboration/",
+            "date": "2026-02-09T13:40:13.298915",
+            "timestamp": 1770644413.298923
+        },
         {
             "title": "Parkinson'un Beyin Ağı Keşfedildi: Tedavide Yeni Umut",
             "original_title": "Scientists may have found the brain network behind Parkinson’s",
@@ -470,46 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/01/260127010138.htm",
             "date": "2026-01-27T15:37:57.856916",
             "timestamp": 1769528277.856924
-        },
-        {
-            "title": "Stratosferik İnternet: İnternetsiz Bölgelere Çözüm Olabilir",
-            "original_title": "Stratospheric internet could finally start taking off this year",
-            "content": "Bugün, tahminen 2,2 milyar insan hâlâ sınırlı veya hiç internet erişimine sahip değil, büyük ölçüde uzak yerlerde yaşadıkları için. Ancak bu rakam, stratosferik hava gemileri, insansız hava araçları ve internet sağlamak için diğer yüksek irtifa platformlarının testleri sayesinde bu yıl düşebilir. Neredeyse 10.000 aktif Starlink uydusunun yörüngede olmasına rağmen, bu yeni teknolojiler özellikle erişimin zor olduğu bölgelerde internet bağlantısını artırabilir. Stratosferde konuşlandırılacak bu platformlar, karasal altyapının ulaşamadığı veya ekonomik olmadığı bölgelerde internet hizmeti sunarak dijital uçurumu kapatmayı hedefliyor. Bu gelişmeler, dünya genelinde daha fazla insanın çevrimiçi olmasını sağlayarak bilgiye erişim ve iletişim olanaklarını genişletebilir.\n\nKaynak: MIT Technology Review. (2023). Stratospheric internet could finally start taking off this year. MIT Technology Review.",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/01/27/1131780/stratospheric-internet-take-off/",
-            "date": "2026-01-27T15:38:05.348691",
-            "timestamp": 1769528285.3487
-        },
-        {
-            "title": "OpenAI'nin Bilim İçin Büyük Hamlesi ve Sohbet Botlarında Yaş Doğrulama",
-            "original_title": "The Download: OpenAI’s plans for science, and chatbot age verification",
-            "content": "Bu, teknoloji dünyasında neler olup bittiğine dair günlük bir doz sağlayan haftalık bültenimiz The Download'un bugünkü sayısıdır. \n\nOpenAI’nin Bilim İçin Büyük Hamlesi — Will Douglas Heaven \n\nChatGPT'nin üç yıl önceki patlayıcı çıkışından bu yana, OpenAI'nin teknolojisi evde, işte ve daha birçok alanda olağanüstü bir dizi günlük aktiviteyi alt üst etti. OpenAI, bilim alanında büyük bir hamle yapmayı hedefliyor ve bu, mevcut teknolojilerini daha da ileriye taşımayı planladıkları anlamına geliyor. \n\nOpenAI'nin bu yeni hamlesi, bilimsel araştırmaların gerçekleştirilme şeklini temelden değiştirme potansiyeline sahip. Bilim insanları ve araştırmacılar, ChatGPT ve diğer OpenAI araçlarının yardımıyla daha karmaşık veri analizleri yapabilir ve daha hızlı sonuçlar elde edebilirler. \n\nAyrıca, sohbet botlarında yaş doğrulama konusundaki gelişmeler de dikkat çekiyor. Bu, özellikle genç kullanıcıların çevrimiçi ortamda güvende kalmalarını sağlamak için önemli bir adım olarak değerlendiriliyor. Yaş doğrulama sistemleri, kullanıcıların yaşlarını doğrulamalarını gerektirerek, yalnızca uygun içerik ve hizmetlere erişmelerini sağlayacak.\n\nAPA: Heaven, W. D. (2023). The Download: OpenAI’s plans for science, and chatbot age verification. MIT Technology Review.",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/01/27/1131767/the-download-openais-plans-for-science-and-chatbot-age-verification/",
-            "date": "2026-01-27T15:38:17.634406",
-            "timestamp": 1769528297.634414
-        },
-        {
-            "title": "Karbonhidrat Türleri ve Demans Riski Arasındaki Bağlantı",
-            "original_title": "The type of carbs you eat may affect dementia risk",
-            "content": "Karbonhidratlar sadece vücudu beslemekle kalmaz, aynı zamanda beynin yaşlanma sürecini de etkileyebilir. Yapılan geniş çaplı ve uzun dönemli bir araştırma, kan şekerini hızla yükselten hızlı etkili karbonhidratlar açısından zengin diyetlerin demans riskini artırdığını ortaya koydu. Buna karşın, meyve, baklagiller ve tam tahıllar gibi düşük glisemik indeksli gıdaları daha fazla tüketen bireylerde Alzheimer riskinin belirgin derecede daha düşük olduğu gözlemlendi. Beyin sağlığı için sadece karbonhidrat miktarının değil, kalitesinin de önemli olduğu görülüyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/01/260127010156.htm",
-            "date": "2026-01-27T06:49:56.201519",
-            "timestamp": 1769496596.201529
-        },
-        {
-            "title": "Obezite ve Yüksek Tansiyonun Demansa Yol Açabileceği Ortaya Çıktı",
-            "original_title": "Obesity and high blood pressure may directly cause dementia",
-            "content": "Yeni bir genetik çalışma, obezite ve yüksek tansiyonun sadece demans riskini artırmakla kalmayıp, aynı zamanda doğrudan demansa neden olabileceğini öne sürüyor. Danimarka ve Birleşik Krallık'ta geniş popülasyonlardan elde edilen verileri analiz eden araştırmacılar, daha yüksek vücut ağırlığının zamanla beyin sağlığına zarar verebileceğine dair güçlü kanıtlar buldular. Özellikle, bu durum yükselmiş kan basıncına neden olduğunda beyne olan zarar daha da belirginleşiyor. Demans riskinin büyük bir kısmının, beyin içindeki kan akışını ve bilişsel fonksiyonları etkileyen damar hasarıyla ilişkili olduğu görüldü.\n\nKaynak: Mind & Brain News -- ScienceDaily.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/01/260126231847.htm",
-            "date": "2026-01-27T06:50:00.813944",
-            "timestamp": 1769496600.813951
         }
     ]
 }
