@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-08T21:36:04.907938",
+    "last_updated": "2026-02-09T02:54:53.140073",
     "daily_news": {
-        "title": "Yeni İlaç Vücut Saatini Yeniden Ayarlayarak Jet Lag İyileşme Süresini Yarıya İndiriyor",
-        "original_title": "New drug resets the body clock and cuts jet lag recovery nearly in half",
-        "content": "Bilim insanları, vücudun iç saatini ileriye doğru güvenilir bir şekilde kaydırabilen umut verici yeni bir bileşik olan Mic-628'i tanımladılar. Bu, bilindiği üzere gerçekleştirilmesi zor bir işlemdir. Mic-628, temel bir saat kontrol proteinini hedef alarak, günlük ritimleri belirleyen geni harekete geçirir ve hem beynin ana saatini hem de vücuttaki diğer saatleri senkronize eder. Simüle edilmiş jet lag yaşayan farelerde, tek bir doz iyileşme süresini neredeyse yarıya indirdi. \n\nKaynak: Mind & Brain News -- ScienceDaily, Ekim 2023.",
+        "title": "Parkinson'un Beyin Ağı Keşfedildi: Tedavide Yeni Umut",
+        "original_title": "Scientists may have found the brain network behind Parkinson’s",
+        "content": "Parkinson hastalığının arkasındaki beyin ağına dair önemli bir keşif yapıldı. Uluslararası bir araştırma ekibi, Parkinson hastalığının ana tetikleyicisi olarak belirli bir beyin ağına işaret ediyor. Bilim insanları, bu ağın aşırı bağlantılı hale geldiğini ve sadece hareketi değil, düşünceyi ve diğer bedensel işlevleri de bozduğunu keşfettiler. Araştırmacılar, bu ağı hedef alan invaziv olmayan beyin stimülasyonu uyguladıklarında, hastaların semptomlarında geleneksel stimülasyona göre çok daha güçlü bir iyileşme gözlemlediler. Bu keşif, Parkinson hastalığının teşhis ve tedavi yöntemlerini köklü bir şekilde değiştirebilir. \n\nKaynak: Mind & Brain News -- ScienceDaily",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260208011026.htm",
-        "date": "2026-02-08T13:08:07.550470",
-        "timestamp": 1770556087.55048
+        "link": "https://www.sciencedaily.com/releases/2026/02/260208203013.htm",
+        "date": "2026-02-09T02:54:49.412029",
+        "timestamp": 1770605689.41204
     },
     "news_list": [
+        {
+            "title": "Parkinson'un Beyin Ağı Keşfedildi: Tedavide Yeni Umut",
+            "original_title": "Scientists may have found the brain network behind Parkinson’s",
+            "content": "Parkinson hastalığının arkasındaki beyin ağına dair önemli bir keşif yapıldı. Uluslararası bir araştırma ekibi, Parkinson hastalığının ana tetikleyicisi olarak belirli bir beyin ağına işaret ediyor. Bilim insanları, bu ağın aşırı bağlantılı hale geldiğini ve sadece hareketi değil, düşünceyi ve diğer bedensel işlevleri de bozduğunu keşfettiler. Araştırmacılar, bu ağı hedef alan invaziv olmayan beyin stimülasyonu uyguladıklarında, hastaların semptomlarında geleneksel stimülasyona göre çok daha güçlü bir iyileşme gözlemlediler. Bu keşif, Parkinson hastalığının teşhis ve tedavi yöntemlerini köklü bir şekilde değiştirebilir. \n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260208203013.htm",
+            "date": "2026-02-09T02:54:49.412029",
+            "timestamp": 1770605689.41204
+        },
+        {
+            "title": "BMS Hisseleri Beklenenden İyi Gelen 4. Çeyrek Sonuçlarıyla Yükseldi",
+            "original_title": "StockWatch: Better than Expected Q4 Lifts BMS Shares",
+            "content": "BMS hisseleri, Perşembe günü, önemli borsa endekslerinde yaşanan düşüşlere rağmen, %3 artarak 57.62 dolardan 59.52 dolara yükseldi. İşlemlerin başlangıcında %5'lik bir artışla 60.56 dolara kadar çıkmıştı. Hisseler, Cuma günü %4 daha artarak 61.94 dolara ulaşarak haftayı neredeyse %13'lük bir kazançla tamamladı.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (2023). StockWatch: Better than Expected Q4 Lifts BMS Shares. https://www.genengnews.com/topics/translational-medicine/stockwatch-better-than-expected-q4-lifts-bms-shares/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/stockwatch-better-than-expected-q4-lifts-bms-shares/",
+            "date": "2026-02-09T02:54:53.140030",
+            "timestamp": 1770605693.14004
+        },
         {
             "title": "Yeni İlaç Vücut Saatini Yeniden Ayarlayarak Jet Lag İyileşme Süresini Yarıya İndiriyor",
             "original_title": "New drug resets the body clock and cuts jet lag recovery nearly in half",
@@ -490,26 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/01/260126231847.htm",
             "date": "2026-01-27T06:50:00.813944",
             "timestamp": 1769496600.813951
-        },
-        {
-            "title": "AI Tasarımı Anti-CRISPR'ler ile Hızlı Cas13 Engellemesi",
-            "original_title": "AI‑Designed Anti‑CRISPRs Enable Rapid Cas13 Inhibition",
-            "content": "AI tasarımı anti-CRISPR inhibitörleri, Cas13 aktivitesini hızla bloke eder ve CRISPR sistemlerini düzenlemek için programlanabilir bir yol sunabilir. Bu yaklaşım, AI hızlandırmalı protein tasarımının, gelecekte daha güvenli ve kontrollü gen düzenleme uygulamaları için araçları genişletebileceğini vurgulamaktadır.\n\nCRISPR teknolojisi, genetik mühendislikte devrim yaratan bir sistem olarak bilinirken, kontrolsüz veya hatalı uygulamaları potansiyel riskler taşıyabilmektedir. Bu nedenle, CRISPR sistemlerinin etkinliğini ve güvenliğini artırmak için yeni yöntemlere ihtiyaç duyulmaktadır. Yapay zeka kullanılarak tasarlanan anti-CRISPR proteinleri, bu ihtiyaçları karşılamada önemli bir adım olarak değerlendirilmektedir.\n\nAI tabanlı tasarım, protein mühendisliği süreçlerini hızlandırarak, bilim insanlarının belirli biyolojik hedeflere yönelik özel inhibitörler geliştirmesine olanak tanır. Bu bağlamda, AI tasarımı anti-CRISPR'lerin Cas13'ü etkili bir şekilde inhibe etmesi, gen düzenleme süreçlerinde daha fazla hassasiyet ve kontrol sağlamaktadır.\n\nBu gelişme, genetik mühendislik alanında önemli bir yenilik olarak kabul edilmekte ve hem araştırma hem de uygulama alanlarında geniş bir etki yaratması beklenmektedir. AI destekli protein tasarımı, genetik düzenleme araçlarının güvenliğini ve etkinliğini artırarak, gelecekteki biyoteknoloji uygulamalarının önünü açabilir.\n\nKaynak:\nGEN - Genetic Engineering and Biotechnology News. (tarih). AI‑Designed Anti‑CRISPRs Enable Rapid Cas13 Inhibition. https://www.genengnews.com/topics/genome-editing/ai%e2%80%91designed-anti%e2%80%91crisprs-enable-rapid-cas13-inhibition/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/genome-editing/ai%e2%80%91designed-anti%e2%80%91crisprs-enable-rapid-cas13-inhibition/",
-            "date": "2026-01-27T02:30:14.227840",
-            "timestamp": 1769481014.227849
-        },
-        {
-            "title": "10x Genomics, Üç İş Birliği ile Klinik Alana Yöneliyor",
-            "original_title": "Clinical Ambitions: 10x Expands Beyond Research with Trio of Collaborations",
-            "content": "10x Genomics, bu ay yaptığı üç iş birliği duyurusu ile akademik, hükümet ve endüstri müşterilerine yönelik geleneksel araştırma araçları odaklanmasının ötesine bakarak klinik tanılara genişleme sinyali verdi. Şirket, tek hücre ve mekansal biyoloji teknolojilerinin klinik potansiyelini geliştirmeyi amaçlayan bilimsel kanıtlar üretmek için üst düzey kurumlarla iş birliği yapıyor.\n\nBu iş birlikleri, 10x Genomics'in araştırma odaklı geçmişini genişleterek, sağlık hizmetlerinde önemli bir rol oynamaya yönelik stratejik bir adımı temsil ediyor. Şirket, bu teknolojilerin klinik uygulamalarını güçlendirmek için hedeflediği bilimsel kanıtları toplamak amacıyla önemli ölçüde yatırım yapıyor.\n\nKaynakça:\nGEN – Genetic Engineering and Biotechnology News (2023). Clinical Ambitions: 10x Expands Beyond Research with Trio of Collaborations. Erişim adresi: https://www.genengnews.com/topics/omics/clinical-ambitions-10x-expands-beyond-research-with-trio-of-collaborations/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/omics/clinical-ambitions-10x-expands-beyond-research-with-trio-of-collaborations/",
-            "date": "2026-01-27T02:30:20.230429",
-            "timestamp": 1769481020.230437
         }
     ]
 }
