@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-02-10T10:06:08.795943",
+    "last_updated": "2026-02-10T13:44:19.691969",
     "daily_news": {
-        "title": "Beyin MR'larını Saniyeler İçinde Yorumlayan Yapay Zeka",
-        "original_title": "AI reads brain MRIs in seconds and flags emergencies",
-        "content": "Michigan Üniversitesi araştırmacıları, beyin MR taramalarını sadece saniyeler içinde yorumlayabilen ve acil bakım gerektiren durumları belirleyen bir yapay zeka sistemi geliştirdi. Gerçek dünya taramalarından ve hasta geçmişlerinden oluşan yüz binlerce veri üzerinde eğitilen model, %97.5 gibi yüksek bir doğruluk oranına ulaştı ve diğer gelişmiş yapay zeka araçlarını geride bıraktı. Bu yenilik, nörolojik durumların hızlı ve doğru bir şekilde değerlendirilmesini sağlayarak, acil müdahale gerektiren vakaların tespit edilmesinde önemli bir rol oynayabilir. Yapay zeka sistemi, birçok nörolojik durumun tanınması konusunda etkili olup, sağlık profesyonellerine daha hızlı ve etkili bir müdahale süreci sunuyor. Bu da hastaların daha hızlı tedavi almasına ve potansiyel olarak yaşam kurtarıcı bir rol oynamasına olanak tanıyor. Araştırmacılar, bu teknolojinin sağlık sektöründe geniş bir uygulama alanı bulabileceğini ve hastaların bakım standartlarını önemli ölçüde yükseltebileceğini öngörüyor. Yapay zeka destekli sistemlerin tıbbi alandaki etkisinin artmasıyla, gelecekte daha fazla sağlık hizmetinin bu tür yenilikçi teknolojilerle desteklenmesi bekleniyor.",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
-        "date": "2026-02-10T07:17:55.681063",
-        "timestamp": 1770707875.681075
+        "title": "Yapay Zekanın Gerçek Kullanımları ve Moltbook'un Pokémon Benzerliği",
+        "original_title": "The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon",
+        "content": "Günümüzün teknoloji dünyasında neler olup bittiğine dair günlük bir doz sunan bültenimiz, The Download'un bugünkü sayısına hoş geldiniz. MIT Technology Review’un yeni yapay zeka bülteni ‘Making AI Work’e ilk bakış: Yapay zekanın gerçekten nasıl kullanıldığı hakkında daha fazla bilgi edinmek ister misiniz? Biz de yeni bir bülten başlattık... \n\nBu bülten, yapay zeka teknolojilerinin günlük hayatta nasıl uygulandığına dair derinlemesine bir bakış sunmayı amaçlıyor. Günümüzün en çok konuşulan konularından biri olan yapay zekanın farklı alanlarda nasıl entegre edildiğini ve bu teknolojilerin ne tür etkiler yarattığını keşfetmek isteyenler için kaçırılmaması gereken bir kaynak. \n\nAynı zamanda, Moltbook'un yarattığı heyecanın Pokémon çılgınlığına benzerliği üzerinde duruluyor. Geçmişte Pokémon'un yarattığı gibi geniş bir kitleyi peşinden sürükleyen Moltbook, benzer bir popülerlik dalgası yaratıyor. Her iki fenomenin de kitlesel bir çekim gücüne sahip olması ve kullanıcılar arasında tutkulu bir bağlılık oluşturması, bu benzerliğin altını çizen unsurlar arasında yer alıyor.\n\nKaynak: MIT Technology Review",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/",
+        "date": "2026-02-10T13:44:19.429829",
+        "timestamp": 1770731059.429839
     },
     "news_list": [
+        {
+            "title": "Yapay Zekanın Gerçek Kullanımları ve Moltbook'un Pokémon Benzerliği",
+            "original_title": "The Download: Making AI Work, and why the Moltbook hype is similar to Pokémon",
+            "content": "Günümüzün teknoloji dünyasında neler olup bittiğine dair günlük bir doz sunan bültenimiz, The Download'un bugünkü sayısına hoş geldiniz. MIT Technology Review’un yeni yapay zeka bülteni ‘Making AI Work’e ilk bakış: Yapay zekanın gerçekten nasıl kullanıldığı hakkında daha fazla bilgi edinmek ister misiniz? Biz de yeni bir bülten başlattık... \n\nBu bülten, yapay zeka teknolojilerinin günlük hayatta nasıl uygulandığına dair derinlemesine bir bakış sunmayı amaçlıyor. Günümüzün en çok konuşulan konularından biri olan yapay zekanın farklı alanlarda nasıl entegre edildiğini ve bu teknolojilerin ne tür etkiler yarattığını keşfetmek isteyenler için kaçırılmaması gereken bir kaynak. \n\nAynı zamanda, Moltbook'un yarattığı heyecanın Pokémon çılgınlığına benzerliği üzerinde duruluyor. Geçmişte Pokémon'un yarattığı gibi geniş bir kitleyi peşinden sürükleyen Moltbook, benzer bir popülerlik dalgası yaratıyor. Her iki fenomenin de kitlesel bir çekim gücüne sahip olması ve kullanıcılar arasında tutkulu bir bağlılık oluşturması, bu benzerliğin altını çizen unsurlar arasında yer alıyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/",
+            "date": "2026-02-10T13:44:19.429829",
+            "timestamp": 1770731059.429839
+        },
         {
             "title": "Beyin MR'larını Saniyeler İçinde Yorumlayan Yapay Zeka",
             "original_title": "AI reads brain MRIs in seconds and flags emergencies",
@@ -500,16 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/01/260127112130.htm",
             "date": "2026-01-28T13:08:50.664087",
             "timestamp": 1769605730.664097
-        },
-        {
-            "title": "Görünmeyen Yağlar Beyninizi Küçültebilir",
-            "original_title": "The fat you can’t see could be shrinking your brain",
-            "content": "Vücudunuzun yağı nerede depoladığı, ne kadar taşıdığınız kadar önemli olabilir—özellikle de beyniniz için. İleri düzey MRI taramaları ve yaklaşık 26,000 kişinin verilerini kullanan araştırmacılar, daha hızlı beyin yaşlanması, bilişsel gerileme ve daha yüksek nörolojik hastalık riskiyle bağlantılı iki şaşırtıcı yağ modeli belirlediler. Bu modellerden biri, karaciğerde çok fazla yağ birikimi olmadan pankreasta olağanüstü yüksek yağ birikimini içerirken, diğeri—genellikle 'gizli şişmanlık' olarak adlandırılan model—ciddi şekilde obez görünmeyen ancak kas oranına göre fazla yağ taşıyan insanları etkiliyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/01/260127112127.htm",
-            "date": "2026-01-28T13:08:54.946216",
-            "timestamp": 1769605734.946225
         }
     ]
 }
