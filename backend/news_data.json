@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-02-10T03:20:09.496091",
+    "last_updated": "2026-02-10T07:17:56.329720",
     "daily_news": {
-        "title": "İnsanların 33 Duyusu Olabilir: Algılarımızın Sınırları Yeniden Tanımlanıyor",
-        "original_title": "New research reveals humans could have as many as 33 senses",
-        "content": "Yeni araştırmalar, insanların 33 duyuya sahip olabileceğini ortaya koyuyor. Dünyayı ayrı ayrı duyularla deneyimlemiyoruz; her şey birbiriyle iç içe geçmiş durumda. Koku, dokunma, ses, görme ve denge sürekli olarak birbirlerini etkiliyor ve bu da yemeğin tadını, nesnelerin hissini ve hatta vücudumuzun ne kadar ağır geldiğini şekillendiriyor. Bilim insanları, insanların aynı anda çalışan 20'den fazla farklı duyusu olabileceğine inanıyor. Günlük yanılsamalar ve deneyimler, algının ne kadar karmaşık olduğunu şaşırtıcı bir şekilde ortaya koyuyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-        "category": "Bilim & Teknoloji",
-        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260208233832.htm",
-        "date": "2026-02-10T03:20:08.845487",
-        "timestamp": 1770693608.845498
+        "title": "Beyin MR'larını Saniyeler İçinde Yorumlayan Yapay Zeka",
+        "original_title": "AI reads brain MRIs in seconds and flags emergencies",
+        "content": "Michigan Üniversitesi araştırmacıları, beyin MR taramalarını sadece saniyeler içinde yorumlayabilen ve acil bakım gerektiren durumları belirleyen bir yapay zeka sistemi geliştirdi. Gerçek dünya taramalarından ve hasta geçmişlerinden oluşan yüz binlerce veri üzerinde eğitilen model, %97.5 gibi yüksek bir doğruluk oranına ulaştı ve diğer gelişmiş yapay zeka araçlarını geride bıraktı. Bu yenilik, nörolojik durumların hızlı ve doğru bir şekilde değerlendirilmesini sağlayarak, acil müdahale gerektiren vakaların tespit edilmesinde önemli bir rol oynayabilir. Yapay zeka sistemi, birçok nörolojik durumun tanınması konusunda etkili olup, sağlık profesyonellerine daha hızlı ve etkili bir müdahale süreci sunuyor. Bu da hastaların daha hızlı tedavi almasına ve potansiyel olarak yaşam kurtarıcı bir rol oynamasına olanak tanıyor. Araştırmacılar, bu teknolojinin sağlık sektöründe geniş bir uygulama alanı bulabileceğini ve hastaların bakım standartlarını önemli ölçüde yükseltebileceğini öngörüyor. Yapay zeka destekli sistemlerin tıbbi alandaki etkisinin artmasıyla, gelecekte daha fazla sağlık hizmetinin bu tür yenilikçi teknolojilerle desteklenmesi bekleniyor.",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
+        "date": "2026-02-10T07:17:55.681063",
+        "timestamp": 1770707875.681075
     },
     "news_list": [
+        {
+            "title": "Beyin MR'larını Saniyeler İçinde Yorumlayan Yapay Zeka",
+            "original_title": "AI reads brain MRIs in seconds and flags emergencies",
+            "content": "Michigan Üniversitesi araştırmacıları, beyin MR taramalarını sadece saniyeler içinde yorumlayabilen ve acil bakım gerektiren durumları belirleyen bir yapay zeka sistemi geliştirdi. Gerçek dünya taramalarından ve hasta geçmişlerinden oluşan yüz binlerce veri üzerinde eğitilen model, %97.5 gibi yüksek bir doğruluk oranına ulaştı ve diğer gelişmiş yapay zeka araçlarını geride bıraktı. Bu yenilik, nörolojik durumların hızlı ve doğru bir şekilde değerlendirilmesini sağlayarak, acil müdahale gerektiren vakaların tespit edilmesinde önemli bir rol oynayabilir. Yapay zeka sistemi, birçok nörolojik durumun tanınması konusunda etkili olup, sağlık profesyonellerine daha hızlı ve etkili bir müdahale süreci sunuyor. Bu da hastaların daha hızlı tedavi almasına ve potansiyel olarak yaşam kurtarıcı bir rol oynamasına olanak tanıyor. Araştırmacılar, bu teknolojinin sağlık sektöründe geniş bir uygulama alanı bulabileceğini ve hastaların bakım standartlarını önemli ölçüde yükseltebileceğini öngörüyor. Yapay zeka destekli sistemlerin tıbbi alandaki etkisinin artmasıyla, gelecekte daha fazla sağlık hizmetinin bu tür yenilikçi teknolojilerle desteklenmesi bekleniyor.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
+            "date": "2026-02-10T07:17:55.681063",
+            "timestamp": 1770707875.681075
+        },
         {
             "title": "İnsanların 33 Duyusu Olabilir: Algılarımızın Sınırları Yeniden Tanımlanıyor",
             "original_title": "New research reveals humans could have as many as 33 senses",
@@ -500,16 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/01/260127112127.htm",
             "date": "2026-01-28T13:08:54.946216",
             "timestamp": 1769605734.946225
-        },
-        {
-            "title": "iXCells ve Rosebud Biosciences, Nadir Hastalıklar için Organoid Tabanlı Modeller Üzerinde İş Birliği Yapıyor",
-            "original_title": "iXCells and Rosebud Biosciences Partner on Organoid-Based Rare Disease Models",
-            "content": "iXCells ve Rosebud Biosciences, organoid tabanlı nadir hastalık modelleri geliştirmek için iş birliği yapıyor. Bu ortak çalışma, iXCells’in ölçeklenebilir ve modüler iPSC platformu iPSCore'u, Rosebud’un yapay zeka destekli organoid platformu ile bir araya getiriyor. Bu birleşik iş akışı, ilaç keşfi ve güvenlik değerlendirmesi için ölçeklenebilir, tekrarlanabilir insan doku verileri üretmek üzere tasarlandı.\n\nBu iş birliği, özellikle nadir hastalıkların modellenmesi ve tedavi edilmesi açısından büyük bir potansiyele sahip. iPSCore platformu, insandan türetilmiş pluripotent kök hücrelerin (iPSC) geniş ölçekte üretimini mümkün kılarak, araştırmacılara çok çeşitli hücre tipleri oluşturma imkanı tanıyor. Rosebud'un organoid platformu ise, bu hücreleri gerçekçi 3D doku yapıları haline dönüştürerek, insan fizyolojisinin daha doğru bir modelini sunuyor.\n\nBu yenilikçi yaklaşım, nadir hastalıkların daha iyi anlaşılması ve tedavi edilmesi yönünde önemli bir adım olarak görülüyor. iXCells ve Rosebud Biosciences, bu alandaki araştırmaları hızlandırarak, yeni tedavi yöntemlerinin geliştirilmesine katkıda bulunmayı hedefliyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023, Ekim 5). iXCells and Rosebud Biosciences Partner on Organoid-Based Rare Disease Models. https://www.genengnews.com/topics/translational-medicine/ix-cells-and-rosebud-biosciences-partner-on-organoid-based-rare-disease-models/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/ix-cells-and-rosebud-biosciences-partner-on-organoid-based-rare-disease-models/",
-            "date": "2026-01-28T13:09:06.312140",
-            "timestamp": 1769605746.312148
         }
     ]
 }
