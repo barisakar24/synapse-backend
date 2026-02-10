@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-02-09T21:49:49.531168",
+    "last_updated": "2026-02-10T03:20:09.496091",
     "daily_news": {
-        "title": "Opentrons ve Nvidia İş Birliği: Laboratuvarlarda Fiziksel Yapay Zeka Dönemi",
-        "original_title": "Opentrons Uses Nvidia Tech to Build Training Data That Powers Physical AI in the Lab",
-        "content": "Opentrons, Nvidia'nın Isaac ve Cosmos fiziksel yapay zeka yazılımlarını laboratuvar robot filosuyla entegre ederek gerçek dünya laboratuvar iş akışlarından öğrenen yapay zeka sistemleri geliştirdi. Bu iş birliği, laboratuvar otomasyonu ve verimliliğini artırma potansiyeline sahip yenilikçi bir adım olarak görülüyor.\n\nOpentrons'un laboratuvar robotları, Nvidia'nın gelişmiş yapay zeka teknolojileriyle donatılarak daha akıllı ve esnek bir şekilde çalışabiliyor. Isaac ve Cosmos yazılımları, robotların gerçek zamanlı verileri işleyerek daha iyi kararlar almasını sağlıyor. Bu da laboratuvarlarda gerçekleştirilen deneylerin daha hızlı ve güvenilir bir şekilde tamamlanmasına olanak tanıyor.\n\nBu yenilik, bilimsel araştırmaların hızını artırabilir ve laboratuvar süreçlerinde devrim yaratabilir. Opentrons'un bu teknolojiyi kullanması, araştırma ve geliştirme aşamalarında önemli bir avantaj sağlayabilir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (2023). Opentrons Uses Nvidia Tech to Build Training Data That Powers Physical AI in the Lab. https://www.genengnews.com/topics/drug-discovery/opentrons-uses-nvidia-tech-to-build-training-data-that-powers-physical-ai-in-the-lab/",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/drug-discovery/opentrons-uses-nvidia-tech-to-build-training-data-that-powers-physical-ai-in-the-lab/",
-        "date": "2026-02-09T21:49:42.755919",
-        "timestamp": 1770673782.755927
+        "title": "İnsanların 33 Duyusu Olabilir: Algılarımızın Sınırları Yeniden Tanımlanıyor",
+        "original_title": "New research reveals humans could have as many as 33 senses",
+        "content": "Yeni araştırmalar, insanların 33 duyuya sahip olabileceğini ortaya koyuyor. Dünyayı ayrı ayrı duyularla deneyimlemiyoruz; her şey birbiriyle iç içe geçmiş durumda. Koku, dokunma, ses, görme ve denge sürekli olarak birbirlerini etkiliyor ve bu da yemeğin tadını, nesnelerin hissini ve hatta vücudumuzun ne kadar ağır geldiğini şekillendiriyor. Bilim insanları, insanların aynı anda çalışan 20'den fazla farklı duyusu olabileceğine inanıyor. Günlük yanılsamalar ve deneyimler, algının ne kadar karmaşık olduğunu şaşırtıcı bir şekilde ortaya koyuyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+        "category": "Bilim & Teknoloji",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260208233832.htm",
+        "date": "2026-02-10T03:20:08.845487",
+        "timestamp": 1770693608.845498
     },
     "news_list": [
+        {
+            "title": "İnsanların 33 Duyusu Olabilir: Algılarımızın Sınırları Yeniden Tanımlanıyor",
+            "original_title": "New research reveals humans could have as many as 33 senses",
+            "content": "Yeni araştırmalar, insanların 33 duyuya sahip olabileceğini ortaya koyuyor. Dünyayı ayrı ayrı duyularla deneyimlemiyoruz; her şey birbiriyle iç içe geçmiş durumda. Koku, dokunma, ses, görme ve denge sürekli olarak birbirlerini etkiliyor ve bu da yemeğin tadını, nesnelerin hissini ve hatta vücudumuzun ne kadar ağır geldiğini şekillendiriyor. Bilim insanları, insanların aynı anda çalışan 20'den fazla farklı duyusu olabileceğine inanıyor. Günlük yanılsamalar ve deneyimler, algının ne kadar karmaşık olduğunu şaşırtıcı bir şekilde ortaya koyuyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Bilim & Teknoloji",
+            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260208233832.htm",
+            "date": "2026-02-10T03:20:08.845487",
+            "timestamp": 1770693608.845498
+        },
         {
             "title": "Opentrons ve Nvidia İş Birliği: Laboratuvarlarda Fiziksel Yapay Zeka Dönemi",
             "original_title": "Opentrons Uses Nvidia Tech to Build Training Data That Powers Physical AI in the Lab",
@@ -500,16 +510,6 @@
             "link": "https://www.genengnews.com/topics/translational-medicine/ix-cells-and-rosebud-biosciences-partner-on-organoid-based-rare-disease-models/",
             "date": "2026-01-28T13:09:06.312140",
             "timestamp": 1769605746.312148
-        },
-        {
-            "title": "Beyin Lizozomal Proteinlerinin Hücre Tipi Atlası: Nörolojik Bozukluklara Yeni Bir Bakış",
-            "original_title": "Cell-Type Atlas of Brain Lysosomal Proteins May Clarify Neurological Disorders",
-            "content": "Araştırmacılar, farklı beyin hücre tiplerinde hangi lizozomal proteinlerin lizozomlarla ilişkili olduğunu gösteren bir atlas oluşturdular ve bu kaynağın, bilim insanlarının nörolojik bozukluklar bağlamında lizozomal işlev ve işlev bozukluğunu anlamalarına yardımcı olabileceğini öne sürdüler. Lizozomlar, hücresel atıkları sindiren ve geri dönüştüren organeller olarak bilinir ve işlev bozuklukları birçok nörolojik hastalıkla ilişkilidir. Araştırma ekibi, beyin hücre türlerinin her birinde hangi lizozomal proteinlerin bulunduğunu haritalayarak, bu proteinlerin işlevlerini daha iyi anlamayı ve hangi bozuklukların hangi proteinlerle bağlantılı olabileceğini belirlemeyi amaçlamaktadır. Bu atlas, bilim insanlarına, lizozomal işlev bozukluğunun nörolojik hastalıklara nasıl katkıda bulunduğunu daha iyi anlamalarına yardımcı olabilir. Çalışmanın bulguları, nörolojik bozuklukların teşhis ve tedavisinde yeni yollar açabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/translational-medicine/cell-type-atlas-of-brain-lysosomal-proteins-may-clarify-neurological-disorders/)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/cell-type-atlas-of-brain-lysosomal-proteins-may-clarify-neurological-disorders/",
-            "date": "2026-01-28T13:09:13.329433",
-            "timestamp": 1769605753.32944
         }
     ]
 }
