@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-02-10T16:13:04.955490",
+    "last_updated": "2026-02-10T19:18:34.790142",
     "daily_news": {
-        "title": "Parmak Uzunluğu ve Beyin Evrimi Arasındaki Bağlantı Keşfedildi",
-        "original_title": "Scientists find a clue to human brain evolution in finger length",
-        "content": "İnsan evrimi uzun süredir artan beyin boyutu ile ilişkilendirilmiştir ve yeni araştırmalar, doğum öncesi hormonların bu süreçte şaşırtıcı bir rol oynamış olabileceğini öne sürüyor. Bilim insanları, işaret ve yüzük parmaklarının göreceli uzunluklarını inceleyerek, rahimdeki östrojen ve testosteron maruziyetine dair ipuçları buldular. Araştırmalar, doğum öncesi dönemdeki daha yüksek östrojen seviyelerinin, yeni doğan erkek bebeklerde daha büyük kafa boyutuyla ilişkili olduğunu ortaya koydu. Bu bulgu, insan beyninin evriminde hormonların rolüne dair yeni bir anlayış sağlıyor. Araştırmayı yürüten ekip, parmak uzunluklarının, doğum öncesi hormonal çevreyi yansıtan bir biyolojik gösterge olduğunu ve bu göstergenin beyin gelişimi ile olan ilişkisini anlamanın evrimsel biyolojiye yeni bakış açıları kazandırabileceğini belirtiyor.\n\nKaynak: Mind & Brain News -- ScienceDaily.",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260210040559.htm",
-        "date": "2026-02-10T16:13:04.042587",
-        "timestamp": 1770739984.042595
+        "title": "ChatGPT Abonelikleri İçin 'VazgeçGPT' Kampanyası Başlatıldı",
+        "original_title": "A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions",
+        "content": "Eylül ayında, Singapur'da serbest yazılım geliştiricisi olarak çalışan Alfred Stephen, işlerini hızlandırmak amacıyla ChatGPT Plus aboneliği satın aldı. Bu abonelik, ayda 20 dolara mal oluyor ve daha gelişmiş modellere erişim sunuyor. Ancak Stephen, sohbet robotunun kodlama yeteneklerinden ve uzun, dolambaçlı yanıtlarından rahatsız olmaya başladı. Daha sonra Reddit'te bu konuyla ilgili bir gönderiye rastladı...\n\nKaynak: MIT Technology Review.",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/",
+        "date": "2026-02-10T19:18:34.473779",
+        "timestamp": 1770751114.473789
     },
     "news_list": [
+        {
+            "title": "ChatGPT Abonelikleri İçin 'VazgeçGPT' Kampanyası Başlatıldı",
+            "original_title": "A “QuitGPT” campaign is urging people to cancel their ChatGPT subscriptions",
+            "content": "Eylül ayında, Singapur'da serbest yazılım geliştiricisi olarak çalışan Alfred Stephen, işlerini hızlandırmak amacıyla ChatGPT Plus aboneliği satın aldı. Bu abonelik, ayda 20 dolara mal oluyor ve daha gelişmiş modellere erişim sunuyor. Ancak Stephen, sohbet robotunun kodlama yeteneklerinden ve uzun, dolambaçlı yanıtlarından rahatsız olmaya başladı. Daha sonra Reddit'te bu konuyla ilgili bir gönderiye rastladı...\n\nKaynak: MIT Technology Review.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/10/1132577/a-quitgpt-campaign-is-urging-people-to-cancel-chatgpt-subscriptions/",
+            "date": "2026-02-10T19:18:34.473779",
+            "timestamp": 1770751114.473789
+        },
         {
             "title": "Otizmde Cinsiyet Farklılıkları: Kızlar ve Erkekler Arasındaki Dengeyi Anlamak",
             "original_title": "Everyone thought autism mostly affected boys. This study says otherwise",
@@ -500,16 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/01/260128075319.htm",
             "date": "2026-01-28T15:41:47.889558",
             "timestamp": 1769614907.889566
-        },
-        {
-            "title": "Yapay Zeka ve Gizliliğin Yeni Sınırları: Kişisel Verilerinizle Daha 'Hatırlayan' Teknolojiler",
-            "original_title": "What AI “remembers” about you is privacy’s next frontier",
-            "content": "Yapay zekanın sizi ve tercihleriniz hakkında hatırlayabilme yeteneği, AI sohbet botları ve ajanları için hızla önemli bir satış noktası haline geliyor. Bu ayın başlarında Google, kullanıcıların Gmail, fotoğraflar, arama ve YouTube geçmişlerini kullanarak Gemini adlı sohbet botu ile daha kişisel ve proaktif bir şekilde etkileşime geçmelerini sağlayacak yeni bir yöntem olan Kişisel Zeka'yı duyurdu. Bu yeni özellik, AI teknolojilerini daha kişisel hale getirerek kullanıcıların alışkanlıklarına ve tercihlerine daha duyarlı bir hizmet sunmayı amaçlıyor. Bu gelişme, yapay zekanın bireylerin özel bilgilerine erişim sağlayarak daha kişiselleştirilmiş bir deneyim sunabilmesi anlamına geliyor. Ancak, bu durum aynı zamanda gizlilik konusunda yeni soruları da gündeme getiriyor. Kullanıcıların verilerinin nasıl kullanılacağı ve saklanacağı konusundaki endişeler, bu tür yeniliklerin gölgesinde kalıyor. Yapay zekanın kişisel verilerle daha fazla etkileşimde bulunması, hem kullanıcılar hem de teknoloji şirketleri için yeni etik ve gizlilik zorluklarını beraberinde getiriyor. Sonuç olarak, AI'nın kullanıcı verileriyle etkileşimi, teknolojinin geleceğinde önemli bir rol oynarken, gizlilik ve güvenlik konularını da yeniden düşünmemizi gerektiriyor.",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/01/28/1131835/what-ai-remembers-about-you-is-privacys-next-frontier/",
-            "date": "2026-01-28T15:41:57.764550",
-            "timestamp": 1769614917.764557
         }
     ]
 }
