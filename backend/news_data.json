@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-02-11T03:18:05.927616",
+    "last_updated": "2026-02-11T07:15:05.373481",
     "daily_news": {
-        "title": "Lilly, Kanser ve Bağışıklık Sistemi Anlaşmalarıyla 11,25 Milyar Dolara İmza Attı",
-        "original_title": "Beyond Obesity: Lilly Inks Up to $11.25B in Cancer, Immune System Deals",
-        "content": "Eli Lilly, metabolik bozukluklar dışındaki alanlarda da güçlü bir varlık göstermek amacıyla 11,25 milyar dolara varan değerde kanser ve bağışıklık sistemi anlaşmalarına imza attı. Bu anlaşmalar, Lilly'nin baş bilim ve ürün sorumlusu ve Lilly Araştırma Laboratuvarları başkanı Daniel Skovronsky'nin, Lilly'nin metabolik bozuklukların ötesinde bir portföy oluşturmak için önemli bir sermaye harcamaya hazır olduğunu analistlerle paylaşmasından bir hafta sonra geldi. Geçtiğimiz yıl, Lilly, tirzepatid adlı dual-aksiyonlu glukagon benzeri peptid reseptör 1 (GLP-1) ve glukoz bağımlı insulinotropik polipeptid (GIP) ilacı ile diyabette Mounjaro® ve obezitede Zepbound® markası altında toplamda 36,507 milyar dolarlık satış gerçekleştirdi.\n\nKaynak:\nGEN – Genetic Engineering and Biotechnology News. (tarih). Beyond Obesity: Lilly Inks Up to $11.25B in Cancer, Immune System Deals. Erişim adresi: https://www.genengnews.com/topics/translational-medicine/beyond-obesity-lilly-inks-up-to-11-25b-in-cancer-immune-system-deals/",
-        "category": "Genetik",
-        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/translational-medicine/beyond-obesity-lilly-inks-up-to-11-25b-in-cancer-immune-system-deals/",
-        "date": "2026-02-11T03:17:58.009622",
-        "timestamp": 1770779878.009633
+        "title": "Hayali Çay Partisi: Bonobo Kanzi, İnsana Özgü Sanılan Hayal Gücünü Sorguluyor",
+        "original_title": "A bonobo’s pretend tea party is rewriting what we know about imagination",
+        "content": "Bilim insanları, Kanzi adında bir bonobonun hayali çay partisi deneylerinde başarılı bir şekilde rol alarak onları şaşırttığını bildirdi. Kanzi, hayali meyve suyu ve üzümleri gerçekmiş gibi takip ederek, hayali nesnelerin doğru yerlerini tutarlı bir şekilde işaret etti. Ancak, seçenek verildiğinde her zaman gerçek yiyecekleri tercih etti. Bu sonuçlar, hayal gücünün yalnızca insanlara özgü olmayabileceğini düşündürüyor. \n\nKaynak: Mind & Brain News -- ScienceDaily.",
+        "category": "Bilim & Teknoloji",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260210040605.htm",
+        "date": "2026-02-11T07:15:04.774955",
+        "timestamp": 1770794104.774966
     },
     "news_list": [
+        {
+            "title": "Hayali Çay Partisi: Bonobo Kanzi, İnsana Özgü Sanılan Hayal Gücünü Sorguluyor",
+            "original_title": "A bonobo’s pretend tea party is rewriting what we know about imagination",
+            "content": "Bilim insanları, Kanzi adında bir bonobonun hayali çay partisi deneylerinde başarılı bir şekilde rol alarak onları şaşırttığını bildirdi. Kanzi, hayali meyve suyu ve üzümleri gerçekmiş gibi takip ederek, hayali nesnelerin doğru yerlerini tutarlı bir şekilde işaret etti. Ancak, seçenek verildiğinde her zaman gerçek yiyecekleri tercih etti. Bu sonuçlar, hayal gücünün yalnızca insanlara özgü olmayabileceğini düşündürüyor. \n\nKaynak: Mind & Brain News -- ScienceDaily.",
+            "category": "Bilim & Teknoloji",
+            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260210040605.htm",
+            "date": "2026-02-11T07:15:04.774955",
+            "timestamp": 1770794104.774966
+        },
         {
             "title": "Lilly, Kanser ve Bağışıklık Sistemi Anlaşmalarıyla 11,25 Milyar Dolara İmza Attı",
             "original_title": "Beyond Obesity: Lilly Inks Up to $11.25B in Cancer, Immune System Deals",
@@ -500,16 +510,6 @@
             "link": "https://www.genengnews.com/topics/infectious-diseases/how-ifn-signaling-tunes-macrophage-mitochondria-in-inflammation-resolution/",
             "date": "2026-01-29T02:43:41.636699",
             "timestamp": 1769654621.636707
-        },
-        {
-            "title": "Yapay Zeka Modelleri için 'Spor Salonu': Daha Keskin Biyofarma Araştırmaları",
-            "original_title": "No Pain, No Gain: Insilico ‘Gym’ Gets AI Models Into Shape",
-            "content": "Science MMAI Gym, genel amaçlı büyük dil modellerini (LLM'ler) - ChatGPT, Claude, Gemini, Grok, Llama, Mistral dahil - tıbbi kimya, biyoloji ve klinik geliştirme alanlarındaki görevleri yerine getirecek şekilde eğitmek için tasarlanmıştır. Bu süreç, biyofarma araştırma ve geliştirme (AR-GE) için gereken hassasiyeti elde etmeyi amaçlamaktadır. Bu yenilikçi yaklaşım, yapay zeka (AI) modellerini daha keskin ve etkili hale getirerek biyoteknoloji ve genetik mühendisliği alanlarında devrim yaratmayı hedeflemektedir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (2023). No Pain, No Gain: Insilico ‘Gym’ Gets AI Models Into Shape. GEN - Genetic Engineering and Biotechnology News. https://www.genengnews.com/topics/artificial-intelligence/no-pain-no-gain-insilico-gym-gets-ai-models-into-shape/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/artificial-intelligence/no-pain-no-gain-insilico-gym-gets-ai-models-into-shape/",
-            "date": "2026-01-28T21:38:06.641200",
-            "timestamp": 1769636286.64121
         }
     ]
 }
