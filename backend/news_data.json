@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-02-11T10:00:22.702233",
+    "last_updated": "2026-02-11T13:41:02.666704",
     "daily_news": {
-        "title": "Hayali Çay Partisi: Bonobo Kanzi, İnsana Özgü Sanılan Hayal Gücünü Sorguluyor",
-        "original_title": "A bonobo’s pretend tea party is rewriting what we know about imagination",
-        "content": "Bilim insanları, Kanzi adında bir bonobonun hayali çay partisi deneylerinde başarılı bir şekilde rol alarak onları şaşırttığını bildirdi. Kanzi, hayali meyve suyu ve üzümleri gerçekmiş gibi takip ederek, hayali nesnelerin doğru yerlerini tutarlı bir şekilde işaret etti. Ancak, seçenek verildiğinde her zaman gerçek yiyecekleri tercih etti. Bu sonuçlar, hayal gücünün yalnızca insanlara özgü olmayabileceğini düşündürüyor. \n\nKaynak: Mind & Brain News -- ScienceDaily.",
-        "category": "Bilim & Teknoloji",
-        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260210040605.htm",
-        "date": "2026-02-11T07:15:04.774955",
-        "timestamp": 1770794104.774966
+        "title": "ChatGPT Aboneliklerine Karşı Yükselen Hareket: QuitGPT",
+        "original_title": "The Download: inside the QuitGPT movement, and EVs in Africa",
+        "content": "Bu, teknoloji dünyasında neler olup bittiğine dair günlük bir doz sağlayan haftalık bültenimiz The Download'un bugünkü sayısıdır. 'QuitGPT' kampanyası, insanları ChatGPT aboneliklerini iptal etmeye çağırıyor. Eylül ayında, Singapur'da serbest yazılım geliştiricisi olan Alfred Stephen, ayda 20 dolara mal olan ve çeşitli avantajlar sunan bir ChatGPT Plus aboneliği satın aldı. Çeşitli nedenlerle, kullanıcılar ChatGPT aboneliklerini iptal etmeye teşvik ediliyor. Bu hareket, yapay zeka tabanlı sohbet botlarının özel hayat ve veri güvenliği üzerindeki etkileri konusunda artan endişelerden kaynaklanıyor. Kimi kullanıcılar, bu tür araçların kişisel verileri nasıl işlediği ve sakladığı konusunda daha fazla şeffaflık talep ediyor. Diğer yandan, bazıları bu tür hizmetlerin bağımlılık yapıcı doğasına dikkat çekiyor ve daha dikkatli bir kullanım öneriyor. Bu tartışmalar, teknolojinin günlük yaşam üzerindeki etkileri hakkında daha geniş bir diyalog başlatıyor. Elektrikli araçların (EV) Afrika'daki yayılımı ise başka bir önemli konu olarak öne çıkıyor. Birçok Afrika ülkesi, çevresel sürdürülebilirlik ve ekonomik kalkınma için elektrikli araçların potansiyelini keşfetmeye başlıyor. Ancak, altyapı eksiklikleri ve yüksek maliyetler gibi zorluklar, bu teknolojinin kıtada yaygın bir şekilde benimsenmesini zorlaştırıyor. Yine de, birçok girişimci ve hükümet bu engelleri aşmak için çeşitli stratejiler geliştirmeye çalışıyor. Elektrikli araçlar, Afrika'nın enerji ve ulaşım sektörlerinde devrim yaratma potansiyeline sahipken, bu geçişin ne kadar hızlı ve etkili bir şekilde gerçekleşeceği merak konusu. \n\nKaynak: MIT Technology Review",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/02/11/1132724/the-download-inside-the-quitgpt-movement-and-evs-in-africa/",
+        "date": "2026-02-11T13:40:56.155750",
+        "timestamp": 1770817256.15576
     },
     "news_list": [
+        {
+            "title": "Depresyon, Parkinson veya Demansın Erken Belirtisi Olabilir",
+            "original_title": "Depression may be the brain’s early warning sign of Parkinson’s or dementia",
+            "content": "Yaşlı yetişkinlerde görülen depresyon, bazen Parkinson hastalığı veya Lewy cisimcikli demansın erken evrelerini işaret edebilir. Araştırmacılar, depresyonun teşhis edilmeden yıllar önce ortaya çıktığını ve diğer kronik hastalıklardan farklı olarak uzun süre yüksek seviyede kaldığını bulmuşlardır. Bu durum, depresyonun sadece duygusal sıkıntıdan ziyade erken beyin değişikliklerini yansıtıyor olabileceğini düşündürmektedir.\n\nYapılan araştırmalara göre, yaşlı bireylerde depresyon belirtileri, Parkinson hastalığı veya Lewy cisimcikli demans gibi nörodejeneratif hastalıkların başlangıcını işaret edebilir. Bu hastalıklar genellikle teşhis edilmeden önce yıllarca sürebilir ve depresyon, bu süreçte önemli bir uyarı işareti olabilir.\n\nDepresyonun, Parkinson ve demans gibi hastalıkların erken belirtileri arasında yer alabileceğine dair bulgular, nörolojik bozuklukların erken teşhisi ve tedavisi için önemli bir adım olabilir. Bu nedenle, yaşlı bireylerde görülen depresyon belirtileri dikkatle izlenmeli ve gerekli durumlarda nörolojik değerlendirmeler yapılmalıdır.\n\nAPA formatında kaynak: Mind & Brain News -- ScienceDaily.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260210040623.htm",
+            "date": "2026-02-11T13:40:42.449150",
+            "timestamp": 1770817242.449161
+        },
+        {
+            "title": "ChatGPT Aboneliklerine Karşı Yükselen Hareket: QuitGPT",
+            "original_title": "The Download: inside the QuitGPT movement, and EVs in Africa",
+            "content": "Bu, teknoloji dünyasında neler olup bittiğine dair günlük bir doz sağlayan haftalık bültenimiz The Download'un bugünkü sayısıdır. 'QuitGPT' kampanyası, insanları ChatGPT aboneliklerini iptal etmeye çağırıyor. Eylül ayında, Singapur'da serbest yazılım geliştiricisi olan Alfred Stephen, ayda 20 dolara mal olan ve çeşitli avantajlar sunan bir ChatGPT Plus aboneliği satın aldı. Çeşitli nedenlerle, kullanıcılar ChatGPT aboneliklerini iptal etmeye teşvik ediliyor. Bu hareket, yapay zeka tabanlı sohbet botlarının özel hayat ve veri güvenliği üzerindeki etkileri konusunda artan endişelerden kaynaklanıyor. Kimi kullanıcılar, bu tür araçların kişisel verileri nasıl işlediği ve sakladığı konusunda daha fazla şeffaflık talep ediyor. Diğer yandan, bazıları bu tür hizmetlerin bağımlılık yapıcı doğasına dikkat çekiyor ve daha dikkatli bir kullanım öneriyor. Bu tartışmalar, teknolojinin günlük yaşam üzerindeki etkileri hakkında daha geniş bir diyalog başlatıyor. Elektrikli araçların (EV) Afrika'daki yayılımı ise başka bir önemli konu olarak öne çıkıyor. Birçok Afrika ülkesi, çevresel sürdürülebilirlik ve ekonomik kalkınma için elektrikli araçların potansiyelini keşfetmeye başlıyor. Ancak, altyapı eksiklikleri ve yüksek maliyetler gibi zorluklar, bu teknolojinin kıtada yaygın bir şekilde benimsenmesini zorlaştırıyor. Yine de, birçok girişimci ve hükümet bu engelleri aşmak için çeşitli stratejiler geliştirmeye çalışıyor. Elektrikli araçlar, Afrika'nın enerji ve ulaşım sektörlerinde devrim yaratma potansiyeline sahipken, bu geçişin ne kadar hızlı ve etkili bir şekilde gerçekleşeceği merak konusu. \n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/11/1132724/the-download-inside-the-quitgpt-movement-and-evs-in-africa/",
+            "date": "2026-02-11T13:40:56.155750",
+            "timestamp": 1770817256.15576
+        },
+        {
+            "title": "2040'ta Afrika'da Elektrikli Araçların Maliyeti Benzinli Araçlardan Daha Düşük Olabilir",
+            "original_title": "EVs could be cheaper to own than gas cars in Africa by 2040",
+            "content": "Elektrikli araçlar (EV), Afrika'da beklenenden daha hızlı bir şekilde ekonomik olarak rekabetçi olabilir. Kıtada 2025 yılında satılan yeni araçların sadece %1'i elektrikliydi, ancak yeni bir analiz, güneş enerjili off-grid şarj ile EV'lerin 2040 yılına kadar benzinli araçlardan daha ucuza sahiplenilebileceğini ortaya koyuyor. Yine de birçok ülkede elektrikli araçların yaygınlaşması önünde büyük engeller bulunuyor. Bu engeller arasında altyapı eksiklikleri, yüksek başlangıç maliyetleri ve şarj istasyonlarının yetersizliği gibi faktörler yer alıyor. Ancak güneş enerjisi ile sağlanacak off-grid şarj imkanı, özellikle elektrik şebekelerinin zayıf olduğu bölgelerde elektrikli araçların çekiciliğini artırabilir. Afrika'nın geniş güneş enerjisi potansiyeli, bu dönüşümde kilit rol oynayabilir. \n\nKaynak: MIT Technology Review",
+            "category": "Bilim & Teknoloji",
+            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/11/1132714/evs-africa-cost/",
+            "date": "2026-02-11T13:41:02.441469",
+            "timestamp": 1770817262.44148
+        },
         {
             "title": "Hayali Çay Partisi: Bonobo Kanzi, İnsana Özgü Sanılan Hayal Gücünü Sorguluyor",
             "original_title": "A bonobo’s pretend tea party is rewriting what we know about imagination",
@@ -480,36 +510,6 @@
             "link": "https://www.genengnews.com/topics/translational-medicine/barbados-government-and-biomed-x-partner-to-improve-ai-based-early-diabetic-kidney-disease-modeling/",
             "date": "2026-01-29T13:16:36.217897",
             "timestamp": 1769692596.217906
-        },
-        {
-            "title": "Beyin Organoidleri: Otizme Yol Açan Mutasyonların Erken Gelişimdeki Ortak Yollarını Haritalıyor",
-            "original_title": "Brain Organoids Map How Distinct Autism Mutations Converge in Early Development",
-            "content": "Beyin organoidleri, otizmle ilişkili genetik mutasyonların erken insan beyin gelişimi sırasında ortak moleküler yollarda nasıl birleştiğini ortaya koyarak otizmin ortak nörobiyolojik özellikleri hakkında önemli bilgiler sunuyor. Bu araştırma, otizmin farklı genetik mutasyonlarının erken gelişim aşamalarında ortak bir zeminde nasıl kesiştiğini anlamamıza yardımcı olabilir. Bu bulgular, otizm spektrum bozukluklarının altında yatan biyolojik mekanizmaların daha iyi anlaşılmasına katkıda bulunabilir ve potansiyel tedavi hedeflerinin belirlenmesine yardımcı olabilir. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/brain-organoids-map-how-distinct-autism-mutations-converge-in-early-development/",
-            "date": "2026-01-29T04:45:49.371277",
-            "timestamp": 1769661949.371287
-        },
-        {
-            "title": "Yapay Zeka Şirketlerinin Gelecek Nesil Nükleer Enerjiye Yatırım Yapmasının Nedeni",
-            "original_title": "Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear",
-            "content": "Yapay zeka (YZ) alanındaki hızlı gelişmeler, devasa veri merkezleri ve bu merkezlerin büyük hesaplama ihtiyaçlarını karşılayabilecek enerji kaynaklarına yönelik eşi benzeri görülmemiş yatırımları beraberinde getiriyor. Bu tesisler için potansiyel elektrik kaynaklarından biri de, önceki nesillerine kıyasla daha ucuz inşa edilebilen ve daha güvenli işletilebilen yeni nesil nükleer enerji santralleri olabilir. MIT Technology Review editörleri ve muhabirlerinin katılımıyla gerçekleşen bu yuvarlak masa tartışmasında, YZ şirketlerinin neden bu enerji kaynağına yöneldiği ve bu teknolojinin geleceği ele alınıyor.\n\nYZ'nin artan enerji ihtiyacı, geleneksel enerji kaynaklarına olan talebi artırırken, sürdürülebilir ve güvenilir alternatifler arayışını da beraberinde getiriyor. Yeni nesil nükleer santraller, hem çevresel hem de ekonomik avantajlar sunarak bu ihtiyacı karşılayabilecek bir çözüm olarak ön plana çıkıyor. Bu santrallerin, modüler yapıları sayesinde daha düşük maliyetlerle ve daha hızlı bir şekilde inşa edilebilmesi, yatırımcılar için cazip hale geliyor.\n\nAyrıca, bu tür santrallerde kullanılan gelişmiş güvenlik teknolojileri, geçmişte yaşanan nükleer kazaların tekrarlanma riskini azaltarak, daha güvenli bir enerji üretimi sağlıyor. Enerji arzında süreklilik ve güvenlik, özellikle YZ uygulamaları için kritik bir öneme sahip olduğundan, YZ şirketleri bu yeni nesil nükleer teknolojilere yatırım yapmayı tercih ediyor.\n\nSonuç olarak, YZ'nin enerji tüketimi artarken, bu talebi karşılamak için sürdürülebilir ve güvenli enerji kaynaklarına olan ihtiyaç da artıyor. Yeni nesil nükleer enerji santralleri, bu ihtiyaca cevap verebilecek potansiyel bir çözüm sunarak, YZ şirketlerinin yatırım listesinde üst sıralara yerleşiyor.\n\nKaynak: MIT Technology Review, (2023). Roundtables: Why AI Companies Are Betting on Next-Gen Nuclear. Erişim tarihi: 2023",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/01/28/1131340/roundtables-why-ai-companies-are-betting-on-next-gen-nuclear/",
-            "date": "2026-01-29T02:43:33.596461",
-            "timestamp": 1769654613.596469
-        },
-        {
-            "title": "IFN Sinyalleşmesi Makrofaj Mitokondrilerini Nasıl Ayarlıyor?",
-            "original_title": "How IFN Signaling Tunes Macrophage Mitochondria in Inflammation Resolution",
-            "content": "Araştırmacılar, antiviral inflamatuar tepkilerle ilişkili bir sinyalin, makrofaj mitokondrilerini nasıl ayarladığını, doku hasarını temizlemeyi nasıl artırdığını ve kontrolsüz inflamasyonu nasıl önlediğini açıklayan bir mekanizma ortaya koydular. Makrofajlar, bağışıklık sisteminin önemli hücreleridir ve vücuttaki inflamasyonu kontrol etmede kritik bir rol oynarlar. Bu hücrelerin mitokondrileri, enerji üretim merkezleri olarak işlev görmekle birlikte, aynı zamanda hücresel sinyalleşmede de önemli görevler üstlenirler. İnterferon (IFN) sinyalleşmesi, makrofajların mitokondrilerini ayarlayarak, inflamasyonun çözülmesine ve doku tamirine katkıda bulunur. Böylece, makrofajların etkinliği artırılarak, aşırı ve kontrolsüz inflamasyonun önüne geçilir. Bu bulgular, inflamasyonla ilişkili hastalıkların tedavisinde yeni yaklaşımlar geliştirilmesine ışık tutabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). How IFN Signaling Tunes Macrophage Mitochondria in Inflammation Resolution. Retrieved from https://www.genengnews.com/topics/infectious-diseases/how-ifn-signaling-tunes-macrophage-mitochondria-in-inflammation-resolution/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/infectious-diseases/how-ifn-signaling-tunes-macrophage-mitochondria-in-inflammation-resolution/",
-            "date": "2026-01-29T02:43:41.636699",
-            "timestamp": 1769654621.636707
         }
     ]
 }
