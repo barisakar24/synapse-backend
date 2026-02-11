@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-02-11T19:14:59.735031",
+    "last_updated": "2026-02-11T21:41:31.444822",
     "daily_news": {
-        "title": "SLAS 2023: Yapay Zeka Laboratuvarları, Küçük Molekül SPR ve Kağıt Laboratuvar Malzemeleri",
-        "original_title": "SLAS Highlights: AI Labs, Small-Molecule SPR, Protein Interaction Assays, and Paper Labware",
-        "content": "SLAS yıllık toplantısına katılanlar, dokuz farklı kategoride düzenlenen onlarca konuşmanın yanı sıra, verimliliği ve sürdürülebilirliği artırmayı amaçlayan pek çok yeni ürün hakkında da bilgi aldı. Etkinlikte yapay zeka laboratuvarlarından küçük molekül yüzey plazmon rezonansına (SPR), protein etkileşim analizlerinden kağıt laboratuvar malzemelerine kadar geniş bir yelpazede yenilikler tanıtıldı.\n\nEtkinliğin en dikkat çekici yeniliklerinden biri, yapay zeka destekli laboratuvar uygulamalarıydı. Bu teknolojiler, araştırma süreçlerini hızlandırmak ve hata payını azaltmak için tasarlandı. Küçük moleküllerin yüzey plazmon rezonansı ile analiz edilmesi ise, daha hassas ve hızlı sonuçlar elde edilmesine olanak tanıyor.\n\nProtein etkileşim analizleri de etkinlikte öne çıkan konular arasındaydı. Bu analizler, biyomoleküler etkileşimleri daha iyi anlamak için geliştirilmiş yeni yöntemler sunuyor. Ayrıca, kağıt laboratuvar malzemeleri gibi sürdürülebilir ürünler, çevreye duyarlı çözümler arayan bilim insanlarının ilgisini çekti.\n\nBu yenilikler, hem araştırma süreçlerini optimize etmeyi amaçlayan bilim insanları hem de sürdürülebilir çözümler arayan endüstri liderleri için büyük önem taşıyor. SLAS etkinliği, bilim ve teknoloji alanında geleceğe ışık tutacak birçok gelişmeyi bir araya getirdi.\n\nKaynakça:\nGEN - Genetic Engineering and Biotechnology News. (2023). SLAS Highlights: AI Labs, Small-Molecule SPR, Protein Interaction Assays, and Paper Labware. https://www.genengnews.com/topics/bioprocessing/slas-highlights-ai-labs-small-molecule-spr-protein-interaction-assays-and-paper-labware/",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/bioprocessing/slas-highlights-ai-labs-small-molecule-spr-protein-interaction-assays-and-paper-labware/",
-        "date": "2026-02-11T19:14:59.734984",
-        "timestamp": 1770837299.734992
+        "title": "Eski Epilepsi İlacı Alzheimer'da Erken Plak Oluşumunu Önleyebilir",
+        "original_title": "Anti-Epileptic Drug May Prevent Early Plaque Formation in Alzheimer’s Disease",
+        "content": "Bilim insanları, Alzheimer hastalarının beyninde toksik proteinlerin ne zaman ve nerede biriktiğini belirledikleri bir preklinik çalışmada, yıllar öncesine dayanan bir anti-epileptik ilaç olan levetirasetamın, bu birikim sürecini başlamadan durdurabileceğini keşfettiler. Araştırma, Alzheimer hastalığının erken evrelerinde beyinde plak oluşumuna yol açan protein birikimini hedef alıyor. Bu buluş, Alzheimer tedavisinde yeni yaklaşımlar geliştirilmesine yardımcı olabilir ve hastalığın ilerlemesini yavaşlatmak için umut vaat ediyor. Levetirasetamın, nöbetleri kontrol etmede kullanılan bir ilaç olmasına rağmen, bu yeni kullanım alanı, ilacın beyin üzerindeki etkilerini yeniden değerlendirme gerekliliğini ortaya koyuyor. Araştırmacılar, ilacın Alzheimer hastalığının başlangıç aşamasında kullanılmasının, hastalığın ilerlemesini durdurabileceğini öne sürüyorlar. Çalışmanın sonuçları, Alzheimer tedavisinde yeni stratejiler geliştirilmesi için bir temel oluşturabilir ve bu alanda daha fazla araştırma yapılmasına olanak tanıyabilir. Bu gelişme, Alzheimer hastalığına karşı mücadelede önemli bir adım olarak değerlendiriliyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (tarih). Anti-Epileptic Drug May Prevent Early Plaque Formation in Alzheimer’s Disease. GEN - Genetic Engineering and Biotechnology News. https://www.genengnews.com/topics/drug-discovery/anti-epileptic-drug-may-prevent-early-plaque-formation-in-alzheimers-disease/",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/drug-discovery/anti-epileptic-drug-may-prevent-early-plaque-formation-in-alzheimers-disease/",
+        "date": "2026-02-11T21:41:23.294832",
+        "timestamp": 1770846083.294839
     },
     "news_list": [
+        {
+            "title": "Güvenli Bir Yapay Zeka Asistanı Mümkün mü?",
+            "original_title": "Is a secure AI assistant possible?",
+            "content": "Yapay zeka (YZ) ajanları riskli bir iştir. Sohbet penceresi içinde sıkışıp kaldıklarında bile, büyük dil modelleri (LLM'ler) hatalar yapabilir ve kötü davranabilir. Dış dünya ile etkileşim kurabilecekleri araçlara, örneğin web tarayıcıları ve e-posta adreslerine, sahip olduklarında bu hataların sonuçları çok daha ciddi hale gelir. Bu durum, neden YZ sistemlerinin daha güvenli hale getirilmesi gerektiğini açıklayabilir. \n\nYZ asistanlarının güvenliğini sağlamak, teknolojinin hızlı ilerlemesi nedeniyle giderek daha önemli hale geliyor. Geliştiriciler, YZ'nin sadece doğru ve güvenilir bilgiler sağlamasını değil, aynı zamanda kullanıcıların gizliliğini korumasını ve yanlış kullanımlarını önlemesini de sağlamalıdır. Bununla birlikte, YZ'nin dış dünya ile etkileşim kurabilmesi için gereken araçlar, potansiyel riskleri artırabilir. \n\nBu risklerin başında, YZ'nin yanlış bilgi vermesi veya kötü niyetli kişiler tarafından manipüle edilmesi geliyor. Örneğin, bir YZ asistanı, yanlış bir bilgi verdiğinde veya bir siber saldırgan tarafından yönlendirildiğinde, ciddi sonuçlar doğurabilir. Bu nedenle, YZ sistemlerinin doğru bir şekilde eğitilmesi ve sürekli olarak denetlenmesi önemlidir. \n\nSonuç olarak, yapay zeka asistanlarının güvenliğini sağlamak, hem geliştiriciler hem de kullanıcılar için bir öncelik olmalıdır. Bu alanda yapılacak çalışmalar, YZ'nin daha etkili ve güvenilir bir şekilde kullanılmasına olanak tanıyacaktır.\n\nKaynak: MIT Technology Review.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/",
+            "date": "2026-02-11T21:41:16.969594",
+            "timestamp": 1770846076.969602
+        },
+        {
+            "title": "Eski Epilepsi İlacı Alzheimer'da Erken Plak Oluşumunu Önleyebilir",
+            "original_title": "Anti-Epileptic Drug May Prevent Early Plaque Formation in Alzheimer’s Disease",
+            "content": "Bilim insanları, Alzheimer hastalarının beyninde toksik proteinlerin ne zaman ve nerede biriktiğini belirledikleri bir preklinik çalışmada, yıllar öncesine dayanan bir anti-epileptik ilaç olan levetirasetamın, bu birikim sürecini başlamadan durdurabileceğini keşfettiler. Araştırma, Alzheimer hastalığının erken evrelerinde beyinde plak oluşumuna yol açan protein birikimini hedef alıyor. Bu buluş, Alzheimer tedavisinde yeni yaklaşımlar geliştirilmesine yardımcı olabilir ve hastalığın ilerlemesini yavaşlatmak için umut vaat ediyor. Levetirasetamın, nöbetleri kontrol etmede kullanılan bir ilaç olmasına rağmen, bu yeni kullanım alanı, ilacın beyin üzerindeki etkilerini yeniden değerlendirme gerekliliğini ortaya koyuyor. Araştırmacılar, ilacın Alzheimer hastalığının başlangıç aşamasında kullanılmasının, hastalığın ilerlemesini durdurabileceğini öne sürüyorlar. Çalışmanın sonuçları, Alzheimer tedavisinde yeni stratejiler geliştirilmesi için bir temel oluşturabilir ve bu alanda daha fazla araştırma yapılmasına olanak tanıyabilir. Bu gelişme, Alzheimer hastalığına karşı mücadelede önemli bir adım olarak değerlendiriliyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (tarih). Anti-Epileptic Drug May Prevent Early Plaque Formation in Alzheimer’s Disease. GEN - Genetic Engineering and Biotechnology News. https://www.genengnews.com/topics/drug-discovery/anti-epileptic-drug-may-prevent-early-plaque-formation-in-alzheimers-disease/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/drug-discovery/anti-epileptic-drug-may-prevent-early-plaque-formation-in-alzheimers-disease/",
+            "date": "2026-02-11T21:41:23.294832",
+            "timestamp": 1770846083.294839
+        },
+        {
+            "title": "Araştırma Antikorları ve Reaktif Seçiminde Yeni Dönem: CiteAb Görüntü Arama Aracı",
+            "original_title": "Streamlining Research Antibody and Reagent Selection",
+            "content": "CiteAb'ın yeni görüntü arama aracı, araştırmacılara 850.000'den fazla kırpılmış deneysel görüntüye erişim sağlıyor. Bu görüntüler, 610.000'den fazla protein, 5.000'den fazla hastalık ve 160.000 hücre hattını kapsıyor. Ayrıca, kullanılan reaktifler ve bu bilgilere bağlı yayınlarla doğrudan bağlantılı olarak sunuluyor.\n\nBu gelişme, araştırmacıların antikor ve reaktif seçim süreçlerini hızlandırmak ve daha etkili hale getirmek için önemli bir adım olarak değerlendiriliyor. Görüntü arama aracı, bilim insanlarının spesifik biyolojik hedeflerle ilgili yüksek kaliteli ve doğrulanmış bilgiler elde etmesine olanak tanıyor. Böylece, araştırmaların doğruluğu ve güvenilirliği artırılmış oluyor.\n\nCiteAb'ın sunduğu bu yenilikçi araç, özellikle biyoteknoloji ve genetik mühendisliği alanlarında çalışan bilim insanları için büyük bir avantaj sağlıyor. Araştırmacılar, ilgili protein, hastalık veya hücre hattı ile ilgili görüntüleri hızlı ve kolay bir şekilde bulabilir ve bu bilgilerle desteklenen reaktifleri kullanarak deneylerini daha güvenilir bir şekilde tasarlayabilirler.\n\nGEN - Genetic Engineering and Biotechnology News'te yayınlanan bu haber, görüntü arama aracının sunduğu olanakları ve beklentileri ayrıntılı bir şekilde ele alıyor. Bu yeni teknolojinin, bilimsel araştırmalarda önemli bir fark yaratması bekleniyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). Streamlining research antibody and reagent selection. https://www.genengnews.com/topics/drug-discovery/streamlining-research-antibody-and-reagent-selection/",
+            "category": "Psikoloji",
+            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/drug-discovery/streamlining-research-antibody-and-reagent-selection/",
+            "date": "2026-02-11T21:41:31.444784",
+            "timestamp": 1770846091.444792
+        },
         {
             "title": "Genomik Olarak Dengesiz Tümörlerde Yeni Hedef: KIF18A Proteinine Odaklanılıyor",
             "original_title": "SLAS Highlights: Opening Keynote Spotlights Novel Target in Genomically Unstable Tumors",
@@ -480,36 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/01/260129080424.htm",
             "date": "2026-01-29T15:45:07.533578",
             "timestamp": 1769701507.533587
-        },
-        {
-            "title": "Ölümsüzlüğün Peşinde: Vitalizm Hareketi ve Yapay Zekanın Gizlilik Sorunları",
-            "original_title": "The Download: inside the Vitalism movement, and why AI’s “memory” is a privacy problem",
-            "content": "Bu, teknoloji dünyasında neler olup bittiğine dair günlük bir doz sağlayan hafta içi bültenimiz The Download'un bugünkü sayısıdır. Ölüme 'yanlış' diyen sert mizaçlı uzun yaşam meraklılarıyla tanışın: Vitalistler. Geçtiğimiz Nisan ayında, Kaliforniya'nın Berkeley kentindeki bir yerleşkede üç günlük bir etkinlik olan Vitalist Bay Zirvesi için heyecanlı bir kalabalık toplandı. Bu etkinlik, ölümün insan hayatının doğal bir parçası değil, yanlış bir sonuç olduğuna inanan bir grup insanı bir araya getirdi.\n\nVitalizm hareketi, insan ömrünü uzatma ve ölümün üstesinden gelme hedefiyle dikkat çekiyor. Katılımcılar, ölümün kaçınılmaz bir son olmadığını, bunun yerine aşılabilir bir engel olduğunu düşünüyorlar. Bu düşünce tarzı, teknolojik gelişmeler ve biyolojik araştırmalarla birleşerek, ölümün bir gün tarihe karışabileceğine dair umutları artırıyor. Vitalistler, bu hedefe ulaşmak için biyoteknoloji, yapay zeka ve genetik mühendislik gibi alanlarda yapılan yenilikleri yakından takip ediyorlar.\n\nBu çabaların bir parçası olarak, yapay zeka ve onun 'hafıza' kavramı da tartışmaya açılıyor. Yapay zekanın sahip olduğu bellek, kullanıcıların verilerini saklama kapasitesi ile gizlilik endişelerini de beraberinde getiriyor. AI'nın bu yönü, kullanıcı bilgilerini koruma ve mahremiyetin sağlanması konularında yeni sorular ortaya çıkarıyor. Gizlilik savunucuları, yapay zekanın veri toplama ve işleme süreçlerindeki şeffaflık eksikliğine dikkat çekiyor.\n\nSonuç olarak, Vitalizm hareketi ve yapay zekanın gizlilik sorunları, modern teknolojik ve etik tartışmaların merkezinde yer alıyor. Bu iki konu, hem teknolojik ilerlemelerin insan hayatına olan etkisini hem de bu ilerlemelerin getirdiği etik ve mahremiyet endişelerini gözler önüne seriyor.\n\nKaynak:\nMIT Technology Review. (tarih). The Download: inside the Vitalism movement, and why AI’s “memory” is a privacy problem. Alındığı yer: https://www.technologyreview.com/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/01/29/1131925/the-download-inside-the-vitalism-movement-and-why-ais-memory-is-a-privacy-problem/",
-            "date": "2026-01-29T15:45:22.703587",
-            "timestamp": 1769701522.703596
-        },
-        {
-            "title": "DeepMind'in AlphaGenome'u Genetik Varyasyonların Fonksiyonunu ve Hastalıkları Tahmin Ediyor",
-            "original_title": "DeepMind’s AlphaGenome Predicts Genetic Variation Function, Including Disease",
-            "content": "DeepMind'in Nobel Ödüllü AlphaFold ekibi, genom fonksiyonunu anlamak için düzenleyici varyant etkisi tahminini geliştiren bir DNA dizilimi modeli olan AlphaGenome'u geliştirdi. Bu yeni model, genetik varyasyonların fonksiyonunu tahmin ederek hastalıkların genetik kökenlerini daha iyi anlamamıza olanak tanıyor. \n\nAlphaGenome, genetik mühendisliği ve biyoteknoloji alanlarında önemli bir yenilik olarak dikkat çekiyor. DNA dizilimlerini analiz ederek, genetik varyasyonların nasıl işlediğini ve bu varyasyonların hastalıkların ortaya çıkmasında nasıl bir rol oynadığını anlamaya yardımcı oluyor. Bu, bilim insanlarının genetik hastalıkların teşhisini ve tedavisini geliştirmelerine olanak tanıyabilir.\n\nDeepMind'in bu yeni modeli, genetik varyasyonların işlevlerini tahmin etmede daha önceki yöntemlerden çok daha etkili olabilir. AlphaGenome, genetik araştırmalarda ve tıbbi teşhislerde devrim yaratma potansiyeline sahiptir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/artificial-intelligence/deepminds-alphagenome-predicts-genetic-variation-function-including-disease/)",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/artificial-intelligence/deepminds-alphagenome-predicts-genetic-variation-function-including-disease/",
-            "date": "2026-01-29T15:45:31.646908",
-            "timestamp": 1769701531.646916
-        },
-        {
-            "title": "Kış Fırtınalarına Karşı Elektrik Şebekesi Nasıl Dayanıyor?",
-            "original_title": "How the grid can ride out winter storms",
-            "content": "ABD'nin doğu yarısı, hafta sonu devasa bir kar fırtınasıyla karşı karşıya kaldı. İyi haber şu ki, elektrik şebekesi, dondurucu sıcaklıklar ve artan talebe büyük ölçüde ayak uydurmayı başardı. Ancak, özellikle fosil yakıtlı santraller için bazı zorluklar yaşandı. Yapılan bir analiz, ülkenin en büyük şebeke operatörü olan PJM'nin bazı gerilim belirtileri gösterdiğini ortaya koydu.\n\nPJM, elektrik hizmetlerini genellikle sorunsuz bir şekilde sağlamasına rağmen, bu tür aşırı hava koşulları sırasında fosil yakıtlarla çalışan santrallerde bazı aksamalar yaşandığını belirtiyor. Bu aksamalar, kömür ve doğal gaz gibi kaynakların tedarik zincirinde yaşanan sıkıntılar nedeniyle meydana geldi. Özellikle kömür stoklarındaki azalmalar ve doğal gaz arzındaki kesintiler, santrallerin tam kapasiteyle çalışmasını zorlaştırdı.\n\nBuna karşın, yenilenebilir enerji kaynakları, bu tür zorlu hava koşullarında dahi güvenilir bir enerji kaynağı olarak öne çıkıyor. Rüzgar ve güneş enerjisi gibi kaynaklar, fosil yakıtların aksine tedarik zinciri sorunlarından daha az etkileniyor ve bu sayede daha stabil bir enerji arzı sağlıyor.\n\nŞebeke operatörleri, gelecekte benzer durumlarla daha iyi başa çıkabilmek adına enerji tedarikçi çeşitliliğini artırmayı ve altyapıyı güçlendirmeyi planlıyor. Bu tür önlemler, hem fosil yakıtlara olan bağımlılığı azaltmayı hem de yenilenebilir enerji kaynaklarının daha etkin kullanılmasını sağlamayı amaçlıyor. Böylece, elektrik şebekesi gelecekteki kış fırtınalarına karşı daha dayanıklı hale getirilebilir.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/",
-            "date": "2026-01-29T13:16:20.957926",
-            "timestamp": 1769692580.957936
         }
     ]
 }
