@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-11T16:09:07.018149",
+    "last_updated": "2026-02-11T19:14:59.735031",
     "daily_news": {
-        "title": "Depresyon, Parkinson veya Demansın Erken Belirtisi Olabilir",
-        "original_title": "Depression may be the brain’s early warning sign of Parkinson’s or dementia",
-        "content": "Yaşlı yetişkinlerde görülen depresyon, bazen Parkinson hastalığı veya Lewy cisimcikli demansın erken evrelerini işaret edebilir. Araştırmacılar, depresyonun teşhis edilmeden yıllar önce ortaya çıktığını ve diğer kronik hastalıklardan farklı olarak uzun süre yüksek seviyede kaldığını bulmuşlardır. Bu durum, depresyonun sadece duygusal sıkıntıdan ziyade erken beyin değişikliklerini yansıtıyor olabileceğini düşündürmektedir.\n\nYapılan araştırmalara göre, yaşlı bireylerde depresyon belirtileri, Parkinson hastalığı veya Lewy cisimcikli demans gibi nörodejeneratif hastalıkların başlangıcını işaret edebilir. Bu hastalıklar genellikle teşhis edilmeden önce yıllarca sürebilir ve depresyon, bu süreçte önemli bir uyarı işareti olabilir.\n\nDepresyonun, Parkinson ve demans gibi hastalıkların erken belirtileri arasında yer alabileceğine dair bulgular, nörolojik bozuklukların erken teşhisi ve tedavisi için önemli bir adım olabilir. Bu nedenle, yaşlı bireylerde görülen depresyon belirtileri dikkatle izlenmeli ve gerekli durumlarda nörolojik değerlendirmeler yapılmalıdır.\n\nAPA formatında kaynak: Mind & Brain News -- ScienceDaily.",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260210040623.htm",
-        "date": "2026-02-11T13:40:42.449150",
-        "timestamp": 1770817242.449161
+        "title": "SLAS 2023: Yapay Zeka Laboratuvarları, Küçük Molekül SPR ve Kağıt Laboratuvar Malzemeleri",
+        "original_title": "SLAS Highlights: AI Labs, Small-Molecule SPR, Protein Interaction Assays, and Paper Labware",
+        "content": "SLAS yıllık toplantısına katılanlar, dokuz farklı kategoride düzenlenen onlarca konuşmanın yanı sıra, verimliliği ve sürdürülebilirliği artırmayı amaçlayan pek çok yeni ürün hakkında da bilgi aldı. Etkinlikte yapay zeka laboratuvarlarından küçük molekül yüzey plazmon rezonansına (SPR), protein etkileşim analizlerinden kağıt laboratuvar malzemelerine kadar geniş bir yelpazede yenilikler tanıtıldı.\n\nEtkinliğin en dikkat çekici yeniliklerinden biri, yapay zeka destekli laboratuvar uygulamalarıydı. Bu teknolojiler, araştırma süreçlerini hızlandırmak ve hata payını azaltmak için tasarlandı. Küçük moleküllerin yüzey plazmon rezonansı ile analiz edilmesi ise, daha hassas ve hızlı sonuçlar elde edilmesine olanak tanıyor.\n\nProtein etkileşim analizleri de etkinlikte öne çıkan konular arasındaydı. Bu analizler, biyomoleküler etkileşimleri daha iyi anlamak için geliştirilmiş yeni yöntemler sunuyor. Ayrıca, kağıt laboratuvar malzemeleri gibi sürdürülebilir ürünler, çevreye duyarlı çözümler arayan bilim insanlarının ilgisini çekti.\n\nBu yenilikler, hem araştırma süreçlerini optimize etmeyi amaçlayan bilim insanları hem de sürdürülebilir çözümler arayan endüstri liderleri için büyük önem taşıyor. SLAS etkinliği, bilim ve teknoloji alanında geleceğe ışık tutacak birçok gelişmeyi bir araya getirdi.\n\nKaynakça:\nGEN - Genetic Engineering and Biotechnology News. (2023). SLAS Highlights: AI Labs, Small-Molecule SPR, Protein Interaction Assays, and Paper Labware. https://www.genengnews.com/topics/bioprocessing/slas-highlights-ai-labs-small-molecule-spr-protein-interaction-assays-and-paper-labware/",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/bioprocessing/slas-highlights-ai-labs-small-molecule-spr-protein-interaction-assays-and-paper-labware/",
+        "date": "2026-02-11T19:14:59.734984",
+        "timestamp": 1770837299.734992
     },
     "news_list": [
+        {
+            "title": "Genomik Olarak Dengesiz Tümörlerde Yeni Hedef: KIF18A Proteinine Odaklanılıyor",
+            "original_title": "SLAS Highlights: Opening Keynote Spotlights Novel Target in Genomically Unstable Tumors",
+            "content": "Bu yılki SLAS konferansının açılış konuşması, genomik olarak dengesiz tümörlerde önemli bir rol oynayan motor protein KIF18A'ya odaklandı. Konferansta, bu proteine yönelik hedefli bir küçük molekül tedavisi geliştirilmesi için yürütülen çalışmalardan bahsedildi. KIF18A, hücre bölünmesi sırasında mikrotübül dinamiklerini düzenleyen bir motor protein olarak bilinir. Genomik dengesizlik gösteren tümörlerde, hücrelerin kontrolsüz bir şekilde bölünmesine yol açan bu protein, kanser terapisine yönelik yeni bir hedef olarak dikkat çekmektedir. Bilim insanları, KIF18A'nın aktivitesini engelleyerek tümör büyümesini durdurmayı ve kanser hastaları için etkili bir tedavi geliştirmeyi amaçlamaktadır. Bu çalışmanın, kanser tedavisinde kişiselleştirilmiş yaklaşımlara önemli katkılar sağlaması beklenmektedir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). SLAS highlights: Opening keynote spotlights novel target in genomically unstable tumors. Retrieved from https://www.genengnews.com/topics/cancer/slas-highlights-opening-keynote-spotlights-novel-target-in-genomically-unstable-tumors/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/slas-highlights-opening-keynote-spotlights-novel-target-in-genomically-unstable-tumors/",
+            "date": "2026-02-11T19:14:50.065323",
+            "timestamp": 1770837290.065335
+        },
+        {
+            "title": "SLAS 2023: Yapay Zeka Laboratuvarları, Küçük Molekül SPR ve Kağıt Laboratuvar Malzemeleri",
+            "original_title": "SLAS Highlights: AI Labs, Small-Molecule SPR, Protein Interaction Assays, and Paper Labware",
+            "content": "SLAS yıllık toplantısına katılanlar, dokuz farklı kategoride düzenlenen onlarca konuşmanın yanı sıra, verimliliği ve sürdürülebilirliği artırmayı amaçlayan pek çok yeni ürün hakkında da bilgi aldı. Etkinlikte yapay zeka laboratuvarlarından küçük molekül yüzey plazmon rezonansına (SPR), protein etkileşim analizlerinden kağıt laboratuvar malzemelerine kadar geniş bir yelpazede yenilikler tanıtıldı.\n\nEtkinliğin en dikkat çekici yeniliklerinden biri, yapay zeka destekli laboratuvar uygulamalarıydı. Bu teknolojiler, araştırma süreçlerini hızlandırmak ve hata payını azaltmak için tasarlandı. Küçük moleküllerin yüzey plazmon rezonansı ile analiz edilmesi ise, daha hassas ve hızlı sonuçlar elde edilmesine olanak tanıyor.\n\nProtein etkileşim analizleri de etkinlikte öne çıkan konular arasındaydı. Bu analizler, biyomoleküler etkileşimleri daha iyi anlamak için geliştirilmiş yeni yöntemler sunuyor. Ayrıca, kağıt laboratuvar malzemeleri gibi sürdürülebilir ürünler, çevreye duyarlı çözümler arayan bilim insanlarının ilgisini çekti.\n\nBu yenilikler, hem araştırma süreçlerini optimize etmeyi amaçlayan bilim insanları hem de sürdürülebilir çözümler arayan endüstri liderleri için büyük önem taşıyor. SLAS etkinliği, bilim ve teknoloji alanında geleceğe ışık tutacak birçok gelişmeyi bir araya getirdi.\n\nKaynakça:\nGEN - Genetic Engineering and Biotechnology News. (2023). SLAS Highlights: AI Labs, Small-Molecule SPR, Protein Interaction Assays, and Paper Labware. https://www.genengnews.com/topics/bioprocessing/slas-highlights-ai-labs-small-molecule-spr-protein-interaction-assays-and-paper-labware/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/slas-highlights-ai-labs-small-molecule-spr-protein-interaction-assays-and-paper-labware/",
+            "date": "2026-02-11T19:14:59.734984",
+            "timestamp": 1770837299.734992
+        },
         {
             "title": "Depresyon, Parkinson veya Demansın Erken Belirtisi Olabilir",
             "original_title": "Depression may be the brain’s early warning sign of Parkinson’s or dementia",
@@ -490,26 +510,6 @@
             "link": "https://www.technologyreview.com/2026/01/29/1131863/grid-winter-storms/",
             "date": "2026-01-29T13:16:20.957926",
             "timestamp": 1769692580.957936
-        },
-        {
-            "title": "Ölümü Yanlış Bulan Yaşam Uzunluğu Savunucuları: Vitalistler",
-            "original_title": "Meet the Vitalists: the hardcore longevity enthusiasts who believe death is “wrong”",
-            "content": "Nathan Cheng, son birkaç yıl içinde benzer konuşmalar yaparak, dinleyicilerine ölümün kötü bir şey olduğuna dair fikirlerini aktarmaya çalışıyor. Yaklaşık 80 kişilik bir topluluğa hitap eden Cheng, ölümün kötü bir şey olduğunu ve bunun yenilmesi gerektiğini savunuyor. Cheng'in bu konuşmaları, 'Vitalistler' olarak bilinen ve ölümün yanlış olduğuna inanan bir grup insan arasında yankı buluyor. Onlar için ölüm, kaçınılmaz bir sonuç değil, çözülmesi gereken bir problem. Bu grup, yaşam süresini uzatmanın ve ölümle mücadele etmenin insanlık için önemli bir hedef olduğuna inanıyor. Onlara göre, ölümle savaşmak, insanlığın geleceği için atılması gereken bir adım. Bu görüşler, bazı bilim insanları ve teknoloji uzmanları tarafından da destekleniyor ve tartışılıyor. Cheng ve onun gibi düşünenler, biyoteknoloji ve tıp alanındaki ilerlemelerin, ölümün üstesinden gelinmesi için umut verici olduğunu düşünüyor. \n\nKaynak: MIT Technology Review, 2023",
-            "category": "Bilim & Teknoloji",
-            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/01/29/1131815/vitalism-longevity-enthusiasts-influence/",
-            "date": "2026-01-29T13:16:26.982401",
-            "timestamp": 1769692586.982411
-        },
-        {
-            "title": "Barbados Hükümeti ve BioMed X, AI ile Erken Diyabetik Böbrek Hastalığı Modellemesini Geliştirmek için Ortaklık Kuruyor",
-            "original_title": "Barbados Government and BioMed X Partner to Improve AI-Based Early Diabetic Kidney Disease Modeling",
-            "content": "<p>Barbados Hükümeti, BioMed X ile birlikte çalışarak yapay zeka tabanlı erken diyabetik böbrek hastalığı modellemesini geliştirmeyi hedefliyor. Bu işbirliği, Barbadian hastalar ve sağlıklı kontrollerin çok katmanlı moleküler karakterizasyonunu yapay zeka destekli modelleme ile birleştirerek, nüfusa özgü dijital bir Afrika ikizi oluşturmayı amaçlıyor.</p>\n<p>Bu projede, Barbados'taki diyabetik böbrek hastalığı yaygınlığını ve ilerlemesini daha iyi anlamak için özel bir yaklaşım geliştiriliyor. Yapay zeka teknolojileri ve moleküler karakterizasyonun entegrasyonu sayesinde, hastalığın erken teşhisi ve tedavi yöntemleri üzerinde çalışılacak.</p>\n<p>Barbados hükümeti, bu tür inovatif projelerle sağlık sistemlerini güçlendirmeyi ve vatandaşlarının sağlık hizmetlerine erişimini artırmayı planlıyor. BioMed X ile kurulan bu ortaklık, yalnızca Barbados için değil, aynı zamanda Afrika kökenli diğer topluluklar için de önemli veriler sağlayabilir.</p>\n<p>Bu işbirliği ile elde edilecek bulgular, global sağlık sistemlerinde de yankı bulabilir ve genel olarak diyabetik böbrek hastalığı yönetimine katkıda bulunabilir.</p>\n<p>Kaynak: GEN - Genetic Engineering and Biotechnology News</p>",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/barbados-government-and-biomed-x-partner-to-improve-ai-based-early-diabetic-kidney-disease-modeling/",
-            "date": "2026-01-29T13:16:36.217897",
-            "timestamp": 1769692596.217906
         }
     ]
 }
