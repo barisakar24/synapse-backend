@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-11T21:41:31.444822",
+    "last_updated": "2026-02-12T02:57:06.805753",
     "daily_news": {
-        "title": "Eski Epilepsi İlacı Alzheimer'da Erken Plak Oluşumunu Önleyebilir",
-        "original_title": "Anti-Epileptic Drug May Prevent Early Plaque Formation in Alzheimer’s Disease",
-        "content": "Bilim insanları, Alzheimer hastalarının beyninde toksik proteinlerin ne zaman ve nerede biriktiğini belirledikleri bir preklinik çalışmada, yıllar öncesine dayanan bir anti-epileptik ilaç olan levetirasetamın, bu birikim sürecini başlamadan durdurabileceğini keşfettiler. Araştırma, Alzheimer hastalığının erken evrelerinde beyinde plak oluşumuna yol açan protein birikimini hedef alıyor. Bu buluş, Alzheimer tedavisinde yeni yaklaşımlar geliştirilmesine yardımcı olabilir ve hastalığın ilerlemesini yavaşlatmak için umut vaat ediyor. Levetirasetamın, nöbetleri kontrol etmede kullanılan bir ilaç olmasına rağmen, bu yeni kullanım alanı, ilacın beyin üzerindeki etkilerini yeniden değerlendirme gerekliliğini ortaya koyuyor. Araştırmacılar, ilacın Alzheimer hastalığının başlangıç aşamasında kullanılmasının, hastalığın ilerlemesini durdurabileceğini öne sürüyorlar. Çalışmanın sonuçları, Alzheimer tedavisinde yeni stratejiler geliştirilmesi için bir temel oluşturabilir ve bu alanda daha fazla araştırma yapılmasına olanak tanıyabilir. Bu gelişme, Alzheimer hastalığına karşı mücadelede önemli bir adım olarak değerlendiriliyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (tarih). Anti-Epileptic Drug May Prevent Early Plaque Formation in Alzheimer’s Disease. GEN - Genetic Engineering and Biotechnology News. https://www.genengnews.com/topics/drug-discovery/anti-epileptic-drug-may-prevent-early-plaque-formation-in-alzheimers-disease/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/drug-discovery/anti-epileptic-drug-may-prevent-early-plaque-formation-in-alzheimers-disease/",
-        "date": "2026-02-11T21:41:23.294832",
-        "timestamp": 1770846083.294839
+        "title": "Kırmızı Hat Üzerinde Robotlar: SLAS 2026'dan Video Güncelleme",
+        "original_title": "Robots on the Red Line: A Video Update from SLAS 2026",
+        "content": "Boston'daki SLAS etkinliğinde, Julianna LeMieux ve Uduak Thomas otomasyonun öne çıkanlarını, ana konuşma içgörülerini, omik oturumlarını, büyük duyuruları ve oturumlardan, fuar alanından ve kahve molalarından uzaklaştıktan sonra elde ettikleri çıkarımları özetledi.\n\nSLAS 2026 etkinliği, bilim ve teknoloji dünyasının son yeniliklerini gözler önüne serdi. Otomasyon alanındaki gelişmeler, etkinliğin en dikkat çeken konularından biri oldu. Julianna LeMieux ve Uduak Thomas, etkinlik boyunca katıldıkları oturumlar, gördükleri teknolojik yenilikler ve duydukları önemli açıklamalar hakkında detaylı bir video güncellemesi sundu.\n\nEtkinliğin ana teması olan robotik ve otomasyon, laboratuvar süreçlerinin nasıl daha verimli hale getirilebileceği konusunda yeni perspektifler sundu. Katılımcılar, robotların laboratuvarlarda nasıl kullanılabileceğini ve bu teknolojilerin araştırma süreçlerini nasıl hızlandırabileceğini tartıştı.\n\nÖzellikle omikler alanındaki sunumlar, genetik mühendisliği ve biyoteknoloji alanında çığır açan yenilikleri ortaya koydu. Bu oturumlar, katılımcılara genetik araştırmaların geleceği hakkında derinlemesine bilgiler sundu.\n\nEtkinlik sırasında yapılan önemli duyurular arasında, yeni otomasyon sistemlerinin tanıtımı ve bu sistemlerin laboratuvar ortamlarına entegrasyonu üzerine yapılan çalışmalar yer aldı. Bu yenilikler, araştırmaların daha hızlı ve daha doğru bir şekilde yürütülmesine olanak tanıyacak.\n\nSonuç olarak, SLAS 2026 etkinliği, bilim ve teknoloji alanında bir dönüm noktası olma niteliği taşıdı. Katılımcılar, etkinlikte elde ettikleri bilgilerle gelecekteki araştırmalarına yön vermeyi planlıyorlar.\n\nKaynakça:\nGEN - Genetic Engineering and Biotechnology News. (2026). Robots on the Red Line: A Video Update from SLAS 2026. https://www.genengnews.com/multimedia/videos/robots-on-the-red-line-a-video-update-from-slas-2026/",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/multimedia/videos/robots-on-the-red-line-a-video-update-from-slas-2026/",
+        "date": "2026-02-12T02:57:06.805721",
+        "timestamp": 1770865026.805727
     },
     "news_list": [
+        {
+            "title": "AI ile Zihin Kontrolü: Hayvan Davranışlarını Anında Durdurabilen Sistem",
+            "original_title": "AI “Mind Control” Can Stop Animal Behaviors in a Split Second",
+            "content": "Bilim insanları, YORU adını verdikleri gelişmiş bir yapay zeka sistemi geliştirdiler. Bu sistem, birden fazla türdeki hayvan davranışlarını %90'ın üzerinde bir doğrulukla tanımlayabiliyor. Yüksek hızlı bu tanımlama yeteneğini optogenetik ile birleştiren ekip, belirli beyin devrelerini hedeflenen ışık kullanarak gerçek zamanlı olarak kapatma yeteneğini başarıyla gösterdi. Bu gelişme, hayvan davranışlarının anında durdurulabilmesine olanak tanıyor ve sinirbilim alanında devrim niteliğinde bir adım olarak değerlendiriliyor.\n\nKaynak: Neuroscience News, 2023. AI 'Mind Control' Can Stop Animal Behaviors in a Split Second. https://neurosciencenews.com/ai-animal-behavior-30091/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/ai-animal-behavior-30091/",
+            "date": "2026-02-12T02:56:56.649216",
+            "timestamp": 1770865016.649223
+        },
+        {
+            "title": "Kırmızı Hat Üzerinde Robotlar: SLAS 2026'dan Video Güncelleme",
+            "original_title": "Robots on the Red Line: A Video Update from SLAS 2026",
+            "content": "Boston'daki SLAS etkinliğinde, Julianna LeMieux ve Uduak Thomas otomasyonun öne çıkanlarını, ana konuşma içgörülerini, omik oturumlarını, büyük duyuruları ve oturumlardan, fuar alanından ve kahve molalarından uzaklaştıktan sonra elde ettikleri çıkarımları özetledi.\n\nSLAS 2026 etkinliği, bilim ve teknoloji dünyasının son yeniliklerini gözler önüne serdi. Otomasyon alanındaki gelişmeler, etkinliğin en dikkat çeken konularından biri oldu. Julianna LeMieux ve Uduak Thomas, etkinlik boyunca katıldıkları oturumlar, gördükleri teknolojik yenilikler ve duydukları önemli açıklamalar hakkında detaylı bir video güncellemesi sundu.\n\nEtkinliğin ana teması olan robotik ve otomasyon, laboratuvar süreçlerinin nasıl daha verimli hale getirilebileceği konusunda yeni perspektifler sundu. Katılımcılar, robotların laboratuvarlarda nasıl kullanılabileceğini ve bu teknolojilerin araştırma süreçlerini nasıl hızlandırabileceğini tartıştı.\n\nÖzellikle omikler alanındaki sunumlar, genetik mühendisliği ve biyoteknoloji alanında çığır açan yenilikleri ortaya koydu. Bu oturumlar, katılımcılara genetik araştırmaların geleceği hakkında derinlemesine bilgiler sundu.\n\nEtkinlik sırasında yapılan önemli duyurular arasında, yeni otomasyon sistemlerinin tanıtımı ve bu sistemlerin laboratuvar ortamlarına entegrasyonu üzerine yapılan çalışmalar yer aldı. Bu yenilikler, araştırmaların daha hızlı ve daha doğru bir şekilde yürütülmesine olanak tanıyacak.\n\nSonuç olarak, SLAS 2026 etkinliği, bilim ve teknoloji alanında bir dönüm noktası olma niteliği taşıdı. Katılımcılar, etkinlikte elde ettikleri bilgilerle gelecekteki araştırmalarına yön vermeyi planlıyorlar.\n\nKaynakça:\nGEN - Genetic Engineering and Biotechnology News. (2026). Robots on the Red Line: A Video Update from SLAS 2026. https://www.genengnews.com/multimedia/videos/robots-on-the-red-line-a-video-update-from-slas-2026/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/multimedia/videos/robots-on-the-red-line-a-video-update-from-slas-2026/",
+            "date": "2026-02-12T02:57:06.805721",
+            "timestamp": 1770865026.805727
+        },
         {
             "title": "Güvenli Bir Yapay Zeka Asistanı Mümkün mü?",
             "original_title": "Is a secure AI assistant possible?",
@@ -490,26 +510,6 @@
             "link": "https://www.technologyreview.com/2026/01/29/1131787/the-ai-hype-index-grok-makes-porn-claude-code-nails-your-job/",
             "date": "2026-01-29T21:36:28.668641",
             "timestamp": 1769722588.66865
-        },
-        {
-            "title": "DHS, Google ve Adobe'nin Yapay Zekasıyla Video Üretiyor",
-            "original_title": "DHS is using Google and Adobe AI to make videos",
-            "content": "Amerika Birleşik Devletleri İç Güvenlik Bakanlığı, kamuoyuyla paylaşılan içerikleri oluşturmak ve düzenlemek için Google ve Adobe'nin yapay zeka video üreticilerini kullanıyor. Yeni bir belge, bu durumu ortaya koyuyor. Bu gelişme, göçmenlik kurumlarının sosyal medyayı Başkan Trump'ın toplu sınır dışı etme gündemini desteklemek amacıyla içeriklerle doldurmasıyla ortaya çıktı. Bu içeriklerin bir kısmının yapay zeka ile üretildiği düşünülüyor. Göçmenlik politikalarının kamuoyunda destek bulması için sosyal medya üzerinden yapılan bu tür içerik paylaşımları, teknolojinin hükümet politikalarıyla nasıl iç içe geçtiğini gösteriyor. Yapay zeka destekli video üretimi, hızla gelişen ve yaygınlaşan bir teknoloji olarak, kamu kurumlarının stratejik iletişim çalışmalarında önemli bir araç haline geliyor.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/01/29/1131938/dhs-is-using-google-and-adobe-ai-to-make-videos/",
-            "date": "2026-01-29T21:36:35.240780",
-            "timestamp": 1769722595.240789
-        },
-        {
-            "title": "Parkinson'u Belirtiler Ortaya Çıkmadan Yıllar Önce Tespit Edebilen Kan Testi Geliştirildi",
-            "original_title": "A simple blood test could spot Parkinson’s years before symptoms",
-            "content": "Bilim insanları İsveç ve Norveç'te, Parkinson hastalığını en yıkıcı semptomları ortaya çıkmadan yıllar, hatta on yıllar önce tespit etmenin umut verici bir yolunu keşfetti. Araştırma, hücrelerin stresle başa çıkma ve DNA onarım süreçleriyle ilişkili ince biyolojik sinyalleri kanda tespit ederek, Parkinson'un sessizce ölçülebilir bir iz bıraktığı kısa bir erken pencereyi belirledi. Bu keşif, Parkinson'un erken teşhisine olanak tanıyabilir ve hastalığın ilerlemesini yavaşlatacak ya da durduracak tedavi yöntemlerinin geliştirilmesine kapı aralayabilir. Araştırma ekibi, Parkinson'un biyolojik izlerini taşıyan kan örneklerini analiz ederek, hücresel stres ve DNA onarımı gibi süreçlerle ilgili spesifik biyobelirteçleri tanımladı. Bu biyobelirteçler, hastalığın erken evrelerinde kanda tespit edilebiliyor, bu da Parkinson'un semptomlar ortaya çıkmadan önce teşhis edilmesine olanak tanıyor. Çalışmanın sonuçları, Parkinson hastalığının daha iyi anlaşılması ve yeni tedavi stratejilerinin geliştirilmesi açısından büyük bir potansiyele sahip. Araştırmacılar, bu kan testi yönteminin daha geniş popülasyonlarda doğrulanması için daha fazla çalışmaya ihtiyaç olduğunu belirtiyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/01/260129080424.htm",
-            "date": "2026-01-29T15:45:07.533578",
-            "timestamp": 1769701507.533587
         }
     ]
 }
