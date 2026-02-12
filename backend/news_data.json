@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-12T09:59:12.688767",
+    "last_updated": "2026-02-12T13:38:57.870487",
     "daily_news": {
-        "title": "Depresyon Riskini Azaltmanın Basit Yolu: Günlük Televizyon Süresini Azaltın",
-        "original_title": "One simple daily change that could slash depression risk",
-        "content": "Televizyon izlemeye ayırdığınız bir saati daha aktif bir etkinlikle değiştirerek, özellikle orta yaşlarda, majör depresyon geliştirme riskinizi önemli ölçüde azaltabilirsiniz. Hollanda'da yapılan geniş çaplı bir araştırma, dört yıl boyunca 65.000'den fazla yetişkini takip etti ve günde 60 dakikalık televizyon izleme süresinin başka aktivitelerle değiştirilmesinin genel depresyon riskini %11 oranında düşürdüğünü ortaya koydu. Bu oran, orta yaşlı yetişkinlerde neredeyse %19'a kadar çıkıyor. İnsanlar televizyon izleme süresini iki saate kadar başka etkinliklerle değiştirdiğinde, orta yaştaki bireylerde depresyon riski %43'e kadar azalabiliyor. \n\nKaynak: Mind & Brain News -- ScienceDaily",
-        "category": "Psikoloji",
-        "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260211073043.htm",
-        "date": "2026-02-12T09:59:12.046162",
-        "timestamp": 1770890352.046175
+        "title": "Yapay Zeka, Çevrimiçi Suçları Kolaylaştırıyor: Daha Kötüsü Gelebilir",
+        "original_title": "AI is already making online crimes easier. It could get much worse.",
+        "content": "Anton Cherepanov her zaman ilginç bir şey arayışındadır. Geçen yılın Ağustos ayının sonlarında, tam da böyle bir şeyi fark etti. Bu, VirusTotal'a yüklenen bir dosyaydı, siber güvenlik araştırmacılarının virüsler ve diğer türde kötü amaçlı yazılımları analiz etmek için kullandığı bir site. Yüzeyde, dosya sıradan görünüyordu, ancak daha derinlemesine incelendiğinde, yapay zekanın çevrimiçi suçları kolaylaştırma potansiyelini gösteren bir örnek olduğu anlaşıldı.\n\nYapay zeka, son yıllarda hızla gelişerek birçok alanda etkisini göstermiştir. Ancak, bu teknolojinin kötüye kullanımı da aynı oranda artış göstermektedir. Siber suçlular, yapay zekanın sağladığı olanakları kullanarak daha sofistike ve etkili saldırılar gerçekleştirebilmektedir. Özellikle, yapay zeka destekli saldırılar, hedeflerine yönelik daha kişiselleştirilmiş ve dolayısıyla daha başarılı olabilir.\n\nCherepanov'un gözlemlediği dosya, yapay zekanın bu tür kötü amaçlı faaliyetlerde nasıl kullanılabileceğine dair önemli ipuçları veriyor. Özellikle, bu tür teknolojilerin giderek daha erişilebilir hale gelmesi, suçluların bunları kullanarak daha karmaşık ve tespit edilmesi zor saldırılar yapma olasılığını artırmaktadır.\n\nBu gelişmeler, siber güvenlik alanında daha dikkatli ve hazırlıklı olunması gerektiğini göstermektedir. Yapay zekanın kötüye kullanımının önüne geçmek için daha ileri düzeyde güvenlik önlemleri ve siber güvenlik uzmanlarının sürekli eğitimi büyük önem taşımaktadır.\n\nKaynak: MIT Technology Review.",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
+        "date": "2026-02-12T13:38:57.553705",
+        "timestamp": 1770903537.553713
     },
     "news_list": [
+        {
+            "title": "Yapay Zeka Destekli Siber Suçlar: Tehditler ve Önlemler",
+            "original_title": "The Download: AI-enhanced cybercrime, and secure AI assistants",
+            "content": "Günümüzün teknoloji dünyasında, yapay zeka (YZ) sadece yazılım mühendislerinin kod yazmasına ve hataları kontrol etmesine yardımcı olmakla kalmıyor, aynı zamanda kötü niyetli bilgisayar korsanlarının da işini kolaylaştırıyor. MIT Technology Review'un bir haberine göre, YZ'nin siber suçlar üzerindeki etkisi şimdiden hissedilmeye başlandı ve gelecekte bu durum daha da kötüleşebilir. \n\nYazılımcılar, YZ araçlarını kullanarak kod yazımını hızlandırırken ve yazılım hatalarını tespit ederken, siber suçlular da benzer teknolojileri kendi amaçları doğrultusunda kullanıyor. Bu durum, çevrimiçi suçların daha sofistike ve yaygın hale gelmesine yol açabilir. \n\nBirçok uzman, YZ'nin siber suçlar üzerindeki etkisinin ciddi boyutlara ulaşabileceği konusunda uyarılarda bulunuyor. Özellikle kişisel verilerin çalınması, kimlik avı saldırıları ve fidye yazılımlarının daha karmaşık hale gelmesi gibi tehditler, YZ'nin yardımıyla daha da artabilir. \n\nBu gelişmeler karşısında, güvenli YZ asistanları geliştirmek ve yaygınlaştırmak büyük önem taşıyor. Güvenlik uzmanları, YZ'nin kötüye kullanılmasını önlemek için daha etkili güvenlik önlemleri alınması gerektiğini vurguluyor. \n\nSonuç olarak, YZ'nin siber suçlar üzerindeki etkisi ciddi bir endişe kaynağı olmaya devam ediyor. Bu durum, hem bireylerin hem de şirketlerin siber güvenlik önlemlerini yeniden gözden geçirmelerini ve güçlendirmelerini gerektiriyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/12/1132819/the-download-ai-enhanced-cybercrime-and-secure-ai-assistants/",
+            "date": "2026-02-12T13:38:41.675523",
+            "timestamp": 1770903521.675534
+        },
+        {
+            "title": "Yapay Zeka, Çevrimiçi Suçları Kolaylaştırıyor: Daha Kötüsü Gelebilir",
+            "original_title": "AI is already making online crimes easier. It could get much worse.",
+            "content": "Anton Cherepanov her zaman ilginç bir şey arayışındadır. Geçen yılın Ağustos ayının sonlarında, tam da böyle bir şeyi fark etti. Bu, VirusTotal'a yüklenen bir dosyaydı, siber güvenlik araştırmacılarının virüsler ve diğer türde kötü amaçlı yazılımları analiz etmek için kullandığı bir site. Yüzeyde, dosya sıradan görünüyordu, ancak daha derinlemesine incelendiğinde, yapay zekanın çevrimiçi suçları kolaylaştırma potansiyelini gösteren bir örnek olduğu anlaşıldı.\n\nYapay zeka, son yıllarda hızla gelişerek birçok alanda etkisini göstermiştir. Ancak, bu teknolojinin kötüye kullanımı da aynı oranda artış göstermektedir. Siber suçlular, yapay zekanın sağladığı olanakları kullanarak daha sofistike ve etkili saldırılar gerçekleştirebilmektedir. Özellikle, yapay zeka destekli saldırılar, hedeflerine yönelik daha kişiselleştirilmiş ve dolayısıyla daha başarılı olabilir.\n\nCherepanov'un gözlemlediği dosya, yapay zekanın bu tür kötü amaçlı faaliyetlerde nasıl kullanılabileceğine dair önemli ipuçları veriyor. Özellikle, bu tür teknolojilerin giderek daha erişilebilir hale gelmesi, suçluların bunları kullanarak daha karmaşık ve tespit edilmesi zor saldırılar yapma olasılığını artırmaktadır.\n\nBu gelişmeler, siber güvenlik alanında daha dikkatli ve hazırlıklı olunması gerektiğini göstermektedir. Yapay zekanın kötüye kullanımının önüne geçmek için daha ileri düzeyde güvenlik önlemleri ve siber güvenlik uzmanlarının sürekli eğitimi büyük önem taşımaktadır.\n\nKaynak: MIT Technology Review.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
+            "date": "2026-02-12T13:38:57.553705",
+            "timestamp": 1770903537.553713
+        },
         {
             "title": "Depresyon Riskini Azaltmanın Basit Yolu: Günlük Televizyon Süresini Azaltın",
             "original_title": "One simple daily change that could slash depression risk",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/omics/dna-protein-crosslinks-drive-inflammation-linked-to-early-aging/",
             "date": "2026-01-30T04:47:22.341345",
             "timestamp": 1769748442.341354
-        },
-        {
-            "title": "Hipokampus Ödülleri Tahmin Ediyor: Hafıza Yeniden Düzenleniyor",
-            "original_title": "Hippocampus Predicts Rewards by Reorganizing Memories",
-            "content": "Araştırmacılar, hipokampusun yalnızca hafıza için değil, aynı zamanda ödülleri tahmin eden bir model olarak da hareket ettiğini keşfettiler. Bu durum, nöral aktiviteyi ödülleri öngörecek şekilde kaydırarak Alzheimer hakkında yeni içgörüler sunmaktadır. Hipokampusun bu işlevi, ödül beklentisi ile ilgili etkinliklerin düzenlenmesinde önemli bir rol oynamaktadır. \n\nYapılan çalışmalarda, hipokampusun önceleri yalnızca hafıza ile ilişkilendirildiği, ancak bu yeni bulgularla birlikte ödül tahmini konusunda da aktif bir rol oynadığı anlaşılmıştır. Ödüllerin tahmin edilmesi, bireyin gelecekteki eylemlerini yönlendirmede kritik bir unsur olarak değerlendirilmektedir. Hipokampusun bu işlevi, Alzheimer gibi nörodejeneratif hastalıkların mekanizmalarının daha iyi anlaşılmasına katkıda bulunabilir.\n\nAraştırmacılar, hipokampusun ödülleri tahmin etme yeteneğinin, sinir hücreleri arasındaki bağlantıları yeniden düzenleyerek gerçekleştiğini belirtmektedir. Bu yeniden düzenleme, hafızanın yeniden yapılandırılmasına ve dolayısıyla daha etkin bir ödül tahmini sürecine olanak tanımaktadır. Bu bulgular, Alzheimer hastalığına yönelik tedavi yöntemlerinin geliştirilmesinde yeni stratejiler sunabilir.\n\nKaynak: Neuroscience News, 2026",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/hippocampus-reward-prediction-learning-alzheimers-30089/",
-            "date": "2026-01-30T02:44:09.628628",
-            "timestamp": 1769741049.628639
-        },
-        {
-            "title": "Alzheimer Modelinde Hipokampal Tekrar Yapılanmasının Yapısı Bozuluyor",
-            "original_title": "Hippocampal Replay Persists but Loses Structure in Alzheimer’s Model",
-            "content": "Alzheimer hastalığı üzerine yapılan yeni bir araştırma, Alzheimer’ın fare modelinde hipokampal tekrar yapılanmasının devam ettiğini ancak yapısının bozulduğunu göstermektedir. Bu bozulma, yer hücresi haritalarını istikrarsızlaştırmakta ve hafızayı olumsuz etkilemektedir. Bu bulgular, erken teşhis için yeni olanaklar sunarken, tekrar yapılanma mekanizmalarını hedefleyen yeni tedavi yollarının da önünü açmaktadır. \n\nÇalışma, Alzheimer hastalığının erken evrelerinde meydana gelen bilişsel bozulmaları anlamak için önemli ipuçları sunmaktadır. Hipokampus, beyinde hafıza ve mekansal navigasyondan sorumlu olan bir bölgedir ve bu nedenle hipokampal yapılardaki bozulmalar, Alzheimer hastalığının semptomları ile doğrudan ilişkilidir. Araştırmada, farelerin hipokampal aktiviteleri gözlemlenmiş ve Alzheimer modelinde bu aktivitelerin daha düzensiz bir hale geldiği belirlenmiştir. \n\nBu düzensizlik, hipokampal tekrar yapılanmanın yapısal bütünlüğünü kaybetmesine ve yer hücresi haritalarının doğru bir şekilde oluşamamasına neden olmaktadır. Sonuç olarak, bu durum hafıza fonksiyonlarını ve öğrenme kapasitesini olumsuz yönde etkileyebilmektedir. \n\nAraştırmacılar, bu bulguların Alzheimer hastalığının erken teşhisi ve tedavisi için yeni yaklaşımlar geliştirilmesine olanak sağlayabileceğini belirtmektedir. Özellikle, hipokampal tekrar yapılanma süreçlerinin hedef alındığı terapiler, hastalığın ilerlemesini yavaşlatmak veya semptomlarını hafifletmek için potansiyel bir yol olarak görülmektedir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). Hippocampal replay persists but loses structure in Alzheimer’s model. Retrieved from https://www.genengnews.com/topics/translational-medicine/hippocampal-replay-persists-but-loses-structure-in-alzheimers-model/.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/hippocampal-replay-persists-but-loses-structure-in-alzheimers-model/",
-            "date": "2026-01-30T02:44:19.203123",
-            "timestamp": 1769741059.203132
         }
     ]
 }
