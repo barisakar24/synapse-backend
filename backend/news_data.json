@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-12T16:01:57.134537",
+    "last_updated": "2026-02-12T19:14:50.285685",
     "daily_news": {
-        "title": "Terray'nin AI Modeli İlaç Gücü Tahminini Hızlandırıyor: Yapısal Bilgi Gerekli Değil",
-        "original_title": "Terray’s AI Model Accelerates Drug Potency Prediction, Pose Not Needed",
-        "content": "TerraBind, ilaç keşfini önemli ölçüde hızlandırmak amacıyla, hesaplama açısından pahalı olan tüm atom yapıları gerektirmeyen doğru güç tahminleri öneriyor. Model, yaygın olarak kullanılan Boltz-2'ye kıyasla doğrulukta %20 artış ve 26 kat daha fazla verimlilik kazancı gösteriyor.\n\nTerraBind'in yaklaşımı, ilaç keşfi süreçlerinde önemli bir devrim yaratma potansiyeline sahip. Geleneksel yöntemler genellikle tüm atom yapılarının hesaplanmasını gerektirirken, TerraBind'in modeli bu gereksinimi ortadan kaldırarak süreci hem hızlandırıyor hem de daha az kaynak tüketiyor.\n\nBu yenilikçi model, ilaç geliştirme sürecinde zaman ve maliyet tasarrufu sağlayarak daha hızlı sonuçlar elde edilmesine olanak tanıyor. Bu da, yeni tedavilere daha hızlı erişim sağlayarak sağlık sektöründe büyük bir fark yaratabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Terray’s AI Model Accelerates Drug Potency Prediction, Pose Not Needed. Erişim adresi: https://www.genengnews.com/topics/artificial-intelligence/terrays-ai-model-accelerates-drug-potency-prediction-pose-not-needed/",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/artificial-intelligence/terrays-ai-model-accelerates-drug-potency-prediction-pose-not-needed/",
-        "date": "2026-02-12T16:01:57.134493",
-        "timestamp": 1770912117.134501
+        "title": "Beynin Gizli Dolaşımı: Geçmiş Anılarınız Açlığınızı Nasıl Kontrol Ediyor?",
+        "original_title": "Memory of Food: Brain Circuits Control Appetite Through Context",
+        "content": "Unutun irade gücü mitini, yeni araştırmalar iştah kontrolünün gerçek sırrının geçmiş deneyimleriniz olduğunu öne sürüyor. Bilim insanları, hafızayı açlığa bağlayan gizli bir devreyi tanımlayarak, beynin çevrenizi ne zaman yemek yemeniz gerektiğine karar vermek için nasıl kullandığını keşfetti. Bu sistemdeki bir \"aksaklık\" ise aşırı yemeğe neden olabiliyor. Bu araştırma, yeme alışkanlıklarımızın sadece fiziksel ihtiyaçlarımızdan değil, aynı zamanda geçmiş deneyimlerimizden ve çevresel bağlamdan da etkilendiğini gösteriyor. Beyindeki bu kompleks sistemin nasıl çalıştığını anlamak, aşırı yeme gibi beslenme ile ilgili sorunlara yeni çözümler sunabilir. \n\nKaynak: Neuroscience News",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/hunger-appetite-context-neuroscience-30094/",
+        "date": "2026-02-12T19:14:42.009413",
+        "timestamp": 1770923682.009422
     },
     "news_list": [
+        {
+            "title": "Beynin Gizli Dolaşımı: Geçmiş Anılarınız Açlığınızı Nasıl Kontrol Ediyor?",
+            "original_title": "Memory of Food: Brain Circuits Control Appetite Through Context",
+            "content": "Unutun irade gücü mitini, yeni araştırmalar iştah kontrolünün gerçek sırrının geçmiş deneyimleriniz olduğunu öne sürüyor. Bilim insanları, hafızayı açlığa bağlayan gizli bir devreyi tanımlayarak, beynin çevrenizi ne zaman yemek yemeniz gerektiğine karar vermek için nasıl kullandığını keşfetti. Bu sistemdeki bir \"aksaklık\" ise aşırı yemeğe neden olabiliyor. Bu araştırma, yeme alışkanlıklarımızın sadece fiziksel ihtiyaçlarımızdan değil, aynı zamanda geçmiş deneyimlerimizden ve çevresel bağlamdan da etkilendiğini gösteriyor. Beyindeki bu kompleks sistemin nasıl çalıştığını anlamak, aşırı yeme gibi beslenme ile ilgili sorunlara yeni çözümler sunabilir. \n\nKaynak: Neuroscience News",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/hunger-appetite-context-neuroscience-30094/",
+            "date": "2026-02-12T19:14:42.009413",
+            "timestamp": 1770923682.009422
+        },
+        {
+            "title": "Öğrenme Sırasında Sıkılmak, Arka Plan Gürültüsünden Daha Fazla Dikkat Dağıtıyor",
+            "original_title": "Boredom is More Distracting Than Background Noise During Learning",
+            "content": "Yeni araştırmalar, \"sessiz çalışma odası\" kavramını unutmanızı ve aslında odaklanmanın gerçek sırrının ilgi seviyeniz olduğunu öne sürüyor. Beyin dalgalarını ve fiziksel stres belirteçlerini izleyerek yapılan çalışmada, meşgul bir zihnin yüksek inşaat gürültüsünü görmezden gelebileceği, ancak sıkılmış bir zihnin ne kadar sessiz bir ortamda olursa olsun dalıp gittiği bulundu.\n\nÇalışmanın sonuçları, öğrenme süreçlerinde sessiz bir ortam arayışının yerine, bireyin konuyla ne kadar ilgilendiğine odaklanması gerektiğini gösteriyor. Katılımcıların beyin aktiviteleri ve fizyolojik tepkileri incelendiğinde, konuya ilgi duyduklarında çevresel gürültülerin dikkatlerini daha az dağıttığı gözlemlendi.\n\nBu bulgular, eğitim yöntemlerini yeniden değerlendirmek ve öğrenci katılımını artırmak için yeni stratejiler geliştirmek adına önemli ipuçları sunuyor. Öğrencilerin derslere olan ilgisini artırmak, dikkatlerini toplamalarına ve öğrenme süreçlerini daha verimli hale getirmelerine yardımcı olabilir.\n\nAPA Kaynağı: Neuroscience News. (2023). Boredom is More Distracting Than Background Noise During Learning. Erişim adresi: https://neurosciencenews.com/boredom-noise-learning-30093/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/boredom-noise-learning-30093/",
+            "date": "2026-02-12T19:14:49.450021",
+            "timestamp": 1770923689.45003
+        },
         {
             "title": "Beyin Hücrelerini Gençleştiren Protein Keşfedildi",
             "original_title": "Scientists discover protein that rejuvenates aging brain cells",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/cancer/cancer-outcomes-across-tumors-predicted-by-ccl3-production-by-neutrophils/",
             "date": "2026-02-07T09:40:22.013962",
             "timestamp": 1770457222.013971
-        },
-        {
-            "title": "Ölümsüzlüğe Giden Yol: Vitalizm Felsefesi ve Uzun Yaşamın Etkileyici Dünyası",
-            "original_title": "How the sometimes-weird world of lifespan extension is gaining influence",
-            "content": "Son birkaç yıldır, ölümün insanlığın 'temel sorunu' olduğuna inanan bir grup bireyin ilerlemesini takip ediyorum. Basitçe söylemek gerekirse, ölümün herkes için yanlış olduğunu savunuyorlar. Hatta bunun ahlaki açıdan yanlış olduğunu bile ifade ettiler. Bu kişiler, kendi felsefelerini oluşturdu ve buna Vitalizm adını verdiler. Vitalizm, sadece bir felsefeden daha fazlası...\n\nBu hareket, insan yaşam süresini uzatmayı hedefleyen çeşitli bilimsel ve teknolojik gelişmeleri içeriyor. Araştırmacılar ve girişimciler, yaşlanmayı durdurmanın veya geri döndürmenin yollarını ararken, bu alanda yeni tedaviler ve yenilikçi yaklaşımlar geliştiriyorlar. Örneğin, bazıları genetik müdahalelerle yaşlanmayı geciktirmeyi hedeflerken, diğerleri yenileyici tıp ve biyoteknoloji alanlarında çığır açan çalışmalar yürütüyor.\n\nVitalizm felsefesine göre, yaşlanmanın ve ölümün kaçınılmaz olduğu düşüncesi artık sorgulanabilir bir hale geldi. Bu düşünce tarzı, yaşam kalitesini artırmanın yanı sıra insan ömrünü de uzatmayı amaçlıyor. Ancak bu hareketin eleştirmenleri, ölümün doğal bir süreç olduğunu ve bu tür müdahalelerin etik ve toplumsal sonuçlar doğurabileceğini savunuyor.\n\nSonuç olarak, yaşam süresini uzatma alanındaki bu ilerlemeler, tıp ve bilim dünyasında büyük bir etki yaratıyor. Vitalizm hareketi, ölümün kaçınılmaz kaderimiz olmadığı fikrini benimseyerek, gelecekte insan yaşamının nasıl şekilleneceğine dair yeni bir perspektif sunuyor.\n\nKaynak: MIT Technology Review. (Yayın tarihi). How the sometimes-weird world of lifespan extension is gaining influence. Erişim adresi: https://www.technologyreview.com/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/01/30/1131933/weird-world-lifespan-extension-gaining-influence-oneill-arpa-h/",
-            "date": "2026-01-30T13:14:43.152426",
-            "timestamp": 1769778883.152435
-        },
-        {
-            "title": "Mosaic'in Nanoneedle Teknolojisi, Gen Terapisi Ürünleri İçin İleri Üretim Teknolojisi Olarak Onaylandı",
-            "original_title": "Mosaic’s Nanoneedle Granted Advanced Manufacturing Technology Designation for Gene Therapy Products",
-            "content": "Mosaic firmasının Nanoneedle teknolojisi, gen terapisi ürünleri için ileri üretim teknolojisi olarak onay aldı. Bu yenilikçi teknoloji, geleneksel yaklaşımların aksine, genom kalitesini dolaylı yoldan çıkarmak yerine, tam uzunluktaki transgen bütünlüğünü ve kapsid titrasyonlarını hem ham hem de saflaştırılmış örneklerde doğrudan moleküler düzeyde ölçüyor.\n\nBu teknoloji, gen terapilerinin üretim süreçlerinde önemli bir iyileştirme sağlayarak, daha güvenilir ve etkili tedavilerin geliştirilmesine katkıda bulunabilir. Nanoneedle teknolojisinin bu yetenekleri, gen terapisi ürünlerinin daha hızlı ve hassas bir şekilde değerlendirilmesini mümkün kılarak, araştırma ve üretim süreçlerini optimize edebilir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/bioprocessing/mosaics-nanoneedle-granted-advanced-manufacturing-technology-designation/)",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/bioprocessing/mosaics-nanoneedle-granted-advanced-manufacturing-technology-designation/",
-            "date": "2026-01-30T13:14:50.524835",
-            "timestamp": 1769778890.524843
         }
     ]
 }
