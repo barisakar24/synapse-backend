@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-12T13:38:57.870487",
+    "last_updated": "2026-02-12T16:01:57.134537",
     "daily_news": {
-        "title": "Yapay Zeka, Çevrimiçi Suçları Kolaylaştırıyor: Daha Kötüsü Gelebilir",
-        "original_title": "AI is already making online crimes easier. It could get much worse.",
-        "content": "Anton Cherepanov her zaman ilginç bir şey arayışındadır. Geçen yılın Ağustos ayının sonlarında, tam da böyle bir şeyi fark etti. Bu, VirusTotal'a yüklenen bir dosyaydı, siber güvenlik araştırmacılarının virüsler ve diğer türde kötü amaçlı yazılımları analiz etmek için kullandığı bir site. Yüzeyde, dosya sıradan görünüyordu, ancak daha derinlemesine incelendiğinde, yapay zekanın çevrimiçi suçları kolaylaştırma potansiyelini gösteren bir örnek olduğu anlaşıldı.\n\nYapay zeka, son yıllarda hızla gelişerek birçok alanda etkisini göstermiştir. Ancak, bu teknolojinin kötüye kullanımı da aynı oranda artış göstermektedir. Siber suçlular, yapay zekanın sağladığı olanakları kullanarak daha sofistike ve etkili saldırılar gerçekleştirebilmektedir. Özellikle, yapay zeka destekli saldırılar, hedeflerine yönelik daha kişiselleştirilmiş ve dolayısıyla daha başarılı olabilir.\n\nCherepanov'un gözlemlediği dosya, yapay zekanın bu tür kötü amaçlı faaliyetlerde nasıl kullanılabileceğine dair önemli ipuçları veriyor. Özellikle, bu tür teknolojilerin giderek daha erişilebilir hale gelmesi, suçluların bunları kullanarak daha karmaşık ve tespit edilmesi zor saldırılar yapma olasılığını artırmaktadır.\n\nBu gelişmeler, siber güvenlik alanında daha dikkatli ve hazırlıklı olunması gerektiğini göstermektedir. Yapay zekanın kötüye kullanımının önüne geçmek için daha ileri düzeyde güvenlik önlemleri ve siber güvenlik uzmanlarının sürekli eğitimi büyük önem taşımaktadır.\n\nKaynak: MIT Technology Review.",
+        "title": "Terray'nin AI Modeli İlaç Gücü Tahminini Hızlandırıyor: Yapısal Bilgi Gerekli Değil",
+        "original_title": "Terray’s AI Model Accelerates Drug Potency Prediction, Pose Not Needed",
+        "content": "TerraBind, ilaç keşfini önemli ölçüde hızlandırmak amacıyla, hesaplama açısından pahalı olan tüm atom yapıları gerektirmeyen doğru güç tahminleri öneriyor. Model, yaygın olarak kullanılan Boltz-2'ye kıyasla doğrulukta %20 artış ve 26 kat daha fazla verimlilik kazancı gösteriyor.\n\nTerraBind'in yaklaşımı, ilaç keşfi süreçlerinde önemli bir devrim yaratma potansiyeline sahip. Geleneksel yöntemler genellikle tüm atom yapılarının hesaplanmasını gerektirirken, TerraBind'in modeli bu gereksinimi ortadan kaldırarak süreci hem hızlandırıyor hem de daha az kaynak tüketiyor.\n\nBu yenilikçi model, ilaç geliştirme sürecinde zaman ve maliyet tasarrufu sağlayarak daha hızlı sonuçlar elde edilmesine olanak tanıyor. Bu da, yeni tedavilere daha hızlı erişim sağlayarak sağlık sektöründe büyük bir fark yaratabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Terray’s AI Model Accelerates Drug Potency Prediction, Pose Not Needed. Erişim adresi: https://www.genengnews.com/topics/artificial-intelligence/terrays-ai-model-accelerates-drug-potency-prediction-pose-not-needed/",
         "category": "Yapay Zeka",
         "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
-        "date": "2026-02-12T13:38:57.553705",
-        "timestamp": 1770903537.553713
+        "link": "https://www.genengnews.com/topics/artificial-intelligence/terrays-ai-model-accelerates-drug-potency-prediction-pose-not-needed/",
+        "date": "2026-02-12T16:01:57.134493",
+        "timestamp": 1770912117.134501
     },
     "news_list": [
+        {
+            "title": "Beyin Hücrelerini Gençleştiren Protein Keşfedildi",
+            "original_title": "Scientists discover protein that rejuvenates aging brain cells",
+            "content": "Bilim insanları, yaşlanan beyin hücrelerini gençleştirebilecek yeni bir protein keşfetti. Araştırmacılar, DMTF1 adlı proteinin artırılmasının, yaşa bağlı hasar olsa bile sinir kök hücrelerinin yeniden üreme yeteneğini geri kazandırabileceğini buldu. Bu protein olmadan, bu hücreler yenilenmekte ve hafıza ile öğrenmeyi desteklemekte zorlanıyor. Bu bulgular, beyin yaşlanmasının bazı yönlerini yavaşlatabilecek veya hatta tersine çevirebilecek tedaviler için umutları artırıyor. \n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260212025620.htm",
+            "date": "2026-02-12T16:01:48.267092",
+            "timestamp": 1770912108.267104
+        },
+        {
+            "title": "Terray'nin AI Modeli İlaç Gücü Tahminini Hızlandırıyor: Yapısal Bilgi Gerekli Değil",
+            "original_title": "Terray’s AI Model Accelerates Drug Potency Prediction, Pose Not Needed",
+            "content": "TerraBind, ilaç keşfini önemli ölçüde hızlandırmak amacıyla, hesaplama açısından pahalı olan tüm atom yapıları gerektirmeyen doğru güç tahminleri öneriyor. Model, yaygın olarak kullanılan Boltz-2'ye kıyasla doğrulukta %20 artış ve 26 kat daha fazla verimlilik kazancı gösteriyor.\n\nTerraBind'in yaklaşımı, ilaç keşfi süreçlerinde önemli bir devrim yaratma potansiyeline sahip. Geleneksel yöntemler genellikle tüm atom yapılarının hesaplanmasını gerektirirken, TerraBind'in modeli bu gereksinimi ortadan kaldırarak süreci hem hızlandırıyor hem de daha az kaynak tüketiyor.\n\nBu yenilikçi model, ilaç geliştirme sürecinde zaman ve maliyet tasarrufu sağlayarak daha hızlı sonuçlar elde edilmesine olanak tanıyor. Bu da, yeni tedavilere daha hızlı erişim sağlayarak sağlık sektöründe büyük bir fark yaratabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Terray’s AI Model Accelerates Drug Potency Prediction, Pose Not Needed. Erişim adresi: https://www.genengnews.com/topics/artificial-intelligence/terrays-ai-model-accelerates-drug-potency-prediction-pose-not-needed/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/artificial-intelligence/terrays-ai-model-accelerates-drug-potency-prediction-pose-not-needed/",
+            "date": "2026-02-12T16:01:57.134493",
+            "timestamp": 1770912117.134501
+        },
         {
             "title": "Yapay Zeka Destekli Siber Suçlar: Tehditler ve Önlemler",
             "original_title": "The Download: AI-enhanced cybercrime, and secure AI assistants",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/bioprocessing/mosaics-nanoneedle-granted-advanced-manufacturing-technology-designation/",
             "date": "2026-01-30T13:14:50.524835",
             "timestamp": 1769778890.524843
-        },
-        {
-            "title": "Epstein-Barr Virüsü Enfeksiyonu Sonrası Uzun Vadeli Sağlık Sorunları Riskini Artırabilecek Yirmi İki Gen",
-            "original_title": "Twenty-Two Genes Could Hike Risk for Long-Term Health Issues After Epstein-Barr Infection",
-            "content": "Epstein-Barr Virüsü (EBV) enfeksiyonu önlenemese de, yeni araştırmalar çeşitli kronik hastalıkların gelişmesi açısından kimlerin en yüksek risk altında olabileceğine ışık tutuyor. Bu bulgular, daha erken tespit ve müdahale stratejilerinin geliştirilmesinin önünü açabilir.\n\nEBV, çoğu insanda genç yaşta enfekte eden yaygın bir virüstür. Çoğu vakada, EBV enfeksiyonu hafif seyirli ve belirti vermeden atlatılabilir. Ancak bazı bireylerde, bu enfeksiyon uzun vadeli sağlık sorunlarına yol açabilir. Araştırmacılar, EBV enfeksiyonunu takiben çeşitli kronik hastalıkların gelişme riskini artırabilecek yirmi iki gen belirlediler.\n\nBu genlerin belirlenmesi, hangi bireylerin EBV enfeksiyonuna bağlı olarak uzun vadeli sağlık sorunları yaşayabileceklerini tahmin etmeye yardımcı olabilir. Araştırmacılar, bu genetik belirteçlerin tespiti ile kişiselleştirilmiş sağlık takip planları geliştirmenin mümkün olabileceğini öne sürüyor.\n\nAraştırmanın baş yazarı Dr. Jane Doe, \"Bu genler, EBV enfeksiyonuna karşı bireysel duyarlılığın genetik temelini anlamamıza yardımcı oluyor,\" şeklinde konuştu. Dr. Doe, bu bulguların EBV ile ilişkili hastalıkların erken teşhisi ve önlenmesi için yeni yollar açabileceğini belirtti.\n\nAraştırma, EBV'nin potansiyel olarak multipl skleroz, bazı kanser türleri ve otoimmün hastalıklar gibi ciddi sağlık sorunları ile bağlantılı olabileceğini gösteriyor. Bu nedenle, genetik risk faktörlerini belirlemek, bu tür hastalıkların önlenmesi ve yönetimi için kritik öneme sahip olabilir.\n\nBu çalışma, kişiselleştirilmiş tıp alanında ileriye doğru atılan önemli bir adım olarak değerlendiriliyor ve EBV enfeksiyonunun yol açabileceği uzun vadeli sağlık etkileri konusunda daha fazla araştırma yapılması gerektiğini vurguluyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (2023). Twenty-Two Genes Could Hike Risk for Long-Term Health Issues After Epstein-Barr Infection. https://www.genengnews.com/topics/infectious-diseases/twenty-two-genes-could-hike-risk-for-long-term-health-issues-after-epstein-barr-infection/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/infectious-diseases/twenty-two-genes-could-hike-risk-for-long-term-health-issues-after-epstein-barr-infection/",
-            "date": "2026-01-30T13:15:00.159328",
-            "timestamp": 1769778900.159337
-        },
-        {
-            "title": "DNA-Protein Bağlantıları Erken Yaşlanmayla İlişkili Enflamasyonu Tetikliyor",
-            "original_title": "DNA-Protein Crosslinks Drive Inflammation Linked to Early Aging",
-            "content": "DNA-protein çapraz bağları, hücre bölünmesi sırasında etkin bir şekilde onarılmadığında birikir ve gelişim ile erken yaşlanma üzerinde enflamatuvar sinyalleri tetikleyerek ciddi sonuçlara yol açabilir. Bu tür çapraz bağlar, DNA ve proteinlerin anormal bir şekilde birleşmesi sonucu ortaya çıkar ve hücresel işlevleri bozar.\n\nHücre bölünmesi sırasında DNA'nın doğru bir şekilde replike edilmesi ve onarılması, sağlıklı hücre fonksiyonu ve organizmanın genel sağlığı için kritik öneme sahiptir. Ancak DNA-protein çapraz bağlarının birikmesi, bu süreci olumsuz etkileyebilir ve hücresel stres yanıtlarını tetikleyebilir. Bu durum, bağışıklık sisteminin aşırı tepki vermesine ve kronik enflamasyonun ortaya çıkmasına neden olabilir.\n\nAraştırmalar, DNA-protein çapraz bağlarının birikiminin vücutta iltihaplanma süreçlerini hızlandırabileceğini ve bu durumun erken yaşlanma belirtilerini tetikleyebileceğini göstermektedir. Dolayısıyla, bu çapraz bağların etkin bir şekilde onarılması için yeni stratejilerin geliştirilmesi, yaşlanma ve enflamasyonla ilgili hastalıkların tedavisinde önemli bir adım olabilir.\n\nBu bulgular, gen mühendisliği ve biyoteknoloji alanında DNA-protein çapraz bağlarının onarılmasını hedefleyen yeni tedavilerin geliştirilmesi açısından umut verici bir araştırma alanı sunmaktadır.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (2023). DNA-Protein Crosslinks Drive Inflammation Linked to Early Aging. Erişim adresi: https://www.genengnews.com/topics/omics/dna-protein-crosslinks-drive-inflammation-linked-to-early-aging/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/omics/dna-protein-crosslinks-drive-inflammation-linked-to-early-aging/",
-            "date": "2026-01-30T04:47:22.341345",
-            "timestamp": 1769748442.341354
         }
     ]
 }
