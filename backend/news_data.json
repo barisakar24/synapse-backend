@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-02-12T21:42:24.110012",
+    "last_updated": "2026-02-13T02:57:11.419001",
     "daily_news": {
-        "title": "Alzheimer’ı Durdurabilecek Yeni Hedef: IDOL Enzimi",
-        "original_title": "New Drug Target Could Freeze Alzheimer’s in Its Tracks",
-        "content": "Yeni araştırmalar, IDOL enziminin Alzheimer hastalığını durdurmada anahtar rol oynayabileceğini ortaya koyuyor. Bu tek hedefi engellemenin, beyin plaklarını çözdüğü ve bilişsel direnci artırdığı gösterilmiştir. Beynin en güçlü risk faktörü proteininin seviyesini düşürerek, bilim insanları, nöronların saldırı altında bile iletişim kurmasını sağlamanın yeni bir yolunu buldular.\n\nAlzheimer hastalığı, dünya genelinde milyonlarca insanı etkileyen nörodejeneratif bir hastalık olarak bilinir. Şu ana kadar, hastalığın kesin bir tedavisi bulunmamakla birlikte, semptomların ilerlemesini yavaşlatan bazı tedavi yöntemleri geliştirilmiştir. Ancak IDOL enzimi üzerine yapılan bu yeni çalışma, hastalığın ilerlemesini tamamen durdurma potansiyeline sahip olabilir.\n\nAraştırmacılar, IDOL enziminin beyindeki belirli bir proteini hedef alarak, bu proteinin seviyesini düşürdüğünü ve böylece beyin plaklarının oluşumunu engellediğini keşfettiler. Bu plaklar, Alzheimer hastalarının beyinlerinde sıkça görülen ve nöronlar arasındaki iletişimi bozan yapılardır. Plakların çözülmesi, nöronların daha sağlıklı bir şekilde iletişim kurmasına olanak tanır ve bilişsel fonksiyonların korunmasına yardımcı olur.\n\nBu bulgular, Alzheimer tedavileri için yeni bir yol açarken, aynı zamanda nörodejeneratif hastalıkların anlaşılmasına da önemli katkılarda bulunmaktadır. Gelecekte, IDOL enzimi hedefli tedavilerin daha fazla araştırılması ve klinik denemelerle test edilmesi bekleniyor.\n\nKaynakça:\nNeuroscience News. (2023). New Drug Target Could Freeze Alzheimer’s in Its Tracks. Erişim adresi: https://neurosciencenews.com/idol-enzyme-alzheimers-target-30099/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/idol-enzyme-alzheimers-target-30099/",
-        "date": "2026-02-12T21:42:05.841017",
-        "timestamp": 1770932525.841031
+        "title": "Antijen Yönlendirmesi HPV Kanser Aşısının Etkisini Artırdı, Tümör Büyümesini Yavaşlattı",
+        "original_title": "Antigen Orientation Boosts HPV Cancer SNA Vaccine, Slows Tumors in Models",
+        "content": "<p>HPV antijeninin küresel nükleik asit (SNA) aşısında yeniden yönlendirilmesi, CD8⁺ T-hücresi aktivitesini önemli ölçüde artırarak, farelerde ve hastalardan elde edilen baş ve boyun kanseri sferoidlerinde tümör büyümesini yavaşlattı.</p><p>HPV'ye karşı geliştirilen SNA bazlı bu yenilikçi yaklaşım, antijenlerin aşı molekülü üzerindeki konumlandırılmasının, bağışıklık sisteminin tepkisini güçlendirebileceğini göstermektedir. Bu yeni düzenleme, özellikle CD8⁺ T-hücrelerinin aktivitesini artırarak, bağışıklık sisteminin tümörlerle daha etkili bir şekilde savaşmasına yardımcı olmaktadır.</p><p>Fare modellerinde ve laboratuvar ortamında kanser hastalarından elde edilen sferoidlerde yapılan testlerde, yeniden yönlendirilmiş antijenlerin, tümör büyümesini önemli ölçüde yavaşlattığı gözlemlendi. Bu bulgular, HPV ile ilişkili kanserlerin tedavisinde daha etkili aşı stratejilerinin geliştirilmesine yönelik umut verici bir adım olarak değerlendirilmektedir.</p><p>Bu araştırma, genetik mühendisliği ve biyoteknoloji alanında yenilikçi yaklaşımların, kanser tedavisinde devrim yaratabilecek potansiyele sahip olduğunu göstermektedir. Araştırmanın sonuçları, gelecekteki klinik çalışmalar ve potansiyel tedavi uygulamaları için önemli bir temel sağlayabilir.</p><p>Kaynak: GEN - Genetic Engineering and Biotechnology News</p>",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/cancer/antigen-orientation-boosts-hpv-cancer-sna-vaccine-slows-tumors-in-models/",
+        "date": "2026-02-13T02:57:11.418958",
+        "timestamp": 1770951431.418968
     },
     "news_list": [
+        {
+            "title": "Antijen Yönlendirmesi HPV Kanser Aşısının Etkisini Artırdı, Tümör Büyümesini Yavaşlattı",
+            "original_title": "Antigen Orientation Boosts HPV Cancer SNA Vaccine, Slows Tumors in Models",
+            "content": "<p>HPV antijeninin küresel nükleik asit (SNA) aşısında yeniden yönlendirilmesi, CD8⁺ T-hücresi aktivitesini önemli ölçüde artırarak, farelerde ve hastalardan elde edilen baş ve boyun kanseri sferoidlerinde tümör büyümesini yavaşlattı.</p><p>HPV'ye karşı geliştirilen SNA bazlı bu yenilikçi yaklaşım, antijenlerin aşı molekülü üzerindeki konumlandırılmasının, bağışıklık sisteminin tepkisini güçlendirebileceğini göstermektedir. Bu yeni düzenleme, özellikle CD8⁺ T-hücrelerinin aktivitesini artırarak, bağışıklık sisteminin tümörlerle daha etkili bir şekilde savaşmasına yardımcı olmaktadır.</p><p>Fare modellerinde ve laboratuvar ortamında kanser hastalarından elde edilen sferoidlerde yapılan testlerde, yeniden yönlendirilmiş antijenlerin, tümör büyümesini önemli ölçüde yavaşlattığı gözlemlendi. Bu bulgular, HPV ile ilişkili kanserlerin tedavisinde daha etkili aşı stratejilerinin geliştirilmesine yönelik umut verici bir adım olarak değerlendirilmektedir.</p><p>Bu araştırma, genetik mühendisliği ve biyoteknoloji alanında yenilikçi yaklaşımların, kanser tedavisinde devrim yaratabilecek potansiyele sahip olduğunu göstermektedir. Araştırmanın sonuçları, gelecekteki klinik çalışmalar ve potansiyel tedavi uygulamaları için önemli bir temel sağlayabilir.</p><p>Kaynak: GEN - Genetic Engineering and Biotechnology News</p>",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/antigen-orientation-boosts-hpv-cancer-sna-vaccine-slows-tumors-in-models/",
+            "date": "2026-02-13T02:57:11.418958",
+            "timestamp": 1770951431.418968
+        },
         {
             "title": "Alzheimer’ı Durdurabilecek Yeni Hedef: IDOL Enzimi",
             "original_title": "New Drug Target Could Freeze Alzheimer’s in Its Tracks",
@@ -500,16 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/02/260206012203.htm",
             "date": "2026-02-07T09:40:02.106446",
             "timestamp": 1770457202.106455
-        },
-        {
-            "title": "Yapay Zeka Tiyatrosunun Zirvesi: Moltbook",
-            "original_title": "Moltbook was peak AI theater",
-            "content": "Birkaç gün boyunca bu hafta, internetin en popüler yeni buluşma noktası, kendini botlar için bir sosyal ağ olarak tanıtan ve vibe kodlu bir Reddit klonu olan Moltbook oldu. Web sitesinin sloganında belirtildiği gibi: 'Yapay zeka ajanlarının paylaştığı, tartıştığı ve oy verdiği yer. İnsanlar gözlemlemek için hoş geldiniz.' Biz de gözlemledik! Matt Schlicht tarafından 28 Ocak'ta başlatılan bu platform, insan kullanıcıların yapay zeka ajanlarının etkileşimlerini izleyebileceği bir alan olarak tasarlandı. Moltbook, sosyal medya deneyimine yenilikçi bir yaklaşım getirerek, yapay zeka tabanlı etkileşimlerin nasıl şekilleneceğine dair kullanıcılarına benzersiz bir bakış açısı sunuyor. Platform, kullanıcıların hem eğlenebileceği hem de öğrenebileceği bir ortam sağlayarak, dijital sosyalleşmenin sınırlarını zorlamaya devam ediyor. \n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/06/1132448/moltbook-was-peak-ai-theater/",
-            "date": "2026-02-07T09:40:07.131031",
-            "timestamp": 1770457207.131039
         }
     ]
 }
