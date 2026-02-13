@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-02-13T13:20:18.505934",
+    "last_updated": "2026-02-13T15:53:20.469578",
     "daily_news": {
-        "title": "Jim O’Neill ile Özel Röportaj ve Soygunlar Hakkındaki Şaşırtıcı Gerçekler",
-        "original_title": "The Download: an exclusive chat with Jim O’Neill, and the surprising truth about heists",
-        "content": "Bu, haftanın her günü teknoloji dünyasında neler olup bittiğine dair günlük bir doz sağlayan bültenimiz The Download&#8217;ın bugünkü sayısıdır. ABD Sağlık Bakan Yardımcısı: Aşı yönergeleri hala değişikliklere tabi olabilir. Geçtiğimiz yıl boyunca, Jim O’Neill halk sağlığında en güçlü kişilerden biri haline geldi. ABD Sağlık Bakan Yardımcısı olarak görev yapan O’Neill, sağlık politikalarının şekillendirilmesinde önemli bir rol oynamaktadır. Özellikle aşı konusundaki yönergelerin hala değişikliklere açık olması, pandemi sürecinin dinamik yapısını gözler önüne sermektedir. MIT Technology Review'un özel röportajında, O’Neill, sağlık politikalarının geleceği ve bu süreçte karşılaşılan zorluklar üzerinde durmaktadır. Aynı zamanda, teknoloji dünyasının gündeminde olan diğer konular da ele alınarak, soygunlar hakkında şaşırtıcı gerçekler tartışılmaktadır. Bu konular, sadece sağlık değil, aynı zamanda güvenlik ve teknoloji alanlarında da önemli tartışmalara yol açmaktadır.\n\nKaynakça:\nMIT Technology Review. (2023). The Download: an exclusive chat with Jim O’Neill, and the surprising truth about heists. https://www.technologyreview.com/",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/02/13/1132896/the-download-an-exclusive-chat-with-jim-oneill-and-the-surprising-truth-about-heists/",
-        "date": "2026-02-13T13:19:58.958254",
-        "timestamp": 1770988798.958265
+        "title": "Beyindeki Gizli Hücreler Omurilik Yaralanmalarını İyileştirebilir",
+        "original_title": "Scientists discover hidden brain cells that help heal spinal cord injuries",
+        "content": "Cedars-Sinai'daki bilim insanları, omurilikte şaşırtıcı bir onarım sistemi keşfederek felç, inme ve multipl skleroz gibi hastalıkların tedavisinde yeni kapılar açabilecek önemli bir buluşa imza attı. Araştırmacılar, gerçek yaralanma bölgesinden uzakta bulunan özel destek hücreleri olan astrositlerin hasardan sonra harekete geçtiğini buldular. Bu 'lezyon-uzak astrositler' CCN1 adlı bir protein sinyali göndererek bağışıklık hücrelerini, yağlı sinir kalıntılarını etkili bir şekilde temizlemeleri için yeniden programlıyor. Bu buluş, sinir sisteminin kendini nasıl yenileyeceğine dair yeni anlayışlar sunarak, gelecekteki tedavi yöntemlerine ışık tutuyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260212234218.htm",
+        "date": "2026-02-13T15:53:19.679821",
+        "timestamp": 1770997999.679832
     },
     "news_list": [
+        {
+            "title": "Beyindeki Gizli Hücreler Omurilik Yaralanmalarını İyileştirebilir",
+            "original_title": "Scientists discover hidden brain cells that help heal spinal cord injuries",
+            "content": "Cedars-Sinai'daki bilim insanları, omurilikte şaşırtıcı bir onarım sistemi keşfederek felç, inme ve multipl skleroz gibi hastalıkların tedavisinde yeni kapılar açabilecek önemli bir buluşa imza attı. Araştırmacılar, gerçek yaralanma bölgesinden uzakta bulunan özel destek hücreleri olan astrositlerin hasardan sonra harekete geçtiğini buldular. Bu 'lezyon-uzak astrositler' CCN1 adlı bir protein sinyali göndererek bağışıklık hücrelerini, yağlı sinir kalıntılarını etkili bir şekilde temizlemeleri için yeniden programlıyor. Bu buluş, sinir sisteminin kendini nasıl yenileyeceğine dair yeni anlayışlar sunarak, gelecekteki tedavi yöntemlerine ışık tutuyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260212234218.htm",
+            "date": "2026-02-13T15:53:19.679821",
+            "timestamp": 1770997999.679832
+        },
         {
             "title": "Jim O’Neill ile Özel Röportaj ve Soygunlar Hakkındaki Şaşırtıcı Gerçekler",
             "original_title": "The Download: an exclusive chat with Jim O’Neill, and the surprising truth about heists",
@@ -500,16 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/02/260207092904.htm",
             "date": "2026-02-07T15:33:56.753772",
             "timestamp": 1770478436.753782
-        },
-        {
-            "title": "Glioblastoma Tedavisinde Çığır Açan Buluş: Tümör Hücreleri Kontrol Altına Alınıyor",
-            "original_title": "Taming Tumor Chaos: Researchers Uncover Key to Improving Glioblastoma Treatment",
-            "content": "Araştırmacılar, glioblastoma hücrelerinin kaotik davranışını kontrol eden \"anahtar molekül\" miR-181d'yi keşfederek, bu ölümcül beyin tümörünün tedavisinde devrim niteliğinde bir adım attılar. Bu molekülü stabilize ederek, tümör hücrelerini daha düzenli bir duruma zorlayabiliyor ve böylece kemoterapiye karşı daha savunmasız hale getiriyorlar. Glioblastoma, beynin en agresif ve tedavi edilmesi en zor tümörlerinden biri olarak bilinir. Bu tümörler, yüksek derecede heterojen yapıdadır ve bu da tedaviye karşı direnç geliştirmelerine neden olur. Ancak miR-181d'nin keşfi, tümör hücrelerinin bu karmaşık yapısını hedef alarak tedavi edilebilir hale getirme potansiyeli taşıyor. Çalışmanın bulguları, glioblastoma tedavisinde yeni stratejiler geliştirmek için umut verici bir temel sunuyor. Araştırmacılar, bu molekülün daha fazla incelenmesiyle, gelecekte glioblastoma hastaları için daha etkili tedavi yöntemleri geliştirebileceklerini belirtiyorlar.\n\nKaynak: Neuroscience News (2023). Taming Tumor Chaos: Researchers Uncover Key to Improving Glioblastoma Treatment. https://neurosciencenews.com/taming-tumor-chaos-researchers-glioblastoma-treatment-30090/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/taming-tumor-chaos-researchers-glioblastoma-treatment-30090/",
-            "date": "2026-02-07T09:39:52.727807",
-            "timestamp": 1770457192.727818
         }
     ]
 }
