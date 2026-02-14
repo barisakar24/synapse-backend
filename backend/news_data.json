@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-02-14T04:48:10.495837",
+    "last_updated": "2026-02-14T06:58:20.885959",
     "daily_news": {
-        "title": "Ekşi Tatların Bilimi: Limon Aşkımızın Ardındaki Gerçekler",
-        "original_title": "Science of Tastes: What Really Drives Our Love for Sour Foods",
-        "content": "Ekşi tatların hepsinin aynı olduğunu mu düşünüyorsunuz? Tekrar düşünün. Bilim insanları, farklı asitlerin ağızda farklı 'büzüşmelere' neden olduğunu ve limonlara olan düşkünlüğünüzün kişiliğinizden çok diyetiniz hakkında bilgi verdiğini keşfetti. Araştırmalar, ekşi tatlara olan yatkınlığın aslında yediğimiz besinlerle sıkı bir ilişki içinde olduğunu gösteriyor. Örneğin, limon gibi belirli meyvelere duyulan sevgi, bu meyvelerde bulunan organik asitlerle bağlantılı olabilir. Bu asitler, ağızda farklı şekillerde algılanarak kişiye özgü tat deneyimleri yaratabilir.\n\nBilim insanları, ekşi tatların algılanmasında organik asitlerin rolünü derinlemesine inceleyerek, farklı asit türlerinin ağızda nasıl farklı hissettirdiğini araştırıyorlar. Ekşi tatlara olan ilgi, sadece bir tat meselesi olmaktan çıkıp, beslenme alışkanlıklarımız ve kültürel tercihlerimizle ilgili önemli ipuçları sunuyor.\n\nBu araştırmalar, ekşi tatların sadece dil üzerindeki tat tomurcuklarıyla değil, aynı zamanda beynin tat algılama merkezleriyle de etkileşimde bulunduğunu ortaya koyuyor. Bu da, ekşi tatlara olan düşkünlüğün karmaşık bir biyolojik ve kültürel zemine dayandığını gösteriyor.\n\nKaynak: APA formatında kaynak belirtilecek...",
+        "title": "Beyin Uyarımı ile Cömertlik Artırılabilir mi?",
+        "original_title": "Scientists used brain stimulation to make people more generous",
+        "content": "Yeni bir araştırma, cömertliğin sadece ahlaki bir ders olmadığını, farklı beyin bölgelerinin birlikte nasıl çalıştığıyla şekillenebileceğini öne sürüyor. Bilim insanları, iki beyin bölgesini nazikçe uyararak ve aktivitelerini senkronize ederek, insanların başkalarıyla para paylaşmaya daha istekli hale geldiğini buldular, hatta bu, kendilerinin daha az kazanç sağlamasına yol açsa bile. Araştırma, beynin belirli bölgelerinin aktivitesinin değiştirilmesinin, kişisel kazançtan ziyade sosyal işbirliğini teşvik edebileceğini gösteriyor. Çalışmada, beynin prefrontal korteks ve temporoparietal bağlantı bölgesi hedef alındı. Katılımcılar, bu bölgeler uyarıldıktan sonra, para paylaşma oyunlarında daha fazla cömertlik sergiledi. Bulgular, beyin stimülasyonunun, sosyal davranışların anlaşılması ve potansiyel olarak manipüle edilmesi konusunda yeni kapılar açabileceğini gösteriyor. Ancak, araştırmacılar, bu tür müdahalelerin etik ve uzun vadeli etkilerinin dikkatli bir şekilde incelenmesi gerektiğini vurguluyorlar.\n\nKaynak: Mind & Brain News -- ScienceDaily",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/organic-acid-sour-perception-taste-30109/",
-        "date": "2026-02-13T21:45:33.681911",
-        "timestamp": 1771019133.68192
+        "link": "https://www.sciencedaily.com/releases/2026/02/260213020407.htm",
+        "date": "2026-02-14T06:58:20.320319",
+        "timestamp": 1771052300.320328
     },
     "news_list": [
+        {
+            "title": "Beyin Uyarımı ile Cömertlik Artırılabilir mi?",
+            "original_title": "Scientists used brain stimulation to make people more generous",
+            "content": "Yeni bir araştırma, cömertliğin sadece ahlaki bir ders olmadığını, farklı beyin bölgelerinin birlikte nasıl çalıştığıyla şekillenebileceğini öne sürüyor. Bilim insanları, iki beyin bölgesini nazikçe uyararak ve aktivitelerini senkronize ederek, insanların başkalarıyla para paylaşmaya daha istekli hale geldiğini buldular, hatta bu, kendilerinin daha az kazanç sağlamasına yol açsa bile. Araştırma, beynin belirli bölgelerinin aktivitesinin değiştirilmesinin, kişisel kazançtan ziyade sosyal işbirliğini teşvik edebileceğini gösteriyor. Çalışmada, beynin prefrontal korteks ve temporoparietal bağlantı bölgesi hedef alındı. Katılımcılar, bu bölgeler uyarıldıktan sonra, para paylaşma oyunlarında daha fazla cömertlik sergiledi. Bulgular, beyin stimülasyonunun, sosyal davranışların anlaşılması ve potansiyel olarak manipüle edilmesi konusunda yeni kapılar açabileceğini gösteriyor. Ancak, araştırmacılar, bu tür müdahalelerin etik ve uzun vadeli etkilerinin dikkatli bir şekilde incelenmesi gerektiğini vurguluyorlar.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260213020407.htm",
+            "date": "2026-02-14T06:58:20.320319",
+            "timestamp": 1771052300.320328
+        },
         {
             "title": "Ekşi Tatların Bilimi: Limon Aşkımızın Ardındaki Gerçekler",
             "original_title": "Science of Tastes: What Really Drives Our Love for Sour Foods",
@@ -500,16 +510,6 @@
             "link": "https://www.genengnews.com/topics/omics/previously-unknown-gut-bacteria-emerge-as-global-marker-of-health/",
             "date": "2026-02-09T16:03:31.566203",
             "timestamp": 1770653011.566213
-        },
-        {
-            "title": "Akdeniz Diyeti ile Felç Riski Arasında Güçlü Bağlantı",
-            "original_title": "This popular diet was linked to a much lower stroke risk",
-            "content": "Uzun süreli bir çalışma, Akdeniz diyetini yakından takip eden kadınların çok daha düşük felç riski taşıdığını ortaya koydu. Araştırma, bitki bazlı yiyecekler, balık ve zeytinyağı tüketimini artırırken kırmızı et ve doymuş yağları azaltan kadınlarda en güçlü faydaların görüldüğünü belirtti. Bu diyet yaklaşımını benimseyen kadınların riski, daha az çalışılan kanamalı felçler de dahil olmak üzere, tüm ana felç türleri arasında düştü. Bulgular, diyetin, felç önlemede güçlü ama gözden kaçan bir faktör olabileceğini öne sürüyor.\n\nKaynak: Mind & Brain News. (tarih). This popular diet was linked to a much lower stroke risk. ScienceDaily'den alınmıştır.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/02/260209064310.htm",
-            "date": "2026-02-09T13:39:51.970292",
-            "timestamp": 1770644391.970303
         }
     ]
 }
