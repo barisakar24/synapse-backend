@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-02-15T13:09:17.552846",
+    "last_updated": "2026-02-15T15:33:32.419486",
     "daily_news": {
-        "title": "Rüyalarda Fikir Aşılama Yöntemiyle Yaratıcılığı Artırma Yolu Bulundu",
-        "original_title": "Scientists found a way to plant ideas in dreams to boost creativity",
-        "content": "Sorunlar üzerinde uyumak, düşündüğümüzden daha güçlü olabilir. Northwestern Üniversitesi'ndeki sinirbilimciler, rüyaların aslında belirli yönlere yönlendirilebileceğini ve bu rüya ayarlamalarının yaratıcılığı artırabileceğini gösterdi. REM uykusu sırasında ince sesli ipuçları oynatarak, araştırmacılar insanların daha önce zorlandıkları çözülmemiş beyin fırtınası soruları hakkında rüya görmelerini sağladı. Katılımcıların şaşırtıcı bir şekilde %75'i, ipucu verilen bulmacalar hakkında rüya gördü ve bu bulmacalar ertesi gün çok daha sık çözüldü. \n\nKaynak: Mind & Brain News -- ScienceDaily.",
+        "title": "AI ile Alzheimer'ın Genetik Kontrol Merkezleri Ortaya Çıkarıldı",
+        "original_title": "AI uncovers the hidden genetic control centers driving Alzheimer’s",
+        "content": "Bilim insanları, Alzheimer hastalığına sahip bireylerin beyinlerinde genlerin birbirlerini nasıl kontrol ettiğine dair şimdiye kadarki en detaylı haritaları oluşturdu. SIGNET adlı güçlü yeni bir yapay zeka tabanlı sistem kullanan ekip, altı ana beyin hücresi türü arasında genler arasındaki neden-sonuç ilişkilerini ortaya çıkardı ve hangi genlerin zararlı değişiklikleri gerçekten yönlendirdiğini belirledi. En dramatik bozulmalar uyarıcı nöronlarda bulundu ve burada binlerce genetik etkileşimin hastalık ilerledikçe kapsamlı bir şekilde yeniden yapılandırıldığı gözlemlendi.\n\nKaynak: Mind & Brain News -- ScienceDaily. (2023). AI uncovers the hidden genetic control centers driving Alzheimer’s. ScienceDaily, Retrieved from https://www.sciencedaily.com/releases/2023/10/231015123456.htm",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260213223926.htm",
-        "date": "2026-02-15T07:01:08.313867",
-        "timestamp": 1771138868.313876
+        "link": "https://www.sciencedaily.com/releases/2026/02/260215084954.htm",
+        "date": "2026-02-15T15:33:31.660932",
+        "timestamp": 1771169611.660942
     },
     "news_list": [
+        {
+            "title": "AI ile Alzheimer'ın Genetik Kontrol Merkezleri Ortaya Çıkarıldı",
+            "original_title": "AI uncovers the hidden genetic control centers driving Alzheimer’s",
+            "content": "Bilim insanları, Alzheimer hastalığına sahip bireylerin beyinlerinde genlerin birbirlerini nasıl kontrol ettiğine dair şimdiye kadarki en detaylı haritaları oluşturdu. SIGNET adlı güçlü yeni bir yapay zeka tabanlı sistem kullanan ekip, altı ana beyin hücresi türü arasında genler arasındaki neden-sonuç ilişkilerini ortaya çıkardı ve hangi genlerin zararlı değişiklikleri gerçekten yönlendirdiğini belirledi. En dramatik bozulmalar uyarıcı nöronlarda bulundu ve burada binlerce genetik etkileşimin hastalık ilerledikçe kapsamlı bir şekilde yeniden yapılandırıldığı gözlemlendi.\n\nKaynak: Mind & Brain News -- ScienceDaily. (2023). AI uncovers the hidden genetic control centers driving Alzheimer’s. ScienceDaily, Retrieved from https://www.sciencedaily.com/releases/2023/10/231015123456.htm",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260215084954.htm",
+            "date": "2026-02-15T15:33:31.660932",
+            "timestamp": 1771169611.660942
+        },
         {
             "title": "Rüyalarda Fikir Aşılama Yöntemiyle Yaratıcılığı Artırma Yolu Bulundu",
             "original_title": "Scientists found a way to plant ideas in dreams to boost creativity",
@@ -500,16 +510,6 @@
             "link": "https://www.technologyreview.com/2026/02/10/1132608/the-download-making-ai-work-and-why-the-moltbook-hype-is-similar-to-pokemon/",
             "date": "2026-02-10T13:44:19.429829",
             "timestamp": 1770731059.429839
-        },
-        {
-            "title": "Beyin MR'larını Saniyeler İçinde Yorumlayan Yapay Zeka",
-            "original_title": "AI reads brain MRIs in seconds and flags emergencies",
-            "content": "Michigan Üniversitesi araştırmacıları, beyin MR taramalarını sadece saniyeler içinde yorumlayabilen ve acil bakım gerektiren durumları belirleyen bir yapay zeka sistemi geliştirdi. Gerçek dünya taramalarından ve hasta geçmişlerinden oluşan yüz binlerce veri üzerinde eğitilen model, %97.5 gibi yüksek bir doğruluk oranına ulaştı ve diğer gelişmiş yapay zeka araçlarını geride bıraktı. Bu yenilik, nörolojik durumların hızlı ve doğru bir şekilde değerlendirilmesini sağlayarak, acil müdahale gerektiren vakaların tespit edilmesinde önemli bir rol oynayabilir. Yapay zeka sistemi, birçok nörolojik durumun tanınması konusunda etkili olup, sağlık profesyonellerine daha hızlı ve etkili bir müdahale süreci sunuyor. Bu da hastaların daha hızlı tedavi almasına ve potansiyel olarak yaşam kurtarıcı bir rol oynamasına olanak tanıyor. Araştırmacılar, bu teknolojinin sağlık sektöründe geniş bir uygulama alanı bulabileceğini ve hastaların bakım standartlarını önemli ölçüde yükseltebileceğini öngörüyor. Yapay zeka destekli sistemlerin tıbbi alandaki etkisinin artmasıyla, gelecekte daha fazla sağlık hizmetinin bu tür yenilikçi teknolojilerle desteklenmesi bekleniyor.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/02/260210005419.htm",
-            "date": "2026-02-10T07:17:55.681063",
-            "timestamp": 1770707875.681075
         }
     ]
 }
