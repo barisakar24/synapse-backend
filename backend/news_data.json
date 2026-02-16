@@ -1,16 +1,76 @@
 {
-    "last_updated": "2026-02-16T13:22:29.004336",
+    "last_updated": "2026-02-16T15:52:18.964871",
     "daily_news": {
-        "title": "Yapay Zekayla Antibiyotik Avına Çıkan Bilim İnsanı",
-        "original_title": "The scientist using AI to hunt for antibiotics just about everywhere",
-        "content": "Genç bir delikanlıyken hayatına yön vermeye çalışan César de la Fuente, dünyanın en büyük sorunlarının bir listesini hazırladı. Bu sorunları, hükümetlerin çözmek için harcadığı para miktarına göre ters sıraladı. Antimikrobiyal direnç, listenin en üstünde yer aldı. Yirmi yıl sonra bu sorun hala çözülebilmiş değil. Antibiyotiklere karşı gelişen direnç, dünya genelinde her yıl milyonlarca insanın ölümüne neden oluyor ve bu durum, sağlık sistemleri üzerinde büyük bir baskı yaratıyor. De la Fuente, bu sorunu çözmek için yapay zekayı kullanmayı hedefliyor. Yaptığı çalışmalarla, yeni antibiyotiklerin keşfedilmesi sürecini hızlandırmayı amaçlıyor. Bilgisayar algoritmaları ve biyoinformatik tekniklerle, doğada bulunan bakterilerden yeni antibiyotik bileşenleri tespit etmeye çalışıyor. MIT Technology Review'de yayımlanan makaleye göre, bu yenilikçi yaklaşım, antimikrobiyal direnç sorununu çözmede umut vaat ediyor. De la Fuente'nin çalışmaları, hem bilim dünyasında hem de sağlık sektöründe büyük ilgi görüyor. \n\nKaynak: MIT Technology Review. (Erişim Tarihi: [Tarih])",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/02/16/1132516/cesar-de-la-fuente-using-ai-antibiotics-hunt/",
-        "date": "2026-02-16T13:22:19.301740",
-        "timestamp": 1771248139.301749
+        "title": "Alzheimer İçin İlk Hücre Tipi Spesifik Gen Haritası Yeni Analiz Yöntemiyle Oluşturuldu",
+        "original_title": "First Cell‑Type Gene Map for Alzheimer’s Built with New Analysis Method",
+        "content": "Araştırmacılar, Alzheimer hastalığı için hücre tipi spesifik ilk gen düzenleyici ağ haritasını oluşturmak amacıyla SIGNET adlı bir makine öğrenme çerçevesi kullandı. Bu harita, farklı beyin hücresi türleri arasında genlerin birbirlerini nasıl nedensel olarak düzenlediğini göstermektedir.\n\nÇalışmanın amacı, Alzheimer hastalığının anlaşılmasına katkıda bulunmak ve potansiyel tedavi yolları keşfetmektir. SIGNET, gen etkileşimlerini hücre tipi bazında analiz ederek daha önce elde edilemeyen detaylı veriler sağlamaktadır. Bu yöntem, beyin hücrelerinin genetik aktivitelerini ve bu aktivitelerin hastalık üzerindeki etkilerini daha iyi anlamaya yardımcı olmaktadır.\n\nSIGNET, gen düzenleyici ağları oluşturmak için geniş veri setlerini ve biyolojik bilgileri birleştiren gelişmiş bir algoritma kullanır. Bu, Alzheimer gibi karmaşık hastalıkların altında yatan moleküler mekanizmaları çözmek için önemli bir adım olarak kabul edilmektedir.\n\nKaynak:\nGEN – Genetic Engineering and Biotechnology News. (tarih). First Cell‑Type Gene Map for Alzheimer’s Built with New Analysis Method. https://www.genengnews.com/topics/translational-medicine/first-cell-type-gene-map-for-alzheimers-built-with-new-analysis-method/",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/translational-medicine/first-cell-type-gene-map-for-alzheimers-built-with-new-analysis-method/",
+        "date": "2026-02-16T15:52:18.964818",
+        "timestamp": 1771257138.964827
     },
     "news_list": [
+        {
+            "title": "Beyin İltihabı, Takıntılı Davranışların Anahtarı Olabilir",
+            "original_title": "Brain inflammation may be driving compulsive behavior",
+            "content": "Yıllardır, takıntılı davranışlar genellikle otomatik pilota bağlanmış kötü alışkanlıklar olarak görülüyordu. Ancak, fareler üzerinde yapılan yeni bir araştırma bunun tam tersini ortaya koydu: Beynin önemli bir karar verme bölgesindeki iltihaplanma, davranışları daha otomatik değil, aksine daha kasıtlı hale getirdi. Bu değişim, beyin destek hücreleri olan astrositlerin çoğalması ve çevredeki devreleri bozmasıyla ilişkilendirildi. Bu keşif, bazı takıntılı davranışların, kontrol kaybından ziyade aşırı ve yanlış yönlendirilmiş kontrolden kaynaklanabileceği fikrini öne sürüyor.\n\nBu araştırma, beyin inflamasyonunun beyindeki karar verme süreçlerini nasıl etkileyebileceğine dair yeni bir bakış açısı sunuyor. Astrositlerin rolü, beyin sağlığı ve davranışları üzerindeki etkisi açısından dikkat çekici bir unsur olarak ön plana çıkıyor. Astrositlerin çoğalması ve beyin devrelerini bozması, davranışların daha kasıtlı hale gelmesine neden olurken, bu durumun takıntılı davranışlarla nasıl bir ilişki içerisinde olduğu araştırmacılar için yeni sorular doğuruyor.\n\nAraştırmanın sonuçları, takıntılı davranışların altında yatan nedenleri anlamada yeni bir yol açabilir ve bu tür davranışları hedef alan tedavilerin geliştirilmesine yardımcı olabilir. Beyin iltihabının kontrol mekanizmaları üzerindeki etkisinin daha iyi anlaşılması, özellikle psikiyatrik bozukluklarla mücadelede yeni stratejilerin geliştirilmesine olanak tanıyabilir.\n\nAraştırmanın bulguları, beyin iltihabının sadece bir kontrol kaybı yaratmadığını, aynı zamanda kontrolün aşırı ve yanlış bir şekilde uygulanmasına da neden olabileceğini gösteriyor. Bu durum, takıntılı davranışların tedavisinde yeni yaklaşımlar geliştirilmesine katkı sağlayabilir.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260215225606.htm",
+            "date": "2026-02-16T15:51:32.310962",
+            "timestamp": 1771257092.310972
+        },
+        {
+            "title": "Beyninizi Ele Geçiren Parazit ve Vücudun Koruyucu İntihar Mekanizması",
+            "original_title": "One in three people carry this brain parasite but the body has a kill switch",
+            "content": "Beyinlerimizde saklanabilecek bir parazit, şaşırtıcı bir hayatta kalma taktiğine sahip: Yok edilmesi için gönderilen bağışıklık hücrelerini enfekte edebiliyor. Ancak çoğu insan bu parazitten dolayı hasta olmuyor ve UVA Health tarafından yapılan yeni araştırmalar bunun nedenini ortaya koyuyor. Bilim insanları, Toxoplasma gondii'nin bağışıklık sisteminin ana savunucularından olan CD8+ T hücrelerine bulaştığında, bu hücrelerin kaspaz-8 adlı bir enzimle güçlendirilmiş bir kendini yok etme mekanizmasını tetikleyebildiğini keşfetti. Enfekte olan hücreler kendilerini feda ederek içlerindeki paraziti de ortadan kaldırıyorlar.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260215225602.htm",
+            "date": "2026-02-16T15:51:41.557605",
+            "timestamp": 1771257101.557614
+        },
+        {
+            "title": "İş Dünyasında Ses Devrimi: Hibrit Çalışmanın Geleceği",
+            "original_title": "Tuning into the future of collaboration",
+            "content": "Özet: İşler uzaktan yürütülmeye başladığında, iş dünyasının sesi de değişti. Başlangıçta ev ofislerini işlevsel hale getirmek için yapılan hızlı düzenlemeler, insanların nasıl duyduklarını ve duyulduklarını tamamen değiştiren bir devrime dönüştü. Eğitimden işletmelere kadar birçok sektördeki şirketler, hibrit bir dünyada net ve güvenilir iletişimin ne anlama gelebileceğini yeniden düşündü.\n\nCovid-19 pandemisinin başlangıcında, birçok işletme hızlı bir şekilde uzaktan çalışma düzenine geçti. Bu dönemde, birçok kişi için evden çalışmak, işyerinde alışık oldukları ses kalitesinin kaybolması anlamına geldi. Ancak, bu geçici bir durum olmaktan çıktı ve kalıcı bir değişime dönüştü. Şirketler, sesli iletişimin kalitesini artırmak için yeni teknolojiler ve stratejiler geliştirmeye başladı.\n\nHibrit çalışma modelinin yükselişiyle birlikte, net ve güvenilir ses iletişimi daha da önemli hale geldi. İnsanlar, toplantılarda ve iş görüşmelerinde net bir şekilde duyulmak ve diğerlerini net bir şekilde duyabilmek istiyor. Bu bağlamda, ses teknolojilerinde yapılan yenilikler, iş dünyasında büyük bir değişime yol açtı.\n\nSes kalitesini artıran yeni teknolojiler arasında gürültü engelleme yazılımları, yüksek kaliteli mikrofonlar ve hoparlörler, ve gelişmiş ses işleme algoritmaları bulunuyor. Bu teknolojiler, uzaktan çalışanların işlerini daha verimli bir şekilde yapmalarını sağlıyor ve iletişimdeki yanlış anlamaları en aza indiriyor.\n\nSonuç olarak, ses teknolojilerindeki bu devrim, iş dünyasında daha etkili bir iletişim sağlıyor ve hibrit çalışma modelinin başarısında büyük rol oynuyor. Şirketler, bu yeni teknolojileri benimseyerek, çalışanlarının iletişimde daha rahat ve verimli olmalarını sağlıyor.\n\nKaynak: MIT Technology Review. (2023). Tuning into the future of collaboration. MIT Technology Review.",
+            "category": "Bilim & Teknoloji",
+            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/16/1125881/tuning-into-the-future-of-collaboration/",
+            "date": "2026-02-16T15:51:54.459101",
+            "timestamp": 1771257114.459109
+        },
+        {
+            "title": "Güvenlik Araştırmacısına Yönelik Ölüm Tehditlerinin Ardındaki Gizemli Hikaye",
+            "original_title": "The Download: unraveling a death threat mystery, and AI voice recreation for musicians",
+            "content": "Bu, teknolojinin dünyasında neler olup bittiğine dair günlük bir doz sağlayan hafta içi bültenimiz olan The Download'un bugünkü baskısıdır. Nisan 2024'te, \"Waifu\" ve \"Judische\" takma adlarını kullanan gizemli bir kişi, Telegram ve Discord kanallarında belirli bir güvenlik araştırmacısına yönelik ölüm tehditleri yayınlamaya başladı. Ancak bu tehditlerin ardındaki gizemi çözmeye yönelik çabalar, tehditleri yayınlayanların büyük bir hata yaptığını ortaya çıkardı. Tehditlerin hedefi olan araştırmacı, siber güvenlik dünyasında tanınmış bir isim ve bu tehditler, hem araştırmacının kişisel güvenliği hem de genel siber güvenlik topluluğu için ciddi bir endişe kaynağı oldu. Ancak araştırmacı ve ekibi, bu tehditlerin kaynağını ve ardındaki motivasyonları ortaya çıkarmak için hummalı bir çalışma başlattı. Araştırmalar, tehditlerin kaynağının peşine düşerken, aynı zamanda bu tür saldırıların altında yatan daha geniş çaplı sorunları da gün yüzüne çıkarmayı amaçlıyor. Bu olay, çevrimiçi tehditlerin ve kişisel güvenlik ihlallerinin ciddiyetini bir kez daha gözler önüne sererken, aynı zamanda bu tür tehditlerle başa çıkmak için geliştirilen stratejilerin önemini de vurguluyor. \n\nKaynak: MIT Technology Review.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/16/1133008/the-download-unraveling-a-death-threat-mystery-and-ai-voice-recreation-for-musicians/",
+            "date": "2026-02-16T15:52:06.349719",
+            "timestamp": 1771257126.349727
+        },
+        {
+            "title": "12 Kanser Türünde Risk Faktörü Olarak Tahmin Edilen İnsülin Direnci",
+            "original_title": "ML‑Predicted Insulin Resistance Identified as Risk Factor in 12 Cancers",
+            "content": "Son zamanlarda bir araştırma ekibi, AI‑IR adını verdikleri bir makine öğrenimi aracı geliştirdi. Bu araç, rutin sağlık kontrolleri sırasında toplanan dokuz standart klinik ölçümü kullanarak insülin direncini tahmin ediyor. Yapılan çalışmalar, bu tahmin edilen insülin direncinin 12 farklı kanser türü için bir risk faktörü olduğunu ortaya koydu. Bu keşif, insülin direncinin kanser gelişimindeki rolünü daha iyi anlamak ve kanser tedavileri için yeni stratejiler geliştirmek açısından önemli bir adım olarak değerlendiriliyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (2023). ML‑Predicted Insulin Resistance Identified as Risk Factor in 12 Cancers. https://www.genengnews.com/topics/cancer/ml%e2%80%91predicted-insulin-resistance-identified-as-risk-factor-in-12-cancers/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/ml%e2%80%91predicted-insulin-resistance-identified-as-risk-factor-in-12-cancers/",
+            "date": "2026-02-16T15:52:10.583706",
+            "timestamp": 1771257130.583714
+        },
+        {
+            "title": "Alzheimer İçin İlk Hücre Tipi Spesifik Gen Haritası Yeni Analiz Yöntemiyle Oluşturuldu",
+            "original_title": "First Cell‑Type Gene Map for Alzheimer’s Built with New Analysis Method",
+            "content": "Araştırmacılar, Alzheimer hastalığı için hücre tipi spesifik ilk gen düzenleyici ağ haritasını oluşturmak amacıyla SIGNET adlı bir makine öğrenme çerçevesi kullandı. Bu harita, farklı beyin hücresi türleri arasında genlerin birbirlerini nasıl nedensel olarak düzenlediğini göstermektedir.\n\nÇalışmanın amacı, Alzheimer hastalığının anlaşılmasına katkıda bulunmak ve potansiyel tedavi yolları keşfetmektir. SIGNET, gen etkileşimlerini hücre tipi bazında analiz ederek daha önce elde edilemeyen detaylı veriler sağlamaktadır. Bu yöntem, beyin hücrelerinin genetik aktivitelerini ve bu aktivitelerin hastalık üzerindeki etkilerini daha iyi anlamaya yardımcı olmaktadır.\n\nSIGNET, gen düzenleyici ağları oluşturmak için geniş veri setlerini ve biyolojik bilgileri birleştiren gelişmiş bir algoritma kullanır. Bu, Alzheimer gibi karmaşık hastalıkların altında yatan moleküler mekanizmaları çözmek için önemli bir adım olarak kabul edilmektedir.\n\nKaynak:\nGEN – Genetic Engineering and Biotechnology News. (tarih). First Cell‑Type Gene Map for Alzheimer’s Built with New Analysis Method. https://www.genengnews.com/topics/translational-medicine/first-cell-type-gene-map-for-alzheimers-built-with-new-analysis-method/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/first-cell-type-gene-map-for-alzheimers-built-with-new-analysis-method/",
+            "date": "2026-02-16T15:52:18.964818",
+            "timestamp": 1771257138.964827
+        },
         {
             "title": "Yapay Zekayla Antibiyotik Avına Çıkan Bilim İnsanı",
             "original_title": "The scientist using AI to hunt for antibiotics just about everywhere",
@@ -450,66 +510,6 @@
             "link": "https://www.genengnews.com/topics/drug-discovery/streamlining-research-antibody-and-reagent-selection/",
             "date": "2026-02-11T21:41:31.444784",
             "timestamp": 1770846091.444792
-        },
-        {
-            "title": "Genomik Olarak Dengesiz Tümörlerde Yeni Hedef: KIF18A Proteinine Odaklanılıyor",
-            "original_title": "SLAS Highlights: Opening Keynote Spotlights Novel Target in Genomically Unstable Tumors",
-            "content": "Bu yılki SLAS konferansının açılış konuşması, genomik olarak dengesiz tümörlerde önemli bir rol oynayan motor protein KIF18A'ya odaklandı. Konferansta, bu proteine yönelik hedefli bir küçük molekül tedavisi geliştirilmesi için yürütülen çalışmalardan bahsedildi. KIF18A, hücre bölünmesi sırasında mikrotübül dinamiklerini düzenleyen bir motor protein olarak bilinir. Genomik dengesizlik gösteren tümörlerde, hücrelerin kontrolsüz bir şekilde bölünmesine yol açan bu protein, kanser terapisine yönelik yeni bir hedef olarak dikkat çekmektedir. Bilim insanları, KIF18A'nın aktivitesini engelleyerek tümör büyümesini durdurmayı ve kanser hastaları için etkili bir tedavi geliştirmeyi amaçlamaktadır. Bu çalışmanın, kanser tedavisinde kişiselleştirilmiş yaklaşımlara önemli katkılar sağlaması beklenmektedir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). SLAS highlights: Opening keynote spotlights novel target in genomically unstable tumors. Retrieved from https://www.genengnews.com/topics/cancer/slas-highlights-opening-keynote-spotlights-novel-target-in-genomically-unstable-tumors/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/slas-highlights-opening-keynote-spotlights-novel-target-in-genomically-unstable-tumors/",
-            "date": "2026-02-11T19:14:50.065323",
-            "timestamp": 1770837290.065335
-        },
-        {
-            "title": "SLAS 2023: Yapay Zeka Laboratuvarları, Küçük Molekül SPR ve Kağıt Laboratuvar Malzemeleri",
-            "original_title": "SLAS Highlights: AI Labs, Small-Molecule SPR, Protein Interaction Assays, and Paper Labware",
-            "content": "SLAS yıllık toplantısına katılanlar, dokuz farklı kategoride düzenlenen onlarca konuşmanın yanı sıra, verimliliği ve sürdürülebilirliği artırmayı amaçlayan pek çok yeni ürün hakkında da bilgi aldı. Etkinlikte yapay zeka laboratuvarlarından küçük molekül yüzey plazmon rezonansına (SPR), protein etkileşim analizlerinden kağıt laboratuvar malzemelerine kadar geniş bir yelpazede yenilikler tanıtıldı.\n\nEtkinliğin en dikkat çekici yeniliklerinden biri, yapay zeka destekli laboratuvar uygulamalarıydı. Bu teknolojiler, araştırma süreçlerini hızlandırmak ve hata payını azaltmak için tasarlandı. Küçük moleküllerin yüzey plazmon rezonansı ile analiz edilmesi ise, daha hassas ve hızlı sonuçlar elde edilmesine olanak tanıyor.\n\nProtein etkileşim analizleri de etkinlikte öne çıkan konular arasındaydı. Bu analizler, biyomoleküler etkileşimleri daha iyi anlamak için geliştirilmiş yeni yöntemler sunuyor. Ayrıca, kağıt laboratuvar malzemeleri gibi sürdürülebilir ürünler, çevreye duyarlı çözümler arayan bilim insanlarının ilgisini çekti.\n\nBu yenilikler, hem araştırma süreçlerini optimize etmeyi amaçlayan bilim insanları hem de sürdürülebilir çözümler arayan endüstri liderleri için büyük önem taşıyor. SLAS etkinliği, bilim ve teknoloji alanında geleceğe ışık tutacak birçok gelişmeyi bir araya getirdi.\n\nKaynakça:\nGEN - Genetic Engineering and Biotechnology News. (2023). SLAS Highlights: AI Labs, Small-Molecule SPR, Protein Interaction Assays, and Paper Labware. https://www.genengnews.com/topics/bioprocessing/slas-highlights-ai-labs-small-molecule-spr-protein-interaction-assays-and-paper-labware/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/bioprocessing/slas-highlights-ai-labs-small-molecule-spr-protein-interaction-assays-and-paper-labware/",
-            "date": "2026-02-11T19:14:59.734984",
-            "timestamp": 1770837299.734992
-        },
-        {
-            "title": "Depresyon, Parkinson veya Demansın Erken Belirtisi Olabilir",
-            "original_title": "Depression may be the brain’s early warning sign of Parkinson’s or dementia",
-            "content": "Yaşlı yetişkinlerde görülen depresyon, bazen Parkinson hastalığı veya Lewy cisimcikli demansın erken evrelerini işaret edebilir. Araştırmacılar, depresyonun teşhis edilmeden yıllar önce ortaya çıktığını ve diğer kronik hastalıklardan farklı olarak uzun süre yüksek seviyede kaldığını bulmuşlardır. Bu durum, depresyonun sadece duygusal sıkıntıdan ziyade erken beyin değişikliklerini yansıtıyor olabileceğini düşündürmektedir.\n\nYapılan araştırmalara göre, yaşlı bireylerde depresyon belirtileri, Parkinson hastalığı veya Lewy cisimcikli demans gibi nörodejeneratif hastalıkların başlangıcını işaret edebilir. Bu hastalıklar genellikle teşhis edilmeden önce yıllarca sürebilir ve depresyon, bu süreçte önemli bir uyarı işareti olabilir.\n\nDepresyonun, Parkinson ve demans gibi hastalıkların erken belirtileri arasında yer alabileceğine dair bulgular, nörolojik bozuklukların erken teşhisi ve tedavisi için önemli bir adım olabilir. Bu nedenle, yaşlı bireylerde görülen depresyon belirtileri dikkatle izlenmeli ve gerekli durumlarda nörolojik değerlendirmeler yapılmalıdır.\n\nAPA formatında kaynak: Mind & Brain News -- ScienceDaily.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/02/260210040623.htm",
-            "date": "2026-02-11T13:40:42.449150",
-            "timestamp": 1770817242.449161
-        },
-        {
-            "title": "ChatGPT Aboneliklerine Karşı Yükselen Hareket: QuitGPT",
-            "original_title": "The Download: inside the QuitGPT movement, and EVs in Africa",
-            "content": "Bu, teknoloji dünyasında neler olup bittiğine dair günlük bir doz sağlayan haftalık bültenimiz The Download'un bugünkü sayısıdır. 'QuitGPT' kampanyası, insanları ChatGPT aboneliklerini iptal etmeye çağırıyor. Eylül ayında, Singapur'da serbest yazılım geliştiricisi olan Alfred Stephen, ayda 20 dolara mal olan ve çeşitli avantajlar sunan bir ChatGPT Plus aboneliği satın aldı. Çeşitli nedenlerle, kullanıcılar ChatGPT aboneliklerini iptal etmeye teşvik ediliyor. Bu hareket, yapay zeka tabanlı sohbet botlarının özel hayat ve veri güvenliği üzerindeki etkileri konusunda artan endişelerden kaynaklanıyor. Kimi kullanıcılar, bu tür araçların kişisel verileri nasıl işlediği ve sakladığı konusunda daha fazla şeffaflık talep ediyor. Diğer yandan, bazıları bu tür hizmetlerin bağımlılık yapıcı doğasına dikkat çekiyor ve daha dikkatli bir kullanım öneriyor. Bu tartışmalar, teknolojinin günlük yaşam üzerindeki etkileri hakkında daha geniş bir diyalog başlatıyor. Elektrikli araçların (EV) Afrika'daki yayılımı ise başka bir önemli konu olarak öne çıkıyor. Birçok Afrika ülkesi, çevresel sürdürülebilirlik ve ekonomik kalkınma için elektrikli araçların potansiyelini keşfetmeye başlıyor. Ancak, altyapı eksiklikleri ve yüksek maliyetler gibi zorluklar, bu teknolojinin kıtada yaygın bir şekilde benimsenmesini zorlaştırıyor. Yine de, birçok girişimci ve hükümet bu engelleri aşmak için çeşitli stratejiler geliştirmeye çalışıyor. Elektrikli araçlar, Afrika'nın enerji ve ulaşım sektörlerinde devrim yaratma potansiyeline sahipken, bu geçişin ne kadar hızlı ve etkili bir şekilde gerçekleşeceği merak konusu. \n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/11/1132724/the-download-inside-the-quitgpt-movement-and-evs-in-africa/",
-            "date": "2026-02-11T13:40:56.155750",
-            "timestamp": 1770817256.15576
-        },
-        {
-            "title": "2040'ta Afrika'da Elektrikli Araçların Maliyeti Benzinli Araçlardan Daha Düşük Olabilir",
-            "original_title": "EVs could be cheaper to own than gas cars in Africa by 2040",
-            "content": "Elektrikli araçlar (EV), Afrika'da beklenenden daha hızlı bir şekilde ekonomik olarak rekabetçi olabilir. Kıtada 2025 yılında satılan yeni araçların sadece %1'i elektrikliydi, ancak yeni bir analiz, güneş enerjili off-grid şarj ile EV'lerin 2040 yılına kadar benzinli araçlardan daha ucuza sahiplenilebileceğini ortaya koyuyor. Yine de birçok ülkede elektrikli araçların yaygınlaşması önünde büyük engeller bulunuyor. Bu engeller arasında altyapı eksiklikleri, yüksek başlangıç maliyetleri ve şarj istasyonlarının yetersizliği gibi faktörler yer alıyor. Ancak güneş enerjisi ile sağlanacak off-grid şarj imkanı, özellikle elektrik şebekelerinin zayıf olduğu bölgelerde elektrikli araçların çekiciliğini artırabilir. Afrika'nın geniş güneş enerjisi potansiyeli, bu dönüşümde kilit rol oynayabilir. \n\nKaynak: MIT Technology Review",
-            "category": "Bilim & Teknoloji",
-            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/11/1132714/evs-africa-cost/",
-            "date": "2026-02-11T13:41:02.441469",
-            "timestamp": 1770817262.44148
-        },
-        {
-            "title": "Hayali Çay Partisi: Bonobo Kanzi, İnsana Özgü Sanılan Hayal Gücünü Sorguluyor",
-            "original_title": "A bonobo’s pretend tea party is rewriting what we know about imagination",
-            "content": "Bilim insanları, Kanzi adında bir bonobonun hayali çay partisi deneylerinde başarılı bir şekilde rol alarak onları şaşırttığını bildirdi. Kanzi, hayali meyve suyu ve üzümleri gerçekmiş gibi takip ederek, hayali nesnelerin doğru yerlerini tutarlı bir şekilde işaret etti. Ancak, seçenek verildiğinde her zaman gerçek yiyecekleri tercih etti. Bu sonuçlar, hayal gücünün yalnızca insanlara özgü olmayabileceğini düşündürüyor. \n\nKaynak: Mind & Brain News -- ScienceDaily.",
-            "category": "Bilim & Teknoloji",
-            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/02/260210040605.htm",
-            "date": "2026-02-11T07:15:04.774955",
-            "timestamp": 1770794104.774966
         }
     ]
 }
