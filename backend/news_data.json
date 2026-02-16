@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-16T10:03:14.672859",
+    "last_updated": "2026-02-16T13:22:29.004336",
     "daily_news": {
-        "title": "Lösemide Protein Yıkımını Hedefleyen Moleküler Yapıştırıcıların Sistematik Keşfi",
-        "original_title": "Systematic Discovery of Molecular Glues Targets Protein Degradation in Leukemia",
-        "content": "Lösemiye karşı yeni bir tedavi yöntemi geliştirmek amacıyla yapılan araştırmalar, moleküler yapıştırıcıların sistematik keşfi üzerine yoğunlaşıyor. Yüksek verimli kimya ve hücre bazlı tarama yöntemlerini birleştirerek ölçeklenebilir bir strateji geliştiren bilim insanları, lösemi ile ilişkili ENL proteinini hedef alarak seçici bir şekilde yıkımını mümkün hale getiriyor. Bu yenilikçi yaklaşım, daha önce tedavi edilemez olarak kabul edilen hedefler için yeni terapötik olanaklar sunuyor.\n\nBu stratejinin merkezinde, moleküler yapıştırıcılar olarak bilinen ve hedef proteinlerin yıkımını sağlayan küçük moleküller yer alıyor. Bu moleküller, hücre içinde belirli proteinlerin yıkımını hızlandırarak kanser hücrelerinin hayatta kalmasını zorlaştırıyor. Araştırmacılar, bu yöntemin özellikle lösemide önemli bir rol oynayan ENL proteinine karşı etkili olduğunu belirtiyor.\n\nYapılan çalışmalar, moleküler yapıştırıcıların, ENL proteini gibi daha önce tedavi edilemeyen proteinleri hedef alarak yıkımını sağladığını ortaya koyuyor. Bu, kanser terapilerinde yeni bir dönemin başlangıcı olabilir ve bu tür hedeflemeler, kanser tedavisinde daha etkili ve seçici yöntemlerin geliştirilmesine olanak tanıyabilir.\n\nBu araştırma, genetik mühendislik ve biyoteknoloji alanında önemli bir adım olarak değerlendiriliyor ve daha fazla araştırma ile desteklendiğinde, gelecekte lösemi tedavisinde devrim yaratabilecek potansiyele sahip.\n\nKaynakça:\nGEN - Genetic Engineering and Biotechnology News. (2023). Systematic Discovery of Molecular Glues Targets Protein Degradation in Leukemia. https://www.genengnews.com/topics/drug-discovery/systematic-discovery-of-molecular-glues-targets-protein-degradation-in-leukemia/",
-        "category": "Genetik",
-        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/drug-discovery/systematic-discovery-of-molecular-glues-targets-protein-degradation-in-leukemia/",
-        "date": "2026-02-16T10:03:14.672803",
-        "timestamp": 1771236194.672815
+        "title": "Yapay Zekayla Antibiyotik Avına Çıkan Bilim İnsanı",
+        "original_title": "The scientist using AI to hunt for antibiotics just about everywhere",
+        "content": "Genç bir delikanlıyken hayatına yön vermeye çalışan César de la Fuente, dünyanın en büyük sorunlarının bir listesini hazırladı. Bu sorunları, hükümetlerin çözmek için harcadığı para miktarına göre ters sıraladı. Antimikrobiyal direnç, listenin en üstünde yer aldı. Yirmi yıl sonra bu sorun hala çözülebilmiş değil. Antibiyotiklere karşı gelişen direnç, dünya genelinde her yıl milyonlarca insanın ölümüne neden oluyor ve bu durum, sağlık sistemleri üzerinde büyük bir baskı yaratıyor. De la Fuente, bu sorunu çözmek için yapay zekayı kullanmayı hedefliyor. Yaptığı çalışmalarla, yeni antibiyotiklerin keşfedilmesi sürecini hızlandırmayı amaçlıyor. Bilgisayar algoritmaları ve biyoinformatik tekniklerle, doğada bulunan bakterilerden yeni antibiyotik bileşenleri tespit etmeye çalışıyor. MIT Technology Review'de yayımlanan makaleye göre, bu yenilikçi yaklaşım, antimikrobiyal direnç sorununu çözmede umut vaat ediyor. De la Fuente'nin çalışmaları, hem bilim dünyasında hem de sağlık sektöründe büyük ilgi görüyor. \n\nKaynak: MIT Technology Review. (Erişim Tarihi: [Tarih])",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/02/16/1132516/cesar-de-la-fuente-using-ai-antibiotics-hunt/",
+        "date": "2026-02-16T13:22:19.301740",
+        "timestamp": 1771248139.301749
     },
     "news_list": [
+        {
+            "title": "Yapay Zekayla Antibiyotik Avına Çıkan Bilim İnsanı",
+            "original_title": "The scientist using AI to hunt for antibiotics just about everywhere",
+            "content": "Genç bir delikanlıyken hayatına yön vermeye çalışan César de la Fuente, dünyanın en büyük sorunlarının bir listesini hazırladı. Bu sorunları, hükümetlerin çözmek için harcadığı para miktarına göre ters sıraladı. Antimikrobiyal direnç, listenin en üstünde yer aldı. Yirmi yıl sonra bu sorun hala çözülebilmiş değil. Antibiyotiklere karşı gelişen direnç, dünya genelinde her yıl milyonlarca insanın ölümüne neden oluyor ve bu durum, sağlık sistemleri üzerinde büyük bir baskı yaratıyor. De la Fuente, bu sorunu çözmek için yapay zekayı kullanmayı hedefliyor. Yaptığı çalışmalarla, yeni antibiyotiklerin keşfedilmesi sürecini hızlandırmayı amaçlıyor. Bilgisayar algoritmaları ve biyoinformatik tekniklerle, doğada bulunan bakterilerden yeni antibiyotik bileşenleri tespit etmeye çalışıyor. MIT Technology Review'de yayımlanan makaleye göre, bu yenilikçi yaklaşım, antimikrobiyal direnç sorununu çözmede umut vaat ediyor. De la Fuente'nin çalışmaları, hem bilim dünyasında hem de sağlık sektöründe büyük ilgi görüyor. \n\nKaynak: MIT Technology Review. (Erişim Tarihi: [Tarih])",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/16/1132516/cesar-de-la-fuente-using-ai-antibiotics-hunt/",
+            "date": "2026-02-16T13:22:19.301740",
+            "timestamp": 1771248139.301749
+        },
+        {
+            "title": "Siber Güvenlik Araştırmacısına Tehdit: Yanlış Hedef",
+            "original_title": "Hackers made death threats against this security researcher. Big mistake.",
+            "content": "Tehditler bahar aylarında başladı. Nisan 2024'te, 'Waifu' ve 'Judische' kullanıcı adlarını kullanan gizemli bir kişi, Telegram ve Discord kanallarında siber güvenlik araştırmacısı Allison Nixon'a yönelik ölüm tehditleri paylaşmaya başladı. 'Alison [sic] Nixon yakında benzinle doldurulmuş bir lastikle boynunda asılacak,' diye yazdı Waifu/Judische. MIT Technology Review, bu tehdidin Nixon ve çevresi üzerinde yarattığı etkiyi ve bu tehditleri yapan kişilerin peşine düşülmesi sürecini derinlemesine inceledi. Nixon, siber güvenlik dünyasında tanınmış bir isim ve bu tür tehditlerle ilk kez karşılaşmıyor. Ancak bu kez tehditler daha ciddiydi ve buna uygun olarak daha kapsamlı bir araştırma başlatıldı. Nixon, bu kişilere karşı yasal yollara başvurmanın yanı sıra, siber güvenlik topluluğundan da destek aldı. Nihayetinde, bu tehditlerin peşine düşen ekipler, saldırganların izini sürerek tehditlerin kaynağını belirlemeye çalıştı. Bu olay, siber güvenlik alanındaki tehlikelerin ve bu tür tehditlerin ciddiyetinin bir kez daha altını çizdi. \n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/16/1132526/allison-nixon-hackers-security-researcher/",
+            "date": "2026-02-16T13:22:28.828521",
+            "timestamp": 1771248148.82853
+        },
         {
             "title": "Lösemide Protein Yıkımını Hedefleyen Moleküler Yapıştırıcıların Sistematik Keşfi",
             "original_title": "Systematic Discovery of Molecular Glues Targets Protein Degradation in Leukemia",
@@ -490,26 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/02/260210040605.htm",
             "date": "2026-02-11T07:15:04.774955",
             "timestamp": 1770794104.774966
-        },
-        {
-            "title": "Lilly, Kanser ve Bağışıklık Sistemi Anlaşmalarıyla 11,25 Milyar Dolara İmza Attı",
-            "original_title": "Beyond Obesity: Lilly Inks Up to $11.25B in Cancer, Immune System Deals",
-            "content": "Eli Lilly, metabolik bozukluklar dışındaki alanlarda da güçlü bir varlık göstermek amacıyla 11,25 milyar dolara varan değerde kanser ve bağışıklık sistemi anlaşmalarına imza attı. Bu anlaşmalar, Lilly'nin baş bilim ve ürün sorumlusu ve Lilly Araştırma Laboratuvarları başkanı Daniel Skovronsky'nin, Lilly'nin metabolik bozuklukların ötesinde bir portföy oluşturmak için önemli bir sermaye harcamaya hazır olduğunu analistlerle paylaşmasından bir hafta sonra geldi. Geçtiğimiz yıl, Lilly, tirzepatid adlı dual-aksiyonlu glukagon benzeri peptid reseptör 1 (GLP-1) ve glukoz bağımlı insulinotropik polipeptid (GIP) ilacı ile diyabette Mounjaro® ve obezitede Zepbound® markası altında toplamda 36,507 milyar dolarlık satış gerçekleştirdi.\n\nKaynak:\nGEN – Genetic Engineering and Biotechnology News. (tarih). Beyond Obesity: Lilly Inks Up to $11.25B in Cancer, Immune System Deals. Erişim adresi: https://www.genengnews.com/topics/translational-medicine/beyond-obesity-lilly-inks-up-to-11-25b-in-cancer-immune-system-deals/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/beyond-obesity-lilly-inks-up-to-11-25b-in-cancer-immune-system-deals/",
-            "date": "2026-02-11T03:17:58.009622",
-            "timestamp": 1770779878.009633
-        },
-        {
-            "title": "Omega Bio-tek, SLAS 2026'da Otomasyon ve İş Birlikleriyle Dikkat Çekiyor",
-            "original_title": "Automated Workflows and Partnerships Lead Omega Bio-tek’s SLAS 2026 Announcements",
-            "content": "Omega Bio‑tek, SLAS 2026 etkinliğinde, teknoloji ortaklarıyla birlikte geliştirdiği yeni otomasyon uyumlu DNA ve plazmid saflaştırma iş akışlarını tanıttı. Bu girişimler, mevcut darboğazlarla başa çıkmayı hedefleyen ve ölçeklenebilir ekstraksiyon yöntemlerine doğru genişleyen bir eğilimi yansıtıyor. Şirket, bu yeniliklerle laboratuvar süreçlerinin daha verimli hale gelmesini ve daha hızlı sonuçlar elde edilmesini amaçlıyor. \n\nOmega Bio-tek’in geliştirdiği bu yeni çözümler, biyoteknoloji alanında sıkça karşılaşılan zorluklara yönelik pratik çözümler sunuyor. Otomasyon ve iş birlikleri, özellikle büyük ölçekli araştırma projelerinde zaman ve maliyet tasarrufu sağlıyor. Bu yenilikler, DNA ve plazmid saflaştırma süreçlerinde kullanılan geleneksel yöntemlerin yerini alarak, araştırmacılara daha fazla esneklik ve hız kazandırıyor.\n\nGünümüzde biyoteknoloji ve genetik mühendisliği alanlarında otomasyonun önemi giderek artmakta. Omega Bio-tek'in bu alandaki yenilikçi yaklaşımı, sektördeki diğer şirketler için de örnek teşkil ediyor. Şirketin yeni iş akışları, sadece mevcut sorunlara çözüm sunmakla kalmıyor, aynı zamanda gelecekteki ihtiyaçlara da yanıt verebilecek bir esneklik sağlıyor.\n\nOmega Bio-tek'in SLAS 2026'da yaptığı bu önemli duyurular, biyoteknoloji sektöründeki dinamikleri değiştirebilecek potansiyele sahip. Bu tür iş birlikleri ve teknolojik ilerlemeler, bilimsel araştırmaların hızını ve doğruluğunu artırarak, daha etkili sonuçlar elde edilmesine olanak tanıyor.\n\nKaynakça:\nGEN – Genetic Engineering and Biotechnology News. (2023). Automated Workflows and Partnerships Lead Omega Bio-tek’s SLAS 2026 Announcements. https://www.genengnews.com/topics/bioprocessing/automated-workflows-and-partnerships-lead-omega-bio-teks-slas-2026-announcements/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/bioprocessing/automated-workflows-and-partnerships-lead-omega-bio-teks-slas-2026-announcements/",
-            "date": "2026-02-11T03:18:05.927571",
-            "timestamp": 1770779885.92758
         }
     ]
 }
