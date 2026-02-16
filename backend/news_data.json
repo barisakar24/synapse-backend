@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-16T18:57:25.914491",
+    "last_updated": "2026-02-16T21:38:15.654527",
     "daily_news": {
-        "title": "Yapay Zekâ Destekli Protez Kollar için 'Goldilocks' Hızını Bulmak",
-        "original_title": "Finding the “Goldilocks” Speed for AI-Powered Artificial Limbs",
-        "content": "Yeni araştırmalar, yapay zekâ ile güçlendirilmiş robotik bir kolun vücudun bir parçası gibi hissedilmesi için, çok belirgin, insana benzer bir hızda hareket etmesi gerektiğini ortaya koyuyor. Yapay uzuvların kullanıcıları üzerinde yapılan incelemeler, kolun hızının, doğal bir uzuv gibi hissettirilmesi adına kritik bir öneme sahip olduğunu gösteriyor. \n\nAraştırmacılar, bu tür kol hareketlerinin beyin tarafından daha kolay kabul edilebilmesi için hareket hızının ne çok hızlı ne de çok yavaş olması gerektiğini belirtiyor. Bu 'Goldilocks' hızı, kullanıcının protezi daha doğal bir şekilde benimsemesine ve günlük aktivitelerinde daha etkin bir şekilde kullanmasına olanak tanıyor.\n\nÇalışmada, katılımcılar farklı hızlarda hareket eden yapay kolları denemiş ve hız ile kullanıcı memnuniyeti arasındaki ilişki incelenmiştir. Sonuçlar, belirli bir hız aralığının, kullanıcıların kolu daha fazla benimsemesine ve kontrol etmesine yardımcı olduğunu göstermiştir. \n\nYapay uzuv kullanıcıları için bu tür gelişmeler, günlük yaşam kalitesini artırma potansiyeline sahip. Doğru hızın bulunması, protezlerin daha geniş bir kullanıcı kitlesine erişimini ve kabulünü kolaylaştırabilir.\n\nAPA Formatında Kaynak: Neuroscience News. (2023). Finding the “Goldilocks” Speed for AI-Powered Artificial Limbs. https://neurosciencenews.com/robotic-arm-speed-embodiment-30121/",
+        "title": "Erken Yaşta Beslenme Alışkanlıkları Yıllar Sonra Zekayı Şekillendiriyor",
+        "original_title": "Early Life Diets Quietly Shape IQ Years Later",
+        "content": "Yeni araştırmalar, bir çocuğun erken yaşlardaki beslenme alışkanlıklarının, ilkokul dönemindeki IQ seviyesini tahmin edebileceğini ortaya koyuyor. Çalışma, özellikle ultra işlenmiş gıdaların bu süreçteki en büyük etken olduğunu belirtiyor. Erken çocukluk döneminde tüketilen besinlerin kalitesi, beyin gelişimini ve dolayısıyla bilişsel yetenekleri doğrudan etkiliyor. İşlenmemiş taze gıdalar, beyin gelişimini olumlu yönde etkilerken, ultra işlenmiş gıdaların ise bu süreçte olumsuz etkileri olduğu saptanmıştır. Bu bağlamda, çocukların erken yaşlarda sağlıklı ve besleyici gıdalarla beslenmesinin, ileriki yaşlarda zeka düzeylerini olumlu yönde etkileyebileceği belirtilmektedir. \n\nKaynak: Neuroscience News",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/robotic-arm-speed-embodiment-30121/",
-        "date": "2026-02-16T18:57:24.919954",
-        "timestamp": 1771268244.919964
+        "link": "https://neurosciencenews.com/toddler-diet-iq-cognition-30124/",
+        "date": "2026-02-16T21:38:14.799483",
+        "timestamp": 1771277894.799492
     },
     "news_list": [
+        {
+            "title": "Bazı İnsanlar Neden Yapay Zeka Görsellerini Daha İyi Tespit Ediyor?",
+            "original_title": "Why Some People Are Naturally Better at Detecting AI Images",
+            "content": "Yapay zekanın oluşturduğu görselleri ayırt edebileceğinizi mi düşünüyorsunuz? Bu, bilgisayar becerilerinizle hiçbir ilgisi olmayabilir. Yeni bir araştırma, nesneleri tanıma konusundaki doğal yeteneğinizin, yapay zeka ile oluşturulmuş görselleri fark etmenizin sırrı olduğunu ortaya koyuyor. \n\nGünümüzde yapay zeka, gerçekçi görseller ve hatta videolar oluşturabilme kapasitesine sahip. 'Deepfake' olarak bilinen bu tür içerikler, giderek daha inandırıcı hale geliyor. Ancak bazı insanlar, bu yapay içerikleri diğerlerinden daha iyi ayırt edebiliyor. Yeni bir çalışma, bu yeteneğin bilgisayar veya teknoloji bilgisiyle değil, kişinin nesne tanıma konusundaki doğal yeteneğiyle ilgili olduğunu gösteriyor.\n\nAraştırmacılar, farklı bireylerin nesne tanıma yeteneklerini inceledi ve bu yeteneklerin yapay zeka ile oluşturulmuş görselleri ayırt etme becerisiyle nasıl ilişkilendirildiğini araştırdı. Sonuçlar, nesneleri tanımada doğal olarak daha iyi olan kişilerin, AI tarafından oluşturulmuş görselleri daha kolay tespit edebildiğini ortaya koydu.\n\nBu bulgular, eğitim ve öğretim yöntemlerinde de önemli değişiklikler yapılabileceğine işaret ediyor. Teknoloji ve yapay zeka eğitimi, artık sadece teknik becerilere odaklanmak yerine, bireylerin doğal algılama yeteneklerini geliştirmeye yönelik olabilir.\n\nAPA Kaynak: Neuroscience News. (2023). Why Some People Are Naturally Better at Detecting AI Images. https://neurosciencenews.com/ai-detection-object-recognition-30125/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/ai-detection-object-recognition-30125/",
+            "date": "2026-02-16T21:38:10.390485",
+            "timestamp": 1771277890.390497
+        },
+        {
+            "title": "Erken Yaşta Beslenme Alışkanlıkları Yıllar Sonra Zekayı Şekillendiriyor",
+            "original_title": "Early Life Diets Quietly Shape IQ Years Later",
+            "content": "Yeni araştırmalar, bir çocuğun erken yaşlardaki beslenme alışkanlıklarının, ilkokul dönemindeki IQ seviyesini tahmin edebileceğini ortaya koyuyor. Çalışma, özellikle ultra işlenmiş gıdaların bu süreçteki en büyük etken olduğunu belirtiyor. Erken çocukluk döneminde tüketilen besinlerin kalitesi, beyin gelişimini ve dolayısıyla bilişsel yetenekleri doğrudan etkiliyor. İşlenmemiş taze gıdalar, beyin gelişimini olumlu yönde etkilerken, ultra işlenmiş gıdaların ise bu süreçte olumsuz etkileri olduğu saptanmıştır. Bu bağlamda, çocukların erken yaşlarda sağlıklı ve besleyici gıdalarla beslenmesinin, ileriki yaşlarda zeka düzeylerini olumlu yönde etkileyebileceği belirtilmektedir. \n\nKaynak: Neuroscience News",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/toddler-diet-iq-cognition-30124/",
+            "date": "2026-02-16T21:38:14.799483",
+            "timestamp": 1771277894.799492
+        },
         {
             "title": "Duyma Kaybı ile Demans Arasındaki Sinirsel Bağlantı Keşfedildi",
             "original_title": "Identifying the Neural Link Between Hearing Loss and Dementia",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/ai-animal-behavior-30091/",
             "date": "2026-02-12T02:56:56.649216",
             "timestamp": 1770865016.649223
-        },
-        {
-            "title": "Kırmızı Hat Üzerinde Robotlar: SLAS 2026'dan Video Güncelleme",
-            "original_title": "Robots on the Red Line: A Video Update from SLAS 2026",
-            "content": "Boston'daki SLAS etkinliğinde, Julianna LeMieux ve Uduak Thomas otomasyonun öne çıkanlarını, ana konuşma içgörülerini, omik oturumlarını, büyük duyuruları ve oturumlardan, fuar alanından ve kahve molalarından uzaklaştıktan sonra elde ettikleri çıkarımları özetledi.\n\nSLAS 2026 etkinliği, bilim ve teknoloji dünyasının son yeniliklerini gözler önüne serdi. Otomasyon alanındaki gelişmeler, etkinliğin en dikkat çeken konularından biri oldu. Julianna LeMieux ve Uduak Thomas, etkinlik boyunca katıldıkları oturumlar, gördükleri teknolojik yenilikler ve duydukları önemli açıklamalar hakkında detaylı bir video güncellemesi sundu.\n\nEtkinliğin ana teması olan robotik ve otomasyon, laboratuvar süreçlerinin nasıl daha verimli hale getirilebileceği konusunda yeni perspektifler sundu. Katılımcılar, robotların laboratuvarlarda nasıl kullanılabileceğini ve bu teknolojilerin araştırma süreçlerini nasıl hızlandırabileceğini tartıştı.\n\nÖzellikle omikler alanındaki sunumlar, genetik mühendisliği ve biyoteknoloji alanında çığır açan yenilikleri ortaya koydu. Bu oturumlar, katılımcılara genetik araştırmaların geleceği hakkında derinlemesine bilgiler sundu.\n\nEtkinlik sırasında yapılan önemli duyurular arasında, yeni otomasyon sistemlerinin tanıtımı ve bu sistemlerin laboratuvar ortamlarına entegrasyonu üzerine yapılan çalışmalar yer aldı. Bu yenilikler, araştırmaların daha hızlı ve daha doğru bir şekilde yürütülmesine olanak tanıyacak.\n\nSonuç olarak, SLAS 2026 etkinliği, bilim ve teknoloji alanında bir dönüm noktası olma niteliği taşıdı. Katılımcılar, etkinlikte elde ettikleri bilgilerle gelecekteki araştırmalarına yön vermeyi planlıyorlar.\n\nKaynakça:\nGEN - Genetic Engineering and Biotechnology News. (2026). Robots on the Red Line: A Video Update from SLAS 2026. https://www.genengnews.com/multimedia/videos/robots-on-the-red-line-a-video-update-from-slas-2026/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/multimedia/videos/robots-on-the-red-line-a-video-update-from-slas-2026/",
-            "date": "2026-02-12T02:57:06.805721",
-            "timestamp": 1770865026.805727
-        },
-        {
-            "title": "Güvenli Bir Yapay Zeka Asistanı Mümkün mü?",
-            "original_title": "Is a secure AI assistant possible?",
-            "content": "Yapay zeka (YZ) ajanları riskli bir iştir. Sohbet penceresi içinde sıkışıp kaldıklarında bile, büyük dil modelleri (LLM'ler) hatalar yapabilir ve kötü davranabilir. Dış dünya ile etkileşim kurabilecekleri araçlara, örneğin web tarayıcıları ve e-posta adreslerine, sahip olduklarında bu hataların sonuçları çok daha ciddi hale gelir. Bu durum, neden YZ sistemlerinin daha güvenli hale getirilmesi gerektiğini açıklayabilir. \n\nYZ asistanlarının güvenliğini sağlamak, teknolojinin hızlı ilerlemesi nedeniyle giderek daha önemli hale geliyor. Geliştiriciler, YZ'nin sadece doğru ve güvenilir bilgiler sağlamasını değil, aynı zamanda kullanıcıların gizliliğini korumasını ve yanlış kullanımlarını önlemesini de sağlamalıdır. Bununla birlikte, YZ'nin dış dünya ile etkileşim kurabilmesi için gereken araçlar, potansiyel riskleri artırabilir. \n\nBu risklerin başında, YZ'nin yanlış bilgi vermesi veya kötü niyetli kişiler tarafından manipüle edilmesi geliyor. Örneğin, bir YZ asistanı, yanlış bir bilgi verdiğinde veya bir siber saldırgan tarafından yönlendirildiğinde, ciddi sonuçlar doğurabilir. Bu nedenle, YZ sistemlerinin doğru bir şekilde eğitilmesi ve sürekli olarak denetlenmesi önemlidir. \n\nSonuç olarak, yapay zeka asistanlarının güvenliğini sağlamak, hem geliştiriciler hem de kullanıcılar için bir öncelik olmalıdır. Bu alanda yapılacak çalışmalar, YZ'nin daha etkili ve güvenilir bir şekilde kullanılmasına olanak tanıyacaktır.\n\nKaynak: MIT Technology Review.",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/",
-            "date": "2026-02-11T21:41:16.969594",
-            "timestamp": 1770846076.969602
         }
     ]
 }
