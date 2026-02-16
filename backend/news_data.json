@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-16T15:52:18.964871",
+    "last_updated": "2026-02-16T18:57:25.914491",
     "daily_news": {
-        "title": "Alzheimer İçin İlk Hücre Tipi Spesifik Gen Haritası Yeni Analiz Yöntemiyle Oluşturuldu",
-        "original_title": "First Cell‑Type Gene Map for Alzheimer’s Built with New Analysis Method",
-        "content": "Araştırmacılar, Alzheimer hastalığı için hücre tipi spesifik ilk gen düzenleyici ağ haritasını oluşturmak amacıyla SIGNET adlı bir makine öğrenme çerçevesi kullandı. Bu harita, farklı beyin hücresi türleri arasında genlerin birbirlerini nasıl nedensel olarak düzenlediğini göstermektedir.\n\nÇalışmanın amacı, Alzheimer hastalığının anlaşılmasına katkıda bulunmak ve potansiyel tedavi yolları keşfetmektir. SIGNET, gen etkileşimlerini hücre tipi bazında analiz ederek daha önce elde edilemeyen detaylı veriler sağlamaktadır. Bu yöntem, beyin hücrelerinin genetik aktivitelerini ve bu aktivitelerin hastalık üzerindeki etkilerini daha iyi anlamaya yardımcı olmaktadır.\n\nSIGNET, gen düzenleyici ağları oluşturmak için geniş veri setlerini ve biyolojik bilgileri birleştiren gelişmiş bir algoritma kullanır. Bu, Alzheimer gibi karmaşık hastalıkların altında yatan moleküler mekanizmaları çözmek için önemli bir adım olarak kabul edilmektedir.\n\nKaynak:\nGEN – Genetic Engineering and Biotechnology News. (tarih). First Cell‑Type Gene Map for Alzheimer’s Built with New Analysis Method. https://www.genengnews.com/topics/translational-medicine/first-cell-type-gene-map-for-alzheimers-built-with-new-analysis-method/",
+        "title": "Yapay Zekâ Destekli Protez Kollar için 'Goldilocks' Hızını Bulmak",
+        "original_title": "Finding the “Goldilocks” Speed for AI-Powered Artificial Limbs",
+        "content": "Yeni araştırmalar, yapay zekâ ile güçlendirilmiş robotik bir kolun vücudun bir parçası gibi hissedilmesi için, çok belirgin, insana benzer bir hızda hareket etmesi gerektiğini ortaya koyuyor. Yapay uzuvların kullanıcıları üzerinde yapılan incelemeler, kolun hızının, doğal bir uzuv gibi hissettirilmesi adına kritik bir öneme sahip olduğunu gösteriyor. \n\nAraştırmacılar, bu tür kol hareketlerinin beyin tarafından daha kolay kabul edilebilmesi için hareket hızının ne çok hızlı ne de çok yavaş olması gerektiğini belirtiyor. Bu 'Goldilocks' hızı, kullanıcının protezi daha doğal bir şekilde benimsemesine ve günlük aktivitelerinde daha etkin bir şekilde kullanmasına olanak tanıyor.\n\nÇalışmada, katılımcılar farklı hızlarda hareket eden yapay kolları denemiş ve hız ile kullanıcı memnuniyeti arasındaki ilişki incelenmiştir. Sonuçlar, belirli bir hız aralığının, kullanıcıların kolu daha fazla benimsemesine ve kontrol etmesine yardımcı olduğunu göstermiştir. \n\nYapay uzuv kullanıcıları için bu tür gelişmeler, günlük yaşam kalitesini artırma potansiyeline sahip. Doğru hızın bulunması, protezlerin daha geniş bir kullanıcı kitlesine erişimini ve kabulünü kolaylaştırabilir.\n\nAPA Formatında Kaynak: Neuroscience News. (2023). Finding the “Goldilocks” Speed for AI-Powered Artificial Limbs. https://neurosciencenews.com/robotic-arm-speed-embodiment-30121/",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/translational-medicine/first-cell-type-gene-map-for-alzheimers-built-with-new-analysis-method/",
-        "date": "2026-02-16T15:52:18.964818",
-        "timestamp": 1771257138.964827
+        "link": "https://neurosciencenews.com/robotic-arm-speed-embodiment-30121/",
+        "date": "2026-02-16T18:57:24.919954",
+        "timestamp": 1771268244.919964
     },
     "news_list": [
+        {
+            "title": "Duyma Kaybı ile Demans Arasındaki Sinirsel Bağlantı Keşfedildi",
+            "original_title": "Identifying the Neural Link Between Hearing Loss and Dementia",
+            "content": "Bilim insanları, işitme kaybının neden bilişsel gerilemeye yol açtığını açıklayan biyolojik 'köprüyü' keşfettiler ve bunun beyinlerimizin yapısını nasıl değiştirdiğini ortaya koydular. İşitme kaybı, beynin belirli bölgelerinde yapısal değişikliklere neden olarak bilişsel işlevlerin bozulmasına yol açabilir. Bu yeni bulgular, işitme kaybı ile demans arasındaki bağlantıyı anlamak için önemli bir adım olarak değerlendiriliyor. Araştırmacılar, işitme kaybının önlenmesi veya tedavi edilmesi durumunda bilişsel gerilemenin yavaşlatılabileceğini veya engellenebileceğini öne sürüyorlar. Bu da işitme sağlığının korunmasının, genel beyin sağlığı için ne kadar önemli olduğunu bir kez daha gözler önüne seriyor.\n\nKaynak: Neuroscience News. (2023). Identifying the Neural Link Between Hearing Loss and Dementia. https://neurosciencenews.com/hearing-loss-cognitive-decline-30122/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/hearing-loss-cognitive-decline-30122/",
+            "date": "2026-02-16T18:57:13.344197",
+            "timestamp": 1771268233.344207
+        },
+        {
+            "title": "Yapay Zekâ Destekli Protez Kollar için 'Goldilocks' Hızını Bulmak",
+            "original_title": "Finding the “Goldilocks” Speed for AI-Powered Artificial Limbs",
+            "content": "Yeni araştırmalar, yapay zekâ ile güçlendirilmiş robotik bir kolun vücudun bir parçası gibi hissedilmesi için, çok belirgin, insana benzer bir hızda hareket etmesi gerektiğini ortaya koyuyor. Yapay uzuvların kullanıcıları üzerinde yapılan incelemeler, kolun hızının, doğal bir uzuv gibi hissettirilmesi adına kritik bir öneme sahip olduğunu gösteriyor. \n\nAraştırmacılar, bu tür kol hareketlerinin beyin tarafından daha kolay kabul edilebilmesi için hareket hızının ne çok hızlı ne de çok yavaş olması gerektiğini belirtiyor. Bu 'Goldilocks' hızı, kullanıcının protezi daha doğal bir şekilde benimsemesine ve günlük aktivitelerinde daha etkin bir şekilde kullanmasına olanak tanıyor.\n\nÇalışmada, katılımcılar farklı hızlarda hareket eden yapay kolları denemiş ve hız ile kullanıcı memnuniyeti arasındaki ilişki incelenmiştir. Sonuçlar, belirli bir hız aralığının, kullanıcıların kolu daha fazla benimsemesine ve kontrol etmesine yardımcı olduğunu göstermiştir. \n\nYapay uzuv kullanıcıları için bu tür gelişmeler, günlük yaşam kalitesini artırma potansiyeline sahip. Doğru hızın bulunması, protezlerin daha geniş bir kullanıcı kitlesine erişimini ve kabulünü kolaylaştırabilir.\n\nAPA Formatında Kaynak: Neuroscience News. (2023). Finding the “Goldilocks” Speed for AI-Powered Artificial Limbs. https://neurosciencenews.com/robotic-arm-speed-embodiment-30121/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/robotic-arm-speed-embodiment-30121/",
+            "date": "2026-02-16T18:57:24.919954",
+            "timestamp": 1771268244.919964
+        },
         {
             "title": "Beyin İltihabı, Takıntılı Davranışların Anahtarı Olabilir",
             "original_title": "Brain inflammation may be driving compulsive behavior",
@@ -490,26 +510,6 @@
             "link": "https://www.technologyreview.com/2026/02/11/1132768/is-a-secure-ai-assistant-possible/",
             "date": "2026-02-11T21:41:16.969594",
             "timestamp": 1770846076.969602
-        },
-        {
-            "title": "Eski Epilepsi İlacı Alzheimer'da Erken Plak Oluşumunu Önleyebilir",
-            "original_title": "Anti-Epileptic Drug May Prevent Early Plaque Formation in Alzheimer’s Disease",
-            "content": "Bilim insanları, Alzheimer hastalarının beyninde toksik proteinlerin ne zaman ve nerede biriktiğini belirledikleri bir preklinik çalışmada, yıllar öncesine dayanan bir anti-epileptik ilaç olan levetirasetamın, bu birikim sürecini başlamadan durdurabileceğini keşfettiler. Araştırma, Alzheimer hastalığının erken evrelerinde beyinde plak oluşumuna yol açan protein birikimini hedef alıyor. Bu buluş, Alzheimer tedavisinde yeni yaklaşımlar geliştirilmesine yardımcı olabilir ve hastalığın ilerlemesini yavaşlatmak için umut vaat ediyor. Levetirasetamın, nöbetleri kontrol etmede kullanılan bir ilaç olmasına rağmen, bu yeni kullanım alanı, ilacın beyin üzerindeki etkilerini yeniden değerlendirme gerekliliğini ortaya koyuyor. Araştırmacılar, ilacın Alzheimer hastalığının başlangıç aşamasında kullanılmasının, hastalığın ilerlemesini durdurabileceğini öne sürüyorlar. Çalışmanın sonuçları, Alzheimer tedavisinde yeni stratejiler geliştirilmesi için bir temel oluşturabilir ve bu alanda daha fazla araştırma yapılmasına olanak tanıyabilir. Bu gelişme, Alzheimer hastalığına karşı mücadelede önemli bir adım olarak değerlendiriliyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (tarih). Anti-Epileptic Drug May Prevent Early Plaque Formation in Alzheimer’s Disease. GEN - Genetic Engineering and Biotechnology News. https://www.genengnews.com/topics/drug-discovery/anti-epileptic-drug-may-prevent-early-plaque-formation-in-alzheimers-disease/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/drug-discovery/anti-epileptic-drug-may-prevent-early-plaque-formation-in-alzheimers-disease/",
-            "date": "2026-02-11T21:41:23.294832",
-            "timestamp": 1770846083.294839
-        },
-        {
-            "title": "Araştırma Antikorları ve Reaktif Seçiminde Yeni Dönem: CiteAb Görüntü Arama Aracı",
-            "original_title": "Streamlining Research Antibody and Reagent Selection",
-            "content": "CiteAb'ın yeni görüntü arama aracı, araştırmacılara 850.000'den fazla kırpılmış deneysel görüntüye erişim sağlıyor. Bu görüntüler, 610.000'den fazla protein, 5.000'den fazla hastalık ve 160.000 hücre hattını kapsıyor. Ayrıca, kullanılan reaktifler ve bu bilgilere bağlı yayınlarla doğrudan bağlantılı olarak sunuluyor.\n\nBu gelişme, araştırmacıların antikor ve reaktif seçim süreçlerini hızlandırmak ve daha etkili hale getirmek için önemli bir adım olarak değerlendiriliyor. Görüntü arama aracı, bilim insanlarının spesifik biyolojik hedeflerle ilgili yüksek kaliteli ve doğrulanmış bilgiler elde etmesine olanak tanıyor. Böylece, araştırmaların doğruluğu ve güvenilirliği artırılmış oluyor.\n\nCiteAb'ın sunduğu bu yenilikçi araç, özellikle biyoteknoloji ve genetik mühendisliği alanlarında çalışan bilim insanları için büyük bir avantaj sağlıyor. Araştırmacılar, ilgili protein, hastalık veya hücre hattı ile ilgili görüntüleri hızlı ve kolay bir şekilde bulabilir ve bu bilgilerle desteklenen reaktifleri kullanarak deneylerini daha güvenilir bir şekilde tasarlayabilirler.\n\nGEN - Genetic Engineering and Biotechnology News'te yayınlanan bu haber, görüntü arama aracının sunduğu olanakları ve beklentileri ayrıntılı bir şekilde ele alıyor. Bu yeni teknolojinin, bilimsel araştırmalarda önemli bir fark yaratması bekleniyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). Streamlining research antibody and reagent selection. https://www.genengnews.com/topics/drug-discovery/streamlining-research-antibody-and-reagent-selection/",
-            "category": "Psikoloji",
-            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/drug-discovery/streamlining-research-antibody-and-reagent-selection/",
-            "date": "2026-02-11T21:41:31.444784",
-            "timestamp": 1770846091.444792
         }
     ]
 }
