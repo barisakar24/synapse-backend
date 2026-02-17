@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-02-17T19:08:43.102991",
+    "last_updated": "2026-02-17T21:43:28.524213",
     "daily_news": {
-        "title": "Müzisyenlerin Yüzde 40'ı Tinnitus ve İşitsel Rahatsızlık Yaşıyor",
-        "original_title": "40% of Musicians Suffer from Tinnitus and Auditory Distress",
-        "content": "Müzisyenlerin işitme sağlığı üzerine yapılan kapsamlı bir meta-analiz, 28,000 müzisyeni kapsayan çalışmalardan elde edilen verileri inceleyerek, müzisyenlerin %40'ından fazlasının tinnitus (kulak çınlaması) yaşadığını ortaya koydu. Araştırma, farklı müzik türleri arasında işitme kaybı ve hiperakuzi (seslere karşı aşırı hassasiyet) oranlarının da yüksek olduğunu gösteriyor. \n\nTinnitus, genellikle sürekli veya aralıklı olarak kulakta duyulan çınlama, uğultu veya vızıltı sesleri olarak tanımlanır. Müzisyenler, yüksek ses seviyelerine sürekli maruz kalmaları nedeniyle bu tür işitsel rahatsızlıklara daha yatkındır. Araştırmacılar, uzun süreli yüksek sesli müzik performanslarının ve provalarının, müzisyenlerin işitme sağlığını olumsuz etkileyebileceğini belirtiyor.\n\nBu bulgular, müzisyenlerin işitme sağlığını korumak için önlem almaları gerektiğini vurguluyor. İşitme koruyucu ekipmanların kullanımı, düzenli işitme testleri ve ses seviyelerinin kontrol altında tutulması, müzisyenlerin işitme sağlığını korumak için önerilen adımlar arasında yer alıyor.\n\nKaynak: Neuroscience News, 2026",
+        "title": "Alzheimer Tedavisinde Beyin Şişmesi: Başarı Habercisi mi?",
+        "original_title": "Brain Swelling Reveals Alzheimer’s Treatment Success",
+        "content": "Alzheimer hastalarının en çok korktuğu yan etki, aslında tedavinin başarısının bir işareti olabilir. Yeni araştırmalar, beyin şişmesinin plak temizliğinin daha iyi olmasıyla bağlantılı olduğunu gösteriyor. Araştırmacılar, Alzheimer’s hastalığı tedavisinde beyin şişmesinin, tedavinin etkinliğinin bir kanıtı olabileceğini belirtiyorlar. Beyin şişmesinin, zararlı plakların beyinden daha etkili bir şekilde temizlendiğine dair bir gösterge olabileceği düşünülüyor. Bu durum, Alzheimer tedavilerinin etkinliğini artırmak için yeni stratejilerin geliştirilmesine katkı sağlayabilir. \n\nKaynak: Neuroscience News. (2023). Brain Swelling Reveals Alzheimer’s Treatment Success. Retrieved from https://neurosciencenews.com/alzheimers-treatment-brain-swelling-30135/",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/musician-tinnitus-auditory-neuroscience-30132/",
-        "date": "2026-02-17T19:08:34.007686",
-        "timestamp": 1771355314.007695
+        "link": "https://neurosciencenews.com/alzheimers-treatment-brain-swelling-30135/",
+        "date": "2026-02-17T21:43:13.535726",
+        "timestamp": 1771364593.535734
     },
     "news_list": [
+        {
+            "title": "Beyin Yaşlandıkça da Duygusal Olarak Gelişebilir",
+            "original_title": "Brain Never Outgrows the Ability to Emotionally Evolve",
+            "content": "Yaşlandıkça değişemeyeceğinizi mi düşünüyorsunuz? Tekrar düşünün. Yeni bir çalışma, 80 yaşındaki bireylerin duygusal istikrarlarını 20 yaşındaki bireyler kadar etkili bir şekilde geliştirebileceklerini kanıtladı.\n\nYaşlanmanın, kişilik ve duygusal gelişim üzerinde sınırlayıcı etkileri olduğuna dair yaygın bir inanç vardır. Ancak, son araştırmalar, yaş ilerledikçe bile beynin duygusal olarak evrim geçirme kapasitesine sahip olduğunu gösteriyor. Bu bulgular, kişisel gelişim ve ruh sağlığı açısından önemli sonuçlar doğurabilir.\n\nÇalışma, farklı yaş gruplarındaki bireylerin duygusal tepkilerini ve gelişim süreçlerini karşılaştırarak, yaşlı bireylerin gençlerle benzer seviyelerde duygusal iyileşme ve gelişim gösterebildiklerini ortaya koydu. Bu, beyin plastisitesinin yaşam boyu sürdüğünü ve yaşa bakılmaksızın duygusal gelişim için fırsatlar sunduğunu gösteriyor.\n\nAraştırmanın bulguları, yaşlanmanın sadece fiziksel değişikliklerle sınırlı olmadığını, aynı zamanda duygusal ve psikolojik değişikliklere de açık olduğunu ortaya koyuyor. Bu, yaşlı bireyler için daha iyi ruh sağlığı ve yaşam kalitesi anlamına gelebilir. \n\nKaynak: Neuroscience News. (2023). Brain Never Outgrows the Ability to Emotionally Evolve. https://neurosciencenews.com/personality-psychology-aging-growth-30136/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/personality-psychology-aging-growth-30136/",
+            "date": "2026-02-17T21:43:08.590104",
+            "timestamp": 1771364588.590114
+        },
+        {
+            "title": "Alzheimer Tedavisinde Beyin Şişmesi: Başarı Habercisi mi?",
+            "original_title": "Brain Swelling Reveals Alzheimer’s Treatment Success",
+            "content": "Alzheimer hastalarının en çok korktuğu yan etki, aslında tedavinin başarısının bir işareti olabilir. Yeni araştırmalar, beyin şişmesinin plak temizliğinin daha iyi olmasıyla bağlantılı olduğunu gösteriyor. Araştırmacılar, Alzheimer’s hastalığı tedavisinde beyin şişmesinin, tedavinin etkinliğinin bir kanıtı olabileceğini belirtiyorlar. Beyin şişmesinin, zararlı plakların beyinden daha etkili bir şekilde temizlendiğine dair bir gösterge olabileceği düşünülüyor. Bu durum, Alzheimer tedavilerinin etkinliğini artırmak için yeni stratejilerin geliştirilmesine katkı sağlayabilir. \n\nKaynak: Neuroscience News. (2023). Brain Swelling Reveals Alzheimer’s Treatment Success. Retrieved from https://neurosciencenews.com/alzheimers-treatment-brain-swelling-30135/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/alzheimers-treatment-brain-swelling-30135/",
+            "date": "2026-02-17T21:43:13.535726",
+            "timestamp": 1771364593.535734
+        },
+        {
+            "title": "Pankreas Kanseri Hücreleri, ECM'yi Algılayarak Büyüme ve Otrofaji Arasında Geçiş Yapıyor",
+            "original_title": "Pancreatic Cancer Cells Sense ECM to Switch Between Growth and Autophagy",
+            "content": "Araştırmacılar, pankreas kanseri hücrelerinin, ekstraselüler matris (ECM) bileşenlerini algılayarak otrofaji seviyelerini düzenlediğini keşfettiler. Bu düzenleme, hücrelerin hızla çoğalmasını veya hayatta kalmayı tercih etmesini sağlıyor ve bu da kemoterapiye karşı direncin artmasına yol açabiliyor.\n\nPankreas kanseri, yüksek ölüm oranlarıyla bilinen ve teşhis edilmesi zor bir kanser türüdür. Son araştırmalar, kanser hücrelerinin çevrelerindeki mikroyapıyı nasıl algıladıklarını ve buna nasıl tepki verdiklerini anlamanın, hastalığın ilerlemesini durdurmada önemli bir adım olabileceğini gösteriyor. ECM, hücrelerin etrafını saran ve bir nevi destek yapısı sağlayan bir ağdır. Bu matrisin bileşenleri, hücrelerin davranışını doğrudan etkileyebilir.\n\nPankreas kanseri hücrelerinin ECM'yi algılayarak büyüme ve otrofaji arasında geçiş yapma yeteneği, bu hücrelerin çevresel değişikliklere hızlı bir şekilde uyum sağlamasına olanak tanır. Otrofaji, hücrelerin kendi iç yapılarını sindirerek stres koşullarında hayatta kalmalarını sağlayan bir süreçtir. Bu süreç, özellikle besin eksikliği veya kemoterapi gibi zorlayıcı durumlarda devreye girerek hücrelerin hayatta kalmasına yardımcı olur.\n\nBu bulgular, pankreas kanseri tedavisinde yeni stratejilerin geliştirilmesine katkıda bulunabilir. Özellikle ECM ile etkileşimi hedef alarak, kanser hücrelerinin kemoterapiye karşı geliştirdiği direnci kırmak mümkün olabilir. Bu da tedavi yöntemlerinin etkinliğini artırabilir ve hastaların yaşam süresini uzatabilir.\n\nAraştırmanın sonuçları, pankreas kanseri ile mücadelede ECM'nin rolünü daha iyi anlamamıza yardımcı oluyor ve bu alanda daha fazla araştırma yapılmasının önünü açıyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Pancreatic Cancer Cells Sense ECM to Switch Between Growth and Autophagy. GEN - Genetic Engineering and Biotechnology News. https://www.genengnews.com/topics/cancer/pancreatic-cancer-cells-sense-ecm-to-switch-between-growth-and-autophagy/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/pancreatic-cancer-cells-sense-ecm-to-switch-between-growth-and-autophagy/",
+            "date": "2026-02-17T21:43:28.524175",
+            "timestamp": 1771364608.524183
+        },
         {
             "title": "Beyin, Robotik Protezlerle Hareketi Yanlış Algılıyor",
             "original_title": "Brain’s Body Image Misjudges Robotic Limbs",
@@ -480,36 +510,6 @@
             "link": "https://www.genengnews.com/topics/cancer/antigen-orientation-boosts-hpv-cancer-sna-vaccine-slows-tumors-in-models/",
             "date": "2026-02-13T02:57:11.418958",
             "timestamp": 1770951431.418968
-        },
-        {
-            "title": "Alzheimer’ı Durdurabilecek Yeni Hedef: IDOL Enzimi",
-            "original_title": "New Drug Target Could Freeze Alzheimer’s in Its Tracks",
-            "content": "Yeni araştırmalar, IDOL enziminin Alzheimer hastalığını durdurmada anahtar rol oynayabileceğini ortaya koyuyor. Bu tek hedefi engellemenin, beyin plaklarını çözdüğü ve bilişsel direnci artırdığı gösterilmiştir. Beynin en güçlü risk faktörü proteininin seviyesini düşürerek, bilim insanları, nöronların saldırı altında bile iletişim kurmasını sağlamanın yeni bir yolunu buldular.\n\nAlzheimer hastalığı, dünya genelinde milyonlarca insanı etkileyen nörodejeneratif bir hastalık olarak bilinir. Şu ana kadar, hastalığın kesin bir tedavisi bulunmamakla birlikte, semptomların ilerlemesini yavaşlatan bazı tedavi yöntemleri geliştirilmiştir. Ancak IDOL enzimi üzerine yapılan bu yeni çalışma, hastalığın ilerlemesini tamamen durdurma potansiyeline sahip olabilir.\n\nAraştırmacılar, IDOL enziminin beyindeki belirli bir proteini hedef alarak, bu proteinin seviyesini düşürdüğünü ve böylece beyin plaklarının oluşumunu engellediğini keşfettiler. Bu plaklar, Alzheimer hastalarının beyinlerinde sıkça görülen ve nöronlar arasındaki iletişimi bozan yapılardır. Plakların çözülmesi, nöronların daha sağlıklı bir şekilde iletişim kurmasına olanak tanır ve bilişsel fonksiyonların korunmasına yardımcı olur.\n\nBu bulgular, Alzheimer tedavileri için yeni bir yol açarken, aynı zamanda nörodejeneratif hastalıkların anlaşılmasına da önemli katkılarda bulunmaktadır. Gelecekte, IDOL enzimi hedefli tedavilerin daha fazla araştırılması ve klinik denemelerle test edilmesi bekleniyor.\n\nKaynakça:\nNeuroscience News. (2023). New Drug Target Could Freeze Alzheimer’s in Its Tracks. Erişim adresi: https://neurosciencenews.com/idol-enzyme-alzheimers-target-30099/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/idol-enzyme-alzheimers-target-30099/",
-            "date": "2026-02-12T21:42:05.841017",
-            "timestamp": 1770932525.841031
-        },
-        {
-            "title": "Ömür Boyu Kurşun Maruziyeti Alzheimer Riskini Üçe Katlıyor",
-            "original_title": "Lifetime Lead Exposure Triples Alzheimer’s Risk",
-            "content": "Kurşunun geçmişte kaldığını mı düşünüyorsunuz? Yeni araştırmalar, kemiklerinizde on yıllardır depolanan kurşunun Alzheimer hastalığı riskinizi üç katına çıkarabileceğini gösteriyor. Binlerce yetişkini takip eden bilim insanları, kurşunlu benzin ve boyaya maruz kalmanın, her 5 demans vakasından 1'inin 'sessiz' bir nedeni olduğunu keşfetti. \n\nGeçmişte yaygın olarak kullanılan kurşunlu benzin ve boya, uzun süreli sağlık sorunlarına yol açabilecek ciddi bir etkiye sahip. Araştırmalar, vücutta biriken bu ağır metalin, yıllar sonra bile kemiklerden serbest kalarak beyne ulaşabileceğini ve Alzheimer hastalığının gelişimini tetikleyebileceğini gösteriyor.\n\nBu bulgular, çevresel faktörlerin ve özellikle ağır metallerin nörolojik hastalıklar üzerindeki etkilerini daha iyi anlamamıza yardımcı olabilir. Bilim insanları, kurşuna maruz kalmanın, nörolojik sağlığı nasıl etkilediği konusunda daha fazla araştırma yapılması gerektiğini vurguluyor.\n\nAraştırma, özellikle 1940'lar ve 1970'ler arasında doğmuş olan bireyleri kapsıyor. Bu dönemde kurşunlu benzin ve boya kullanımı zirvedeydi, bu da bu kuşakların daha yüksek risk altında olduğu anlamına geliyor.\n\nSonuç olarak, bu çalışma, kurşunun geçmişte bıraktığımız bir sorun olmadığını ve sağlığımız üzerindeki etkilerinin nesiller boyu sürebileceğini ortaya koyuyor.\n\nKaynak: Neuroscience News. (2023). Lifetime lead exposure triples Alzheimer’s risk. Retrieved from https://neurosciencenews.com/lead-exposure-alzheimers-neurology-30098/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/lead-exposure-alzheimers-neurology-30098/",
-            "date": "2026-02-12T21:42:16.092698",
-            "timestamp": 1770932536.092708
-        },
-        {
-            "title": "Egzersiz, Beyin Aktivitesini Tetikleyerek Farelerde Dayanıklılığı Artırıyor",
-            "original_title": "Exercise Triggers Brain Activity That Helps to Build Endurance in Mice",
-            "content": "Araştırmacılar, fareler üzerinde yaptıkları çalışmalarda, egzersizin kasları güçlendirmekten daha fazlasını yaptığını buldular. Egzersiz, kaslar ve kalplerin daha güçlü hale gelmesine ve dayanıklılık kazanmasına yardımcı olan beyin aktivitesindeki değişiklikleri de içerir.\n\nBu çalışma, farelerin egzersiz sırasında beyin aktivitelerinin nasıl değiştiğini ve bu değişikliklerin kas ve kalp dayanıklılığı üzerinde nasıl olumlu etkiler yarattığını ortaya koyuyor. Egzersizin sadece fiziksel bir süreç olmadığı, aynı zamanda nörolojik bir süreç olduğu ve bu sürecin kas ve kalp dayanıklılığını artırdığı keşfedildi. Bu bulgular, egzersizin sağlık üzerindeki bütünsel etkilerini daha iyi anlamamıza yardımcı olabilir ve gelecekte insan sağlığı için yeni egzersiz programları geliştirilmesine katkı sağlayabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (Tarih). Exercise Triggers Brain Activity That Helps to Build Endurance in Mice. https://www.genengnews.com/topics/translational-medicine/exercise-triggers-brain-activity-that-helps-to-build-endurance-in-mice/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/exercise-triggers-brain-activity-that-helps-to-build-endurance-in-mice/",
-            "date": "2026-02-12T21:42:24.109961",
-            "timestamp": 1770932544.109969
         }
     ]
 }
