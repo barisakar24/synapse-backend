@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-02-17T16:01:14.819014",
+    "last_updated": "2026-02-17T19:08:43.102991",
     "daily_news": {
-        "title": "Epigenom Modeli ile Erken Alzheimer Tanısında Yeni Dönem",
-        "original_title": "Prima Mente Unlocks Early-Stage Alzheimer’s Diagnostics with Epigenome Model",
-        "content": "Yapay zeka modeli Pleiades, epigenomu analiz etmek için noninvaziv kan testlerini kullanarak erken evre nörodejeneratif hastalıkları doğru bir şekilde teşhis ediyor. Bu yöntem, semptomlar ortaya çıkmadan onlarca yıl önce başlayan yaşlanmaya bağlı moleküler değişiklikleri yakalar.\n\nPrima Mente'nin geliştirdiği bu yenilikçi yaklaşım, Alzheimer gibi nörodejeneratif hastalıkların erken teşhisine olanak tanıyarak, tedavi ve yönetim süreçlerinde önemli bir avantaj sağlar. Epigenetik değişikliklerin incelenmesi, hastalığın ilerlemesini yavaşlatacak veya durduracak potansiyel tedavi yollarının belirlenmesine de yardımcı olabilir.\n\nPleiades modeli, kan örneklerinden elde edilen epigenom verilerini analiz ederek, hastalığın moleküler izlerini tanımlar. Bu gelişme, hastaların teşhis ve tedavi süreçlerinde büyük bir dönüşüm yaratabilir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). Prima Mente unlocks early-stage Alzheimer’s diagnostics with epigenome model. https://www.genengnews.com/topics/artificial-intelligence/prima-mente-unlocks-early-stage-alzheimers-diagnostics-with-epigenome-model/",
+        "title": "Müzisyenlerin Yüzde 40'ı Tinnitus ve İşitsel Rahatsızlık Yaşıyor",
+        "original_title": "40% of Musicians Suffer from Tinnitus and Auditory Distress",
+        "content": "Müzisyenlerin işitme sağlığı üzerine yapılan kapsamlı bir meta-analiz, 28,000 müzisyeni kapsayan çalışmalardan elde edilen verileri inceleyerek, müzisyenlerin %40'ından fazlasının tinnitus (kulak çınlaması) yaşadığını ortaya koydu. Araştırma, farklı müzik türleri arasında işitme kaybı ve hiperakuzi (seslere karşı aşırı hassasiyet) oranlarının da yüksek olduğunu gösteriyor. \n\nTinnitus, genellikle sürekli veya aralıklı olarak kulakta duyulan çınlama, uğultu veya vızıltı sesleri olarak tanımlanır. Müzisyenler, yüksek ses seviyelerine sürekli maruz kalmaları nedeniyle bu tür işitsel rahatsızlıklara daha yatkındır. Araştırmacılar, uzun süreli yüksek sesli müzik performanslarının ve provalarının, müzisyenlerin işitme sağlığını olumsuz etkileyebileceğini belirtiyor.\n\nBu bulgular, müzisyenlerin işitme sağlığını korumak için önlem almaları gerektiğini vurguluyor. İşitme koruyucu ekipmanların kullanımı, düzenli işitme testleri ve ses seviyelerinin kontrol altında tutulması, müzisyenlerin işitme sağlığını korumak için önerilen adımlar arasında yer alıyor.\n\nKaynak: Neuroscience News, 2026",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/artificial-intelligence/prima-mente-unlocks-early-stage-alzheimers-diagnostics-with-epigenome-model/",
-        "date": "2026-02-17T16:01:14.818961",
-        "timestamp": 1771344074.818971
+        "link": "https://neurosciencenews.com/musician-tinnitus-auditory-neuroscience-30132/",
+        "date": "2026-02-17T19:08:34.007686",
+        "timestamp": 1771355314.007695
     },
     "news_list": [
+        {
+            "title": "Beyin, Robotik Protezlerle Hareketi Yanlış Algılıyor",
+            "original_title": "Brain’s Body Image Misjudges Robotic Limbs",
+            "content": "Araştırmacılar, robotik protez kullanan kişilerin kendi hareketlerini sürekli olarak yanlış değerlendirdiklerini keşfettiler. Başlangıçta yaşanan gariplikten, zamanla gelişen aşırı özgüvene doğru bir geçiş gözlemleniyor. Bu durum, kullanıcıların hareketlerini kontrol etme ve algılama biçimlerinde önemli değişikliklere yol açabiliyor. Çalışma, protezlerin beyinde nasıl temsil edildiği ve kullanıcının vücut imajını nasıl etkilediği konusundaki yeni anlayışlara ışık tutuyor. Araştırmacılar, bu yanlış algılamaların, protez kullanıcılarının günlük yaşamlarında ve rehabilitasyon süreçlerinde karşılaşabilecekleri zorlukları daha iyi anlamamıza yardımcı olabileceğini belirtiyorlar. Beynin vücut imajı ve hareket kontrolü üzerindeki etkisi, robotik protezlerin daha etkili bir şekilde tasarlanmasına ve kullanıcılar için daha iyi deneyimler sunulmasına katkıda bulunabilir.\n\nKaynak: Neuroscience News (2023). Brain’s Body Image Misjudges Robotic Limbs. Erişim adresi: https://neurosciencenews.com/robotic-prosthetic-body-image-30133/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/robotic-prosthetic-body-image-30133/",
+            "date": "2026-02-17T19:08:25.642760",
+            "timestamp": 1771355305.642769
+        },
+        {
+            "title": "Müzisyenlerin Yüzde 40'ı Tinnitus ve İşitsel Rahatsızlık Yaşıyor",
+            "original_title": "40% of Musicians Suffer from Tinnitus and Auditory Distress",
+            "content": "Müzisyenlerin işitme sağlığı üzerine yapılan kapsamlı bir meta-analiz, 28,000 müzisyeni kapsayan çalışmalardan elde edilen verileri inceleyerek, müzisyenlerin %40'ından fazlasının tinnitus (kulak çınlaması) yaşadığını ortaya koydu. Araştırma, farklı müzik türleri arasında işitme kaybı ve hiperakuzi (seslere karşı aşırı hassasiyet) oranlarının da yüksek olduğunu gösteriyor. \n\nTinnitus, genellikle sürekli veya aralıklı olarak kulakta duyulan çınlama, uğultu veya vızıltı sesleri olarak tanımlanır. Müzisyenler, yüksek ses seviyelerine sürekli maruz kalmaları nedeniyle bu tür işitsel rahatsızlıklara daha yatkındır. Araştırmacılar, uzun süreli yüksek sesli müzik performanslarının ve provalarının, müzisyenlerin işitme sağlığını olumsuz etkileyebileceğini belirtiyor.\n\nBu bulgular, müzisyenlerin işitme sağlığını korumak için önlem almaları gerektiğini vurguluyor. İşitme koruyucu ekipmanların kullanımı, düzenli işitme testleri ve ses seviyelerinin kontrol altında tutulması, müzisyenlerin işitme sağlığını korumak için önerilen adımlar arasında yer alıyor.\n\nKaynak: Neuroscience News, 2026",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/musician-tinnitus-auditory-neuroscience-30132/",
+            "date": "2026-02-17T19:08:34.007686",
+            "timestamp": 1771355314.007695
+        },
+        {
+            "title": "Mikroalg Kaynaklı Ekstraselüler Veziküllerin Yeni Nesil İlaç Taşıma Platformuna Dönüştürülmesi",
+            "original_title": "Turning Microalgae-Derived Extracellular Vesicles Into a Next-Generation Drug Delivery Platform",
+            "content": "<p>AGS, kendi tescilli MEV üretim, yükleme ve analiz süreçlerini INITS'in altyapısında gerçekleştirecektir. AGS, teknoloji, süreçler, ekipman, fikri mülkiyet ve ekipleri üzerinde tam sahiplik ve operasyonel kontrolünü elinde tutmaktadır.</p><p>Mikroalglerden elde edilen ekstraselüler veziküllerin yeni nesil bir ilaç taşıma platformuna dönüştürülmesi üzerine çalışmalar hızla devam ediyor. Bu çalışmalar, biyoteknoloji ve genetik mühendisliği alanında önemli bir adım olarak kabul ediliyor. Mikroalg kaynaklı ekstraselüler veziküller (MEV'ler), potansiyel olarak daha etkili ve hedefe yönelik ilaç taşıma çözümleri sunabilir.</p><p>AGS'nin bu alandaki çalışmaları, mikroalglerin biyolojik avantajlarını kullanarak, ilaç taşıma kapasitesini artırmayı hedefliyor. Bu yeni nesil teknoloji, ilaçların vücutta daha iyi hedeflenmesini ve yan etkilerin azaltılmasını amaçlıyor. AGS, bu süreçte INITS'in sağladığı altyapıyı kullanarak, kendi geliştirdiği MEV üretim ve analiz yöntemlerini uygulamaktadır.</p><p>AGS'nin geliştirdiği bu platformun, ilaç geliştirme süreçlerinde devrim niteliğinde değişiklikler yapması beklenmektedir. Bu yenilikçi yaklaşım, özellikle kanser ve genetik hastalıkların tedavisinde önemli bir rol oynayabilir. AGS'nin bu teknolojiyi ticarileştirme ve yaygınlaştırma sürecindeki adımları yakından takip ediliyor.</p><p>KAYNAK: GEN – Genetic Engineering and Biotechnology News. (2023). Turning Microalgae-Derived Extracellular Vesicles Into a Next-Generation Drug Delivery Platform. Erişim adresi: https://www.genengnews.com/topics/bioprocessing/turning-microalgae-derived-extracellular-vesicles-into-a-next-generation-drug-delivery-platform/</p>",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/turning-microalgae-derived-extracellular-vesicles-into-a-next-generation-drug-delivery-platform/",
+            "date": "2026-02-17T19:08:43.102953",
+            "timestamp": 1771355323.102962
+        },
         {
             "title": "Epigenom Modeli ile Erken Alzheimer Tanısında Yeni Dönem",
             "original_title": "Prima Mente Unlocks Early-Stage Alzheimer’s Diagnostics with Epigenome Model",
@@ -480,36 +510,6 @@
             "link": "https://www.genengnews.com/topics/translational-medicine/exercise-triggers-brain-activity-that-helps-to-build-endurance-in-mice/",
             "date": "2026-02-12T21:42:24.109961",
             "timestamp": 1770932544.109969
-        },
-        {
-            "title": "Beynin Gizli Dolaşımı: Geçmiş Anılarınız Açlığınızı Nasıl Kontrol Ediyor?",
-            "original_title": "Memory of Food: Brain Circuits Control Appetite Through Context",
-            "content": "Unutun irade gücü mitini, yeni araştırmalar iştah kontrolünün gerçek sırrının geçmiş deneyimleriniz olduğunu öne sürüyor. Bilim insanları, hafızayı açlığa bağlayan gizli bir devreyi tanımlayarak, beynin çevrenizi ne zaman yemek yemeniz gerektiğine karar vermek için nasıl kullandığını keşfetti. Bu sistemdeki bir \"aksaklık\" ise aşırı yemeğe neden olabiliyor. Bu araştırma, yeme alışkanlıklarımızın sadece fiziksel ihtiyaçlarımızdan değil, aynı zamanda geçmiş deneyimlerimizden ve çevresel bağlamdan da etkilendiğini gösteriyor. Beyindeki bu kompleks sistemin nasıl çalıştığını anlamak, aşırı yeme gibi beslenme ile ilgili sorunlara yeni çözümler sunabilir. \n\nKaynak: Neuroscience News",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/hunger-appetite-context-neuroscience-30094/",
-            "date": "2026-02-12T19:14:42.009413",
-            "timestamp": 1770923682.009422
-        },
-        {
-            "title": "Öğrenme Sırasında Sıkılmak, Arka Plan Gürültüsünden Daha Fazla Dikkat Dağıtıyor",
-            "original_title": "Boredom is More Distracting Than Background Noise During Learning",
-            "content": "Yeni araştırmalar, \"sessiz çalışma odası\" kavramını unutmanızı ve aslında odaklanmanın gerçek sırrının ilgi seviyeniz olduğunu öne sürüyor. Beyin dalgalarını ve fiziksel stres belirteçlerini izleyerek yapılan çalışmada, meşgul bir zihnin yüksek inşaat gürültüsünü görmezden gelebileceği, ancak sıkılmış bir zihnin ne kadar sessiz bir ortamda olursa olsun dalıp gittiği bulundu.\n\nÇalışmanın sonuçları, öğrenme süreçlerinde sessiz bir ortam arayışının yerine, bireyin konuyla ne kadar ilgilendiğine odaklanması gerektiğini gösteriyor. Katılımcıların beyin aktiviteleri ve fizyolojik tepkileri incelendiğinde, konuya ilgi duyduklarında çevresel gürültülerin dikkatlerini daha az dağıttığı gözlemlendi.\n\nBu bulgular, eğitim yöntemlerini yeniden değerlendirmek ve öğrenci katılımını artırmak için yeni stratejiler geliştirmek adına önemli ipuçları sunuyor. Öğrencilerin derslere olan ilgisini artırmak, dikkatlerini toplamalarına ve öğrenme süreçlerini daha verimli hale getirmelerine yardımcı olabilir.\n\nAPA Kaynağı: Neuroscience News. (2023). Boredom is More Distracting Than Background Noise During Learning. Erişim adresi: https://neurosciencenews.com/boredom-noise-learning-30093/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/boredom-noise-learning-30093/",
-            "date": "2026-02-12T19:14:49.450021",
-            "timestamp": 1770923689.45003
-        },
-        {
-            "title": "Beyin Hücrelerini Gençleştiren Protein Keşfedildi",
-            "original_title": "Scientists discover protein that rejuvenates aging brain cells",
-            "content": "Bilim insanları, yaşlanan beyin hücrelerini gençleştirebilecek yeni bir protein keşfetti. Araştırmacılar, DMTF1 adlı proteinin artırılmasının, yaşa bağlı hasar olsa bile sinir kök hücrelerinin yeniden üreme yeteneğini geri kazandırabileceğini buldu. Bu protein olmadan, bu hücreler yenilenmekte ve hafıza ile öğrenmeyi desteklemekte zorlanıyor. Bu bulgular, beyin yaşlanmasının bazı yönlerini yavaşlatabilecek veya hatta tersine çevirebilecek tedaviler için umutları artırıyor. \n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/02/260212025620.htm",
-            "date": "2026-02-12T16:01:48.267092",
-            "timestamp": 1770912108.267104
         }
     ]
 }
