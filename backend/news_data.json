@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-17T09:58:15.622698",
+    "last_updated": "2026-02-17T13:23:08.343505",
     "daily_news": {
-        "title": "Empati ve Müzik ile Yalnızlığa Son: Konuşan Müzikal Robotlar",
-        "original_title": "Musical Robot: Combining AI Speech and Song to Combat Loneliness",
-        "content": "Araştırmacılar, müzik ve empatik konuşmayı birleştirmenin, sosyal robotların insanlarla bağ kurma ve yalnızlığı azaltma konusundaki etkinliğini önemli ölçüde artırdığını keşfettiler. Günümüzde hızla artan yalnızlık sorununa yenilikçi bir çözüm sunan bu robotlar, yaşlılar ve yalnız yaşayan bireyler için umut vadediyor. Robotların müzikle desteklenen empatik konuşmaları, kullanıcılarla daha derin ve anlamlı bir ilişki kurmalarını sağlıyor. Bu teknoloji, özellikle yaşlı bakım evlerinde ve yalnız yaşayan bireylerin bulunduğu ortamlarda büyük bir potansiyele sahip. Yapay zekanın gücünü kullanarak, bu tür sosyal robotlar, yalnızlık hissini azaltmak ve duygusal destek sağlamak konusunda devrim yaratabilir. Araştırma, yalnızlığın psikolojik ve fiziksel sağlığa olan olumsuz etkilerini azaltmak için teknolojinin nasıl kullanılabileceğini gösteriyor.\n\nKaynak: Neuroscience News (2023)",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/talking-musical-robot-empathy-ai-30129/",
-        "date": "2026-02-17T02:50:12.594891",
-        "timestamp": 1771296612.594904
+        "title": "Lüks Araç Hırsızlığının Yükselişi ve Antimikrobiyal Dirençle Mücadele",
+        "original_title": "The Download: the rise of luxury car theft, and fighting antimicrobial resistance",
+        "content": "Günümüzün giderek dijitalleşen dünyasında, lüks araç hırsızlığı yeni bir boyut kazanıyor. Dünya genelinde, habersiz bireyler, organize bir suç girişiminin yeni ve büyüyen türü olan araç taşıma dolandırıcılığı ve hırsızlık olaylarına istemeden dahil oluyor. Hırsızlar, genellikle lüks araçları hedef alarak, bu araçların taşıma işlemlerini sahte belgeler ve kimliklerle gerçekleştiriyor. Bu tür suçlar, özellikle Lamborghini gibi yüksek değerli markaları hedef alıyor ve küresel bir sorun haline geliyor. Araç sahipleri, dolandırıcıların karmaşık planlarına karşı savunmasız kalırken, güvenlik önlemlerinin artırılması ve daha iyi doğrulama süreçlerinin geliştirilmesi gerektiği anlaşılıyor. \n\nAntimikrobiyal dirençle mücadele ise, sağlık alanında karşılaşılan bir diğer önemli zorluk olarak öne çıkıyor. Bakterilerin antibiyotiklere karşı geliştirdiği direnç, tedavileri zorlaştırırken, yeni ve etkili ilaçların geliştirilmesi için küresel iş birliklerine ihtiyaç duyuluyor. Bilim insanları, bu direnci yenmek için yenilikçi yaklaşımlar ve teknolojiler üzerinde çalışıyor. \n\nBu konular, teknolojinin karanlık yüzü ve sağlık alanındaki acil ihtiyaçlar hakkında önemli tartışmalar başlatıyor. Toplumların bu tür tehditlerle başa çıkabilmesi için daha bilinçli ve hazırlıklı olması gerekiyor.\n\nKaynak: MIT Technology Review.",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/02/17/1133018/the-download-the-rise-of-luxury-car-theft-and-fighting-antimicrobial-resistance/",
+        "date": "2026-02-17T13:23:01.376607",
+        "timestamp": 1771334581.376616
     },
     "news_list": [
+        {
+            "title": "Lüks Araç Hırsızlığının Yükselişi ve Antimikrobiyal Dirençle Mücadele",
+            "original_title": "The Download: the rise of luxury car theft, and fighting antimicrobial resistance",
+            "content": "Günümüzün giderek dijitalleşen dünyasında, lüks araç hırsızlığı yeni bir boyut kazanıyor. Dünya genelinde, habersiz bireyler, organize bir suç girişiminin yeni ve büyüyen türü olan araç taşıma dolandırıcılığı ve hırsızlık olaylarına istemeden dahil oluyor. Hırsızlar, genellikle lüks araçları hedef alarak, bu araçların taşıma işlemlerini sahte belgeler ve kimliklerle gerçekleştiriyor. Bu tür suçlar, özellikle Lamborghini gibi yüksek değerli markaları hedef alıyor ve küresel bir sorun haline geliyor. Araç sahipleri, dolandırıcıların karmaşık planlarına karşı savunmasız kalırken, güvenlik önlemlerinin artırılması ve daha iyi doğrulama süreçlerinin geliştirilmesi gerektiği anlaşılıyor. \n\nAntimikrobiyal dirençle mücadele ise, sağlık alanında karşılaşılan bir diğer önemli zorluk olarak öne çıkıyor. Bakterilerin antibiyotiklere karşı geliştirdiği direnç, tedavileri zorlaştırırken, yeni ve etkili ilaçların geliştirilmesi için küresel iş birliklerine ihtiyaç duyuluyor. Bilim insanları, bu direnci yenmek için yenilikçi yaklaşımlar ve teknolojiler üzerinde çalışıyor. \n\nBu konular, teknolojinin karanlık yüzü ve sağlık alanındaki acil ihtiyaçlar hakkında önemli tartışmalar başlatıyor. Toplumların bu tür tehditlerle başa çıkabilmesi için daha bilinçli ve hazırlıklı olması gerekiyor.\n\nKaynak: MIT Technology Review.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/17/1133018/the-download-the-rise-of-luxury-car-theft-and-fighting-antimicrobial-resistance/",
+            "date": "2026-02-17T13:23:01.376607",
+            "timestamp": 1771334581.376616
+        },
+        {
+            "title": "Kayıp Lamborghini'lerin Gizemli Hikayesi",
+            "original_title": "The curious case of the disappearing Lamborghinis",
+            "content": "Sam Zahr, gri Rolls-Royce Dawn convertible'ı ilk gördüğünde, turuncu iç tasarımı ve turuncu tavanı ile, filosuna mükemmel bir ekleme yaptığını anlamıştı. \"Müşterilerimize çok cazip geldi,\" diye belirtti. Dream Luxury Rental'da operasyon direktörü olarak, Detroit bölgesinde lüks araç sürmek isteyen müşterilere hizmet veriyor. Bu tür araçlar, özellikle özel günlerde veya gösterişli etkinliklerde dikkat çekmek isteyen bireyler arasında popüler.\n\nAncak işler her zaman göründüğü gibi gitmiyor. Lüks araç kiralama sektöründe, özellikle de pahalı ve gösterişli markalar söz konusu olduğunda, bazen beklenmedik olaylar yaşanabiliyor. Son dönemde, özellikle Lamborghini gibi değerli araçların gizemli bir şekilde ortadan kaybolduğu bazı vakalar rapor edildi. Bu tür olaylar, sektördeki güvenliği ve araçların izlenebilirliğini sorgulatan bir durum yarattı.\n\nZahr, bu tür olayların önüne geçmek adına araçlara yerleştirilen izleme sistemlerinin önemini vurguluyor. Ayrıca, kiralama yapılacak kişilerin geçmişlerinin ve niyetlerinin dikkatlice değerlendirilmesi gerektiğinin altını çiziyor. Müşteri memnuniyeti kadar, araçların güvenli bir şekilde geri döneceğinden emin olmak da bir öncelik.\n\nBu olaylar, hem kiralama firmalarını hem de araç sahiplerini daha dikkatli olmaya ve ekstra önlemler almaya yönlendiriyor. Lüks araç kiralama sektörü, her ne kadar cazip fırsatlar sunsa da, bu tür riskler nedeniyle dikkatli bir yönetim gerektiriyor.",
+            "category": "Bilim & Teknoloji",
+            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/17/1132538/curious-case-disappearing-lambhorghinis/",
+            "date": "2026-02-17T13:23:08.146168",
+            "timestamp": 1771334588.146177
+        },
         {
             "title": "Empati ve Müzik ile Yalnızlığa Son: Konuşan Müzikal Robotlar",
             "original_title": "Musical Robot: Combining AI Speech and Song to Combat Loneliness",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/artificial-intelligence/terrays-ai-model-accelerates-drug-potency-prediction-pose-not-needed/",
             "date": "2026-02-12T16:01:57.134493",
             "timestamp": 1770912117.134501
-        },
-        {
-            "title": "Yapay Zeka Destekli Siber Suçlar: Tehditler ve Önlemler",
-            "original_title": "The Download: AI-enhanced cybercrime, and secure AI assistants",
-            "content": "Günümüzün teknoloji dünyasında, yapay zeka (YZ) sadece yazılım mühendislerinin kod yazmasına ve hataları kontrol etmesine yardımcı olmakla kalmıyor, aynı zamanda kötü niyetli bilgisayar korsanlarının da işini kolaylaştırıyor. MIT Technology Review'un bir haberine göre, YZ'nin siber suçlar üzerindeki etkisi şimdiden hissedilmeye başlandı ve gelecekte bu durum daha da kötüleşebilir. \n\nYazılımcılar, YZ araçlarını kullanarak kod yazımını hızlandırırken ve yazılım hatalarını tespit ederken, siber suçlular da benzer teknolojileri kendi amaçları doğrultusunda kullanıyor. Bu durum, çevrimiçi suçların daha sofistike ve yaygın hale gelmesine yol açabilir. \n\nBirçok uzman, YZ'nin siber suçlar üzerindeki etkisinin ciddi boyutlara ulaşabileceği konusunda uyarılarda bulunuyor. Özellikle kişisel verilerin çalınması, kimlik avı saldırıları ve fidye yazılımlarının daha karmaşık hale gelmesi gibi tehditler, YZ'nin yardımıyla daha da artabilir. \n\nBu gelişmeler karşısında, güvenli YZ asistanları geliştirmek ve yaygınlaştırmak büyük önem taşıyor. Güvenlik uzmanları, YZ'nin kötüye kullanılmasını önlemek için daha etkili güvenlik önlemleri alınması gerektiğini vurguluyor. \n\nSonuç olarak, YZ'nin siber suçlar üzerindeki etkisi ciddi bir endişe kaynağı olmaya devam ediyor. Bu durum, hem bireylerin hem de şirketlerin siber güvenlik önlemlerini yeniden gözden geçirmelerini ve güçlendirmelerini gerektiriyor.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/12/1132819/the-download-ai-enhanced-cybercrime-and-secure-ai-assistants/",
-            "date": "2026-02-12T13:38:41.675523",
-            "timestamp": 1770903521.675534
-        },
-        {
-            "title": "Yapay Zeka, Çevrimiçi Suçları Kolaylaştırıyor: Daha Kötüsü Gelebilir",
-            "original_title": "AI is already making online crimes easier. It could get much worse.",
-            "content": "Anton Cherepanov her zaman ilginç bir şey arayışındadır. Geçen yılın Ağustos ayının sonlarında, tam da böyle bir şeyi fark etti. Bu, VirusTotal'a yüklenen bir dosyaydı, siber güvenlik araştırmacılarının virüsler ve diğer türde kötü amaçlı yazılımları analiz etmek için kullandığı bir site. Yüzeyde, dosya sıradan görünüyordu, ancak daha derinlemesine incelendiğinde, yapay zekanın çevrimiçi suçları kolaylaştırma potansiyelini gösteren bir örnek olduğu anlaşıldı.\n\nYapay zeka, son yıllarda hızla gelişerek birçok alanda etkisini göstermiştir. Ancak, bu teknolojinin kötüye kullanımı da aynı oranda artış göstermektedir. Siber suçlular, yapay zekanın sağladığı olanakları kullanarak daha sofistike ve etkili saldırılar gerçekleştirebilmektedir. Özellikle, yapay zeka destekli saldırılar, hedeflerine yönelik daha kişiselleştirilmiş ve dolayısıyla daha başarılı olabilir.\n\nCherepanov'un gözlemlediği dosya, yapay zekanın bu tür kötü amaçlı faaliyetlerde nasıl kullanılabileceğine dair önemli ipuçları veriyor. Özellikle, bu tür teknolojilerin giderek daha erişilebilir hale gelmesi, suçluların bunları kullanarak daha karmaşık ve tespit edilmesi zor saldırılar yapma olasılığını artırmaktadır.\n\nBu gelişmeler, siber güvenlik alanında daha dikkatli ve hazırlıklı olunması gerektiğini göstermektedir. Yapay zekanın kötüye kullanımının önüne geçmek için daha ileri düzeyde güvenlik önlemleri ve siber güvenlik uzmanlarının sürekli eğitimi büyük önem taşımaktadır.\n\nKaynak: MIT Technology Review.",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
-            "date": "2026-02-12T13:38:57.553705",
-            "timestamp": 1770903537.553713
         }
     ]
 }
