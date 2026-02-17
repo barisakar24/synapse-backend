@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-02-16T21:38:15.654527",
+    "last_updated": "2026-02-17T02:50:26.313664",
     "daily_news": {
-        "title": "Erken Yaşta Beslenme Alışkanlıkları Yıllar Sonra Zekayı Şekillendiriyor",
-        "original_title": "Early Life Diets Quietly Shape IQ Years Later",
-        "content": "Yeni araştırmalar, bir çocuğun erken yaşlardaki beslenme alışkanlıklarının, ilkokul dönemindeki IQ seviyesini tahmin edebileceğini ortaya koyuyor. Çalışma, özellikle ultra işlenmiş gıdaların bu süreçteki en büyük etken olduğunu belirtiyor. Erken çocukluk döneminde tüketilen besinlerin kalitesi, beyin gelişimini ve dolayısıyla bilişsel yetenekleri doğrudan etkiliyor. İşlenmemiş taze gıdalar, beyin gelişimini olumlu yönde etkilerken, ultra işlenmiş gıdaların ise bu süreçte olumsuz etkileri olduğu saptanmıştır. Bu bağlamda, çocukların erken yaşlarda sağlıklı ve besleyici gıdalarla beslenmesinin, ileriki yaşlarda zeka düzeylerini olumlu yönde etkileyebileceği belirtilmektedir. \n\nKaynak: Neuroscience News",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/toddler-diet-iq-cognition-30124/",
-        "date": "2026-02-16T21:38:14.799483",
-        "timestamp": 1771277894.799492
+        "title": "Organoidlerin Geleceği: Hans Clevers ile Özel Röportaj",
+        "original_title": "Spotlight on Organoids",
+        "content": "Bu ilk etkinliğimizde, kök hücre öncüsü ve organoid araştırmacısı olarak tanınan Hubrecht Enstitüsü'nden Dr. Hans Clevers ile gerçekleştirdiğimiz özel bir sohbeti sunmaktan mutluluk duyuyoruz. Dr. Clevers, organoidlerin biyoteknoloji ve genetik mühendisliği alanındaki potansiyelini ve bu alandaki son gelişmeleri ele alacak. Organoidler, kök hücrelerden türetilen ve organ benzeri yapılar oluşturan üç boyutlu hücre kültürleridir. Bu yapılar, hastalık modelleme, ilaç testi ve kişiselleştirilmiş tıp gibi alanlarda devrim niteliğinde gelişmelere yol açmaktadır. Clevers'in öncülüğünde yapılan araştırmalar, organoidlerin nasıl geliştirildiğine ve bu teknolojinin insan sağlığı üzerindeki etkilerine dair derinlemesine bilgiler sunmaktadır.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/translational-medicine/spotlight-on-organoids/",
+        "date": "2026-02-17T02:50:26.313625",
+        "timestamp": 1771296626.313634
     },
     "news_list": [
+        {
+            "title": "Empati ve Müzik ile Yalnızlığa Son: Konuşan Müzikal Robotlar",
+            "original_title": "Musical Robot: Combining AI Speech and Song to Combat Loneliness",
+            "content": "Araştırmacılar, müzik ve empatik konuşmayı birleştirmenin, sosyal robotların insanlarla bağ kurma ve yalnızlığı azaltma konusundaki etkinliğini önemli ölçüde artırdığını keşfettiler. Günümüzde hızla artan yalnızlık sorununa yenilikçi bir çözüm sunan bu robotlar, yaşlılar ve yalnız yaşayan bireyler için umut vadediyor. Robotların müzikle desteklenen empatik konuşmaları, kullanıcılarla daha derin ve anlamlı bir ilişki kurmalarını sağlıyor. Bu teknoloji, özellikle yaşlı bakım evlerinde ve yalnız yaşayan bireylerin bulunduğu ortamlarda büyük bir potansiyele sahip. Yapay zekanın gücünü kullanarak, bu tür sosyal robotlar, yalnızlık hissini azaltmak ve duygusal destek sağlamak konusunda devrim yaratabilir. Araştırma, yalnızlığın psikolojik ve fiziksel sağlığa olan olumsuz etkilerini azaltmak için teknolojinin nasıl kullanılabileceğini gösteriyor.\n\nKaynak: Neuroscience News (2023)",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/talking-musical-robot-empathy-ai-30129/",
+            "date": "2026-02-17T02:50:12.594891",
+            "timestamp": 1771296612.594904
+        },
+        {
+            "title": "Parkinson Hastalığını Tetikleyen İki Genetik 'Darbenin' Gücü",
+            "original_title": "Two Genetic “Hits” Required to Trigger Parkinson’s Neurodegeneration",
+            "content": "Araştırmacılar, Parkinson hastalığında görülen nörodejenerasyonu tetiklemek için GBA1 genindeki bir mutasyonun, ATP13A2 genindeki bir mutasyonla eşleşmesi gerektiğini buldular. Bu keşif, Parkinson hastalığının genetik temellerini anlamada önemli bir ilerleme olarak değerlendiriliyor ve hastalığın tedavisi için yeni yaklaşımlar geliştirilmesine olanak tanıyabilir.\n\nParkinson hastalığı, beyinde dopamin üreten nöronların kaybına bağlı olarak gelişen ve motor becerilerde sorunlara neden olan bir nörodejeneratif hastalıktır. Bu çalışmada, araştırmacılar GBA1 ve ATP13A2 genlerinde meydana gelen mutasyonların, hastalığın ilerlemesinde kritik bir rol oynadığını ortaya koydu. Tek başına GBA1 mutasyonu, Parkinson'un başlangıcını tetiklemek için yeterli değilken, ATP13A2 mutasyonu ile birleştiğinde nörodejenerasyonu hızlandırıyor.\n\nBu genetik 'çifte darbe' mekanizmasının keşfi, kişiselleştirilmiş tedavi stratejilerinin geliştirilmesi için yeni bir kapı açabilir. Özellikle bu iki mutasyona sahip bireyler için erken teşhis ve müdahale yöntemleri üzerinde çalışılabilir. Araştırmacılar, gelecekte bu bulguları daha geniş çapta inceleyerek Parkinson hastalığının önlenmesi ve tedavisi için daha etkili yöntemler geliştirmeyi umuyorlar.\n\nKaynak: Neuroscience News (2023). Two Genetic “Hits” Required to Trigger Parkinson’s Neurodegeneration. https://neurosciencenews.com/parkinsons-genes-gba1-atp13a2-30128/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/parkinsons-genes-gba1-atp13a2-30128/",
+            "date": "2026-02-17T02:50:20.541476",
+            "timestamp": 1771296620.541486
+        },
+        {
+            "title": "Organoidlerin Geleceği: Hans Clevers ile Özel Röportaj",
+            "original_title": "Spotlight on Organoids",
+            "content": "Bu ilk etkinliğimizde, kök hücre öncüsü ve organoid araştırmacısı olarak tanınan Hubrecht Enstitüsü'nden Dr. Hans Clevers ile gerçekleştirdiğimiz özel bir sohbeti sunmaktan mutluluk duyuyoruz. Dr. Clevers, organoidlerin biyoteknoloji ve genetik mühendisliği alanındaki potansiyelini ve bu alandaki son gelişmeleri ele alacak. Organoidler, kök hücrelerden türetilen ve organ benzeri yapılar oluşturan üç boyutlu hücre kültürleridir. Bu yapılar, hastalık modelleme, ilaç testi ve kişiselleştirilmiş tıp gibi alanlarda devrim niteliğinde gelişmelere yol açmaktadır. Clevers'in öncülüğünde yapılan araştırmalar, organoidlerin nasıl geliştirildiğine ve bu teknolojinin insan sağlığı üzerindeki etkilerine dair derinlemesine bilgiler sunmaktadır.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/spotlight-on-organoids/",
+            "date": "2026-02-17T02:50:26.313625",
+            "timestamp": 1771296626.313634
+        },
         {
             "title": "Bazı İnsanlar Neden Yapay Zeka Görsellerini Daha İyi Tespit Ediyor?",
             "original_title": "Why Some People Are Naturally Better at Detecting AI Images",
@@ -480,36 +510,6 @@
             "link": "https://www.technologyreview.com/2026/02/12/1132386/ai-already-making-online-swindles-easier/",
             "date": "2026-02-12T13:38:57.553705",
             "timestamp": 1770903537.553713
-        },
-        {
-            "title": "Depresyon Riskini Azaltmanın Basit Yolu: Günlük Televizyon Süresini Azaltın",
-            "original_title": "One simple daily change that could slash depression risk",
-            "content": "Televizyon izlemeye ayırdığınız bir saati daha aktif bir etkinlikle değiştirerek, özellikle orta yaşlarda, majör depresyon geliştirme riskinizi önemli ölçüde azaltabilirsiniz. Hollanda'da yapılan geniş çaplı bir araştırma, dört yıl boyunca 65.000'den fazla yetişkini takip etti ve günde 60 dakikalık televizyon izleme süresinin başka aktivitelerle değiştirilmesinin genel depresyon riskini %11 oranında düşürdüğünü ortaya koydu. Bu oran, orta yaşlı yetişkinlerde neredeyse %19'a kadar çıkıyor. İnsanlar televizyon izleme süresini iki saate kadar başka etkinliklerle değiştirdiğinde, orta yaştaki bireylerde depresyon riski %43'e kadar azalabiliyor. \n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Psikoloji",
-            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/02/260211073043.htm",
-            "date": "2026-02-12T09:59:12.046162",
-            "timestamp": 1770890352.046175
-        },
-        {
-            "title": "Beyin Eğitimi ile Demansa Karşı 20 Yıllık Koruma",
-            "original_title": "Just 5 weeks of brain training may protect against dementia for 20 years",
-            "content": "Basit bir beyin eğitimi programı, yaşlı yetişkinlerin görsel bilgileri ne kadar hızlı işlediğini keskinleştirerek, beklenmedik derecede güçlü bir uzun vadeli fayda sağlayabilir. 65 yaş ve üzeri yetişkinler üzerinde yapılan 20 yıllık büyük bir çalışmada, beş ila altı haftalık uyarlanabilir “işleme hızını artırma” eğitimi ve birkaç pekiştirme oturumunu tamamlayanlar, yirmi yıl sonra bile Alzheimer gibi demans türlerine yakalanma olasılığı önemli ölçüde daha düşüktü. Pekiştirilmiş hız eğitimi alan katılımcıların demans riski, hiç eğitim almayanlara kıyasla %25 daha düşüktü ve bu denemedeki tek kalıcı koruyucu etki gösteren müdahale oldu.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/02/260211073023.htm",
-            "date": "2026-02-12T05:06:05.758591",
-            "timestamp": 1770872765.758603
-        },
-        {
-            "title": "AI ile Zihin Kontrolü: Hayvan Davranışlarını Anında Durdurabilen Sistem",
-            "original_title": "AI “Mind Control” Can Stop Animal Behaviors in a Split Second",
-            "content": "Bilim insanları, YORU adını verdikleri gelişmiş bir yapay zeka sistemi geliştirdiler. Bu sistem, birden fazla türdeki hayvan davranışlarını %90'ın üzerinde bir doğrulukla tanımlayabiliyor. Yüksek hızlı bu tanımlama yeteneğini optogenetik ile birleştiren ekip, belirli beyin devrelerini hedeflenen ışık kullanarak gerçek zamanlı olarak kapatma yeteneğini başarıyla gösterdi. Bu gelişme, hayvan davranışlarının anında durdurulabilmesine olanak tanıyor ve sinirbilim alanında devrim niteliğinde bir adım olarak değerlendiriliyor.\n\nKaynak: Neuroscience News, 2023. AI 'Mind Control' Can Stop Animal Behaviors in a Split Second. https://neurosciencenews.com/ai-animal-behavior-30091/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/ai-animal-behavior-30091/",
-            "date": "2026-02-12T02:56:56.649216",
-            "timestamp": 1770865016.649223
         }
     ]
 }
