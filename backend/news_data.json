@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-02-18T09:58:40.855001",
+    "last_updated": "2026-02-18T13:25:09.413522",
     "daily_news": {
-        "title": "Beyindeki Gelişim Anahtarı: Ömür Boyu Obezite Riskini Belirleyebilir",
-        "original_title": "Brain’s Developmental Switch May Shape Lifelong Obesity Risk",
-        "content": "Son araştırmalara göre, beynimizdeki gelişimsel bir 'kader anahtarı', yaşam boyu obezite riskimizi şekillendirebilir. Bilim insanları, beynin gelişimi sırasında açlık veya tokluk duygularının baskın olmasını belirleyen bu mekanizmanın, kilo alımını önceden programlayabileceğini keşfetti. Araştırma, beynin hipotalamus bölgesinde yer alan hücrelerin, bireylerin yemek yeme davranışları üzerinde önemli bir rol oynadığını gösteriyor. Bu hücrelerin nasıl geliştiği ve hangi yöne doğru evrildiği, kişinin gelecekteki kilo kontrolü üzerinde belirleyici olabiliyor.\n\nBu buluş, obeziteyle mücadelede yeni tedavi yöntemlerinin geliştirilmesine kapı aralayabilir. Beynin bu bölgesinde yapılan incelemeler, bireylerin kilo alımını kontrol altında tutmak için hangi noktalara odaklanılması gerektiğini gösterebilir. Araştırmacılar, bu bulguların, kişiye özel diyet ve egzersiz programları oluşturulmasına da yardımcı olabileceğini belirtiyor.\n\nKaynak: Neuroscience News, (https://neurosciencenews.com/otp-brain-development-obesity-30138/)",
+        "title": "Viagra ve Zona Aşısı Alzheimer'a Karşı Umut Vaat Ediyor",
+        "original_title": "Viagra and shingles vaccine show surprising promise against Alzheimer’s",
+        "content": "Alzheimer hastalığına karşı mücadelede beklenmedik bir yeni rol üstlenebilecek üç tanıdık ilaç, büyük bir yeni çalışmanın odak noktası haline geldi. Zona aşısı, bu ilaçlar arasında öncülük ediyor. Uluslararası bir uzmanlar paneli, mevcut 80 ilacı inceleyerek Zostavax, Viagra (sildenafil) ve riluzolü yeniden kullanıma en uygun adaylar olarak belirledi. \n\nBu çalışma, Alzheimer hastalığıyla mücadelede potansiyel olarak yeni bir çığır açabilir. Zostavax, bilinen bir zona aşısı iken, Viagra genellikle erektil disfonksiyon tedavisinde kullanılıyor ve riluzol ise amyotrofik lateral skleroz (ALS) hastalığında kullanılıyor. Ancak bu ilaçların Alzheimer hastalığına karşı nasıl etkili olabileceği konusunda daha fazla araştırma yapılması gerekiyor. \n\nBilim insanları, bu ilaçların Alzheimer hastalığına karşı etkilerini incelemeye devam ederken, bu tür mevcut ilaçların yeni kullanım alanlarının keşfi, sağlık sektöründe maliyetleri düşürebilir ve tedavi süreçlerini hızlandırabilir. Özellikle yaşlanan nüfusla birlikte Alzheimer hastalığının artan prevalansı göz önüne alındığında, bu tür buluşlar büyük önem taşıyor.\n\nBu yeni bulgular, bilim dünyasında heyecan yaratmış durumda ve bu ilaçların Alzheimer'a karşı nasıl kullanılabileceğine dair daha fazla bilgi edinmek için daha fazla klinik araştırma yapılması bekleniyor.",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/otp-brain-development-obesity-30138/",
-        "date": "2026-02-18T02:53:09.379725",
-        "timestamp": 1771383189.379737
+        "link": "https://www.sciencedaily.com/releases/2026/02/260217005759.htm",
+        "date": "2026-02-18T13:24:53.130758",
+        "timestamp": 1771421093.130771
     },
     "news_list": [
+        {
+            "title": "Viagra ve Zona Aşısı Alzheimer'a Karşı Umut Vaat Ediyor",
+            "original_title": "Viagra and shingles vaccine show surprising promise against Alzheimer’s",
+            "content": "Alzheimer hastalığına karşı mücadelede beklenmedik bir yeni rol üstlenebilecek üç tanıdık ilaç, büyük bir yeni çalışmanın odak noktası haline geldi. Zona aşısı, bu ilaçlar arasında öncülük ediyor. Uluslararası bir uzmanlar paneli, mevcut 80 ilacı inceleyerek Zostavax, Viagra (sildenafil) ve riluzolü yeniden kullanıma en uygun adaylar olarak belirledi. \n\nBu çalışma, Alzheimer hastalığıyla mücadelede potansiyel olarak yeni bir çığır açabilir. Zostavax, bilinen bir zona aşısı iken, Viagra genellikle erektil disfonksiyon tedavisinde kullanılıyor ve riluzol ise amyotrofik lateral skleroz (ALS) hastalığında kullanılıyor. Ancak bu ilaçların Alzheimer hastalığına karşı nasıl etkili olabileceği konusunda daha fazla araştırma yapılması gerekiyor. \n\nBilim insanları, bu ilaçların Alzheimer hastalığına karşı etkilerini incelemeye devam ederken, bu tür mevcut ilaçların yeni kullanım alanlarının keşfi, sağlık sektöründe maliyetleri düşürebilir ve tedavi süreçlerini hızlandırabilir. Özellikle yaşlanan nüfusla birlikte Alzheimer hastalığının artan prevalansı göz önüne alındığında, bu tür buluşlar büyük önem taşıyor.\n\nBu yeni bulgular, bilim dünyasında heyecan yaratmış durumda ve bu ilaçların Alzheimer'a karşı nasıl kullanılabileceğine dair daha fazla bilgi edinmek için daha fazla klinik araştırma yapılması bekleniyor.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260217005759.htm",
+            "date": "2026-02-18T13:24:53.130758",
+            "timestamp": 1771421093.130771
+        },
+        {
+            "title": "Kriptonun İzin Gerektirmeyen Rüyasının Karanlık Yüzü",
+            "original_title": "The Download: a blockchain enigma, and the algorithms governing our lives",
+            "content": "Bu, teknoloji dünyasında neler olup bittiğine dair günlük bir doz sağlayan, haftalık bültenimiz The Download'un bugünkü sayısıdır. Kriptonun izin gerektirmeyen rüyasının karanlık yüzüne hoş geldiniz.\n\nJean-Paul Thorbjornsen, 30'lu yaşlarının ortasında ve kırsal bir Katolik yetiştirilme tarzına sahip bir Avustralyalı, kullanıcıların THORChain adlı bir blok zinciri üzerinden işlem yapabileceği bir sistemin kurucularından biridir. THORChain, kullanıcıların farklı kripto para birimleri arasında merkezi bir borsa aracılığı olmadan doğrudan değişim yapmalarına olanak tanıyan yenilikçi bir platformdur.\n\nBlok zincirleri, kullanıcıların anonim olarak işlem yapmasına ve finansal sistemin merkezi kontrollerinden bağımsız bir şekilde faaliyet göstermesine olanak tanır. Ancak bu, aynı zamanda düzenlemelerin ve denetimlerin olmadığı bir ortam yaratır ki bu da suistimallere ve dolandırıcılıklara açık bir kapı bırakabilir. THORChain gibi sistemler, kullanıcılara bu özgürlüğü sağlayarak merkezi olmayan finansın (DeFi) temel ilkelerini teşvik etmektedir, ancak bu durum aynı zamanda kötü niyetli aktörlerin de dikkatini çekebilir.\n\nTeknoloji dünyasında blok zinciri ve kripto para birimlerinin rolü giderek artarken, bu tür platformların güvenliği ve kullanıcılarının korunması konularında ciddi tartışmalar sürmektedir. Jean-Paul Thorbjornsen ve THORChain gibi öncüler, bu teknolojilerin potansiyelini ortaya koyarken, karşılaşılan risklerin de farkındadır ve bu konuda çözümler geliştirmeye çalışmaktadırlar.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/18/1133291/the-download-a-blockchain-enigma-and-the-algorithms-governing-our-lives/",
+            "date": "2026-02-18T13:25:02.512392",
+            "timestamp": 1771421102.512401
+        },
+        {
+            "title": "Geleceği Tahmin Eden Robotlar: İnsanlığın Yeni Kahinleri",
+            "original_title": "The robots who predict the future",
+            "content": "İnsan olmak, özünde bir tahminci olmaktır. Bazen oldukça iyi bir tahminci. Geçmiş deneyimlerin merceğinden veya neden-sonuç ilişkilerinin mantığından bakarak geleceği görmeye çalışmak, avlanmamıza, av olmaktan kaçınmamıza, ekin ekmemize, sosyal bağlar kurmamıza ve genel olarak, öngörülemeyen bir dünyada hayatta kalmamıza yardımcı olmuştur. Ancak şimdi, bu kadim insan yeteneği, yeni bir düzleme taşınıyor: Robotlar. MIT Technology Review'un haberine göre, geleceği tahmin etme yeteneği artık sadece insanlara mahsus değil. Gelişen yapay zeka ve robot teknolojileri, geleceği tahmin etme konusunda insanlara rakip olmaya başlıyor. Bu robotlar, büyük veri analizi ve gelişmiş algoritmalar sayesinde, olayların olası sonuçlarını önceden tahmin edebiliyor ve bu da onları birçok alanda vazgeçilmez kılıyor. Örneğin, tarımda hava koşullarını ve mahsul verimliliğini tahmin edebilir, sağlık sektöründe hastalıkların seyrini öngörebilir veya ekonomide piyasa trendlerini analiz edebilirler. Geleceği tahmin eden bu robotlar, insanlığın hayatta kalma mücadelesinde yeni bir yardımcı olarak ortaya çıkarken, aynı zamanda etik ve güvenlik konularında da yeni tartışmalara kapı aralıyor. Bu teknolojilerin kullanımı, kontrolü ve denetimi, gelecekteki toplum düzeni açısından kritik önem taşıyor. APA formatında kaynak: MIT Technology Review. (Yıl). The robots who predict the future. Erişim adresi: https://www.technologyreview.com",
+            "category": "Psikoloji",
+            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/",
+            "date": "2026-02-18T13:25:09.132481",
+            "timestamp": 1771421109.132489
+        },
         {
             "title": "Beyindeki Gelişim Anahtarı: Ömür Boyu Obezite Riskini Belirleyebilir",
             "original_title": "Brain’s Developmental Switch May Shape Lifelong Obesity Risk",
@@ -480,36 +510,6 @@
             "link": "https://neurosciencenews.com/acetazolamide-opioid-relapse-neuropharmacology-30105/",
             "date": "2026-02-13T19:02:42.301835",
             "timestamp": 1771009362.301845
-        },
-        {
-            "title": "Ömür Boyu Öğrenme, Alzheimer Başlangıcını 5 Yıl Geciktirebilir",
-            "original_title": "Lifelong Learning Linked to 5-Year Delay in Alzheimer’s Onset",
-            "content": "Yeni bir araştırma, okuma, yazma ve ömür boyu öğrenmenin Alzheimer semptomlarını beş yıl geriye itebileceğini, beyin yaşlanmasını engelleyen bir 'bilişsel rezerv' oluşturduğunu gösteriyor. Bu çalışma, zihinsel faaliyetlerin ve sürekli öğrenmenin, yaşlandıkça beynin sağlıklı kalmasına nasıl yardımcı olabileceğine dair önemli kanıtlar sunuyor. \n\nAraştırmanın bulgularına göre, hayat boyu süren öğrenme aktiviteleri, beyin hücrelerini ve sinir bağlantılarını güçlendiriyor. Bu da, beyin yaşlandıkça, Alzheimer ve benzeri nörolojik hastalıkların semptomlarının ortaya çıkmasını geciktiriyor. \n\nÇalışmayı yürüten bilim insanları, katılımcıların okuma, yazma, bulmaca çözme ve yeni bilgiler öğrenme gibi faaliyetlerde bulunmalarının, zihinsel kapasiteyi artırarak, Alzheimer'ın etkilerini geciktirdiğini belirtiyor. Bu bulgular, hem bireysel hem de toplumsal düzeyde zihinsel sağlığı korumada eğitimin ve erişilebilir öğrenme fırsatlarının önemini vurguluyor. \n\nBu araştırma, herkesin kütüphane kartı alarak veya çeşitli eğitim programlarına katılarak zihinsel sağlığını koruma yönünde adımlar atabileceğini öne sürüyor. Eğitim ve öğrenme, sadece genç yaşlarda değil, yaşamın her döneminde bilişsel sağlığı destekleyen önemli araçlar olarak karşımıza çıkıyor. \n\nKaynak: Neuroscience News (2023). Lifelong Learning Linked to 5-Year Delay in Alzheimer’s Onset. https://neurosciencenews.com/lifelong-learning-alzheimers-delay-30104/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/lifelong-learning-alzheimers-delay-30104/",
-            "date": "2026-02-13T19:02:50.929313",
-            "timestamp": 1771009370.929321
-        },
-        {
-            "title": "ALS'e Yenik Düşen Sesi Yapay Zeka ile Geri Döndü",
-            "original_title": "ALS stole this musician’s voice. AI let him sing again.",
-            "content": "Seyirciler arasında gözyaşları dökülüyor, Patrick Darling'in şarkısı çalmaya başladığında. Bu, hiç tanışma fırsatı bulamadığı büyükbabasına yazdığı duygusal bir şarkı. Ancak bu performansın duygusal olmasının bir başka nedeni daha var: Darling'in sesini kaybettiği iki yılın ardından grup arkadaşlarıyla sahneye ilk çıkışı. İki yıl önce ALS (Amiyotrofik Lateral Skleroz) teşhisi konan Darling, bu hastalık nedeniyle sesini kaybetti. Ancak MIT Technology Review'un haberine göre, yapay zeka sayesinde sesini yeniden kazanabildi. Kullandığı yapay zeka teknolojisi, kaydettiği eski ses kayıtlarını analiz ederek ona yeni bir ses oluşturdu. Böylece Darling, sahneye geri dönmenin mutluluğunu yaşadı ve duygusal bir performans sergiledi. İzleyiciler, bu teknolojinin mucizesine tanıklık ederken, Darling'in hikayesi birçok kişiye umut oldu. \n\nKaynak: MIT Technology Review.",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/13/1132913/als-stole-this-musicians-voice-ai-sing/",
-            "date": "2026-02-13T19:02:58.700471",
-            "timestamp": 1771009378.700479
-        },
-        {
-            "title": "Bilim Kadınları, Robotik ve Eli Lilly Gelişmeleri",
-            "original_title": "Women in Science, Robotics, Automation, SLAS, and Lilly Updates",
-            "content": "<p><i>GEN</i>'in <i>Touching Base</i> programının bu bölümünde editörler, Bilimde Kadınlar Günü ile ilgili hikayeleri tartışıyor. Bu kapsamda, Medra’nın CEO’su ile yapılan bir röportajın özeti, SLAS'ten elde edilen içgörüler ve Eli Lilly’nin son anlaşmaları hakkında güncellemeler yer alıyor.</p>\n<p>Özellikle, bilimde kadınların rolü ve katkıları vurgulanarak, Medra’nın CEO’sunun sektördeki kadın liderler hakkında paylaştığı görüşler ele alındı. SLAS konferansında ise robotik ve otomasyon alanındaki son gelişmeler değerlendirildi. Konferansta, laboratuvar otomasyonunun geleceği ve yapay zeka destekli çözümlerin nasıl daha verimli hale getirilebileceği konuları ön plandaydı.</p>\n<p>Eli Lilly'nin son dönemde yaptığı anlaşmalar ise bu sağlık şirketinin stratejik büyüme planlarına ışık tutuyor. Özellikle biyoteknoloji ve genetik mühendisliği alanlarında yaptığı yatırımlar, şirketin yenilikçi tedavi yöntemleri geliştirme çabasının bir parçası olarak öne çıkıyor.</p>\n<p>Bu hikaye hakkında daha fazla bilgi için <a href=\"https://www.genengnews.com/topics/artificial-intelligence/women-in-science-robotics-automation-slas-and-lilly-updates/\">buraya</a> ve diğer içerikler için <a href=\"https://www.genengnews.com\">GEN - Genetic Engineering and Biotechnology News</a> sayfasına göz atabilirsiniz.</p>\n<p>Kaynak: GEN – Genetic Engineering and Biotechnology News</p>",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/artificial-intelligence/women-in-science-robotics-automation-slas-and-lilly-updates/",
-            "date": "2026-02-13T19:03:09.974581",
-            "timestamp": 1771009389.974629
         }
     ]
 }
