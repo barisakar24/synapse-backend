@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-19T13:26:41.340714",
+    "last_updated": "2026-02-19T15:57:52.781643",
     "daily_news": {
-        "title": "Kolombiya Uyuşturucu Ticaretinde Devrim Yaratan İnsansız Narco Denizaltıları",
-        "original_title": "How uncrewed narco subs could transform the Colombian drug trade",
-        "content": "Geçtiğimiz Nisan ayında, güneşli bir sabah saatlerinde, Kolombiya askeri tarafından işletilen bir gözetleme uçağı, Tayrona Milli Parkı'nın hemen açıklarında 40 metre uzunluğunda köpekbalığı benzeri bir silueti okyanusta dururken tespit etti. Bu, tartışmasız bir şekilde bir 'narco denizaltısı' idi. Neredeyse tamamen su altında seyreden bu sinsi fiberglas gemi, uyuşturucu kartelleri tarafından kokain taşımak için kullanılıyor.\n\nKolombiya'nın uyuşturucu ticaretinde yeni bir çığır açan bu insansız denizaltılar, kartellerin yasadışı ticaret operasyonlarında dikkat çekmeden hareket etmelerine olanak sağlıyor. Gelişmiş teknoloji ile donatılan bu denizaltılar, hem güvenlik güçlerinin işini zorlaştırıyor hem de operasyonel maliyetleri düşürüyor.\n\nGeleneksel yollardan farklı olarak, bu denizaltılar, düşük su hattı profili sayesinde radarlar tarafından tespit edilmesi zor hale geliyor. Ayrıca, insansız olmaları nedeniyle, insan faktöründen kaynaklanabilecek riskler de en aza indirgeniyor.\n\nKolombiya hükümeti, bu yeni tehdit ile başa çıkmak için uluslararası işbirliklerini artırarak, teknolojik kapasitelerini geliştirmeye çalışıyor. Ancak, kartellerin sürekli evrilen stratejileri karşısında bu mücadele oldukça zorlu bir hal alıyor.\n\nKaynak: MIT Technology Review",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/",
-        "date": "2026-02-19T13:26:35.744129",
-        "timestamp": 1771507595.74414
+        "title": "Beyin Gelişimi 30'lu Yaşlara Kadar Devam Ediyor",
+        "original_title": "Brain development may continue into your 30s, new research shows",
+        "content": "Uzun zamandır yaygın bir inanış olan 'Frontal lobun 25 yaşına kadar tam olarak gelişmediği' iddiası, yeni araştırmalarla birlikte daha çok bir mit olarak değerlendiriliyor. Erken dönem beyin taramaları, gri madde hacminin ergenlik dönemi boyunca önemli ölçüde değiştiğini gösteriyordu ve bu çalışmalar genellikle 20 yaş civarında sona erdiği için bilim insanları beyin gelişiminin 20'li yaşların ortasında tamamlanabileceğini tahmin ediyordu. Ancak daha yeni ve kapsamlı beyin görüntüleme araştırmaları, beynin kilit bağlantıları ve ağ verimliliğinin 30'lu yaşların başlarına kadar evrim geçirmeye devam ettiğini ortaya koyuyor. Bu bulgular, beyin gelişimi sürecinin daha önce düşünüldüğünden çok daha uzun sürdüğünü gösteriyor ve insanların nörolojik olarak ne zaman 'tamamen yetişkin' olabileceğine dair anlayışımızı yeniden şekillendiriyor. \n\nKaynak: Mind & Brain News -- ScienceDaily",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.sciencedaily.com/releases/2026/02/260218031606.htm",
+        "date": "2026-02-19T15:57:45.598638",
+        "timestamp": 1771516665.598652
     },
     "news_list": [
+        {
+            "title": "Beyin Gelişimi 30'lu Yaşlara Kadar Devam Ediyor",
+            "original_title": "Brain development may continue into your 30s, new research shows",
+            "content": "Uzun zamandır yaygın bir inanış olan 'Frontal lobun 25 yaşına kadar tam olarak gelişmediği' iddiası, yeni araştırmalarla birlikte daha çok bir mit olarak değerlendiriliyor. Erken dönem beyin taramaları, gri madde hacminin ergenlik dönemi boyunca önemli ölçüde değiştiğini gösteriyordu ve bu çalışmalar genellikle 20 yaş civarında sona erdiği için bilim insanları beyin gelişiminin 20'li yaşların ortasında tamamlanabileceğini tahmin ediyordu. Ancak daha yeni ve kapsamlı beyin görüntüleme araştırmaları, beynin kilit bağlantıları ve ağ verimliliğinin 30'lu yaşların başlarına kadar evrim geçirmeye devam ettiğini ortaya koyuyor. Bu bulgular, beyin gelişimi sürecinin daha önce düşünüldüğünden çok daha uzun sürdüğünü gösteriyor ve insanların nörolojik olarak ne zaman 'tamamen yetişkin' olabileceğine dair anlayışımızı yeniden şekillendiriyor. \n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260218031606.htm",
+            "date": "2026-02-19T15:57:45.598638",
+            "timestamp": 1771516665.598652
+        },
+        {
+            "title": "Otonom Uyuşturucu Denizaltıları ve Erdem Gösterişi Yapan Sohbet Botları",
+            "original_title": "The Download: autonomous narco submarines, and virtue signaling chatbots",
+            "content": "Bugünün teknoloji dünyasında neler olduğuna dair günlük bir doz sağlayan hafta içi bültenimiz The Download'ın bugünkü sayısına hoş geldiniz. Kolombiya uyuşturucu ticaretini dönüştürebilecek insansız denizaltılar. On yıllardır, el yapımı uyuşturucu denizaltıları, kokain ticaretinin en kaçak ve üretken iş gücü arasında yer aldı ve çok tonlu yasa dışı uyuşturucu yüklerini taşıdı. Bu denizaltılar, uyuşturucu ticaretinin en gözden kaçan ama en önemli araçlarından biri haline geldi. İnsansız denizaltıların geliştirilmesi, bu ticareti daha da zorlayıcı hale getirebilir. Bunun yanı sıra, erdem gösterişi yapan sohbet botları da günümüzün dikkat çeken teknolojik gelişmeleri arasında yer alıyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/19/1133339/the-download-autonomous-narco-submarines-and-virtue-signaling-chatbots/",
+            "date": "2026-02-19T15:57:52.590936",
+            "timestamp": 1771516672.590947
+        },
         {
             "title": "Kolombiya Uyuşturucu Ticaretinde Devrim Yaratan İnsansız Narco Denizaltıları",
             "original_title": "How uncrewed narco subs could transform the Colombian drug trade",
@@ -490,26 +510,6 @@
             "link": "https://www.technologyreview.com/2026/02/16/1132516/cesar-de-la-fuente-using-ai-antibiotics-hunt/",
             "date": "2026-02-16T13:22:19.301740",
             "timestamp": 1771248139.301749
-        },
-        {
-            "title": "Siber Güvenlik Araştırmacısına Tehdit: Yanlış Hedef",
-            "original_title": "Hackers made death threats against this security researcher. Big mistake.",
-            "content": "Tehditler bahar aylarında başladı. Nisan 2024'te, 'Waifu' ve 'Judische' kullanıcı adlarını kullanan gizemli bir kişi, Telegram ve Discord kanallarında siber güvenlik araştırmacısı Allison Nixon'a yönelik ölüm tehditleri paylaşmaya başladı. 'Alison [sic] Nixon yakında benzinle doldurulmuş bir lastikle boynunda asılacak,' diye yazdı Waifu/Judische. MIT Technology Review, bu tehdidin Nixon ve çevresi üzerinde yarattığı etkiyi ve bu tehditleri yapan kişilerin peşine düşülmesi sürecini derinlemesine inceledi. Nixon, siber güvenlik dünyasında tanınmış bir isim ve bu tür tehditlerle ilk kez karşılaşmıyor. Ancak bu kez tehditler daha ciddiydi ve buna uygun olarak daha kapsamlı bir araştırma başlatıldı. Nixon, bu kişilere karşı yasal yollara başvurmanın yanı sıra, siber güvenlik topluluğundan da destek aldı. Nihayetinde, bu tehditlerin peşine düşen ekipler, saldırganların izini sürerek tehditlerin kaynağını belirlemeye çalıştı. Bu olay, siber güvenlik alanındaki tehlikelerin ve bu tür tehditlerin ciddiyetinin bir kez daha altını çizdi. \n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/16/1132526/allison-nixon-hackers-security-researcher/",
-            "date": "2026-02-16T13:22:28.828521",
-            "timestamp": 1771248148.82853
-        },
-        {
-            "title": "Lösemide Protein Yıkımını Hedefleyen Moleküler Yapıştırıcıların Sistematik Keşfi",
-            "original_title": "Systematic Discovery of Molecular Glues Targets Protein Degradation in Leukemia",
-            "content": "Lösemiye karşı yeni bir tedavi yöntemi geliştirmek amacıyla yapılan araştırmalar, moleküler yapıştırıcıların sistematik keşfi üzerine yoğunlaşıyor. Yüksek verimli kimya ve hücre bazlı tarama yöntemlerini birleştirerek ölçeklenebilir bir strateji geliştiren bilim insanları, lösemi ile ilişkili ENL proteinini hedef alarak seçici bir şekilde yıkımını mümkün hale getiriyor. Bu yenilikçi yaklaşım, daha önce tedavi edilemez olarak kabul edilen hedefler için yeni terapötik olanaklar sunuyor.\n\nBu stratejinin merkezinde, moleküler yapıştırıcılar olarak bilinen ve hedef proteinlerin yıkımını sağlayan küçük moleküller yer alıyor. Bu moleküller, hücre içinde belirli proteinlerin yıkımını hızlandırarak kanser hücrelerinin hayatta kalmasını zorlaştırıyor. Araştırmacılar, bu yöntemin özellikle lösemide önemli bir rol oynayan ENL proteinine karşı etkili olduğunu belirtiyor.\n\nYapılan çalışmalar, moleküler yapıştırıcıların, ENL proteini gibi daha önce tedavi edilemeyen proteinleri hedef alarak yıkımını sağladığını ortaya koyuyor. Bu, kanser terapilerinde yeni bir dönemin başlangıcı olabilir ve bu tür hedeflemeler, kanser tedavisinde daha etkili ve seçici yöntemlerin geliştirilmesine olanak tanıyabilir.\n\nBu araştırma, genetik mühendislik ve biyoteknoloji alanında önemli bir adım olarak değerlendiriliyor ve daha fazla araştırma ile desteklendiğinde, gelecekte lösemi tedavisinde devrim yaratabilecek potansiyele sahip.\n\nKaynakça:\nGEN - Genetic Engineering and Biotechnology News. (2023). Systematic Discovery of Molecular Glues Targets Protein Degradation in Leukemia. https://www.genengnews.com/topics/drug-discovery/systematic-discovery-of-molecular-glues-targets-protein-degradation-in-leukemia/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/drug-discovery/systematic-discovery-of-molecular-glues-targets-protein-degradation-in-leukemia/",
-            "date": "2026-02-16T10:03:14.672803",
-            "timestamp": 1771236194.672815
         }
     ]
 }
