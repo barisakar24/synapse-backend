@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-19T09:58:42.808412",
+    "last_updated": "2026-02-19T13:26:41.340714",
     "daily_news": {
-        "title": "Perakende Sektöründe Agentik Yapay Zekayı Hayata Geçirmek: Başarı için Gerekenler",
-        "original_title": "What It Takes to Make Agentic AI Work in Retail",
-        "content": "Enterprise AI hub'ına hoş geldiniz. Infosys Knowledge Institute Podcast'inin bu bölümünde, Dylan Cosper, ABD merkezli büyük bir perakende kuruluşunda Yazılım Mühendisliği Direktörü olan Prasad Banala ile yazılım geliştirme yaşam döngüsü boyunca agentik yapay zekayı operasyonel hale getirme üzerine konuşuyor. Prasad, ekibinin gereksinimleri doğrulamak, oluşturmak için yapay zekayı nasıl uyguladığını açıklıyor.\n\nPrasad Banala, agentik yapay zekanın perakende sektöründe nasıl etkili bir şekilde kullanılabileceğine dair önemli bilgiler sunuyor. Yazılım geliştirme sürecinde, yapay zekanın gereksinimlerin doğrulanması ve oluşturulması gibi kritik aşamalarda nasıl devreye girdiğini detaylandırıyor. Prasad, yapay zekanın sadece verimliliği artırmakla kalmayıp, aynı zamanda müşteri deneyimini de iyileştirdiğini vurguluyor. Prasad'ın açıklamalarına göre, agentik yapay zeka, veri analizi ve karar verme süreçlerini otomatikleştirerek işletmelerin daha hızlı ve doğru kararlar almasına olanak tanıyor. Bununla birlikte, bu teknolojinin başarılı bir şekilde uygulanabilmesi için doğru bir strateji ve uzmanlık gerektiğinin altını çiziyor.\n\nPerakende sektöründeki şirketler, agentik yapay zeka sayesinde operasyonel süreçlerini optimize edebilir ve müşteri memnuniyetini artırabilir. Prasad, yapay zekanın yazılım geliştirme yaşam döngüsünde nasıl entegre edildiğini ve bu entegrasyonun işletmelere nasıl rekabet avantajı sağladığını örneklerle açıklıyor. Sonuç olarak, agentik yapay zekanın etkin bir şekilde kullanılması, perakende sektöründeki işletmelerin gelecekteki başarılarının anahtarı olabilir.\n\nKaynak: MIT Technology Review",
+        "title": "Kolombiya Uyuşturucu Ticaretinde Devrim Yaratan İnsansız Narco Denizaltıları",
+        "original_title": "How uncrewed narco subs could transform the Colombian drug trade",
+        "content": "Geçtiğimiz Nisan ayında, güneşli bir sabah saatlerinde, Kolombiya askeri tarafından işletilen bir gözetleme uçağı, Tayrona Milli Parkı'nın hemen açıklarında 40 metre uzunluğunda köpekbalığı benzeri bir silueti okyanusta dururken tespit etti. Bu, tartışmasız bir şekilde bir 'narco denizaltısı' idi. Neredeyse tamamen su altında seyreden bu sinsi fiberglas gemi, uyuşturucu kartelleri tarafından kokain taşımak için kullanılıyor.\n\nKolombiya'nın uyuşturucu ticaretinde yeni bir çığır açan bu insansız denizaltılar, kartellerin yasadışı ticaret operasyonlarında dikkat çekmeden hareket etmelerine olanak sağlıyor. Gelişmiş teknoloji ile donatılan bu denizaltılar, hem güvenlik güçlerinin işini zorlaştırıyor hem de operasyonel maliyetleri düşürüyor.\n\nGeleneksel yollardan farklı olarak, bu denizaltılar, düşük su hattı profili sayesinde radarlar tarafından tespit edilmesi zor hale geliyor. Ayrıca, insansız olmaları nedeniyle, insan faktöründen kaynaklanabilecek riskler de en aza indirgeniyor.\n\nKolombiya hükümeti, bu yeni tehdit ile başa çıkmak için uluslararası işbirliklerini artırarak, teknolojik kapasitelerini geliştirmeye çalışıyor. Ancak, kartellerin sürekli evrilen stratejileri karşısında bu mücadele oldukça zorlu bir hal alıyor.\n\nKaynak: MIT Technology Review",
         "category": "Yapay Zeka",
         "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/",
-        "date": "2026-02-19T09:58:34.455736",
-        "timestamp": 1771495114.455748
+        "link": "https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/",
+        "date": "2026-02-19T13:26:35.744129",
+        "timestamp": 1771507595.74414
     },
     "news_list": [
+        {
+            "title": "Kolombiya Uyuşturucu Ticaretinde Devrim Yaratan İnsansız Narco Denizaltıları",
+            "original_title": "How uncrewed narco subs could transform the Colombian drug trade",
+            "content": "Geçtiğimiz Nisan ayında, güneşli bir sabah saatlerinde, Kolombiya askeri tarafından işletilen bir gözetleme uçağı, Tayrona Milli Parkı'nın hemen açıklarında 40 metre uzunluğunda köpekbalığı benzeri bir silueti okyanusta dururken tespit etti. Bu, tartışmasız bir şekilde bir 'narco denizaltısı' idi. Neredeyse tamamen su altında seyreden bu sinsi fiberglas gemi, uyuşturucu kartelleri tarafından kokain taşımak için kullanılıyor.\n\nKolombiya'nın uyuşturucu ticaretinde yeni bir çığır açan bu insansız denizaltılar, kartellerin yasadışı ticaret operasyonlarında dikkat çekmeden hareket etmelerine olanak sağlıyor. Gelişmiş teknoloji ile donatılan bu denizaltılar, hem güvenlik güçlerinin işini zorlaştırıyor hem de operasyonel maliyetleri düşürüyor.\n\nGeleneksel yollardan farklı olarak, bu denizaltılar, düşük su hattı profili sayesinde radarlar tarafından tespit edilmesi zor hale geliyor. Ayrıca, insansız olmaları nedeniyle, insan faktöründen kaynaklanabilecek riskler de en aza indirgeniyor.\n\nKolombiya hükümeti, bu yeni tehdit ile başa çıkmak için uluslararası işbirliklerini artırarak, teknolojik kapasitelerini geliştirmeye çalışıyor. Ancak, kartellerin sürekli evrilen stratejileri karşısında bu mücadele oldukça zorlu bir hal alıyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/",
+            "date": "2026-02-19T13:26:35.744129",
+            "timestamp": 1771507595.74414
+        },
+        {
+            "title": "Küresel İklim Adaleti İçin Yükselen Hukuki Mücadele",
+            "original_title": "The building legal case for global climate justice",
+            "content": "Amerika Birleşik Devletleri ve Avrupa Birliği, iklim yıkımlarına imza atarak ekonomik süper güçler haline geldi. Dünyanın petrol ve gazının orantısız bir kısmını yakarak, karbon saatli bombaları diktiler ve bu bombalar ilk olarak dünyanın en yoksul ve en sıcak bölgelerinde patlayacak. \n\nBu sırada, Solomon Adaları ve Çad gibi yerler—alçak rakımlı veya sadece...—iklim değişikliğinin etkilerini en derinden hissedecek ülkeler arasında yer alıyor. \n\nİklim adaleti için büyüyen hukuk mücadelesi, bu ülkelerin karşı karşıya kaldığı haksızlıkların telafi edilmesi ve gelişmiş ülkelerin tarihsel sorumluluklarının kabul edilmesi gerektiğine işaret ediyor. \n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/19/1132877/legal-climate-justice/",
+            "date": "2026-02-19T13:26:40.933958",
+            "timestamp": 1771507600.933967
+        },
         {
             "title": "Perakende Sektöründe Agentik Yapay Zekayı Hayata Geçirmek: Başarı için Gerekenler",
             "original_title": "What It Takes to Make Agentic AI Work in Retail",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/drug-discovery/systematic-discovery-of-molecular-glues-targets-protein-degradation-in-leukemia/",
             "date": "2026-02-16T10:03:14.672803",
             "timestamp": 1771236194.672815
-        },
-        {
-            "title": "Görsel Deneyimler Beynin Geri Besleme Döngüsünü Şekillendiriyor",
-            "original_title": "Visual Experiences Shape the Brain’s Feedback Loop",
-            "content": "Beynimiz, gördüklerimizin bir yansımasıdır. Yeni araştırmalar, görsel deneyimlerin sadece beyni harekete geçirmekle kalmayıp, aynı zamanda dünyayı nasıl algıladığımızı tanımlayan geri besleme döngülerini fiziksel olarak şekillendirdiğini göstermektedir.\n\nGörsel deneyimler, beynimizin nöral yapısını ve işleyişini doğrudan etkileyerek, algılarımızın ve tepkilerimizin nasıl oluştuğunu belirlemektedir. Bu, beynin sadece bir bilgi işlem merkezi değil, aynı zamanda çevresel uyarıcılara göre sürekli olarak kendini yeniden yapılandıran dinamik bir organ olduğunu ortaya koymaktadır.\n\nYapılan yeni araştırmalar, beynin görsel deneyimlerle nasıl şekillendiğini inceleyerek, beyin yapısının ve işlevlerinin çevresel faktörlerle nasıl etkileşime girdiğini daha iyi anlamamıza yardımcı olmaktadır. Bu da, öğrenme süreçlerinden, hafıza oluşumuna kadar pek çok bilişsel fonksiyonun nasıl işlediğine dair önemli ipuçları sunmaktadır.\n\nBulgular, beynin geri besleme döngülerinin sadece genetik faktörler tarafından değil, aynı zamanda yaşam boyu maruz kalınan görsel deneyimler tarafından da şekillendirildiğini göstermektedir. Bu durum, görsel deneyimlerin, düşünme, hissetme ve davranış biçimlerimizi nasıl etkileyebileceği konusunda önemli bilgiler sunmaktadır.\n\nAPA Kaynağı: Neuroscience News (2023). Visual Experiences Shape the Brain’s Feedback Loop. Erişim tarihi: 2023, Ekim 12, https://neurosciencenews.com/visual-experience-neural-wiring-30119/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/visual-experience-neural-wiring-30119/",
-            "date": "2026-02-16T02:53:26.621248",
-            "timestamp": 1771210406.621258
-        },
-        {
-            "title": "Fujifilm Biotechnologies İngiltere'de En Büyük Tek Kullanımlık CDMO Tesisini Açtı",
-            "original_title": "Fujifilm Biotechnologies Opens Largest Single-Use CDMO Facility in the UK",
-            "content": "Fujifilm Biotechnologies, Birleşik Krallık'taki en yeni genişlemesiyle küresel üretim ağını güçlendirmeye devam ediyor. Şirket, 2.000 L ve 5.000 L kapasiteli tek kullanımlık biyoreaktörleri tanıtarak toplamda 19.000 L'ye kadar kapasite sunuyor. Bu yeni tesis, Fujifilm'in biyoproses alanındaki kapasitesini ve esnekliğini artırarak, biyoteknoloji endüstrisinde daha geniş bir hizmet yelpazesi sunmasına olanak tanıyor. \n\nFujifilm Biotechnologies'in bu yeni yatırımı, Birleşik Krallık'ta biyoteknoloji üretim kapasitesini artırmanın yanı sıra, bu alandaki yenilikçi çözümler ve teknolojilerle müşterilerine daha iyi hizmet sunmayı hedefliyor. Şirketin bu hamlesi, biyoteknoloji sektöründe önemli bir gelişme olarak değerlendiriliyor ve gelecekteki üretim taleplerine daha hızlı ve etkili bir şekilde yanıt verebilme potansiyeli taşıyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). Fujifilm Biotechnologies Opens Largest Single-Use CDMO Facility in the UK. Retrieved from https://www.genengnews.com/topics/bioprocessing/fujifilm-biotechnologies-opens-largest-single-use-cdmo-facility-in-the-uk/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/bioprocessing/fujifilm-biotechnologies-opens-largest-single-use-cdmo-facility-in-the-uk/",
-            "date": "2026-02-16T02:53:31.134141",
-            "timestamp": 1771210411.134148
         }
     ]
 }
