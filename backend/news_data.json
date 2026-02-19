@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-19T07:11:24.435808",
+    "last_updated": "2026-02-19T09:58:42.808412",
     "daily_news": {
-        "title": "Daha Az Deneyim, Beyinde Daha Hızlı Uyuma Yol Açıyor",
-        "original_title": "Less Experience Leads to Faster Neural Adaptation",
-        "content": "Yeni bir çalışma, beynin, sürekli tekrarlardan ziyade aralıklı ve nadir olaylardan daha iyi öğrendiğini ortaya koyarak 100 yıllık Pavlovcu teoriyi sorguluyor. Bu çalışma, öğrenme süreçlerimizdeki zamanlama ve deneyim sıklığının önemine dikkat çekiyor.\n\nAraştırmacılar, beynin öğrenme kapasitesinin, maruz kalınan deneyimlerin sıklığına göre değişebileceğini öne sürüyorlar. Sürekli tekrarlar yerine, nadiren karşılaşılan olayların beynin adaptasyon sürecini hızlandırdığı ortaya konulmuş. Bu bulgu, öğrenme ve öğretme stratejilerinde köklü değişikliklere yol açabilecek nitelikte.\n\nÇalışmanın bulguları, öğrenme ve hafıza süreçlerimizi daha iyi anlamamıza yardımcı olabilir. Eğitimde, sürekli tekrar yerine stratejik olarak yerleştirilmiş nadir olayların daha etkili olabileceği sonucuna varılabilir. Ayrıca, bu bulgular, nörolojik rehabilitasyon ve terapilerde de yeni yöntemlerin geliştirilmesine kapı açabilir.\n\nSonuç olarak, bu araştırma, beynin bilgiye nasıl adapte olduğunu daha iyi anlamamıza katkı sağlıyor ve gelecekteki eğitim ve öğrenme uygulamalarına ışık tutuyor.\n\nKaynak: Neuroscience News. (2023). Less Experience Leads to Faster Neural Adaptation. https://neurosciencenews.com/timing-associative-learning-dopamine-30148/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/timing-associative-learning-dopamine-30148/",
-        "date": "2026-02-19T02:52:30.059831",
-        "timestamp": 1771469550.059843
+        "title": "Perakende Sektöründe Agentik Yapay Zekayı Hayata Geçirmek: Başarı için Gerekenler",
+        "original_title": "What It Takes to Make Agentic AI Work in Retail",
+        "content": "Enterprise AI hub'ına hoş geldiniz. Infosys Knowledge Institute Podcast'inin bu bölümünde, Dylan Cosper, ABD merkezli büyük bir perakende kuruluşunda Yazılım Mühendisliği Direktörü olan Prasad Banala ile yazılım geliştirme yaşam döngüsü boyunca agentik yapay zekayı operasyonel hale getirme üzerine konuşuyor. Prasad, ekibinin gereksinimleri doğrulamak, oluşturmak için yapay zekayı nasıl uyguladığını açıklıyor.\n\nPrasad Banala, agentik yapay zekanın perakende sektöründe nasıl etkili bir şekilde kullanılabileceğine dair önemli bilgiler sunuyor. Yazılım geliştirme sürecinde, yapay zekanın gereksinimlerin doğrulanması ve oluşturulması gibi kritik aşamalarda nasıl devreye girdiğini detaylandırıyor. Prasad, yapay zekanın sadece verimliliği artırmakla kalmayıp, aynı zamanda müşteri deneyimini de iyileştirdiğini vurguluyor. Prasad'ın açıklamalarına göre, agentik yapay zeka, veri analizi ve karar verme süreçlerini otomatikleştirerek işletmelerin daha hızlı ve doğru kararlar almasına olanak tanıyor. Bununla birlikte, bu teknolojinin başarılı bir şekilde uygulanabilmesi için doğru bir strateji ve uzmanlık gerektiğinin altını çiziyor.\n\nPerakende sektöründeki şirketler, agentik yapay zeka sayesinde operasyonel süreçlerini optimize edebilir ve müşteri memnuniyetini artırabilir. Prasad, yapay zekanın yazılım geliştirme yaşam döngüsünde nasıl entegre edildiğini ve bu entegrasyonun işletmelere nasıl rekabet avantajı sağladığını örneklerle açıklıyor. Sonuç olarak, agentik yapay zekanın etkin bir şekilde kullanılması, perakende sektöründeki işletmelerin gelecekteki başarılarının anahtarı olabilir.\n\nKaynak: MIT Technology Review",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/",
+        "date": "2026-02-19T09:58:34.455736",
+        "timestamp": 1771495114.455748
     },
     "news_list": [
+        {
+            "title": "Perakende Sektöründe Agentik Yapay Zekayı Hayata Geçirmek: Başarı için Gerekenler",
+            "original_title": "What It Takes to Make Agentic AI Work in Retail",
+            "content": "Enterprise AI hub'ına hoş geldiniz. Infosys Knowledge Institute Podcast'inin bu bölümünde, Dylan Cosper, ABD merkezli büyük bir perakende kuruluşunda Yazılım Mühendisliği Direktörü olan Prasad Banala ile yazılım geliştirme yaşam döngüsü boyunca agentik yapay zekayı operasyonel hale getirme üzerine konuşuyor. Prasad, ekibinin gereksinimleri doğrulamak, oluşturmak için yapay zekayı nasıl uyguladığını açıklıyor.\n\nPrasad Banala, agentik yapay zekanın perakende sektöründe nasıl etkili bir şekilde kullanılabileceğine dair önemli bilgiler sunuyor. Yazılım geliştirme sürecinde, yapay zekanın gereksinimlerin doğrulanması ve oluşturulması gibi kritik aşamalarda nasıl devreye girdiğini detaylandırıyor. Prasad, yapay zekanın sadece verimliliği artırmakla kalmayıp, aynı zamanda müşteri deneyimini de iyileştirdiğini vurguluyor. Prasad'ın açıklamalarına göre, agentik yapay zeka, veri analizi ve karar verme süreçlerini otomatikleştirerek işletmelerin daha hızlı ve doğru kararlar almasına olanak tanıyor. Bununla birlikte, bu teknolojinin başarılı bir şekilde uygulanabilmesi için doğru bir strateji ve uzmanlık gerektiğinin altını çiziyor.\n\nPerakende sektöründeki şirketler, agentik yapay zeka sayesinde operasyonel süreçlerini optimize edebilir ve müşteri memnuniyetini artırabilir. Prasad, yapay zekanın yazılım geliştirme yaşam döngüsünde nasıl entegre edildiğini ve bu entegrasyonun işletmelere nasıl rekabet avantajı sağladığını örneklerle açıklıyor. Sonuç olarak, agentik yapay zekanın etkin bir şekilde kullanılması, perakende sektöründeki işletmelerin gelecekteki başarılarının anahtarı olabilir.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/",
+            "date": "2026-02-19T09:58:34.455736",
+            "timestamp": 1771495114.455748
+        },
+        {
+            "title": "Entegrasyon Kaosundan Dijital Netliğe: Nutrien Ag Solutions’ın Satın Alma Sonrası Yeniden Yapılanması",
+            "original_title": "From Integration Chaos to Digital Clarity: Nutrien Ag Solutions’ Post-Acquisition Reset",
+            "content": "Enterprise AI hub'a hoş geldiniz. Infosys Knowledge Institute Podcast'in bu bölümünde, Dylan Cosper, Nutrien Ag Solutions Avustralya'nın Uygulamalar ve Veri Başkanı Sriram Kalyan ile konuşuyor. Bu bölümde, yüksek riskli bir satın alma sonrası BT ortamını ölçeklenebilir bir dijital temele dönüştürme süreci ele alınıyor. Sriram, iki büyük şirketin birleşmesi sonrası karşılaşılan zorlukları ve bu zorlukların üstesinden nasıl geldiklerini paylaşıyor. \n\nBu süreçte, entegrasyonun getirdiği karmaşık yapıyı sadeleştirerek, dijital dönüşümde nasıl net bir yol haritası oluşturdukları anlatılıyor. Kalyan, organizasyonun karşılaştığı teknik ve stratejik zorlukları, bu zorlukların yenilikçi çözümlerle nasıl aşıldığını ve bunun sonunda elde edilen başarıları detaylandırıyor.\n\nBu kapsamlı dönüşüm süreci, sadece teknik alanda değil, aynı zamanda organizasyon kültürü ve iş süreçlerinde de köklü değişiklikler gerektirdi. Sriram Kalyan, bu dönüşüm sürecinde liderlik ettiği ekiplerin, teknolojik yenilikleri nasıl benimsediklerini ve bu sayede firmanın dijital altyapısını nasıl güçlendirdiklerini açıklıyor.\n\nBu podcast, özellikle satın alma ve birleşme sonrası dijital dönüşüm süreçleriyle ilgilenen profesyoneller için değerli bilgiler sunuyor. Kalyan'ın deneyimleri, benzer süreçlerden geçen diğer organizasyonlar için de yol gösterici olabilir.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/19/1133320/from-integration-chaos-to-digital-clarity-nutrien-ag-solutions-post-acquisition-reset/",
+            "date": "2026-02-19T09:58:42.526846",
+            "timestamp": 1771495122.526854
+        },
         {
             "title": "Daha Az Deneyim, Beyinde Daha Hızlı Uyuma Yol Açıyor",
             "original_title": "Less Experience Leads to Faster Neural Adaptation",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/bioprocessing/fujifilm-biotechnologies-opens-largest-single-use-cdmo-facility-in-the-uk/",
             "date": "2026-02-16T02:53:31.134141",
             "timestamp": 1771210411.134148
-        },
-        {
-            "title": "Yaşlanan Beyinlerde 'Genç' Hafızayı Geri Getiren Nöral Yeniden Programlama",
-            "original_title": "Neural Reprogramming Restores “Young” Memory in Aging Brains",
-            "content": "Araştırmacılar, kısmi hücresel yeniden programlama kullanarak 'engram' nöronlarını gençleştirmeyi başardı ve yaşlı ile Alzheimer model farelerinde hafızayı başarıyla geri kazandılar. Bu çalışma, yaşlanma ile birlikte hafıza kaybının nasıl önlenebileceğine dair umut verici kanıtlar sunuyor. \n\nAraştırmanın merkezinde, hücresel yeniden programlama adı verilen bir teknik yer alıyor. Bu teknikte, belirli genlerin ekspresyonu değiştirilerek hücreler daha genç bir duruma getiriliyor. Özellikle nöronlar üzerinde yapılan bu işlem, yaşlanmanın etkilerini tersine çevirerek hafızanın yeniden canlandırılmasını sağlıyor. \n\nBilim insanları, yaşa bağlı hafıza kaybı ve Alzheimer gibi nörodejeneratif hastalıkların tedavisine yönelik yeni yaklaşımlar geliştirmek amacıyla bu yöntemin potansiyelini araştırıyorlar. Çalışmanın sonuçları, nöronal gençleşmenin bilişsel fonksiyonları iyileştirebileceğini ve hafıza kaybına karşı koruma sağlayabileceğini gösteriyor.\n\nKaynak: Neuroscience News (2023). Neural Reprogramming Restores 'Young' Memory in Aging Brains. Erişim adresi: https://neurosciencenews.com/neural-reprogramming-memory-reversal-30118/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/neural-reprogramming-memory-reversal-30118/",
-            "date": "2026-02-15T21:33:35.970313",
-            "timestamp": 1771191215.970324
-        },
-        {
-            "title": "Beyinde Keşfedilen Yeni Yol, Hızlı Kilo Kaybını Tetikliyor",
-            "original_title": "Newly Discovered Brain Pathway Triggers Weight Loss",
-            "content": "Bilim insanları, beynin içinde vücut yağının hızla yok edilmesini sağlayabilen bir 'anahtar' buldular. Bu keşif, normal bir diyet sürdürülürken bile yağ kaybını tetikleyebileceğini gösteriyor. Yapılan araştırmalar, bu beynin 'anahtar' yolunun, vücudun enerji dengesini düzenleyen temel mekanizmalardan biri olduğunu ortaya koyuyor. Bu mekanizma, kilo kaybını hızlandırabilecek ve obeziteyle mücadelede yeni tedavi yöntemleri geliştirebilecek potansiyele sahip. Bilim insanları, bu keşfin obezite tedavileri için büyük umut vaat ettiğini ve gelecekteki araştırmaların bu yolu daha ayrıntılı bir şekilde inceleyeceğini belirtiyorlar.\n\nKaynak: Neuroscience News (https://neurosciencenews.com/brain-signals-fat-loss-30117/)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/brain-signals-fat-loss-30117/",
-            "date": "2026-02-15T21:33:39.856530",
-            "timestamp": 1771191219.856538
         }
     ]
 }
