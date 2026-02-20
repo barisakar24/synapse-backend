@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-02-19T21:41:49.580176",
+    "last_updated": "2026-02-20T02:47:26.884266",
     "daily_news": {
-        "title": "İkiz Enzimler Beyni Etkileşim ve Hafıza İçin Yeniden Yapılandırıyor",
-        "original_title": "Twin Enzymes Rewire Your Brain for Interaction and Memory",
-        "content": "Bilim insanları, MNK1 ve MNK2 enzimlerinin beynin hafıza ve sosyal merakı yönlendiren özel anahtarları olarak işlev gördüğünü keşfetti. Bu ikiz enzimler, beyindeki nöral bağlantıları yeniden düzenleyerek, bireylerin sosyal etkileşimlerini ve hafıza oluşum süreçlerini etkileyebiliyor. Araştırmacılar, bu enzimlerin nasıl çalıştığını anlamanın, nörolojik ve psikiyatrik bozuklukların tedavisinde yeni yollar açabileceğini belirtiyor. Ayrıca, bu enzimlerin farklı dünyalara ait gibi görünmesine rağmen, ortak bir amaca hizmet ettikleri vurgulanıyor. MNK1 ve MNK2'nin araştırılması, beynin daha önce bilinmeyen yönlerini ortaya çıkarabilir ve bireylerin sosyal davranışlarını derinlemesine anlamamıza yardımcı olabilir.\n\nKaynak: Neuroscience News. (2023). Twin Enzymes Rewire Your Brain for Interaction and Memory. https://neurosciencenews.com/mnk-memory-social-neuroscience-30154/",
+        "title": "Alzheimer'ın İzlerini Gözde Yakalamak: Periferik Retina Tarama Yöntemi",
+        "original_title": "Peripheral Eye Scan Catch Alzheimer’s in Its Tracks",
+        "content": "Araştırmacılar, Alzheimer hastalığının erken belirtilerinin periferik retina üzerinde ortaya çıktığını buldu. Bu keşif, hastalığın non-invaziv bir yöntemle erken teşhisine yönelik yeni bir yol sunuyor.\n\nAlzheimer, dünya genelinde milyonlarca kişiyi etkileyen nörodejeneratif bir hastalıktır. Erken teşhis, hastalığın seyrini yavaşlatmada kritik öneme sahiptir. Ancak, mevcut teşhis yöntemleri genellikle invazivdir veya hastalığın ileri aşamalarında uygulanabilir.\n\nSon araştırmalar, gözün periferik retina bölgesinde Alzheimer'ın erken biyobelirteçlerinin tespit edilebileceğini göstermiştir. Bu bulgu, basit bir göz taramasıyla bile, hastalığın erken teşhis edilmesinin mümkün olabileceğine işaret etmektedir.\n\nPeriferik retina, gözün merkezi görme dışında kalan kısmını oluşturur ve bu bölgedeki değişiklikler, Alzheimer gibi hastalıkların erken belirtilerini gösterebilir. Araştırmacılar, bu bölgedeki biyolojik değişiklikleri inceleyerek, hastalığın erken evrelerinde teşhis edilebileceğini öne sürüyorlar.\n\nBu yeni yöntem, Alzheimer teşhisinde devrim yaratabilir ve hastaların yaşam kalitesini önemli ölçüde artırabilir.\n\nKaynak:\nNeuroscience News. (2023). Peripheral Eye Scan Catch Alzheimer’s in Its Tracks. https://neurosciencenews.com/peripheral-retina-alzheimers-30157/",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/mnk-memory-social-neuroscience-30154/",
-        "date": "2026-02-19T21:41:33.369019",
-        "timestamp": 1771537293.369028
+        "link": "https://neurosciencenews.com/peripheral-retina-alzheimers-30157/",
+        "date": "2026-02-20T02:47:08.183560",
+        "timestamp": 1771555628.18357
     },
     "news_list": [
+        {
+            "title": "Alzheimer'ın İzlerini Gözde Yakalamak: Periferik Retina Tarama Yöntemi",
+            "original_title": "Peripheral Eye Scan Catch Alzheimer’s in Its Tracks",
+            "content": "Araştırmacılar, Alzheimer hastalığının erken belirtilerinin periferik retina üzerinde ortaya çıktığını buldu. Bu keşif, hastalığın non-invaziv bir yöntemle erken teşhisine yönelik yeni bir yol sunuyor.\n\nAlzheimer, dünya genelinde milyonlarca kişiyi etkileyen nörodejeneratif bir hastalıktır. Erken teşhis, hastalığın seyrini yavaşlatmada kritik öneme sahiptir. Ancak, mevcut teşhis yöntemleri genellikle invazivdir veya hastalığın ileri aşamalarında uygulanabilir.\n\nSon araştırmalar, gözün periferik retina bölgesinde Alzheimer'ın erken biyobelirteçlerinin tespit edilebileceğini göstermiştir. Bu bulgu, basit bir göz taramasıyla bile, hastalığın erken teşhis edilmesinin mümkün olabileceğine işaret etmektedir.\n\nPeriferik retina, gözün merkezi görme dışında kalan kısmını oluşturur ve bu bölgedeki değişiklikler, Alzheimer gibi hastalıkların erken belirtilerini gösterebilir. Araştırmacılar, bu bölgedeki biyolojik değişiklikleri inceleyerek, hastalığın erken evrelerinde teşhis edilebileceğini öne sürüyorlar.\n\nBu yeni yöntem, Alzheimer teşhisinde devrim yaratabilir ve hastaların yaşam kalitesini önemli ölçüde artırabilir.\n\nKaynak:\nNeuroscience News. (2023). Peripheral Eye Scan Catch Alzheimer’s in Its Tracks. https://neurosciencenews.com/peripheral-retina-alzheimers-30157/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/peripheral-retina-alzheimers-30157/",
+            "date": "2026-02-20T02:47:08.183560",
+            "timestamp": 1771555628.18357
+        },
+        {
+            "title": "Yapay Zekaların Gizli Kişiliklerini Ortaya Çıkaran Yeni Yöntem",
+            "original_title": "Ghost in the Machine: Exposing the Hidden Personalities of AI",
+            "content": "Araştırmacılar, Büyük Dil Modelleri (LLM'ler) içinde gizli kavramları, önyargıları ve kişilikleri ortaya çıkarmak ve yönlendirmek için yeni bir yöntem geliştirdi. Bu yöntem sayesinde, LLM'lerin iç yapısında saklı kalmış olan ve genellikle fark edilmeyen kişilik yapıları ve önyargılar açığa çıkarılabiliyor. Yapay zekanın bu gizli yapıları, modellerin daha şeffaf ve anlaşılır hale gelmesini sağlıyor. Bu gelişme, yapay zeka teknolojilerinin daha etik ve kontrollü bir şekilde kullanılmasına olanak tanıyabilir. Araştırma, LLM'lerin insan benzeri kişilik özellikleri sergileyebileceğini ve bu özelliklerin belirli görevlerde etkili olabileceğini gösteriyor. LLM'lerin kişilik özellikleri, dil işleme görevlerinde farklı sonuçlar doğurabilir, bu nedenle bu gizli yapıların anlaşılması önem taşıyor. \n\nKaynak: Neuroscience News (2023). Ghost in the Machine: Exposing the Hidden Personalities of AI. https://neurosciencenews.com/llm-hidden-personality-30157/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/llm-hidden-personality-30157/",
+            "date": "2026-02-20T02:47:12.797080",
+            "timestamp": 1771555632.797087
+        },
+        {
+            "title": "Elektronik Ağ, Adacık Hücrelerinin Olgunlaşmasını Hızlandırıyor ve Diyabet Tedavisine Katkı Sağlayabilir",
+            "original_title": "Electronic Mesh Spurs Islet Cell Maturation, Could Aid Diabetes Care",
+            "content": "Bir ultrathin elektronik ağ, kök hücrelerden türetilmiş adacık hücrelerinin elektriksel olgunlaşmasını yönlendirmek amacıyla geliştirildi. Bu çalışma, stimülasyon ve sirkadiyen ritimlerin gelecekte diyabet tedavisi için nakil hazır doku mühendisliğine nasıl yardımcı olabileceğini ortaya koyuyor.\n\nBu yenilikçi teknoloji, adacık hücrelerinin olgunlaşma sürecini hızlandırarak, daha etkili ve verimli bir şekilde diyabet tedavisine yönelik transplantasyonlar için hazır hale gelmelerini sağlama potansiyeline sahip. Elektronik ağ, hücrelerin doğal biyoritimlerine uygun olarak elektriksel uyarılar göndererek, hücrelerin daha hızlı bir şekilde olgunlaşmalarını teşvik ediyor.\n\nBu gelişme, diyabet tedavisinde devrim niteliğinde bir adım olabilir ve gelecekte milyonlarca diyabet hastasının yaşam kalitesini artırabilir. Elektronik ağın sağladığı bu yenilik, hücre mühendisliği alanında yeni kapılar açabilir ve diyabet tedavisi konusunda umut verici bir çözüm sunabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (2023)",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/electronic-mesh-spurs-islet-cell-maturation-could-aid-diabetes-care/",
+            "date": "2026-02-20T02:47:20.098218",
+            "timestamp": 1771555640.098225
+        },
+        {
+            "title": "Farelerde Çoklu Solunum Yolu Virüsleri, Bakteriler ve Alerjenlere Karşı Koruyan Aşı Geliştirildi",
+            "original_title": "Vaccine Protects Against Multiple Respiratory Viruses, Bacteria, and Allergens in Mice",
+            "content": "Araştırmacılar, doğuştan gelen ve adaptif bağışıklık tepkileri arasındaki etkileşimden yararlanan ve farelerde çok çeşitli solunum yolu virüsleri, bakterileri ve alerjenlere karşı birkaç ay boyunca koruma sağlayan evrensel bir, burun içi uygulanan aşı geliştirdiler. Bu yenilikçi aşı, bağışıklık sisteminin farklı bileşenlerini harekete geçirerek, solunum yolu hastalıklarına karşı geniş çaplı bir koruma sunuyor. Aşının geliştirilmesi sırasında, bağışıklık sisteminin doğal savunma mekanizmalarının yanı sıra adaptif bağışıklık yanıtları da optimize edilerek, patojenlere karşı etkili bir kalkan oluşturulması hedeflendi. \n\nBu çalışma, solunum yolu enfeksiyonları ile mücadelede devrim niteliğinde bir adım olarak değerlendiriliyor. Geliştirilen aşının, insanlarda da benzer bir etki göstermesi umut ediliyor ve bu doğrultuda daha ileri çalışmalar planlanıyor.\n\nBu buluşun, özellikle grip, COVID-19 gibi yaygın solunum yolu enfeksiyonlarının yanı sıra, bakteriyel enfeksiyonlar ve alerjik reaksiyonlarla mücadelede önemli bir potansiyele sahip olduğu belirtiliyor. Araştırmacılar, bu aşının insan denemelerine geçmeden önce daha fazla preklinik test yapılması gerektiğini vurguluyorlar.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). Vaccine protects against multiple respiratory viruses, bacteria, and allergens in mice. Retrieved from https://www.genengnews.com/topics/infectious-diseases/vaccine-protects-against-multiple-respiratory-viruses-bacteria-and-allergens-in-mice/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/infectious-diseases/vaccine-protects-against-multiple-respiratory-viruses-bacteria-and-allergens-in-mice/",
+            "date": "2026-02-20T02:47:26.884222",
+            "timestamp": 1771555646.88423
+        },
         {
             "title": "Kenevirin Beyindeki Tokluk Sinyalini Nasıl Aştığını Keşfedin",
             "original_title": "Satiety Bypass: How Cannabis Overrides the Brain’s “I’m Full” Signal",
@@ -470,46 +510,6 @@
             "link": "https://www.genengnews.com/topics/translational-medicine/spotlight-on-organoids/",
             "date": "2026-02-17T02:50:26.313625",
             "timestamp": 1771296626.313634
-        },
-        {
-            "title": "Bazı İnsanlar Neden Yapay Zeka Görsellerini Daha İyi Tespit Ediyor?",
-            "original_title": "Why Some People Are Naturally Better at Detecting AI Images",
-            "content": "Yapay zekanın oluşturduğu görselleri ayırt edebileceğinizi mi düşünüyorsunuz? Bu, bilgisayar becerilerinizle hiçbir ilgisi olmayabilir. Yeni bir araştırma, nesneleri tanıma konusundaki doğal yeteneğinizin, yapay zeka ile oluşturulmuş görselleri fark etmenizin sırrı olduğunu ortaya koyuyor. \n\nGünümüzde yapay zeka, gerçekçi görseller ve hatta videolar oluşturabilme kapasitesine sahip. 'Deepfake' olarak bilinen bu tür içerikler, giderek daha inandırıcı hale geliyor. Ancak bazı insanlar, bu yapay içerikleri diğerlerinden daha iyi ayırt edebiliyor. Yeni bir çalışma, bu yeteneğin bilgisayar veya teknoloji bilgisiyle değil, kişinin nesne tanıma konusundaki doğal yeteneğiyle ilgili olduğunu gösteriyor.\n\nAraştırmacılar, farklı bireylerin nesne tanıma yeteneklerini inceledi ve bu yeteneklerin yapay zeka ile oluşturulmuş görselleri ayırt etme becerisiyle nasıl ilişkilendirildiğini araştırdı. Sonuçlar, nesneleri tanımada doğal olarak daha iyi olan kişilerin, AI tarafından oluşturulmuş görselleri daha kolay tespit edebildiğini ortaya koydu.\n\nBu bulgular, eğitim ve öğretim yöntemlerinde de önemli değişiklikler yapılabileceğine işaret ediyor. Teknoloji ve yapay zeka eğitimi, artık sadece teknik becerilere odaklanmak yerine, bireylerin doğal algılama yeteneklerini geliştirmeye yönelik olabilir.\n\nAPA Kaynak: Neuroscience News. (2023). Why Some People Are Naturally Better at Detecting AI Images. https://neurosciencenews.com/ai-detection-object-recognition-30125/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/ai-detection-object-recognition-30125/",
-            "date": "2026-02-16T21:38:10.390485",
-            "timestamp": 1771277890.390497
-        },
-        {
-            "title": "Erken Yaşta Beslenme Alışkanlıkları Yıllar Sonra Zekayı Şekillendiriyor",
-            "original_title": "Early Life Diets Quietly Shape IQ Years Later",
-            "content": "Yeni araştırmalar, bir çocuğun erken yaşlardaki beslenme alışkanlıklarının, ilkokul dönemindeki IQ seviyesini tahmin edebileceğini ortaya koyuyor. Çalışma, özellikle ultra işlenmiş gıdaların bu süreçteki en büyük etken olduğunu belirtiyor. Erken çocukluk döneminde tüketilen besinlerin kalitesi, beyin gelişimini ve dolayısıyla bilişsel yetenekleri doğrudan etkiliyor. İşlenmemiş taze gıdalar, beyin gelişimini olumlu yönde etkilerken, ultra işlenmiş gıdaların ise bu süreçte olumsuz etkileri olduğu saptanmıştır. Bu bağlamda, çocukların erken yaşlarda sağlıklı ve besleyici gıdalarla beslenmesinin, ileriki yaşlarda zeka düzeylerini olumlu yönde etkileyebileceği belirtilmektedir. \n\nKaynak: Neuroscience News",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/toddler-diet-iq-cognition-30124/",
-            "date": "2026-02-16T21:38:14.799483",
-            "timestamp": 1771277894.799492
-        },
-        {
-            "title": "Duyma Kaybı ile Demans Arasındaki Sinirsel Bağlantı Keşfedildi",
-            "original_title": "Identifying the Neural Link Between Hearing Loss and Dementia",
-            "content": "Bilim insanları, işitme kaybının neden bilişsel gerilemeye yol açtığını açıklayan biyolojik 'köprüyü' keşfettiler ve bunun beyinlerimizin yapısını nasıl değiştirdiğini ortaya koydular. İşitme kaybı, beynin belirli bölgelerinde yapısal değişikliklere neden olarak bilişsel işlevlerin bozulmasına yol açabilir. Bu yeni bulgular, işitme kaybı ile demans arasındaki bağlantıyı anlamak için önemli bir adım olarak değerlendiriliyor. Araştırmacılar, işitme kaybının önlenmesi veya tedavi edilmesi durumunda bilişsel gerilemenin yavaşlatılabileceğini veya engellenebileceğini öne sürüyorlar. Bu da işitme sağlığının korunmasının, genel beyin sağlığı için ne kadar önemli olduğunu bir kez daha gözler önüne seriyor.\n\nKaynak: Neuroscience News. (2023). Identifying the Neural Link Between Hearing Loss and Dementia. https://neurosciencenews.com/hearing-loss-cognitive-decline-30122/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/hearing-loss-cognitive-decline-30122/",
-            "date": "2026-02-16T18:57:13.344197",
-            "timestamp": 1771268233.344207
-        },
-        {
-            "title": "Yapay Zekâ Destekli Protez Kollar için 'Goldilocks' Hızını Bulmak",
-            "original_title": "Finding the “Goldilocks” Speed for AI-Powered Artificial Limbs",
-            "content": "Yeni araştırmalar, yapay zekâ ile güçlendirilmiş robotik bir kolun vücudun bir parçası gibi hissedilmesi için, çok belirgin, insana benzer bir hızda hareket etmesi gerektiğini ortaya koyuyor. Yapay uzuvların kullanıcıları üzerinde yapılan incelemeler, kolun hızının, doğal bir uzuv gibi hissettirilmesi adına kritik bir öneme sahip olduğunu gösteriyor. \n\nAraştırmacılar, bu tür kol hareketlerinin beyin tarafından daha kolay kabul edilebilmesi için hareket hızının ne çok hızlı ne de çok yavaş olması gerektiğini belirtiyor. Bu 'Goldilocks' hızı, kullanıcının protezi daha doğal bir şekilde benimsemesine ve günlük aktivitelerinde daha etkin bir şekilde kullanmasına olanak tanıyor.\n\nÇalışmada, katılımcılar farklı hızlarda hareket eden yapay kolları denemiş ve hız ile kullanıcı memnuniyeti arasındaki ilişki incelenmiştir. Sonuçlar, belirli bir hız aralığının, kullanıcıların kolu daha fazla benimsemesine ve kontrol etmesine yardımcı olduğunu göstermiştir. \n\nYapay uzuv kullanıcıları için bu tür gelişmeler, günlük yaşam kalitesini artırma potansiyeline sahip. Doğru hızın bulunması, protezlerin daha geniş bir kullanıcı kitlesine erişimini ve kabulünü kolaylaştırabilir.\n\nAPA Formatında Kaynak: Neuroscience News. (2023). Finding the “Goldilocks” Speed for AI-Powered Artificial Limbs. https://neurosciencenews.com/robotic-arm-speed-embodiment-30121/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/robotic-arm-speed-embodiment-30121/",
-            "date": "2026-02-16T18:57:24.919954",
-            "timestamp": 1771268244.919964
         }
     ]
 }
