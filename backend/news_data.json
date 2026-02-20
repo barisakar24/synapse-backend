@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-02-20T19:00:31.696445",
+    "last_updated": "2026-02-20T21:34:14.218566",
     "daily_news": {
-        "title": "Astrositler: Korku Hafızasının Mimarları Olarak Keşfedildi",
-        "original_title": "Astrocytes Discovered as Architects of Fear Memory",
-        "content": "Astrositler, yıldız şeklinde olan ve beyindeki birçok işlevde rol oynayan hücrelerdir. Son araştırmalar, bu hücrelerin, beynin korkuyu nasıl öğrenip öğrendiğini ve nasıl unuttuğunu kontrol eden anahtar oyuncular olduğunu ortaya koymuştur. Özellikle, amigdala bölgesinde bulunan astrositler, korku hafızasının oluşumunda ve düzenlenmesinde önemli bir rol oynamaktadır.\n\nAstrositlerin, korku hafızası üzerindeki etkisi, beynin bu hücreler aracılığıyla nasıl daha esnek hale geldiğini göstermektedir. Beyin, yeni bilgileri öğrenme ve eski, gereksiz korku anılarını silme kapasitesine sahiptir. Bu da, travma sonrası stres bozukluğu (TSSB) gibi durumların tedavisinde yeni yaklaşımlar geliştirilmesine olanak tanıyabilir.\n\nAraştırmacılar, astrositlerin nasıl çalıştığını ve korku hafızası üzerindeki etkilerini daha iyi anlamak amacıyla çeşitli deneyler yapmışlardır. Bu deneyler, astrositlerin beyinde sinapsları nasıl etkilediğini ve böylece korku yanıtlarını nasıl şekillendirdiğini göstermiştir.\n\nBu bulgular, astrositlerin sadece destek hücreler olmadığını, aynı zamanda beyin fonksiyonlarının karmaşık ağında merkezi bir rol oynadığını ortaya koymaktadır. Gelecekteki araştırmalar, bu hücrelerin nörolojik ve psikiyatrik bozukluklardaki rolünü daha da aydınlatabilir ve yeni tedavi yöntemlerinin geliştirilmesine katkı sağlayabilir.\n\nKaynak: Neuroscience News (2023). Astrocytes Discovered as Architects of Fear Memory. https://neurosciencenews.com/astrocytes-fear-memory-amygdala-30159/",
+        "title": "Kadınlarda Kronik Ağrının Sürekliliğinin Ardındaki Bağışıklık Sistemi Faktörü",
+        "original_title": "Why Pain Lingers Longer in Women",
+        "content": "Bilim insanları, kadınlarda kronik ağrının neden daha uzun süre devam ettiğini açıklayan biyolojik 'kapatma düğmesini' keşfettiler. Yapılan araştırmalar, bu durumun başta sanıldığı gibi psikolojik değil, bağışıklık sistemiyle alakalı olduğunu ortaya koyuyor. Kadınların ağrı deneyimlerinin erkeklerden farklı olmasının temelinde, bağışıklık hücrelerinin farklı işleyiş biçimleri yatıyor. Özellikle 'monosit' adı verilen bağışıklık hücrelerinin kadınlarda ağrının devamlılığına nasıl katkıda bulunduğuna dair yeni bulgular, bu alandaki tedavi yaklaşımlarını da şekillendirebilir.\n\nAPA Kaynağı: Neuroscience News. (2023). Why Pain Lingers Longer in Women. https://neurosciencenews.com/women-chronic-pain-monocytes-30154/",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/astrocytes-fear-memory-amygdala-30159/",
-        "date": "2026-02-20T19:00:30.651719",
-        "timestamp": 1771614030.651727
+        "link": "https://neurosciencenews.com/women-chronic-pain-monocytes-30154/",
+        "date": "2026-02-20T21:33:57.349012",
+        "timestamp": 1771623237.349021
     },
     "news_list": [
+        {
+            "title": "Zehirli Maruziyetin Etkileri 20 Nesil Boyunca Sürebilir",
+            "original_title": "Toxic Exposure Can Trigger Disease for 20 Generations",
+            "content": "Geçmişten gelen yankılar sağlığınızı etkiliyor olabilir. Yeni bir araştırma, 500 yıl önceki zehirli maruziyetin günümüzdeki kronik hastalıkların gizli kökeni olabileceğini ortaya koyuyor. Çalışma, toksik maddelere maruz kalmanın epigenetik değişiklikler yoluyla nesiller boyunca taşınabileceğini ve bu durumun sağlık üzerinde uzun vadeli etkiler yaratabileceğini gösteriyor.\n\nAraştırmacılar, zehirli maddelere maruziyetin DNA'nın yapısını değiştirmeyebileceğini, ancak genlerin ifade edilme şeklini etkileyebileceğini belirtiyor. Bu tür epigenetik değişiklikler, bir nesilden diğerine aktarılabilir ve bu da sonraki nesillerde çeşitli sağlık sorunlarına yol açabilir.\n\nAraştırma, toksik maruziyetin sadece maruz kalan bireyleri değil, aynı zamanda onların torunlarını ve daha sonraki nesilleri de etkileyebileceğini gösteriyor. Bu durum, çevresel etkenlerin ve yaşam tarzı seçimlerinin sadece kişisel değil, aynı zamanda toplumsal sağlık üzerinde de derin etkileri olabileceğini düşündürüyor.\n\nÇalışma, çevresel toksinlere maruziyetin azaltılması ve bu tür maruziyetlerin sağlık üzerindeki uzun vadeli etkilerinin daha iyi anlaşılması gerektiğine dikkat çekiyor. Bu bulgular, toplum sağlığı politikalarının şekillendirilmesinde ve gelecekteki sağlık stratejilerinin geliştirilmesinde önemli bir rol oynayabilir.\n\nKaynak: Neuroscience News (2023)",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/epigenetic-toxic-inheritance-30155/",
+            "date": "2026-02-20T21:33:52.281918",
+            "timestamp": 1771623232.281928
+        },
+        {
+            "title": "Kadınlarda Kronik Ağrının Sürekliliğinin Ardındaki Bağışıklık Sistemi Faktörü",
+            "original_title": "Why Pain Lingers Longer in Women",
+            "content": "Bilim insanları, kadınlarda kronik ağrının neden daha uzun süre devam ettiğini açıklayan biyolojik 'kapatma düğmesini' keşfettiler. Yapılan araştırmalar, bu durumun başta sanıldığı gibi psikolojik değil, bağışıklık sistemiyle alakalı olduğunu ortaya koyuyor. Kadınların ağrı deneyimlerinin erkeklerden farklı olmasının temelinde, bağışıklık hücrelerinin farklı işleyiş biçimleri yatıyor. Özellikle 'monosit' adı verilen bağışıklık hücrelerinin kadınlarda ağrının devamlılığına nasıl katkıda bulunduğuna dair yeni bulgular, bu alandaki tedavi yaklaşımlarını da şekillendirebilir.\n\nAPA Kaynağı: Neuroscience News. (2023). Why Pain Lingers Longer in Women. https://neurosciencenews.com/women-chronic-pain-monocytes-30154/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/women-chronic-pain-monocytes-30154/",
+            "date": "2026-02-20T21:33:57.349012",
+            "timestamp": 1771623237.349021
+        },
+        {
+            "title": "2025: Yapay Zeka Hype Düzeltmesi ve Gerçeklerle Yüzleşme",
+            "original_title": "Exclusive eBook: The great Al hype correction of 2025",
+            "content": "2025 yılı, yapay zeka sektöründe büyük bir hesaplaşma yılı oldu. En büyük yapay zeka şirketlerinin başında gelen yöneticiler, yerine getiremeyecekleri vaatlerde bulundular. Bu durum, yapay zeka ile ilgili beklentilerimizi yeniden gözden geçirmemiz gerektiğini ortaya koydu. Bu özel eKitap, 2025 yılında yaşanan yapay zeka hype düzeltmesini ve bunun nedenlerini detaylı bir şekilde ele alıyor. Ayrıca, bu olaylar ışığında gelecekteki yapay zeka gelişmelerine yönelik beklentilerimizi nasıl ayarlamamız gerektiği konusunda da önemli bilgiler sunuyor. MIT Technology Review'un Hype Correction paketinin bir parçası olarak sunulan bu eser, okuyuculara sektörün iç yüzünü ve yaşanan hayal kırıklıklarının nedenlerini açıklıyor.\n\nAPA Kaynak: Heaven, W. D. (2025, December 15). Exclusive eBook: The great AI hype correction of 2025. MIT Technology Review.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/",
+            "date": "2026-02-20T21:34:03.802074",
+            "timestamp": 1771623243.802082
+        },
+        {
+            "title": "Kadınlarda Uzun Süreli Ağrının Sebebi: Hormonlarla Düzenlenen Bağışıklık Hücreleri",
+            "original_title": "Hormone-Regulated Immune Cells Implicated in Longer Lasting Pain in Women",
+            "content": "Araştırmacılar, farelerde ağrı çözümünde cinsiyet farklılıklarının nedenini araştırırken IL-10 üreten hormonlarla düzenlenen monositleri belirlediler. İnsanlarda yapılan ek çalışmalar, bu faktörlerin kadınların erkeklere kıyasla neden daha uzun süreli ağrı deneyimlediklerini açıklayabileceğini öne sürüyor.\n\nÇalışma, ağrı mekanizmalarının cinsiyetler arasında nasıl farklılık gösterdiğine dair önemli kanıtlar sunuyor. Özellikle kadınların, hormonal değişiklikler nedeniyle daha uzun süre ağrı hissetmelerine yol açabilecek bağışıklık hücreleri ile ilgili yeni bilgiler ortaya kondu.\n\nMonositler, bağışıklık sisteminin önemli bir parçası olup, vücudun enfeksiyonlarla mücadele etmesine yardımcı olur. Ancak, bu hücrelerin IL-10 üretimi ile hormonlar tarafından nasıl düzenlendiği, kadınların ağrı deneyimlerini daha iyi anlamamızı sağlayabilir. Hormon seviyelerindeki değişiklikler, bu bağışıklık hücrelerinin işlevlerini ve ağrı algısını etkileyebilir.\n\nBu bulgular, kadınların daha etkili ağrı yönetimi stratejileri geliştirmelerine yardımcı olabilir ve tıbbi tedavilerin kişiselleştirilmesi için yeni yollar açabilir. Araştırmanın sonuçları, kadınların ağrı yönetiminde daha fazla dikkat edilmesi gerektiğini ve bu konuda daha fazla araştırmanın yapılmasının önemini vurguluyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). Hormone-regulated immune cells implicated in longer lasting pain in women. https://www.genengnews.com/topics/translational-medicine/hormone-regulated-immune-cells-implicated-in-longer-lasting-pain-in-women/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/hormone-regulated-immune-cells-implicated-in-longer-lasting-pain-in-women/",
+            "date": "2026-02-20T21:34:14.218521",
+            "timestamp": 1771623254.218528
+        },
         {
             "title": "Gençlerde Esrar Kullanımı Psikoz ve Bipolar Riskini İkiye Katlıyor",
             "original_title": "Teen Cannabis Use Doubles Psychosis and Bipolar Risk",
@@ -470,46 +510,6 @@
             "link": "https://neurosciencenews.com/personality-psychology-aging-growth-30136/",
             "date": "2026-02-17T21:43:08.590104",
             "timestamp": 1771364588.590114
-        },
-        {
-            "title": "Alzheimer Tedavisinde Beyin Şişmesi: Başarı Habercisi mi?",
-            "original_title": "Brain Swelling Reveals Alzheimer’s Treatment Success",
-            "content": "Alzheimer hastalarının en çok korktuğu yan etki, aslında tedavinin başarısının bir işareti olabilir. Yeni araştırmalar, beyin şişmesinin plak temizliğinin daha iyi olmasıyla bağlantılı olduğunu gösteriyor. Araştırmacılar, Alzheimer’s hastalığı tedavisinde beyin şişmesinin, tedavinin etkinliğinin bir kanıtı olabileceğini belirtiyorlar. Beyin şişmesinin, zararlı plakların beyinden daha etkili bir şekilde temizlendiğine dair bir gösterge olabileceği düşünülüyor. Bu durum, Alzheimer tedavilerinin etkinliğini artırmak için yeni stratejilerin geliştirilmesine katkı sağlayabilir. \n\nKaynak: Neuroscience News. (2023). Brain Swelling Reveals Alzheimer’s Treatment Success. Retrieved from https://neurosciencenews.com/alzheimers-treatment-brain-swelling-30135/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/alzheimers-treatment-brain-swelling-30135/",
-            "date": "2026-02-17T21:43:13.535726",
-            "timestamp": 1771364593.535734
-        },
-        {
-            "title": "Pankreas Kanseri Hücreleri, ECM'yi Algılayarak Büyüme ve Otrofaji Arasında Geçiş Yapıyor",
-            "original_title": "Pancreatic Cancer Cells Sense ECM to Switch Between Growth and Autophagy",
-            "content": "Araştırmacılar, pankreas kanseri hücrelerinin, ekstraselüler matris (ECM) bileşenlerini algılayarak otrofaji seviyelerini düzenlediğini keşfettiler. Bu düzenleme, hücrelerin hızla çoğalmasını veya hayatta kalmayı tercih etmesini sağlıyor ve bu da kemoterapiye karşı direncin artmasına yol açabiliyor.\n\nPankreas kanseri, yüksek ölüm oranlarıyla bilinen ve teşhis edilmesi zor bir kanser türüdür. Son araştırmalar, kanser hücrelerinin çevrelerindeki mikroyapıyı nasıl algıladıklarını ve buna nasıl tepki verdiklerini anlamanın, hastalığın ilerlemesini durdurmada önemli bir adım olabileceğini gösteriyor. ECM, hücrelerin etrafını saran ve bir nevi destek yapısı sağlayan bir ağdır. Bu matrisin bileşenleri, hücrelerin davranışını doğrudan etkileyebilir.\n\nPankreas kanseri hücrelerinin ECM'yi algılayarak büyüme ve otrofaji arasında geçiş yapma yeteneği, bu hücrelerin çevresel değişikliklere hızlı bir şekilde uyum sağlamasına olanak tanır. Otrofaji, hücrelerin kendi iç yapılarını sindirerek stres koşullarında hayatta kalmalarını sağlayan bir süreçtir. Bu süreç, özellikle besin eksikliği veya kemoterapi gibi zorlayıcı durumlarda devreye girerek hücrelerin hayatta kalmasına yardımcı olur.\n\nBu bulgular, pankreas kanseri tedavisinde yeni stratejilerin geliştirilmesine katkıda bulunabilir. Özellikle ECM ile etkileşimi hedef alarak, kanser hücrelerinin kemoterapiye karşı geliştirdiği direnci kırmak mümkün olabilir. Bu da tedavi yöntemlerinin etkinliğini artırabilir ve hastaların yaşam süresini uzatabilir.\n\nAraştırmanın sonuçları, pankreas kanseri ile mücadelede ECM'nin rolünü daha iyi anlamamıza yardımcı oluyor ve bu alanda daha fazla araştırma yapılmasının önünü açıyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Pancreatic Cancer Cells Sense ECM to Switch Between Growth and Autophagy. GEN - Genetic Engineering and Biotechnology News. https://www.genengnews.com/topics/cancer/pancreatic-cancer-cells-sense-ecm-to-switch-between-growth-and-autophagy/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/pancreatic-cancer-cells-sense-ecm-to-switch-between-growth-and-autophagy/",
-            "date": "2026-02-17T21:43:28.524175",
-            "timestamp": 1771364608.524183
-        },
-        {
-            "title": "Beyin, Robotik Protezlerle Hareketi Yanlış Algılıyor",
-            "original_title": "Brain’s Body Image Misjudges Robotic Limbs",
-            "content": "Araştırmacılar, robotik protez kullanan kişilerin kendi hareketlerini sürekli olarak yanlış değerlendirdiklerini keşfettiler. Başlangıçta yaşanan gariplikten, zamanla gelişen aşırı özgüvene doğru bir geçiş gözlemleniyor. Bu durum, kullanıcıların hareketlerini kontrol etme ve algılama biçimlerinde önemli değişikliklere yol açabiliyor. Çalışma, protezlerin beyinde nasıl temsil edildiği ve kullanıcının vücut imajını nasıl etkilediği konusundaki yeni anlayışlara ışık tutuyor. Araştırmacılar, bu yanlış algılamaların, protez kullanıcılarının günlük yaşamlarında ve rehabilitasyon süreçlerinde karşılaşabilecekleri zorlukları daha iyi anlamamıza yardımcı olabileceğini belirtiyorlar. Beynin vücut imajı ve hareket kontrolü üzerindeki etkisi, robotik protezlerin daha etkili bir şekilde tasarlanmasına ve kullanıcılar için daha iyi deneyimler sunulmasına katkıda bulunabilir.\n\nKaynak: Neuroscience News (2023). Brain’s Body Image Misjudges Robotic Limbs. Erişim adresi: https://neurosciencenews.com/robotic-prosthetic-body-image-30133/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/robotic-prosthetic-body-image-30133/",
-            "date": "2026-02-17T19:08:25.642760",
-            "timestamp": 1771355305.642769
-        },
-        {
-            "title": "Müzisyenlerin Yüzde 40'ı Tinnitus ve İşitsel Rahatsızlık Yaşıyor",
-            "original_title": "40% of Musicians Suffer from Tinnitus and Auditory Distress",
-            "content": "Müzisyenlerin işitme sağlığı üzerine yapılan kapsamlı bir meta-analiz, 28,000 müzisyeni kapsayan çalışmalardan elde edilen verileri inceleyerek, müzisyenlerin %40'ından fazlasının tinnitus (kulak çınlaması) yaşadığını ortaya koydu. Araştırma, farklı müzik türleri arasında işitme kaybı ve hiperakuzi (seslere karşı aşırı hassasiyet) oranlarının da yüksek olduğunu gösteriyor. \n\nTinnitus, genellikle sürekli veya aralıklı olarak kulakta duyulan çınlama, uğultu veya vızıltı sesleri olarak tanımlanır. Müzisyenler, yüksek ses seviyelerine sürekli maruz kalmaları nedeniyle bu tür işitsel rahatsızlıklara daha yatkındır. Araştırmacılar, uzun süreli yüksek sesli müzik performanslarının ve provalarının, müzisyenlerin işitme sağlığını olumsuz etkileyebileceğini belirtiyor.\n\nBu bulgular, müzisyenlerin işitme sağlığını korumak için önlem almaları gerektiğini vurguluyor. İşitme koruyucu ekipmanların kullanımı, düzenli işitme testleri ve ses seviyelerinin kontrol altında tutulması, müzisyenlerin işitme sağlığını korumak için önerilen adımlar arasında yer alıyor.\n\nKaynak: Neuroscience News, 2026",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/musician-tinnitus-auditory-neuroscience-30132/",
-            "date": "2026-02-17T19:08:34.007686",
-            "timestamp": 1771355314.007695
         }
     ]
 }
