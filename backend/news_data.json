@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-02-20T13:17:32.339874",
+    "last_updated": "2026-02-20T15:48:36.039021",
     "daily_news": {
-        "title": "Geleceğin Mesleği: Göğüs Biyomekaniği",
-        "original_title": "Job titles of the future: Breast biomechanic",
-        "content": "Yirmi yıl önce, Joanna Wakefield-Scurr sürekli göğüs ağrısı çekiyordu. Doktoru, ağrının nedenini teşhis edemedi ancak iyi bir destekleyici sutyenin yardımcı olabileceğini söyledi. Bir biyomekanik profesörü olan Wakefield-Scurr, biraz araştırma yaparak bilimsel temelli bir seçenek bulabileceğini düşündü. Aradan yirmi yıl geçti ve hâlâ arayış içinde. Wakefield-Scurr şu anda 18 kişilik bir ekibe liderlik ediyor. Göğüs biyomekaniği alanında yaptığı çalışmalarla, kadınların daha iyi destek alabilecekleri ve konforlu hissettikleri iç çamaşırları tasarlamaya yönelik araştırmalar yürütüyor. Bu alandaki çalışmalar, sadece kadınların günlük yaşam kalitesini artırmakla kalmayıp, aynı zamanda spor performanslarını da iyileştirmeyi hedefliyor. Wakefield-Scurr ve ekibi, göğüs hareketlerini daha iyi anlamak için çeşitli biyomekanik testler yapıyor. Bu testler, göğüslerin farklı aktiviteler sırasında nasıl hareket ettiğini ve bu hareketlerin kadınların vücutlarında nasıl bir etki yarattığını incelemeye yönelik. Elde edilen veriler, daha iyi sutyen tasarımları geliştirilmesine katkıda bulunuyor ve bu da kadınların yaşamlarını olumlu yönde etkiliyor. Wakefield-Scurr'un çalışmaları, gelecekte göğüs biyomekaniği alanında uzmanlaşmış profesyonellere olan ihtiyacı artırıyor ve bu alandaki kariyer fırsatlarını genişletiyor.\n\nWakefield-Scurr'un çabaları, kadınların sağlık ve konforunu artırmanın ötesine geçerek, sporcuların performansını da geliştirmeyi hedefliyor. Bu alandaki ilerlemeler, kadınların daha rahat ve güvenli bir şekilde spor yapmalarını sağlayabilir. Göğüs biyomekaniği, gelecekte daha fazla ilgi görecek ve bu alanda uzmanlaşmış bireyler, kadın sağlığına ve spor bilimine önemli katkılarda bulunacak.\n\nKaynak: MIT Technology Review",
+        "title": "Microsoft'un Gerçek ve Yapay Zekayı Ayırt Etme Planı ve Kızamık Vakalarındaki Endişe Verici Artış",
+        "original_title": "The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
+        "content": "Bu, dünyanın dört bir yanından teknoloji haberlerini derleyen günlük bültenimiz The Download'ın bugünkü sayısıdır. Microsoft, çevrimiçi ortamda neyin gerçek, neyin yapay zeka ürünü olduğunu kanıtlamak için yeni bir plan geliştirdi. Yapay zeka destekli aldatma, artık çevrimiçi yaşamlarımızı sarmış durumda. Bunu kolayca fark edebileceğiniz yüksek profilli vakalar var. Ancak bazen bu aldatma, fark edilmeden gözden kaçabiliyor...\n\nMicrosoft'un bu yeni planı, çevrimiçi içeriklerin doğruluğunu ve kaynağını daha iyi belirleyebilmek için kullanıcılara araçlar sunmayı hedefliyor. Kullanıcılar, bir içeriğin gerçek mi yoksa yapay zeka tarafından mı üretildiğini anlamak için bu araçlardan faydalanabilecekler. Teknoloji devi, bu adımıyla internet üzerindeki bilgi kirliliğini azaltmayı ve kullanıcıların daha güvenilir kaynaklara erişimini sağlamayı amaçlıyor.\n\nÖte yandan, kızamık vakalarındaki endişe verici artış da dikkat çekiyor. Özellikle çocuklar arasında yayılan bu hastalık, aşı karşıtlığı gibi faktörler nedeniyle yeniden gündeme gelmiş durumda. Sağlık otoriteleri, kızamık aşısının önemine vurgu yaparken, toplumun bağışıklık kazanması için aşılamanın kritik bir rol oynadığını belirtiyor.\n\nBu vakaların artışı, sağlık sistemlerini zorlayan ve halk sağlığını tehdit eden önemli bir sorun olarak karşımıza çıkıyor. Yetkililer, kızamık vakalarının azaltılması için toplumsal farkındalığın artırılması gerektiğini vurguluyor.\n\nKaynak: MIT Technology Review",
         "category": "Yapay Zeka",
         "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/02/20/1132629/job-titles-future-breast-biomechanic/",
-        "date": "2026-02-20T13:17:24.135051",
-        "timestamp": 1771593444.135062
+        "link": "https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/",
+        "date": "2026-02-20T15:48:35.686820",
+        "timestamp": 1771602515.686829
     },
     "news_list": [
+        {
+            "title": "Hava Kirliliği Alzheimer Riskini Artırıyor",
+            "original_title": "Air pollution linked to higher Alzheimer’s risk in 28 million older Americans",
+            "content": "Hava kirliliğinin solunum sistemine zarar vermesinin yanı sıra, Alzheimer hastalığı riskini de artırabileceği ortaya çıktı. Neredeyse 28 milyon yaşlı Amerikalı üzerinde yapılan kapsamlı bir araştırmada, ince partikül hava kirliliğine uzun süre maruz kalmanın Alzheimer gelişme olasılığını artırdığı bulundu. Bu bağlantının, büyük ölçüde kirliliğin beyin üzerindeki doğrudan etkilerinden kaynaklandığı ve hipertansiyon veya depresyon gibi ilişkili sağlık durumları aracılığıyla olmadığı görüldü.\n\nAraştırmacılar, ince partikül olarak bilinen PM2.5'in beyin sağlığını nasıl etkilediğini inceledi. PM2.5, 2.5 mikrometreden daha küçük çaplı parçacıklardır ve akciğerlerin derinliklerine kadar inebilmektedir. Uzun süreli maruz kalma, bu parçacıkların beyne doğrudan zarar verebileceğini düşündürmektedir.\n\nÇalışmanın bulguları, hava kalitesinin iyileştirilmesinin sadece solunumsal hastalıkları değil, aynı zamanda nörodejeneratif hastalıkların önlenmesinde de önemli bir adım olabileceğini göstermektedir. Araştırmacılar, hava kirliliğine maruz kalmanın azaltılmasıyla, yaşlı nüfusta Alzheimer hastalığı prevalansının da düşebileceğini vurgulamaktadır.\n\nBu araştırma, hava kirliliğinin beyindeki potansiyel etkilerini daha iyi anlamak için daha fazla çalışmanın yapılması gerektiğini ortaya koymaktadır.\n\nAPA: Mind & Brain News -- ScienceDaily. (Tarih). Air pollution linked to higher Alzheimer’s risk in 28 million older Americans. https://www.sciencedaily.com/releases/2023/XX/XXX.htm",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260220010836.htm",
+            "date": "2026-02-20T15:48:17.355592",
+            "timestamp": 1771602497.355603
+        },
+        {
+            "title": "Parkinson Hastaları İçin Umut: Dopamin Üreten Kök Hücreler Beyne Naklediliyor",
+            "original_title": "Doctors implant dopamine-producing stem cells in Parkinson’s patients",
+            "content": "Parkinson hastalığının tedavisinde çığır açacak bir klinik deneme, özel olarak tasarlanmış kök hücrelerin, hastaların beyinlerinde dopamin üretimini yeniden başlatıp başlatamayacağını test ediyor. Parkinson hastalığı, dopamin üreten hücrelerin kademeli olarak kaybı nedeniyle oluşur ve bu kayıp, titreme, sertlik ve yavaş hareket gibi belirtilere yol açar. Araştırmacılar, laboratuvar ortamında üretilen bu hücreleri, beyin hareket merkezine doğrudan yerleştirerek kaybedilen hücrelerin yerine geçmesini sağlamaya çalışıyor. Bu yenilikçi tedavi yöntemi, Parkinson hastalığının semptomlarını hafifletmeyi ve hastaların yaşam kalitesini artırmayı hedefliyor. Eğer başarılı olursa, bu yöntem Parkinson hastalığı tedavisinde devrim niteliğinde bir adım olabilir. \n\nKaynak: Mind & Brain News. (tarih). Doctors implant dopamine-producing stem cells in Parkinson’s patients. ScienceDaily adresinden alındı.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260219040820.htm",
+            "date": "2026-02-20T15:48:24.844284",
+            "timestamp": 1771602504.844293
+        },
+        {
+            "title": "Microsoft'un Gerçek ve Yapay Zekayı Ayırt Etme Planı ve Kızamık Vakalarındaki Endişe Verici Artış",
+            "original_title": "The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
+            "content": "Bu, dünyanın dört bir yanından teknoloji haberlerini derleyen günlük bültenimiz The Download'ın bugünkü sayısıdır. Microsoft, çevrimiçi ortamda neyin gerçek, neyin yapay zeka ürünü olduğunu kanıtlamak için yeni bir plan geliştirdi. Yapay zeka destekli aldatma, artık çevrimiçi yaşamlarımızı sarmış durumda. Bunu kolayca fark edebileceğiniz yüksek profilli vakalar var. Ancak bazen bu aldatma, fark edilmeden gözden kaçabiliyor...\n\nMicrosoft'un bu yeni planı, çevrimiçi içeriklerin doğruluğunu ve kaynağını daha iyi belirleyebilmek için kullanıcılara araçlar sunmayı hedefliyor. Kullanıcılar, bir içeriğin gerçek mi yoksa yapay zeka tarafından mı üretildiğini anlamak için bu araçlardan faydalanabilecekler. Teknoloji devi, bu adımıyla internet üzerindeki bilgi kirliliğini azaltmayı ve kullanıcıların daha güvenilir kaynaklara erişimini sağlamayı amaçlıyor.\n\nÖte yandan, kızamık vakalarındaki endişe verici artış da dikkat çekiyor. Özellikle çocuklar arasında yayılan bu hastalık, aşı karşıtlığı gibi faktörler nedeniyle yeniden gündeme gelmiş durumda. Sağlık otoriteleri, kızamık aşısının önemine vurgu yaparken, toplumun bağışıklık kazanması için aşılamanın kritik bir rol oynadığını belirtiyor.\n\nBu vakaların artışı, sağlık sistemlerini zorlayan ve halk sağlığını tehdit eden önemli bir sorun olarak karşımıza çıkıyor. Yetkililer, kızamık vakalarının azaltılması için toplumsal farkındalığın artırılması gerektiğini vurguluyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/",
+            "date": "2026-02-20T15:48:35.686820",
+            "timestamp": 1771602515.686829
+        },
         {
             "title": "Geleceğin Mesleği: Göğüs Biyomekaniği",
             "original_title": "Job titles of the future: Breast biomechanic",
@@ -480,36 +510,6 @@
             "link": "https://www.genengnews.com/topics/artificial-intelligence/prima-mente-unlocks-early-stage-alzheimers-diagnostics-with-epigenome-model/",
             "date": "2026-02-17T16:01:14.818961",
             "timestamp": 1771344074.818971
-        },
-        {
-            "title": "Lüks Araç Hırsızlığının Yükselişi ve Antimikrobiyal Dirençle Mücadele",
-            "original_title": "The Download: the rise of luxury car theft, and fighting antimicrobial resistance",
-            "content": "Günümüzün giderek dijitalleşen dünyasında, lüks araç hırsızlığı yeni bir boyut kazanıyor. Dünya genelinde, habersiz bireyler, organize bir suç girişiminin yeni ve büyüyen türü olan araç taşıma dolandırıcılığı ve hırsızlık olaylarına istemeden dahil oluyor. Hırsızlar, genellikle lüks araçları hedef alarak, bu araçların taşıma işlemlerini sahte belgeler ve kimliklerle gerçekleştiriyor. Bu tür suçlar, özellikle Lamborghini gibi yüksek değerli markaları hedef alıyor ve küresel bir sorun haline geliyor. Araç sahipleri, dolandırıcıların karmaşık planlarına karşı savunmasız kalırken, güvenlik önlemlerinin artırılması ve daha iyi doğrulama süreçlerinin geliştirilmesi gerektiği anlaşılıyor. \n\nAntimikrobiyal dirençle mücadele ise, sağlık alanında karşılaşılan bir diğer önemli zorluk olarak öne çıkıyor. Bakterilerin antibiyotiklere karşı geliştirdiği direnç, tedavileri zorlaştırırken, yeni ve etkili ilaçların geliştirilmesi için küresel iş birliklerine ihtiyaç duyuluyor. Bilim insanları, bu direnci yenmek için yenilikçi yaklaşımlar ve teknolojiler üzerinde çalışıyor. \n\nBu konular, teknolojinin karanlık yüzü ve sağlık alanındaki acil ihtiyaçlar hakkında önemli tartışmalar başlatıyor. Toplumların bu tür tehditlerle başa çıkabilmesi için daha bilinçli ve hazırlıklı olması gerekiyor.\n\nKaynak: MIT Technology Review.",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/17/1133018/the-download-the-rise-of-luxury-car-theft-and-fighting-antimicrobial-resistance/",
-            "date": "2026-02-17T13:23:01.376607",
-            "timestamp": 1771334581.376616
-        },
-        {
-            "title": "Kayıp Lamborghini'lerin Gizemli Hikayesi",
-            "original_title": "The curious case of the disappearing Lamborghinis",
-            "content": "Sam Zahr, gri Rolls-Royce Dawn convertible'ı ilk gördüğünde, turuncu iç tasarımı ve turuncu tavanı ile, filosuna mükemmel bir ekleme yaptığını anlamıştı. \"Müşterilerimize çok cazip geldi,\" diye belirtti. Dream Luxury Rental'da operasyon direktörü olarak, Detroit bölgesinde lüks araç sürmek isteyen müşterilere hizmet veriyor. Bu tür araçlar, özellikle özel günlerde veya gösterişli etkinliklerde dikkat çekmek isteyen bireyler arasında popüler.\n\nAncak işler her zaman göründüğü gibi gitmiyor. Lüks araç kiralama sektöründe, özellikle de pahalı ve gösterişli markalar söz konusu olduğunda, bazen beklenmedik olaylar yaşanabiliyor. Son dönemde, özellikle Lamborghini gibi değerli araçların gizemli bir şekilde ortadan kaybolduğu bazı vakalar rapor edildi. Bu tür olaylar, sektördeki güvenliği ve araçların izlenebilirliğini sorgulatan bir durum yarattı.\n\nZahr, bu tür olayların önüne geçmek adına araçlara yerleştirilen izleme sistemlerinin önemini vurguluyor. Ayrıca, kiralama yapılacak kişilerin geçmişlerinin ve niyetlerinin dikkatlice değerlendirilmesi gerektiğinin altını çiziyor. Müşteri memnuniyeti kadar, araçların güvenli bir şekilde geri döneceğinden emin olmak da bir öncelik.\n\nBu olaylar, hem kiralama firmalarını hem de araç sahiplerini daha dikkatli olmaya ve ekstra önlemler almaya yönlendiriyor. Lüks araç kiralama sektörü, her ne kadar cazip fırsatlar sunsa da, bu tür riskler nedeniyle dikkatli bir yönetim gerektiriyor.",
-            "category": "Bilim & Teknoloji",
-            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/17/1132538/curious-case-disappearing-lambhorghinis/",
-            "date": "2026-02-17T13:23:08.146168",
-            "timestamp": 1771334588.146177
-        },
-        {
-            "title": "Empati ve Müzik ile Yalnızlığa Son: Konuşan Müzikal Robotlar",
-            "original_title": "Musical Robot: Combining AI Speech and Song to Combat Loneliness",
-            "content": "Araştırmacılar, müzik ve empatik konuşmayı birleştirmenin, sosyal robotların insanlarla bağ kurma ve yalnızlığı azaltma konusundaki etkinliğini önemli ölçüde artırdığını keşfettiler. Günümüzde hızla artan yalnızlık sorununa yenilikçi bir çözüm sunan bu robotlar, yaşlılar ve yalnız yaşayan bireyler için umut vadediyor. Robotların müzikle desteklenen empatik konuşmaları, kullanıcılarla daha derin ve anlamlı bir ilişki kurmalarını sağlıyor. Bu teknoloji, özellikle yaşlı bakım evlerinde ve yalnız yaşayan bireylerin bulunduğu ortamlarda büyük bir potansiyele sahip. Yapay zekanın gücünü kullanarak, bu tür sosyal robotlar, yalnızlık hissini azaltmak ve duygusal destek sağlamak konusunda devrim yaratabilir. Araştırma, yalnızlığın psikolojik ve fiziksel sağlığa olan olumsuz etkilerini azaltmak için teknolojinin nasıl kullanılabileceğini gösteriyor.\n\nKaynak: Neuroscience News (2023)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/talking-musical-robot-empathy-ai-30129/",
-            "date": "2026-02-17T02:50:12.594891",
-            "timestamp": 1771296612.594904
         }
     ]
 }
