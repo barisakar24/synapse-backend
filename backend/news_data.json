@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-02-21T09:38:56.844062",
+    "last_updated": "2026-02-21T13:06:15.041557",
     "daily_news": {
-        "title": "Pnömoni Bakterisinin Alzheimer'a Etkisi Ortaya Çıktı",
-        "original_title": "Common pneumonia bacterium may fuel Alzheimer’s disease",
-        "content": "Yaygın olarak pnömoni ve sinüs enfeksiyonlarına neden olmasıyla bilinen bir bakteri, Alzheimer hastalığında da şaşırtıcı bir rol oynayabilir. Araştırmacılar, Chlamydia pneumoniae'nin retinaya ve beyne girebildiğini, burada iltihaplanma, sinir hücresi ölümü ve Alzheimer ile bağlantılı olan amiloid-beta protein birikimini tetiklediğini keşfettiler. Bu bakterinin daha yüksek seviyelerine Alzheimer hastalarında, özellikle yüksek risk taşıyan APOE4 genine sahip olanlarda rastlandı ve bu durum daha ciddi bilişsel gerileme ile ilişkilendirildi.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260221000321.htm",
-        "date": "2026-02-21T06:55:13.973729",
-        "timestamp": 1771656913.97374
+        "title": "Düzensiz Lipid Nanoparçacıkları ile Daha Etkili Hücresel Kargo Teslimatı",
+        "original_title": "Internal Disorder in Lipid Nanoparticles May Improve Cargo Delivery in Cells",
+        "content": "Bilim insanları, organize ve amorf lipid nanoparçacıklarını karşılaştırarak, daha az yapılandırılmış iç mimarilere sahip nanoparçacıkların hücre içi ilaç teslimatını artırdığını keşfettiler. Bu bulgu, daha yüksek ilaç yükleme oranlarının tedavi edici performansı artırdığına dair yaygın varsayımlara meydan okuyor. Araştırmacılar, iç yapının düzensizliğinin, hücre zarlarıyla etkileşimi kolaylaştırarak ve hücreye giriş sürecini optimize ederek ilaçların daha etkili bir şekilde taşınmasına olanak tanıdığını belirttiler. Bu çalışma, gelecekteki ilaç taşıma sistemlerinin tasarımında yeni bir yaklaşımın önünü açabilir. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News (n.d.). Internal Disorder in Lipid Nanoparticles May Improve Cargo Delivery in Cells. GEN - Genetic Engineering and Biotechnology News. Retrieved from https://www.genengnews.com/topics/drug-discovery/internal-disorder-in-lipid-nanoparticles-may-improve-cargo-delivery-in-cells/.",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/drug-discovery/internal-disorder-in-lipid-nanoparticles-may-improve-cargo-delivery-in-cells/",
+        "date": "2026-02-21T13:06:15.041508",
+        "timestamp": 1771679175.04152
     },
     "news_list": [
+        {
+            "title": "Düzensiz Lipid Nanoparçacıkları ile Daha Etkili Hücresel Kargo Teslimatı",
+            "original_title": "Internal Disorder in Lipid Nanoparticles May Improve Cargo Delivery in Cells",
+            "content": "Bilim insanları, organize ve amorf lipid nanoparçacıklarını karşılaştırarak, daha az yapılandırılmış iç mimarilere sahip nanoparçacıkların hücre içi ilaç teslimatını artırdığını keşfettiler. Bu bulgu, daha yüksek ilaç yükleme oranlarının tedavi edici performansı artırdığına dair yaygın varsayımlara meydan okuyor. Araştırmacılar, iç yapının düzensizliğinin, hücre zarlarıyla etkileşimi kolaylaştırarak ve hücreye giriş sürecini optimize ederek ilaçların daha etkili bir şekilde taşınmasına olanak tanıdığını belirttiler. Bu çalışma, gelecekteki ilaç taşıma sistemlerinin tasarımında yeni bir yaklaşımın önünü açabilir. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News (n.d.). Internal Disorder in Lipid Nanoparticles May Improve Cargo Delivery in Cells. GEN - Genetic Engineering and Biotechnology News. Retrieved from https://www.genengnews.com/topics/drug-discovery/internal-disorder-in-lipid-nanoparticles-may-improve-cargo-delivery-in-cells/.",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/drug-discovery/internal-disorder-in-lipid-nanoparticles-may-improve-cargo-delivery-in-cells/",
+            "date": "2026-02-21T13:06:15.041508",
+            "timestamp": 1771679175.04152
+        },
         {
             "title": "Pnömoni Bakterisinin Alzheimer'a Etkisi Ortaya Çıktı",
             "original_title": "Common pneumonia bacterium may fuel Alzheimer’s disease",
@@ -500,16 +510,6 @@
             "link": "https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/",
             "date": "2026-02-18T13:25:09.132481",
             "timestamp": 1771421109.132489
-        },
-        {
-            "title": "Beyindeki Gelişim Anahtarı: Ömür Boyu Obezite Riskini Belirleyebilir",
-            "original_title": "Brain’s Developmental Switch May Shape Lifelong Obesity Risk",
-            "content": "Son araştırmalara göre, beynimizdeki gelişimsel bir 'kader anahtarı', yaşam boyu obezite riskimizi şekillendirebilir. Bilim insanları, beynin gelişimi sırasında açlık veya tokluk duygularının baskın olmasını belirleyen bu mekanizmanın, kilo alımını önceden programlayabileceğini keşfetti. Araştırma, beynin hipotalamus bölgesinde yer alan hücrelerin, bireylerin yemek yeme davranışları üzerinde önemli bir rol oynadığını gösteriyor. Bu hücrelerin nasıl geliştiği ve hangi yöne doğru evrildiği, kişinin gelecekteki kilo kontrolü üzerinde belirleyici olabiliyor.\n\nBu buluş, obeziteyle mücadelede yeni tedavi yöntemlerinin geliştirilmesine kapı aralayabilir. Beynin bu bölgesinde yapılan incelemeler, bireylerin kilo alımını kontrol altında tutmak için hangi noktalara odaklanılması gerektiğini gösterebilir. Araştırmacılar, bu bulguların, kişiye özel diyet ve egzersiz programları oluşturulmasına da yardımcı olabileceğini belirtiyor.\n\nKaynak: Neuroscience News, (https://neurosciencenews.com/otp-brain-development-obesity-30138/)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/otp-brain-development-obesity-30138/",
-            "date": "2026-02-18T02:53:09.379725",
-            "timestamp": 1771383189.379737
         }
     ]
 }
