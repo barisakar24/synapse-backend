@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-22T18:49:07.767947",
+    "last_updated": "2026-02-22T21:32:44.954797",
     "daily_news": {
-        "title": "Moderna'nın FDA Onayı: 50 Yaş Üstü İçin Aşı Umudu",
-        "original_title": "StockWatch: FDA Reversal Boosts Moderna, But Not Other Vaccine Companies",
-        "content": "Moderna, yaşa dayalı olarak revize edilmiş bir düzenleyici yol izlemeyi önerdi. Bu kapsamda, 50-64 yaş arası yetişkinler için tam onay ve 65 yaş ve üzeri yetişkinler için hızlandırılmış onay talep etmeyi kabul etti. Hızlandırılmış onay, Moderna'nın yaşlı yetişkinlerde ek bir çalışma yapmasını gerektiren bir pazarlama sonrası şartına tabi olacak. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
-        "category": "Genetik",
-        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/infectious-diseases/stockwatch-fda-reversal-boosts-moderna-but-not-other-vaccine-companies/",
-        "date": "2026-02-22T02:53:41.522081",
-        "timestamp": 1771728821.522092
+        "title": "Omurilik Onarımında Devrim: Yeni Biyo-İmplant Umut Vaat Ediyor",
+        "original_title": "New Bio-Implant for Spinal Cord Repair",
+        "content": "Bilim insanları, omurilik yaralanmalarının tedavisinde devrim yaratabilecek yeni bir biyo-implant geliştirdi. Bu yenilikçi implant, RNA kullanarak sinirlerin yeniden büyümesini tetikleyip felçli bölgeler arasında bir köprü kuruyor. 3D yazıcı teknolojisi kullanılarak üretilen bu implant, omurilik onarımında uzun süredir karşılaşılan 'tamir freni' sorununu çözmeyi hedefliyor. \n\nOmurilik yaralanmaları, sıklıkla sinirlerin hasar görmesi ve bunun sonucunda felç oluşmasıyla sonuçlanır. Geleneksel tedaviler, sinirlerin yeniden büyümesini ve işlev kazanmasını sağlamakta yetersiz kalıyordu. Ancak yeni geliştirilen bu biyo-implant, RNA teknolojisi sayesinde sinirlerin yeniden büyümesini hızlandırarak bu engeli aşmayı vaat ediyor.\n\nBilim insanları, RNA'nın sinir hücreleri üzerindeki etkilerini inceleyerek, hasarlı bölgelerdeki sinirlerin yeniden yapılanmasını teşvik edecek genetik talimatlar veriyorlar. Bu süreç, sinir hücreleri arasındaki bağlantıların yeniden oluşmasını ve böylece sinir sinyallerinin geçişini mümkün kılıyor. Sonuç olarak, felçli bölgelerde kısmi veya tam hareketlilik geri kazanılabiliyor.\n\nBu yenilik, omurilik yaralanmalarının tedavisinde çığır açıcı bir adım olarak görülüyor. Araştırmacılar, bu biyo-implantın klinik denemelerle insanlarda kullanılabilir hale gelmesi için çalışmalarını sürdürüyor.\n\nKaynak: Neuroscience News (2023, Şubat 26). New Bio-Implant for Spinal Cord Repair. Erişim adresi: https://neurosciencenews.com/spinal-cord-rna-implant-pten-30169/",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/spinal-cord-rna-implant-pten-30169/",
+        "date": "2026-02-22T21:32:44.115510",
+        "timestamp": 1771795964.11552
     },
     "news_list": [
+        {
+            "title": "Bebek Uykusu ve Otizm Belirtileri Arasındaki Bağlantı",
+            "original_title": "Predicting Autism Traits Through Infant Sleep",
+            "content": "Bilim insanları, bebeklerin duyusal hassasiyetlerinin uyku kalitelerini etkileyebileceğini keşfetti. Duyusal hassasiyete sahip bebekler, dış dünyayla bağlantılarını koparamadıkları için daha yüzeysel ve daha az dinlendirici bir uyku deneyimi yaşıyorlar. Bu durum, otizm spektrum bozukluğu (ASD) belirtilerinin erken dönemde tahmin edilmesine yardımcı olabilir. Bebeklerin uyku düzenleri ve duyusal hassasiyetleri arasındaki bu bağlantı, otizm belirtilerinin erken teşhisi ve müdahalesi için yeni yollar açabilir. Araştırmacılar, bu bulguların otizmli bireyler için daha iyi bir yaşam kalitesi sağlamada önemli bir rol oynayabileceğine inanıyor.\n\nKaynak: Neuroscience News (2026, Şubat). Predicting Autism Traits Through Infant Sleep. https://neurosciencenews.com/infant-sensory-sensitivity-sleep-asd-30170/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/infant-sensory-sensitivity-sleep-asd-30170/",
+            "date": "2026-02-22T21:32:37.451241",
+            "timestamp": 1771795957.451252
+        },
+        {
+            "title": "Omurilik Onarımında Devrim: Yeni Biyo-İmplant Umut Vaat Ediyor",
+            "original_title": "New Bio-Implant for Spinal Cord Repair",
+            "content": "Bilim insanları, omurilik yaralanmalarının tedavisinde devrim yaratabilecek yeni bir biyo-implant geliştirdi. Bu yenilikçi implant, RNA kullanarak sinirlerin yeniden büyümesini tetikleyip felçli bölgeler arasında bir köprü kuruyor. 3D yazıcı teknolojisi kullanılarak üretilen bu implant, omurilik onarımında uzun süredir karşılaşılan 'tamir freni' sorununu çözmeyi hedefliyor. \n\nOmurilik yaralanmaları, sıklıkla sinirlerin hasar görmesi ve bunun sonucunda felç oluşmasıyla sonuçlanır. Geleneksel tedaviler, sinirlerin yeniden büyümesini ve işlev kazanmasını sağlamakta yetersiz kalıyordu. Ancak yeni geliştirilen bu biyo-implant, RNA teknolojisi sayesinde sinirlerin yeniden büyümesini hızlandırarak bu engeli aşmayı vaat ediyor.\n\nBilim insanları, RNA'nın sinir hücreleri üzerindeki etkilerini inceleyerek, hasarlı bölgelerdeki sinirlerin yeniden yapılanmasını teşvik edecek genetik talimatlar veriyorlar. Bu süreç, sinir hücreleri arasındaki bağlantıların yeniden oluşmasını ve böylece sinir sinyallerinin geçişini mümkün kılıyor. Sonuç olarak, felçli bölgelerde kısmi veya tam hareketlilik geri kazanılabiliyor.\n\nBu yenilik, omurilik yaralanmalarının tedavisinde çığır açıcı bir adım olarak görülüyor. Araştırmacılar, bu biyo-implantın klinik denemelerle insanlarda kullanılabilir hale gelmesi için çalışmalarını sürdürüyor.\n\nKaynak: Neuroscience News (2023, Şubat 26). New Bio-Implant for Spinal Cord Repair. Erişim adresi: https://neurosciencenews.com/spinal-cord-rna-implant-pten-30169/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/spinal-cord-rna-implant-pten-30169/",
+            "date": "2026-02-22T21:32:44.115510",
+            "timestamp": 1771795964.11552
+        },
         {
             "title": "Moderna'nın FDA Onayı: 50 Yaş Üstü İçin Aşı Umudu",
             "original_title": "StockWatch: FDA Reversal Boosts Moderna, But Not Other Vaccine Companies",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/agouti-gene-paternal-care-30141/",
             "date": "2026-02-18T19:07:23.968894",
             "timestamp": 1771441643.968904
-        },
-        {
-            "title": "Google DeepMind, Sohbet Botlarının Ahlaki Davranışlarını Mercek Altına Alıyor",
-            "original_title": "Google DeepMind wants to know if chatbots are just virtue signaling",
-            "content": "Google DeepMind, büyük dil modellerinin (LLM'ler) ahlaki davranışlarının, kod yazma veya matematik yapma becerileri kadar titizlikle incelenmesi gerektiğini savunuyor. LLM'ler geliştikçe, insanlar onlardan arkadaş, terapist, tıbbi danışman gibi roller üstlenmelerini talep ediyor. Google DeepMind, bu tür yapay zekâların, çeşitli alanlarda insanlara yardımcı olurken sergiledikleri ahlaki davranışların da değerlendirilmesi gerektiğine dikkat çekiyor. Bu durum, yapay zekâların yalnızca teknik yeterliliklerinin değil, aynı zamanda etik ve ahlaki sorumluluklarının da önem kazandığı bir dünyaya işaret ediyor.\n\nKaynak: MIT Technology Review (2023). Google DeepMind wants to know if chatbots are just virtue signaling. Erişim adresi: [MIT Technology Review](https://www.technologyreview.com/)",
-            "category": "Psikoloji",
-            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
-            "date": "2026-02-18T19:07:29.740441",
-            "timestamp": 1771441649.74045
-        },
-        {
-            "title": "MSC Sekretomları: Raf-Üstü Biyoterapötik Ürünlere Yeni Bir Bakış",
-            "original_title": "MSC Secretomes as Engineered, Off-the-Shelf Bioproducts",
-            "content": "Özet: MSC sekretomlarını üretilmiş, raf-üstü biyoterapötik ürünler olarak yeniden çerçeveleyen araştırmacılar, klinik etkinlik ve ölçeklenebilirliğin hücre yerine süreçle tanımlanabilmesi için kaynak sağlama, ön koşullandırma, biyoreaktörler ve analizlerin nasıl uyumlu hale getirilmesi gerektiğini ortaya koyuyor.\n\nMSC (Mezenkimal Kök Hücre) sekretomları, biyolojik tedavi alanında devrim yaratabilecek bir potansiyele sahip. Araştırmacılar, bu sekretomların potansiyelini en üst düzeye çıkarmak ve klinik uygulamalarını genişletmek için bir dizi strateji geliştirmektedir. Bu stratejiler arasında sekretomların kaynağının doğru belirlenmesi, ön koşullandırma süreçlerinin optimize edilmesi, biyoreaktörlerin etkin kullanımı ve kapsamlı analitik yöntemlerin entegrasyonu bulunmaktadır.\n\nGeleneksel hücre bazlı tedaviler genellikle karmaşık ve maliyetli süreçler gerektirirken, MSC sekretomlarının mühendislik ürünü olarak raf-üstü biyoterapötik ürünlere dönüştürülmesi, bu süreçleri basitleştirerek daha geniş bir hasta kitlesine ulaşmayı hedeflemektedir. Bu yaklaşım, MSC'lerin kendilerine odaklanmak yerine, hücrelerin salgıladığı biyolojik aktif moleküllerin klinik etkinlik için nasıl optimize edilebileceğini vurgulamaktadır.\n\nAraştırmalar, bu sekretomların elde edilmesi ve işlenmesi sırasında kullanılan biyoreaktörlerin tasarımının, ürünün etkinliği ve güvenilirliği üzerinde doğrudan bir etkiye sahip olduğunu göstermektedir. Ayrıca, sekretomların klinik kullanım için hazırlanmasında kullanılan analitik tekniklerin de sürecin ayrılmaz bir parçası olduğu belirtilmektedir. Bu teknikler, ürünün kalitesini, etkinliğini ve güvenliğini sağlamak için kritik öneme sahiptir.\n\nSonuç olarak, MSC sekretomlarının raf-üstü biyoterapötik ürünler olarak kullanılması, hücre temelli tedavilerin sınırlarını genişletmekte ve bu alanda yeni bir dönemin kapılarını aralamaktadır. Bu yenilikçi yaklaşım, biyoterapötiklerin daha erişilebilir ve ölçeklenebilir hale gelmesine olanak tanımaktadır.\n\nKaynak:\nGEN - Genetic Engineering and Biotechnology News. (tarih). MSC Secretomes as Engineered, Off-the-Shelf Bioproducts. https://www.genengnews.com/topics/bioprocessing/from-cells-to-shelf-ready-secretomes/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/bioprocessing/from-cells-to-shelf-ready-secretomes/",
-            "date": "2026-02-18T19:07:40.743639",
-            "timestamp": 1771441660.743648
         }
     ]
 }
