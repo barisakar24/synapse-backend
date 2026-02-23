@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-02-23T19:18:26.233189",
+    "last_updated": "2026-02-23T21:55:35.779287",
     "daily_news": {
-        "title": "Kuş Gözlemciliği: Beyni Yaşlanmaya Karşı Korumak",
-        "original_title": "Expertise Protects Against Cognitive Decline",
-        "content": "Kuş gözlemciliği sadece bir hobi değil, aynı zamanda beyin için güçlü bir egzersiz. Bilim insanları, kuş gözlemciliği sırasında gereken yoğun algılama ve hafıza süreçlerinin, beynin yaşlanmaya karşı daha iyi bir şekilde yeniden organize olmasına yardımcı olduğunu keşfetti. Birdwatching, yani kuş gözlemciliği, kişinin dikkatini ve hafıza kapasitesini geliştirerek bilişsel gerilemeye karşı bir kalkan görevi görebiliyor. \n\nBilim insanları, bu tür yoğun faaliyetlerin beyin yapısında ve işlevinde olumlu değişiklikler yapabileceğini belirtiyor. Özellikle yaşlı bireylerde, düzenli olarak yapılan kuş gözlemciliği gibi aktiviteler, bilişsel sağlığın korunmasına önemli katkılar sağlayabilir. Bu bulgular, yaşlanma sürecinde bilişsel işlevlerin korunması için uzmanlık gerektiren hobilerin ve aktivitelerin ne kadar önemli olduğunu ortaya koyuyor.\n\nKuş gözlemciliği sırasında, gözlemciler farklı kuş türlerini tanımlamak için dikkatli gözlem ve güçlü bir hafıza kullanır. Bu süreç, beynin bilişsel rezervini artırır ve yaşlanmanın getirdiği bilişsel zorluklara karşı daha dirençli olmasını sağlar.\n\nBu araştırma, yaşlılıkta bilişsel sağlığı korumak için stratejiler geliştirilmesine ışık tutuyor ve uzmanlık gerektiren aktivitelerin beyin sağlığı üzerindeki olumlu etkilerini vurguluyor.\n\nKaynak: Neuroscience News, \"Expertise Protects Against Cognitive Decline,\" https://neurosciencenews.com/birdwatching-brain-expertise-aging-30176/.",
+        "title": "Nöronlar Açlıkta Hayatta Kalmak İçin RNA 'Dokunaçları' Kullanıyor",
+        "original_title": "Neurons Use RNA “Tentacles” to Survive Starvation",
+        "content": "Araştırmacılar, nöronların açlık veya stres dönemlerinde enerji tasarrufu yapmak ve hayatta kalmak için inaktif ribozomları RNA 'dokunaçları' kullanarak eşleştirdiğini keşfettiler. Bu keşif, nöronların enerji tasarrufu sağlamak için nasıl adapte olabildiğini ve zorlu koşullar altında nasıl hayatta kalabileceğini anlamamıza yardımcı oluyor. RNA 'dokunaçları', ribozomları bir araya getirerek, protein sentezini geçici olarak durduruyor ve enerji harcamasını azaltıyor. Bu süreç, nöronların enerji kaynakları sınırlı olduğunda bile işlevlerini sürdürebilmelerini sağlıyor. Bu bulgular, nörolojik hastalıkların tedavisinde yeni stratejilere kapı aralayabilir.\n\nKaynak: Neuroscience News (2023). Neurons Use RNA “Tentacles” to Survive Starvation. https://neurosciencenews.com/neuron-ribosome-hibernation-rna-30180/",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/birdwatching-brain-expertise-aging-30176/",
-        "date": "2026-02-23T19:17:53.847691",
-        "timestamp": 1771874273.847704
+        "link": "https://neurosciencenews.com/neuron-ribosome-hibernation-rna-30180/",
+        "date": "2026-02-23T21:55:15.892452",
+        "timestamp": 1771883715.892466
     },
     "news_list": [
+        {
+            "title": "Nöronlar Açlıkta Hayatta Kalmak İçin RNA 'Dokunaçları' Kullanıyor",
+            "original_title": "Neurons Use RNA “Tentacles” to Survive Starvation",
+            "content": "Araştırmacılar, nöronların açlık veya stres dönemlerinde enerji tasarrufu yapmak ve hayatta kalmak için inaktif ribozomları RNA 'dokunaçları' kullanarak eşleştirdiğini keşfettiler. Bu keşif, nöronların enerji tasarrufu sağlamak için nasıl adapte olabildiğini ve zorlu koşullar altında nasıl hayatta kalabileceğini anlamamıza yardımcı oluyor. RNA 'dokunaçları', ribozomları bir araya getirerek, protein sentezini geçici olarak durduruyor ve enerji harcamasını azaltıyor. Bu süreç, nöronların enerji kaynakları sınırlı olduğunda bile işlevlerini sürdürebilmelerini sağlıyor. Bu bulgular, nörolojik hastalıkların tedavisinde yeni stratejilere kapı aralayabilir.\n\nKaynak: Neuroscience News (2023). Neurons Use RNA “Tentacles” to Survive Starvation. https://neurosciencenews.com/neuron-ribosome-hibernation-rna-30180/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/neuron-ribosome-hibernation-rna-30180/",
+            "date": "2026-02-23T21:55:15.892452",
+            "timestamp": 1771883715.892466
+        },
+        {
+            "title": "Beyin, Nöbetleri Hatıra Gibi Kaydedebilir",
+            "original_title": "Brain May Treat Seizures As Memories",
+            "content": "Beyin öğrenmede ustadır, ancak bazen yanlış şeyleri öğrenir. Bilim insanları, nöbetlerden sonra uykunun epilepsi için bir \"kaydetme düğmesi\" olarak işlev gördüğünü keşfettiler. Epilepsi, beyindeki anormal elektriksel aktivitenin neden olduğu bir nörolojik bozukluktur ve genellikle tekrarlayan nöbetlerle karakterizedir. Araştırmalar, nöbetlerden sonra uykunun, beynin bu deneyimleri adeta birer hatıra gibi işlemesine neden olabileceğini öne sürüyor. Nöbet sonrası uyku sırasında, beyin nöbetle ilgili faaliyetleri konsolide ederek, adeta bu olayın bir kaydını tutar. Bu durum, beynin bazen yanlış bilgileri öğrenip saklayabileceğini gösteriyor. Bu yeni bulgular, epilepsi tedavisinde yeni yaklaşımlar geliştirmek için umut verici olabilir. Araştırmacılar, gelecekte bu \"kaydetme\" sürecini etkileyebilecek tedavi yöntemleri üzerinde daha fazla çalışma yapmayı planlıyorlar. \n\nKaynak: Neuroscience News (2023). Brain May Treat Seizures As Memories. https://neurosciencenews.com/seizure-memory-sleep-consolidation-30179/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/seizure-memory-sleep-consolidation-30179/",
+            "date": "2026-02-23T21:55:21.919313",
+            "timestamp": 1771883721.919323
+        },
+        {
+            "title": "Gilead, Arcellx'i 7.8 Milyar Dolara Satın Alarak Kanser Portföyünü Genişletiyor",
+            "original_title": "Gilead to Acquire Arcellx for $7.8B, Adding Anito-Cel to Cancer Pipeline",
+            "content": "Gilead Sciences, Arcellx'i 7.8 milyar dolara satın almak için anlaşmaya vardı. Bu anlaşma, Gilead'a, Arcellx'in lider adayı olan ve Gilead'ın bir şirketi olan Kite ile birlikte son 3 yılı aşkın süredir ortaklaşa geliştirdikleri ve ticarileştirdikleri, multiple miyelom için BCMA yönlendirmeli bir kimerik antijen reseptörü (CAR) T-hücre tedavisi olan Anito-Cel üzerinde tam kontrol sağlamayı amaçlıyor.\n\nAnlaşma, Gilead'ın kanser tedavi portföyünü genişletme stratejisinin bir parçası olarak görülüyor. Arcellx'in geliştirdiği bu yenilikçi tedavi, multiple miyelom gibi zorlu kanser türlerine karşı etkili bir çözüm sunmayı hedefliyor. Gilead ve Kite, bu terapiyi daha geniş kitlelere ulaştırmak adına güçlü bir iş birliği yürütüyor.\n\nAnlaşmanın tamamlanmasıyla, Gilead'ın kanser araştırmaları ve tedavi alanındaki etkisi daha da artacak ve bu da şirketi sektörde daha rekabetçi bir konuma getirecek.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). Gilead to Acquire Arcellx for $7.8B, Adding Anito-Cel to Cancer Pipeline. https://www.genengnews.com/topics/cancer/gilead-to-acquire-arcellx-for-7-8b-adding-anito-cel-to-cancer-pipeline/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/gilead-to-acquire-arcellx-for-7-8b-adding-anito-cel-to-cancer-pipeline/",
+            "date": "2026-02-23T21:55:30.113215",
+            "timestamp": 1771883730.113226
+        },
+        {
+            "title": "Kütle Fotometrisi ile GMP Kalite Kontrolünü Hızlandırmak",
+            "original_title": "Accelerating GMP Quality Control with Mass Photometry from Development to Release",
+            "content": "Franklin Biolabs'ta QC-Analytics'in yardımcı direktörü Dr. Ray Zhang, bir <i>GEN</i> web seminerinde kütle fotometrisinin prensiplerini tanıtacak ve bu teknolojinin analitik yaşam döngüsünün farklı aşamalarında nasıl değer kattığını vurgulayacak. Kütle fotometrisi, özellikle ilaç geliştirme ve üretim süreçlerinde kalite kontrolünü hızlandırma potansiyeline sahip yenilikçi bir yöntem olarak öne çıkıyor. Dr. Zhang, bu web seminerinde, kütle fotometrisinin geliştirmeden ürün onayına kadar olan süreçte nasıl kritik bir rol oynayabileceğini detaylandıracak.\n\nWeb semineri, kütle fotometrisinin GMP (İyi Üretim Uygulamaları) kalite kontrol süreçlerinde uygulama alanlarını ve avantajlarını ele alacak. Bu teknoloji, moleküler düzeyde hassas ölçümler yapabilmesi sayesinde, hem geliştirme aşamasında hem de piyasaya sürülmeden önceki son kalite kontrol süreçlerinde önemli katkılar sağlayabilir. Dr. Zhang, kütle fotometrisinin laboratuvarlardaki uygulama örneklerini ve bu teknoloji sayesinde elde edilen verimlilik artışlarını katılımcılarla paylaşacak.\n\nBu web seminerinin, kalite kontrol süreçlerini optimize etmek isteyen profesyoneller için değerli bilgiler sunacağı belirtiliyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). Accelerating GMP Quality Control with Mass Photometry from Development to Release. Retrieved from https://www.genengnews.com/multimedia/webinars/accelerating-gmp-quality-control-with-mass-photometry-from-development-to-release/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/multimedia/webinars/accelerating-gmp-quality-control-with-mass-photometry-from-development-to-release/",
+            "date": "2026-02-23T21:55:35.779238",
+            "timestamp": 1771883735.779248
+        },
         {
             "title": "Kuş Gözlemciliği: Beyni Yaşlanmaya Karşı Korumak",
             "original_title": "Expertise Protects Against Cognitive Decline",
@@ -470,46 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/02/260218031606.htm",
             "date": "2026-02-19T15:57:45.598638",
             "timestamp": 1771516665.598652
-        },
-        {
-            "title": "Otonom Uyuşturucu Denizaltıları ve Erdem Gösterişi Yapan Sohbet Botları",
-            "original_title": "The Download: autonomous narco submarines, and virtue signaling chatbots",
-            "content": "Bugünün teknoloji dünyasında neler olduğuna dair günlük bir doz sağlayan hafta içi bültenimiz The Download'ın bugünkü sayısına hoş geldiniz. Kolombiya uyuşturucu ticaretini dönüştürebilecek insansız denizaltılar. On yıllardır, el yapımı uyuşturucu denizaltıları, kokain ticaretinin en kaçak ve üretken iş gücü arasında yer aldı ve çok tonlu yasa dışı uyuşturucu yüklerini taşıdı. Bu denizaltılar, uyuşturucu ticaretinin en gözden kaçan ama en önemli araçlarından biri haline geldi. İnsansız denizaltıların geliştirilmesi, bu ticareti daha da zorlayıcı hale getirebilir. Bunun yanı sıra, erdem gösterişi yapan sohbet botları da günümüzün dikkat çeken teknolojik gelişmeleri arasında yer alıyor.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/19/1133339/the-download-autonomous-narco-submarines-and-virtue-signaling-chatbots/",
-            "date": "2026-02-19T15:57:52.590936",
-            "timestamp": 1771516672.590947
-        },
-        {
-            "title": "Kolombiya Uyuşturucu Ticaretinde Devrim Yaratan İnsansız Narco Denizaltıları",
-            "original_title": "How uncrewed narco subs could transform the Colombian drug trade",
-            "content": "Geçtiğimiz Nisan ayında, güneşli bir sabah saatlerinde, Kolombiya askeri tarafından işletilen bir gözetleme uçağı, Tayrona Milli Parkı'nın hemen açıklarında 40 metre uzunluğunda köpekbalığı benzeri bir silueti okyanusta dururken tespit etti. Bu, tartışmasız bir şekilde bir 'narco denizaltısı' idi. Neredeyse tamamen su altında seyreden bu sinsi fiberglas gemi, uyuşturucu kartelleri tarafından kokain taşımak için kullanılıyor.\n\nKolombiya'nın uyuşturucu ticaretinde yeni bir çığır açan bu insansız denizaltılar, kartellerin yasadışı ticaret operasyonlarında dikkat çekmeden hareket etmelerine olanak sağlıyor. Gelişmiş teknoloji ile donatılan bu denizaltılar, hem güvenlik güçlerinin işini zorlaştırıyor hem de operasyonel maliyetleri düşürüyor.\n\nGeleneksel yollardan farklı olarak, bu denizaltılar, düşük su hattı profili sayesinde radarlar tarafından tespit edilmesi zor hale geliyor. Ayrıca, insansız olmaları nedeniyle, insan faktöründen kaynaklanabilecek riskler de en aza indirgeniyor.\n\nKolombiya hükümeti, bu yeni tehdit ile başa çıkmak için uluslararası işbirliklerini artırarak, teknolojik kapasitelerini geliştirmeye çalışıyor. Ancak, kartellerin sürekli evrilen stratejileri karşısında bu mücadele oldukça zorlu bir hal alıyor.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/19/1132619/uncrewed-narco-subs-transform-columbian-drug-trade/",
-            "date": "2026-02-19T13:26:35.744129",
-            "timestamp": 1771507595.74414
-        },
-        {
-            "title": "Küresel İklim Adaleti İçin Yükselen Hukuki Mücadele",
-            "original_title": "The building legal case for global climate justice",
-            "content": "Amerika Birleşik Devletleri ve Avrupa Birliği, iklim yıkımlarına imza atarak ekonomik süper güçler haline geldi. Dünyanın petrol ve gazının orantısız bir kısmını yakarak, karbon saatli bombaları diktiler ve bu bombalar ilk olarak dünyanın en yoksul ve en sıcak bölgelerinde patlayacak. \n\nBu sırada, Solomon Adaları ve Çad gibi yerler—alçak rakımlı veya sadece...—iklim değişikliğinin etkilerini en derinden hissedecek ülkeler arasında yer alıyor. \n\nİklim adaleti için büyüyen hukuk mücadelesi, bu ülkelerin karşı karşıya kaldığı haksızlıkların telafi edilmesi ve gelişmiş ülkelerin tarihsel sorumluluklarının kabul edilmesi gerektiğine işaret ediyor. \n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/19/1132877/legal-climate-justice/",
-            "date": "2026-02-19T13:26:40.933958",
-            "timestamp": 1771507600.933967
-        },
-        {
-            "title": "Perakende Sektöründe Agentik Yapay Zekayı Hayata Geçirmek: Başarı için Gerekenler",
-            "original_title": "What It Takes to Make Agentic AI Work in Retail",
-            "content": "Enterprise AI hub'ına hoş geldiniz. Infosys Knowledge Institute Podcast'inin bu bölümünde, Dylan Cosper, ABD merkezli büyük bir perakende kuruluşunda Yazılım Mühendisliği Direktörü olan Prasad Banala ile yazılım geliştirme yaşam döngüsü boyunca agentik yapay zekayı operasyonel hale getirme üzerine konuşuyor. Prasad, ekibinin gereksinimleri doğrulamak, oluşturmak için yapay zekayı nasıl uyguladığını açıklıyor.\n\nPrasad Banala, agentik yapay zekanın perakende sektöründe nasıl etkili bir şekilde kullanılabileceğine dair önemli bilgiler sunuyor. Yazılım geliştirme sürecinde, yapay zekanın gereksinimlerin doğrulanması ve oluşturulması gibi kritik aşamalarda nasıl devreye girdiğini detaylandırıyor. Prasad, yapay zekanın sadece verimliliği artırmakla kalmayıp, aynı zamanda müşteri deneyimini de iyileştirdiğini vurguluyor. Prasad'ın açıklamalarına göre, agentik yapay zeka, veri analizi ve karar verme süreçlerini otomatikleştirerek işletmelerin daha hızlı ve doğru kararlar almasına olanak tanıyor. Bununla birlikte, bu teknolojinin başarılı bir şekilde uygulanabilmesi için doğru bir strateji ve uzmanlık gerektiğinin altını çiziyor.\n\nPerakende sektöründeki şirketler, agentik yapay zeka sayesinde operasyonel süreçlerini optimize edebilir ve müşteri memnuniyetini artırabilir. Prasad, yapay zekanın yazılım geliştirme yaşam döngüsünde nasıl entegre edildiğini ve bu entegrasyonun işletmelere nasıl rekabet avantajı sağladığını örneklerle açıklıyor. Sonuç olarak, agentik yapay zekanın etkin bir şekilde kullanılması, perakende sektöründeki işletmelerin gelecekteki başarılarının anahtarı olabilir.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/",
-            "date": "2026-02-19T09:58:34.455736",
-            "timestamp": 1771495114.455748
         }
     ]
 }
