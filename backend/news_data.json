@@ -1,16 +1,66 @@
 {
-    "last_updated": "2026-02-23T15:55:31.204306",
+    "last_updated": "2026-02-23T19:18:26.233189",
     "daily_news": {
-        "title": "Chicago'da Gözetim Ağı: Teknolojinin Gücü ve Mahremiyet Tartışmaları",
-        "original_title": "The Download: Chicago’s surveillance network, and building better bras",
-        "content": "Bugünün \"The Download\" bülteninde, teknoloji dünyasında neler olup bittiğine dair günlük bir doz sunuyoruz. Bu sayıda, Chicago'nun gözetim ağı ve daha iyi sütyenler tasarlama konuları ele alınıyor.\n\nChicago'daki Gözetim Panopticon'u\n\nChicago, on binlerce gözetim kamerasına sahip; bazı tahminlere göre bu sayı 45.000'e kadar çıkıyor. Bu, ABD'de kişi başına düşen en yüksek sayılardan biri. Chicago, ülkenin en büyük gözetim ağlarından birine sahip olmanın gururunu taşıyor. \n\nKentin bu denli geniş bir gözetim ağına sahip olması, hem güvenlik hem de mahremiyet açısından çeşitli tartışmaları beraberinde getiriyor. Yetkililer, bu kameraların suçla mücadelede etkili olduğunu savunurken, eleştirmenler ise bu durumun kişisel mahremiyetin ihlali olduğunu ileri sürüyor.\n\nTeknoloji ve gözetim konularındaki bu gelişmeler, toplumsal yaşamın nasıl şekillendiği ve bireylerin özel alanlarının ne şekilde korunduğu konularında derinlemesine düşünmeyi gerektiriyor.\n\nKaynak: MIT Technology Review",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/02/23/1133495/the-download-chicagos-surveillance-network-and-building-better-bras/",
-        "date": "2026-02-23T15:55:23.757069",
-        "timestamp": 1771862123.757078
+        "title": "Kuş Gözlemciliği: Beyni Yaşlanmaya Karşı Korumak",
+        "original_title": "Expertise Protects Against Cognitive Decline",
+        "content": "Kuş gözlemciliği sadece bir hobi değil, aynı zamanda beyin için güçlü bir egzersiz. Bilim insanları, kuş gözlemciliği sırasında gereken yoğun algılama ve hafıza süreçlerinin, beynin yaşlanmaya karşı daha iyi bir şekilde yeniden organize olmasına yardımcı olduğunu keşfetti. Birdwatching, yani kuş gözlemciliği, kişinin dikkatini ve hafıza kapasitesini geliştirerek bilişsel gerilemeye karşı bir kalkan görevi görebiliyor. \n\nBilim insanları, bu tür yoğun faaliyetlerin beyin yapısında ve işlevinde olumlu değişiklikler yapabileceğini belirtiyor. Özellikle yaşlı bireylerde, düzenli olarak yapılan kuş gözlemciliği gibi aktiviteler, bilişsel sağlığın korunmasına önemli katkılar sağlayabilir. Bu bulgular, yaşlanma sürecinde bilişsel işlevlerin korunması için uzmanlık gerektiren hobilerin ve aktivitelerin ne kadar önemli olduğunu ortaya koyuyor.\n\nKuş gözlemciliği sırasında, gözlemciler farklı kuş türlerini tanımlamak için dikkatli gözlem ve güçlü bir hafıza kullanır. Bu süreç, beynin bilişsel rezervini artırır ve yaşlanmanın getirdiği bilişsel zorluklara karşı daha dirençli olmasını sağlar.\n\nBu araştırma, yaşlılıkta bilişsel sağlığı korumak için stratejiler geliştirilmesine ışık tutuyor ve uzmanlık gerektiren aktivitelerin beyin sağlığı üzerindeki olumlu etkilerini vurguluyor.\n\nKaynak: Neuroscience News, \"Expertise Protects Against Cognitive Decline,\" https://neurosciencenews.com/birdwatching-brain-expertise-aging-30176/.",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/birdwatching-brain-expertise-aging-30176/",
+        "date": "2026-02-23T19:17:53.847691",
+        "timestamp": 1771874273.847704
     },
     "news_list": [
+        {
+            "title": "Kuş Gözlemciliği: Beyni Yaşlanmaya Karşı Korumak",
+            "original_title": "Expertise Protects Against Cognitive Decline",
+            "content": "Kuş gözlemciliği sadece bir hobi değil, aynı zamanda beyin için güçlü bir egzersiz. Bilim insanları, kuş gözlemciliği sırasında gereken yoğun algılama ve hafıza süreçlerinin, beynin yaşlanmaya karşı daha iyi bir şekilde yeniden organize olmasına yardımcı olduğunu keşfetti. Birdwatching, yani kuş gözlemciliği, kişinin dikkatini ve hafıza kapasitesini geliştirerek bilişsel gerilemeye karşı bir kalkan görevi görebiliyor. \n\nBilim insanları, bu tür yoğun faaliyetlerin beyin yapısında ve işlevinde olumlu değişiklikler yapabileceğini belirtiyor. Özellikle yaşlı bireylerde, düzenli olarak yapılan kuş gözlemciliği gibi aktiviteler, bilişsel sağlığın korunmasına önemli katkılar sağlayabilir. Bu bulgular, yaşlanma sürecinde bilişsel işlevlerin korunması için uzmanlık gerektiren hobilerin ve aktivitelerin ne kadar önemli olduğunu ortaya koyuyor.\n\nKuş gözlemciliği sırasında, gözlemciler farklı kuş türlerini tanımlamak için dikkatli gözlem ve güçlü bir hafıza kullanır. Bu süreç, beynin bilişsel rezervini artırır ve yaşlanmanın getirdiği bilişsel zorluklara karşı daha dirençli olmasını sağlar.\n\nBu araştırma, yaşlılıkta bilişsel sağlığı korumak için stratejiler geliştirilmesine ışık tutuyor ve uzmanlık gerektiren aktivitelerin beyin sağlığı üzerindeki olumlu etkilerini vurguluyor.\n\nKaynak: Neuroscience News, \"Expertise Protects Against Cognitive Decline,\" https://neurosciencenews.com/birdwatching-brain-expertise-aging-30176/.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/birdwatching-brain-expertise-aging-30176/",
+            "date": "2026-02-23T19:17:53.847691",
+            "timestamp": 1771874273.847704
+        },
+        {
+            "title": "Şizofreni Tedavisinde Dopaminin Ötesine Geçmek",
+            "original_title": "Moving Beyond Dopamine to Treat Schizophrenia",
+            "content": "Dopamin, uzun yıllardır şizofreni tedavisinde merkezde yer alıyor olsa da, son araştırmalar bu yaklaşımın eksik kalabileceğine işaret ediyor. Yeni bir geniş kapsamlı inceleme, şizofreni tedavisinde yeni nesil terapötik yaklaşımları gözler önüne seriyor. Bu yaklaşımlar, bağışıklık sistemi, bağırsak sağlığı ve kognitif reseptörler gibi farklı alanları hedef alıyor.\n\nŞizofreni, genellikle düşünce, algı, duygu, dil ve davranışları etkileyen kronik bir zihinsel sağlık bozukluğu olarak tanımlanır. Geleneksel tedaviler, genellikle beyin dopamin sistemini hedef alarak semptomları hafifletmeye çalışır. Ancak, bu tedaviler her zaman etkili olmayabilir ve birçok yan etkiye neden olabilir.\n\nSon araştırmalar, şizofreninin yalnızca dopamin dengesizliğinden kaynaklanmadığını, aynı zamanda bağışıklık sistemi ve bağırsak mikrobiomunun da önemli rol oynayabileceğini göstermektedir. Bağışıklık sistemi ile ilişkili terapiler, inflamatuar süreçlerin düzenlenmesine yardımcı olarak semptomları hafifletebilir. Aynı şekilde, bağırsak ve beyin arasındaki bağlantının daha iyi anlaşılması, bağırsak sağlığının iyileştirilmesi yoluyla şizofreni tedavisinde yeni stratejiler geliştirilmesine olanak sağlayabilir.\n\nAyrıca, kognitif reseptörleri hedef alan yeni tedaviler de geliştirilme aşamasındadır. Bu tedaviler, hastaların bilişsel işlevlerini ve yaşam kalitelerini artırmayı amaçlamaktadır.\n\nBu yeni yaklaşımlar, şizofreni tedavisinde daha kapsamlı ve etkili sonuçlar elde etmeyi vaat ediyor. Gelecekte, multidisipliner bir yaklaşımın, bu karmaşık bozukluğun tedavisinde daha iyi sonuçlar doğurabileceği umulmaktadır.\n\nKaynak: Neuroscience News. (2023). Moving Beyond Dopamine to Treat Schizophrenia. https://neurosciencenews.com/schizophrenia-neurobiology-antipsychotics-30176/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/schizophrenia-neurobiology-antipsychotics-30176/",
+            "date": "2026-02-23T19:18:04.479891",
+            "timestamp": 1771874284.4799
+        },
+        {
+            "title": "Peptitlerin Gücü: Sağlık ve Zindelikte Yeni Trend",
+            "original_title": "Peptides are everywhere. Here’s what you need to know.",
+            "content": "MIT Technology Review Açıklıyor: Yazarlarımız teknolojinin karmaşık ve dağınık dünyasını çözerek gelecekte neler olacağını anlamanıza yardımcı oluyor. Seriden daha fazlasını burada okuyabilirsiniz. Kilo vermek mi istiyorsunuz? Kaslarınızı mı geliştirmek istiyorsunuz? Zihinsel olarak keskin mi kalmak istiyorsunuz? Bir sağlık ve zindelik etkileyicisi, size alternatif tıp cephaneliğindeki en yeni mucize olan peptitleri almanızı söyleyebilir. Peptitler, son zamanlarda sağlık ve zindelik dünyasında sıklıkla konuşulan bir konu haline geldi. Bu küçük protein parçacıkları, vücudun çeşitli işlevlerini desteklemek için tasarlanmış takviyeler olarak pazarlanıyor. Peptitler, amino asitlerin kısa zincirlerinden oluşur ve vücudun doğal süreçlerini destekleyebileceği iddia ediliyor. Bazı insanlar, peptitlerin kas geliştirme, kilo kaybı ve zihinsel keskinliği artırma gibi faydalar sunduğunu savunuyor. Ancak, bu iddiaların bilimsel dayanağı hala tartışmalı. Peptitler, farklı türlerde gelir ve her biri farklı bir amaca hizmet eder. Örneğin, büyüme hormonu salgılatıcı peptitler, vücudun kendi büyüme hormonunu üretmesini teşvik edebilir. Kollajen peptitler ise cilt sağlığını ve elastikiyetini desteklemek için kullanılabilir. Bununla birlikte, peptitlerin kullanımıyla ilgili en büyük endişe, yan etkileri ve uzun vadeli sonuçlarıdır. Peptitlerin etkileri ve güvenliği üzerine yapılan araştırmalar henüz başlangıç aşamasında olduğundan, bu takviyeleri kullanmadan önce dikkatli olunmalıdır. Sonuç olarak, peptitler sağlık ve zindelik arayışında olanlar için ilgi çekici bir seçenek olabilir, ancak bu konuda daha fazla araştırma yapılması gerekmektedir. Peptitlerin potansiyel faydaları ve riskleri hakkında daha fazla bilgi edinmek için uzmanlarla ve sağlık profesyonelleriyle görüşmek önemlidir. APA Kaynağı: MIT Technology Review. (2023). Peptides are everywhere. Here’s what you need to know. Erişim Linki: https://www.technologyreview.com/",
+            "category": "Psikoloji",
+            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/23/1133522/peptides-are-everywhere-heres-what-you-need-to-know/",
+            "date": "2026-02-23T19:18:14.550931",
+            "timestamp": 1771874294.550941
+        },
+        {
+            "title": "İnsanların Emeği Gizlenen Humanoid Robotlar",
+            "original_title": "The human work behind humanoid robots is being hidden",
+            "content": "Bu hikaye ilk olarak yapay zeka konusunda haftalık bültenimiz olan The Algorithm'de yer aldı. Benzer hikayeleri ilk olarak e-posta kutunuzda görmek için buradan abone olabilirsiniz. Ocak ayında, dünyanın en değerli şirketinin başındaki Nvidia'nın Jensen Huang, yapay zekanın dil ve sohbet botlarının ötesine geçeceği fiziksel yapay zeka çağına girdiğimizi ilan etti. Bu yeni dönemde, yapay zeka sistemleri fiziksel dünyada daha fazla yer alacak ve daha fazla insana benzer interaktif yetenekler kazanacak. Ancak bu teknolojik gelişmelerin arkasında büyük bir insan emeği gizli. Humanoid robotların geliştirilmesi, onları eğitmek ve gerçek dünyada işlevsellik kazandırmak için büyük ölçüde insan müdahalesine dayanıyor. Bu durum, yapay zekanın ne kadar 'bağımsız' olduğuna dair soruları da beraberinde getiriyor. İnsanlar, robotların öğrenme süreçlerini denetliyor, hatalarını düzeltiyor ve onları çeşitli senaryolara hazırlıyor. Yani, yapay zekanın fiziksel dünyada etkili olabilmesi için insan emeği çok önemli bir rol oynamaktadır. Yapay zekanın bu yeni aşaması, teknoloji ve insan işbirliğinin ne denli kritik olduğunu bir kez daha gözler önüne seriyor.\n\nKaynak: MIT Technology Review. (2023). The human work behind humanoid robots is being hidden. https://www.technologyreview.com/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
+            "date": "2026-02-23T19:18:22.109524",
+            "timestamp": 1771874302.10953
+        },
+        {
+            "title": "FDA'nın Öncelikli Kupon Kararı Psikedelik İlaç Gelişimini Nasıl Etkileyecek?",
+            "original_title": "What the FDA’s Priority Voucher Decision Means for Psychedelic Drug Development",
+            "content": "Son zamanlarda CNPV uygunluğu etrafında dönen tartışma, düzenleyici sistemlerin sembolizmden çok dayanıklılığı önceliklendiren yasal çerçeveler içinde çalıştığını hatırlatıyor. Sıkıştırılmış bir inceleme, yalnızca altında yatan başvuru yeterince olgun olduğunda değerlidir. Psikedelik sektör için uzun vadeli başarı, ilk onayın hızından çok, bu onayı destekleyen delillerin güvenilirliğine dayanacaktır.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/translational-medicine/what-the-fdas-priority-voucher-decision-means-for-psychedelic-drug-development/)",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/what-the-fdas-priority-voucher-decision-means-for-psychedelic-drug-development/",
+            "date": "2026-02-23T19:18:26.233138",
+            "timestamp": 1771874306.233148
+        },
         {
             "title": "Chicago'da Gözetim Ağı: Teknolojinin Gücü ve Mahremiyet Tartışmaları",
             "original_title": "The Download: Chicago’s surveillance network, and building better bras",
@@ -460,56 +510,6 @@
             "link": "https://www.technologyreview.com/2026/02/19/1133324/what-it-takes-to-make-agentic-ai-work-in-retail/",
             "date": "2026-02-19T09:58:34.455736",
             "timestamp": 1771495114.455748
-        },
-        {
-            "title": "Entegrasyon Kaosundan Dijital Netliğe: Nutrien Ag Solutions’ın Satın Alma Sonrası Yeniden Yapılanması",
-            "original_title": "From Integration Chaos to Digital Clarity: Nutrien Ag Solutions’ Post-Acquisition Reset",
-            "content": "Enterprise AI hub'a hoş geldiniz. Infosys Knowledge Institute Podcast'in bu bölümünde, Dylan Cosper, Nutrien Ag Solutions Avustralya'nın Uygulamalar ve Veri Başkanı Sriram Kalyan ile konuşuyor. Bu bölümde, yüksek riskli bir satın alma sonrası BT ortamını ölçeklenebilir bir dijital temele dönüştürme süreci ele alınıyor. Sriram, iki büyük şirketin birleşmesi sonrası karşılaşılan zorlukları ve bu zorlukların üstesinden nasıl geldiklerini paylaşıyor. \n\nBu süreçte, entegrasyonun getirdiği karmaşık yapıyı sadeleştirerek, dijital dönüşümde nasıl net bir yol haritası oluşturdukları anlatılıyor. Kalyan, organizasyonun karşılaştığı teknik ve stratejik zorlukları, bu zorlukların yenilikçi çözümlerle nasıl aşıldığını ve bunun sonunda elde edilen başarıları detaylandırıyor.\n\nBu kapsamlı dönüşüm süreci, sadece teknik alanda değil, aynı zamanda organizasyon kültürü ve iş süreçlerinde de köklü değişiklikler gerektirdi. Sriram Kalyan, bu dönüşüm sürecinde liderlik ettiği ekiplerin, teknolojik yenilikleri nasıl benimsediklerini ve bu sayede firmanın dijital altyapısını nasıl güçlendirdiklerini açıklıyor.\n\nBu podcast, özellikle satın alma ve birleşme sonrası dijital dönüşüm süreçleriyle ilgilenen profesyoneller için değerli bilgiler sunuyor. Kalyan'ın deneyimleri, benzer süreçlerden geçen diğer organizasyonlar için de yol gösterici olabilir.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/19/1133320/from-integration-chaos-to-digital-clarity-nutrien-ag-solutions-post-acquisition-reset/",
-            "date": "2026-02-19T09:58:42.526846",
-            "timestamp": 1771495122.526854
-        },
-        {
-            "title": "Daha Az Deneyim, Beyinde Daha Hızlı Uyuma Yol Açıyor",
-            "original_title": "Less Experience Leads to Faster Neural Adaptation",
-            "content": "Yeni bir çalışma, beynin, sürekli tekrarlardan ziyade aralıklı ve nadir olaylardan daha iyi öğrendiğini ortaya koyarak 100 yıllık Pavlovcu teoriyi sorguluyor. Bu çalışma, öğrenme süreçlerimizdeki zamanlama ve deneyim sıklığının önemine dikkat çekiyor.\n\nAraştırmacılar, beynin öğrenme kapasitesinin, maruz kalınan deneyimlerin sıklığına göre değişebileceğini öne sürüyorlar. Sürekli tekrarlar yerine, nadiren karşılaşılan olayların beynin adaptasyon sürecini hızlandırdığı ortaya konulmuş. Bu bulgu, öğrenme ve öğretme stratejilerinde köklü değişikliklere yol açabilecek nitelikte.\n\nÇalışmanın bulguları, öğrenme ve hafıza süreçlerimizi daha iyi anlamamıza yardımcı olabilir. Eğitimde, sürekli tekrar yerine stratejik olarak yerleştirilmiş nadir olayların daha etkili olabileceği sonucuna varılabilir. Ayrıca, bu bulgular, nörolojik rehabilitasyon ve terapilerde de yeni yöntemlerin geliştirilmesine kapı açabilir.\n\nSonuç olarak, bu araştırma, beynin bilgiye nasıl adapte olduğunu daha iyi anlamamıza katkı sağlıyor ve gelecekteki eğitim ve öğrenme uygulamalarına ışık tutuyor.\n\nKaynak: Neuroscience News. (2023). Less Experience Leads to Faster Neural Adaptation. https://neurosciencenews.com/timing-associative-learning-dopamine-30148/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/timing-associative-learning-dopamine-30148/",
-            "date": "2026-02-19T02:52:30.059831",
-            "timestamp": 1771469550.059843
-        },
-        {
-            "title": "Gelişen Beyin Ritimlerini Çözümleyen Yeni İnsan Nöron Ağı",
-            "original_title": "New Human Neuron Networks Decode Developing Brain Rhythms",
-            "content": "Araştırmacılar, gelişen insan beyninin karmaşık elektriksel ritimlerini başarıyla taklit eden yüksek hızlı bir 'plakada nöron' sistemi geliştirdiler. Bu sistem, beyin gelişimi sırasında ortaya çıkan elektriksel aktiviteleri daha iyi anlamamıza ve incelememize olanak tanıyor. 'Plakada nöron' modeli, beyin hücrelerinin gelişimini ve bu süreçte meydana gelen elektriksel değişimleri izlemek için yeni bir araç sunuyor. Araştırmacılar, bu sistemin beyin hastalıklarını daha iyi anlamada ve yeni tedavi yöntemleri geliştirmede önemli bir adım olduğunu belirtiyorlar. Bu yenilikçi yaklaşım, nörobilim alanında beyin gelişimi ve işleyişi üzerine daha derinlemesine araştırmalar yapılmasına olanak tanıyabilir ve gelecekteki bilimsel gelişmelere katkıda bulunabilir.\n\nKaynak: Neuroscience News (2023). New Human Neuron Networks Decode Developing Brain Rhythms. https://neurosciencenews.com/developing-brain-rhythm-networks-30147/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/developing-brain-rhythm-networks-30147/",
-            "date": "2026-02-19T02:52:33.045587",
-            "timestamp": 1771469553.045596
-        },
-        {
-            "title": "Foresite Capital 15. Yılında Geleceğe Bakıyor",
-            "original_title": "On Its 15th Anniversary, Foresite Capital Looks Ahead",
-            "content": "Foresite Capital, bu yıl 15. yıl dönümünü kutlarken, geçmişten ziyade geleceğe odaklanıyor. Biyofarma girişim sermayesi (VC) yatırımlarında bir artış görülen, ancak bu tür anlaşmaların hacminde artış olmayan bir yılın ardından, firma 2026 yılında VC finansman sayısının nihayet yıllık bazda artmaya başlayacağını ve bununla birlikte bu girişimlerin daha olgun olanlarının ilk halka arzlarının gerçekleşeceğini öngörüyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). On Its 15th Anniversary, Foresite Capital Looks Ahead. Retrieved from https://www.genengnews.com/topics/translational-medicine/on-its-15th-anniversary-foresite-capital-looks-ahead/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/on-its-15th-anniversary-foresite-capital-looks-ahead/",
-            "date": "2026-02-19T02:52:37.789454",
-            "timestamp": 1771469557.789462
-        },
-        {
-            "title": "Stres Proteini Hedeflenerek Kanser İmmünoterapisi Geliştirildi",
-            "original_title": "Cancer Immunotherapy Improved Using Targeted Stress Protein",
-            "content": "Bir araştırma, stres altındaki kanser hücreleri tarafından üretilen bir proteinin, farelerdeki akciğer ve pankreas tümörlerini bağışıklık sisteminden koruduğunu ortaya koydu. Araştırma, lipokalin 2'yi hedefleyen bir antikorun, bağışıklık sisteminin tümör hücrelerini hedef almasına olanak tanıyarak farelerde kanser büyümesini yavaşlattığını gösterdi.\n\nBu bulgular, kanser hücrelerinin stres altında ürettiği bu proteinin, tümörlerin bağışıklık sistemine karşı direnç geliştirmesinde önemli bir rol oynadığını ve bu proteinin hedef alınmasının, agresif kanser türlerini daha savunmasız hale getirebileceğini göstermektedir. Lipokalin 2'nin hedeflenmesiyle, bağışıklık sistemi tümör hücrelerini daha etkili bir şekilde tanıyabilir ve yok edebilir hale gelir, bu da immünoterapinin etkinliğini artırır.\n\nBu çalışma, gelecekte insanlarda uygulanabilecek yeni tedavi stratejilerinin geliştirilmesine olanak sağlayabilir ve kanser tedavisinde önemli bir adım olabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Cancer Immunotherapy Improved Using Targeted Stress Protein. Erişim adresi: https://www.genengnews.com/topics/cancer/antibody-targeting-stress-response-protein-makes-aggressive-cancers-in-mice-more-vulnerable-to-immunotherapies/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/antibody-targeting-stress-response-protein-makes-aggressive-cancers-in-mice-more-vulnerable-to-immunotherapies/",
-            "date": "2026-02-19T02:52:43.387549",
-            "timestamp": 1771469563.387557
         }
     ]
 }
