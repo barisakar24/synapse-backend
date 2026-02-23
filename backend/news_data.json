@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-23T13:24:22.626912",
+    "last_updated": "2026-02-23T15:55:31.204306",
     "daily_news": {
-        "title": "Alzheimer Belirtilerini Yıllar Öncesinden Tahmin Eden Kan Testi Geliştirildi",
-        "original_title": "Simple blood test can forecast Alzheimer’s years before memory loss",
-        "content": "Bilim insanları, Alzheimer hastalığının belirtilerinin başlamasını tahmin edebilen bir kan testi geliştirdiler. Bu test, beyindeki amiloid ve tau proteinlerinin sessizce birikimini yansıtan p-tau217 adlı bir proteini ölçerek, belirtilerin ne zaman başlayacağını yaklaşık üç ila dört yıl öncesinden tahmin edebiliyor. Bu ilerleme, önleyici ilaç denemelerinin hızlandırılmasına ve nihayetinde kişiselleştirilmiş bakım rehberliğine olanak tanıyabilir. Alzheimer hastalığı, genellikle hafıza kaybı gibi belirtilerle tanınsa da, beyinde yıllar boyunca süren sessiz bir süreç olarak başlar. Yeni geliştirilen bu kan testi, beyindeki bu sessiz süreçlerin erken aşamalarını tespit edebilmesi nedeniyle, araştırmacılara ve doktorlara önemli bir avantaj sağlayabilir. Bilim insanları, bu yeni testin, Alzheimer’ın erken belirtilerini tespit etmek için mevcut yöntemlere kıyasla daha hızlı ve daha az invaziv bir alternatif sunduğunu belirtiyor. İleriye dönük olarak, bu tür testlerin, Alzheimer’ın önleyici tedavileri için klinik denemelerin daha etkili bir şekilde yapılmasına yardımcı olması bekleniyor. Ayrıca, hastaların tedavi süreçlerini kişiselleştirmek ve daha iyi bir yaşam kalitesi sağlamak için kullanılabilir.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/02/260222085203.htm",
-        "date": "2026-02-23T13:24:15.535981",
-        "timestamp": 1771853055.53599
+        "title": "Chicago'da Gözetim Ağı: Teknolojinin Gücü ve Mahremiyet Tartışmaları",
+        "original_title": "The Download: Chicago’s surveillance network, and building better bras",
+        "content": "Bugünün \"The Download\" bülteninde, teknoloji dünyasında neler olup bittiğine dair günlük bir doz sunuyoruz. Bu sayıda, Chicago'nun gözetim ağı ve daha iyi sütyenler tasarlama konuları ele alınıyor.\n\nChicago'daki Gözetim Panopticon'u\n\nChicago, on binlerce gözetim kamerasına sahip; bazı tahminlere göre bu sayı 45.000'e kadar çıkıyor. Bu, ABD'de kişi başına düşen en yüksek sayılardan biri. Chicago, ülkenin en büyük gözetim ağlarından birine sahip olmanın gururunu taşıyor. \n\nKentin bu denli geniş bir gözetim ağına sahip olması, hem güvenlik hem de mahremiyet açısından çeşitli tartışmaları beraberinde getiriyor. Yetkililer, bu kameraların suçla mücadelede etkili olduğunu savunurken, eleştirmenler ise bu durumun kişisel mahremiyetin ihlali olduğunu ileri sürüyor.\n\nTeknoloji ve gözetim konularındaki bu gelişmeler, toplumsal yaşamın nasıl şekillendiği ve bireylerin özel alanlarının ne şekilde korunduğu konularında derinlemesine düşünmeyi gerektiriyor.\n\nKaynak: MIT Technology Review",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/02/23/1133495/the-download-chicagos-surveillance-network-and-building-better-bras/",
+        "date": "2026-02-23T15:55:23.757069",
+        "timestamp": 1771862123.757078
     },
     "news_list": [
+        {
+            "title": "Chicago'da Gözetim Ağı: Teknolojinin Gücü ve Mahremiyet Tartışmaları",
+            "original_title": "The Download: Chicago’s surveillance network, and building better bras",
+            "content": "Bugünün \"The Download\" bülteninde, teknoloji dünyasında neler olup bittiğine dair günlük bir doz sunuyoruz. Bu sayıda, Chicago'nun gözetim ağı ve daha iyi sütyenler tasarlama konuları ele alınıyor.\n\nChicago'daki Gözetim Panopticon'u\n\nChicago, on binlerce gözetim kamerasına sahip; bazı tahminlere göre bu sayı 45.000'e kadar çıkıyor. Bu, ABD'de kişi başına düşen en yüksek sayılardan biri. Chicago, ülkenin en büyük gözetim ağlarından birine sahip olmanın gururunu taşıyor. \n\nKentin bu denli geniş bir gözetim ağına sahip olması, hem güvenlik hem de mahremiyet açısından çeşitli tartışmaları beraberinde getiriyor. Yetkililer, bu kameraların suçla mücadelede etkili olduğunu savunurken, eleştirmenler ise bu durumun kişisel mahremiyetin ihlali olduğunu ileri sürüyor.\n\nTeknoloji ve gözetim konularındaki bu gelişmeler, toplumsal yaşamın nasıl şekillendiği ve bireylerin özel alanlarının ne şekilde korunduğu konularında derinlemesine düşünmeyi gerektiriyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/23/1133495/the-download-chicagos-surveillance-network-and-building-better-bras/",
+            "date": "2026-02-23T15:55:23.757069",
+            "timestamp": 1771862123.757078
+        },
+        {
+            "title": "Ultima Genomics, AGBT Öncesi UG 200 Serisini Tanıttı",
+            "original_title": "Before AGBT Kicks Off, Ultima Unveils the UG 200",
+            "content": "Ultima Genomics, AGBT konferansından önce UG200 serisi ve Solaris 2.0 iş akışlarını tanıttı. Yeni seri, daha küçük boyut, daha hızlı çalışma süresi, daha yüksek verimlilik ve daha düşük fiyatlar sunarken, yüksek ölçekli DNA dizilimi konusundaki odaklanmasını sürdürüyor.\n\nUG200 serisi, DNA dizileme işlemlerinde devrim yaratacak nitelikte özelliklere sahip. Daha küçük bir alana ihtiyaç duyması, laboratuvarlarda yer tasarrufu sağlarken, hızlanan çalışma süresi ile araştırmalar daha hızlı tamamlanabilecek. Artan verimlilik, daha fazla verinin daha kısa sürede işlenmesine imkan tanıyor. Ayrıca, maliyetlerin düşmesi, DNA dizileme teknolojilerine erişimi kolaylaştırarak daha geniş bir kullanıcı kitlesine hitap ediyor.\n\nSolaris 2.0 iş akışları da bu yeni sistemle entegre çalışarak, araştırmacılara daha kapsamlı ve etkili çözümler sunuyor. Ultima Genomics, bu yeni teknolojileri ile genetik araştırmaların daha erişilebilir ve etkili hale gelmesini amaçlıyor.\n\nKaynak:\nGEN - Genetic Engineering and Biotechnology News. (tarih). Before AGBT Kicks Off, Ultima Unveils the UG 200. Erişim adresi: https://www.genengnews.com/topics/omics/before-agbt-kicks-off-ultima-unveils-the-ug-200/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/omics/before-agbt-kicks-off-ultima-unveils-the-ug-200/",
+            "date": "2026-02-23T15:55:31.204265",
+            "timestamp": 1771862131.204273
+        },
         {
             "title": "Alzheimer Belirtilerini Yıllar Öncesinden Tahmin Eden Kan Testi Geliştirildi",
             "original_title": "Simple blood test can forecast Alzheimer’s years before memory loss",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/cancer/antibody-targeting-stress-response-protein-makes-aggressive-cancers-in-mice-more-vulnerable-to-immunotherapies/",
             "date": "2026-02-19T02:52:43.387549",
             "timestamp": 1771469563.387557
-        },
-        {
-            "title": "Müzik Tüylerinizi Diken Diken Etmek Artık Mümkün: Beyin-Müzik Arayüzü ile Zirveye Ulaşın",
-            "original_title": "Hacking Musical Chills: Triggering Peak Musical Pleasure",
-            "content": "Bilim insanları, müziğin duygusal etkisini en üst düzeye çıkarmanın yenilikçi bir yolunu geliştirdi. Yeni bir beyin-müzik arayüzü, kulak içi sensörleri kullanarak duygularınızı okuyor ve size 'müzikal tüylenmeler' yaşatacak bir çalma listesi oluşturuyor. \n\nBu teknoloji, müziğin ruh hali üzerindeki etkisini kişiselleştirerek, kullanıcıların en üst düzeyde müzik keyfi yaşamalarını amaçlıyor. Sistemin çalışması için, kullanıcıların kulaklarına yerleştirilen sensörler, beyin dalgalarını ve duygusal tepkileri izliyor. Daha sonra, elde edilen veriler doğrultusunda algoritmalar, kullanıcıyı etkileyecek şarkıları seçiyor.\n\nMüzikal tüylenmeler, bir şarkının belirli bir anında ortaya çıkan ve dinleyicinin tüylerini diken diken eden o özel duygusal tepki olarak tanımlanıyor. Bu arayüz, müziğin gücünü en üst düzeye çıkararak kullanıcıların bu duygusal zirveleri daha sık ve yoğun bir şekilde yaşamalarını sağlıyor.\n\nBu teknoloji, müzik dinleme deneyimini daha kişisel ve etkileyici hale getirirken, aynı zamanda müziğin terapötik potansiyelini de artırabilir. Özellikle stres ve anksiyete ile mücadelede müziğin olumlu etkileri bilinirken, bu tür bir yenilik, kişisel terapi ve rahatlama yöntemlerine yeni bir boyut kazandırabilir.\n\nKaynak: Neuroscience News (2023). Hacking Musical Chills: Triggering Peak Musical Pleasure. https://neurosciencenews.com/musical-chills-brain-interface-30146/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/musical-chills-brain-interface-30146/",
-            "date": "2026-02-18T21:42:05.204135",
-            "timestamp": 1771450925.204146
-        },
-        {
-            "title": "Beyin Hücrelerine Yüksek Teknolojik Sarılma: Mini Beyinleri Dinleyen Elektronik Ağ",
-            "original_title": "Electronic Mesh Wraps Around Mini-Brains to Eavesdrop on Neural Circuits",
-            "content": "Bilim insanları, mini beyinler etrafında adeta bir 'pop-up' gibi açılan ve her kıvılcım ile sinyali haritalayan bir elektronik ağ geliştirdi. Bu teknoloji, beyin hücrelerine adeta yüksek teknolojili bir sarılma sunarak, sinir devrelerinin karmaşık yapısını daha iyi anlamamızı sağlıyor. \n\nAraştırmacılar, bu elektronik ağlar sayesinde, mini beyin organoidleri üzerindeki elektriksel aktiviteleri detaylı bir şekilde izleyebiliyor ve analiz edebiliyorlar. Bu organoidler, insan beyninin bazı özelliklerini taklit eden üç boyutlu hücre yapıları olarak biliniyor. \n\nBu yenilikçi teknoloji, nörobilim alanında devrim niteliğinde bir adım olarak nitelendiriliyor. Beyin aktivitelerinin daha hassas ve detaylı bir şekilde izlenebilmesi, nörolojik bozuklukların daha iyi anlaşılmasına ve potansiyel tedavi yöntemlerinin geliştirilmesine olanak tanıyabilir. \n\nKaynak: Neuroscience News (https://neurosciencenews.com/neurotech-neural-organoid-bioelectronic-mesh-30145/)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/neurotech-neural-organoid-bioelectronic-mesh-30145/",
-            "date": "2026-02-18T21:42:10.689663",
-            "timestamp": 1771450930.689672
         }
     ]
 }
