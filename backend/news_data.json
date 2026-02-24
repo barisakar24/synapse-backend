@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-24T13:26:03.065612",
+    "last_updated": "2026-02-24T16:06:32.585889",
     "daily_news": {
-        "title": "Uzaya Gönderilen Cihazların Artışı: Dünya'nın Çevresindeki Teknolojik Tabaka",
-        "original_title": "We’re putting more stuff into space than ever. Here’s what’s up there.",
-        "content": "Dünya, üzerinde su bulunan orta büyüklükte bir kaya parçasıdır ve burada yaşayan her şeyi hayatta tutan gazlarla çevrilidir. Bu gaz tabakasının hemen sınırında, insanlar tarafından üretilmiş yüksek teknoloji ürünlerinden oluşan ince ama yoğun bir katman başlar. İnsanlar, 1957 yılında uzaya cihazlar göndermeye başladılar ve bu şimdi artık bir alışkanlık haline geldi. Yukarıya ve dışarıya bakan teleskoplar, iletişim uyduları, bilimsel araştırmalar için kullanılan araçlar ve daha birçok cihaz bu katmanın parçası haline geldi. Uzay teknolojilerinin bu hızlı gelişimi, Dünya'nın etrafında bir nevi insan yapımı bir tabaka oluşmasına sebep oldu.\n\nBu teknolojik cihazlar, iletişimden hava durumunu izlemeye, bilimsel araştırmalardan askeri gözetim faaliyetlerine kadar birçok alanda kullanılmaktadır. Uydu sayısındaki bu artış, hem avantajlar hem de bazı zorluklar getirmektedir. Teknolojik gelişmeler ile birlikte, uzayda daha fazla cihazın bulunması, çarpışma risklerini artırmakta ve uzay çöplüğü problemine yol açmaktadır. Ayrıca, bu cihazların yönetimi ve sürdürülebilir kullanımı da büyük önem taşımaktadır.\n\nSonuç olarak, uzaya gönderilen cihazların sayısındaki artış, insanlığın uzay teknolojilerine olan bağımlılığını ve bu teknolojilerin dünya üzerindeki etkisini artırmaya devam etmektedir.\n\nKaynak: MIT Technology Review, (2023). We’re putting more stuff into space than ever. Here’s what’s up there.",
-        "category": "Bilim & Teknoloji",
-        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/02/24/1132755/anthroposphere-putting-more-stuff-into-space-than-ever/",
-        "date": "2026-02-24T13:25:49.772707",
-        "timestamp": 1771939549.772717
+        "title": "Tamarind Bio, Biyoloji İçin Yapay Zekayı Daha Erişilebilir Hale Getirmek İçin 13,6 Milyon Dolar Topladı",
+        "original_title": "Tamarind Bio Secures $13.6M Series A to Make AI More Accessible for Biology",
+        "content": "Tamarind Bio, biyoloji alanında yapay zekayı daha erişilebilir hale getirmeyi amaçlayan platformu için 13,6 milyon dolar değerinde Seri A yatırım aldı. Şirketin platformu, model koordinasyonu ve çıkarımı için kullanıcı dostu yapay zeka araçları sunarak yaşam bilimi araştırmacılarına büyük kolaylık sağlıyor. Kütüphane, küçük moleküllerden antikorlara kadar çeşitli modalleri kapsayan 200'den fazla modeli içeriyor ve yaklaşık 100 biyoteknoloji şirketine ulaşan geniş bir kullanıcı tabanına sahip.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Tamarind Bio Secures $13.6M Series A to Make AI More Accessible for Biology. https://www.genengnews.com/topics/artificial-intelligence/tamarind-bio-secures-13-6m-series-a-to-make-ai-more-accessible-for-biology/",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/artificial-intelligence/tamarind-bio-secures-13-6m-series-a-to-make-ai-more-accessible-for-biology/",
+        "date": "2026-02-24T16:06:32.585851",
+        "timestamp": 1771949192.585858
     },
     "news_list": [
+        {
+            "title": "Radyoaktif Gergedanlar: Koruma Çabasındaki Yeni Yöntem",
+            "original_title": "The Download: radioactive rhinos, and the rise and rise of peptides",
+            "content": "Her yıl, avcılar yüzlerce gergedanı vuruyor, balıkçı ekipleri koruma altındaki denizlerden milyonlarca köpekbalığını çekip çıkarıyor ve kaçakçılar sınırların ötesine sayısız hayvan ve bitki taşıyor. Koruma uzmanları, bu yasa dışı avlanmayı ve kaçakçılığı engellemek amacıyla yeni ve ilginç bir yöntem deniyor: gergedanları radyoaktif hale getirmek.\n\nRadyoaktif izotoplar kullanarak gergedan boynuzlarını izlenebilir hale getirmek, kaçak avcılar ve alıcılar için caydırıcı bir etken olabilir. Bu yöntem, boynuzların güvenli bir şekilde izlenmesini sağlarken, yasa dışı ticareti de engelleyebilir. Bu yenilikçi yaklaşım, vahşi yaşamın korunması ve türlerin sürdürülebilirliği için umut verici bir adım olarak görülüyor.\n\nGergedanların radyoaktif hale getirilmesi, hem yerel halkın hem de uluslararası topluluğun dikkatini çekmiş durumda. Bu yöntemle, hem gergedanların yaşam alanları korunabilir hem de kaçak avın önüne geçilebilir. Ancak, bu tür yenilikçi çözümler, etik ve çevresel etkileri göz önünde bulundurularak dikkatlice değerlendirilmelidir.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/24/1133567/the-download-radioactive-rhinos-and-the-rise-and-rise-of-peptides/",
+            "date": "2026-02-24T16:06:28.594533",
+            "timestamp": 1771949188.594545
+        },
+        {
+            "title": "Tamarind Bio, Biyoloji İçin Yapay Zekayı Daha Erişilebilir Hale Getirmek İçin 13,6 Milyon Dolar Topladı",
+            "original_title": "Tamarind Bio Secures $13.6M Series A to Make AI More Accessible for Biology",
+            "content": "Tamarind Bio, biyoloji alanında yapay zekayı daha erişilebilir hale getirmeyi amaçlayan platformu için 13,6 milyon dolar değerinde Seri A yatırım aldı. Şirketin platformu, model koordinasyonu ve çıkarımı için kullanıcı dostu yapay zeka araçları sunarak yaşam bilimi araştırmacılarına büyük kolaylık sağlıyor. Kütüphane, küçük moleküllerden antikorlara kadar çeşitli modalleri kapsayan 200'den fazla modeli içeriyor ve yaklaşık 100 biyoteknoloji şirketine ulaşan geniş bir kullanıcı tabanına sahip.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Tamarind Bio Secures $13.6M Series A to Make AI More Accessible for Biology. https://www.genengnews.com/topics/artificial-intelligence/tamarind-bio-secures-13-6m-series-a-to-make-ai-more-accessible-for-biology/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/artificial-intelligence/tamarind-bio-secures-13-6m-series-a-to-make-ai-more-accessible-for-biology/",
+            "date": "2026-02-24T16:06:32.585851",
+            "timestamp": 1771949192.585858
+        },
         {
             "title": "Uzaya Gönderilen Cihazların Artışı: Dünya'nın Çevresindeki Teknolojik Tabaka",
             "original_title": "We’re putting more stuff into space than ever. Here’s what’s up there.",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/cannabis-munchies-brain-mechanism-30155/",
             "date": "2026-02-19T21:41:26.717097",
             "timestamp": 1771537286.717109
-        },
-        {
-            "title": "İkiz Enzimler Beyni Etkileşim ve Hafıza İçin Yeniden Yapılandırıyor",
-            "original_title": "Twin Enzymes Rewire Your Brain for Interaction and Memory",
-            "content": "Bilim insanları, MNK1 ve MNK2 enzimlerinin beynin hafıza ve sosyal merakı yönlendiren özel anahtarları olarak işlev gördüğünü keşfetti. Bu ikiz enzimler, beyindeki nöral bağlantıları yeniden düzenleyerek, bireylerin sosyal etkileşimlerini ve hafıza oluşum süreçlerini etkileyebiliyor. Araştırmacılar, bu enzimlerin nasıl çalıştığını anlamanın, nörolojik ve psikiyatrik bozuklukların tedavisinde yeni yollar açabileceğini belirtiyor. Ayrıca, bu enzimlerin farklı dünyalara ait gibi görünmesine rağmen, ortak bir amaca hizmet ettikleri vurgulanıyor. MNK1 ve MNK2'nin araştırılması, beynin daha önce bilinmeyen yönlerini ortaya çıkarabilir ve bireylerin sosyal davranışlarını derinlemesine anlamamıza yardımcı olabilir.\n\nKaynak: Neuroscience News. (2023). Twin Enzymes Rewire Your Brain for Interaction and Memory. https://neurosciencenews.com/mnk-memory-social-neuroscience-30154/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/mnk-memory-social-neuroscience-30154/",
-            "date": "2026-02-19T21:41:33.369019",
-            "timestamp": 1771537293.369028
-        },
-        {
-            "title": "Plazma P-Tau217 ile Alzheimer Belirtilerinin Başlangıç Zamanı Tahmin Ediliyor",
-            "original_title": "Plasma P-Tau217 Clocks Estimate Timing of Alzheimer’s Symptom Onset",
-            "content": "Bilim insanları, uzun süreli plazma p-tau217 verilerini kullanarak, bilişsel olarak etkilenmemiş bireylerde Alzheimer'ın semptomatik hale gelmesine kalan süreyi yaklaşık üç ila dört yıl içinde tahmin eden saat modelleri geliştirdiler. \n\nBu araştırma, Alzheimer hastalığının belirtilerinin ne zaman ortaya çıkacağını öngörme konusunda önemli bir adım olarak kabul ediliyor. Alzheimer, dünya genelinde milyonlarca insanı etkileyen nörodejeneratif bir hastalıktır ve erken teşhis, hastalığın yönetimi ve tedavi planlaması açısından büyük önem taşır. \n\nUzmanlar, bilişsel olarak sağlıklı bireylerde plazma p-tau217 düzeylerini izleyerek, hastalığın semptomlarının ortaya çıkış süresini tahmin etmenin mümkün olduğunu belirtiyor. Bu yeni saat modelleri, bireylerin Alzheimer semptomlarının başlamasına ne kadar süre kaldığını daha doğru bir şekilde belirlemelerine olanak tanıyor. \n\nÇalışma, genetik mühendislik ve biyoteknoloji alanındaki yenilikleri takip eden GEN - Genetic Engineering and Biotechnology News tarafından yayımlandı.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/translational-medicine/plasma-p-tau217-clocks-estimate-timing-of-alzheimers-symptom-onset/)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/plasma-p-tau217-clocks-estimate-timing-of-alzheimers-symptom-onset/",
-            "date": "2026-02-19T21:41:44.160476",
-            "timestamp": 1771537304.160484
         }
     ]
 }
