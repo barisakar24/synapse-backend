@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-02-23T21:55:35.779287",
+    "last_updated": "2026-02-24T02:51:09.100574",
     "daily_news": {
-        "title": "Nöronlar Açlıkta Hayatta Kalmak İçin RNA 'Dokunaçları' Kullanıyor",
-        "original_title": "Neurons Use RNA “Tentacles” to Survive Starvation",
-        "content": "Araştırmacılar, nöronların açlık veya stres dönemlerinde enerji tasarrufu yapmak ve hayatta kalmak için inaktif ribozomları RNA 'dokunaçları' kullanarak eşleştirdiğini keşfettiler. Bu keşif, nöronların enerji tasarrufu sağlamak için nasıl adapte olabildiğini ve zorlu koşullar altında nasıl hayatta kalabileceğini anlamamıza yardımcı oluyor. RNA 'dokunaçları', ribozomları bir araya getirerek, protein sentezini geçici olarak durduruyor ve enerji harcamasını azaltıyor. Bu süreç, nöronların enerji kaynakları sınırlı olduğunda bile işlevlerini sürdürebilmelerini sağlıyor. Bu bulgular, nörolojik hastalıkların tedavisinde yeni stratejilere kapı aralayabilir.\n\nKaynak: Neuroscience News (2023). Neurons Use RNA “Tentacles” to Survive Starvation. https://neurosciencenews.com/neuron-ribosome-hibernation-rna-30180/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/neuron-ribosome-hibernation-rna-30180/",
-        "date": "2026-02-23T21:55:15.892452",
-        "timestamp": 1771883715.892466
+        "title": "DROP-CAR Teknolojisi ile Daha Güvenli İmmünoterapi Mümkün Olabilir",
+        "original_title": "Drug-Controlled CAR T Cells May Enable Safer Immunotherapy",
+        "content": "Araştırmacılar, insan protein bileşenlerini içeren ve klinik olarak onaylanmış, bağışıklık sistemi baskılayıcı olmayan bir ilaç kullanarak CAR T hücrelerini uzaktan ve geri dönüşümlü olarak kapatabilen DROP-CAR adında bir CAR T teknolojisi geliştirdi. Bu teknoloji, tümör hücresi bağlanmasını kesintiye uğratarak CAR T hücrelerini etkisiz hale getirebiliyor. Bu yeni yöntem, immünoterapinin güvenliğini artırma potansiyeline sahip olabilir. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). Drug-Controlled CAR T Cells May Enable Safer Immunotherapy. Retrieved from https://www.genengnews.com/topics/cancer/drug-controlled-car-t-cells-may-enable-safer-immunotherapy/",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/cancer/drug-controlled-car-t-cells-may-enable-safer-immunotherapy/",
+        "date": "2026-02-24T02:51:09.100531",
+        "timestamp": 1771901469.100539
     },
     "news_list": [
+        {
+            "title": "MRI Cihazlarının Gizli Tehlikesi: Sinir İmplantları İstenmeyen Şoklara Neden Olabilir",
+            "original_title": "MRI Risk: Nerve Implants Can Trigger Unintended Shocks",
+            "content": "Manyetik rezonans görüntüleme (MRI) cihazları, tıp dünyasında tanı ve tedavi süreçlerinde vazgeçilmez bir araç haline gelmiştir. Ancak, bu cihazların güçlü manyetik alanları bazı beklenmedik yan etkilere yol açabilir. Son araştırmalar, özellikle vagus sinir implantlarına sahip hastalar için MRI taramalarının gizli bir tehlike barındırdığını ortaya koydu.\n\nBilim insanları, vagus sinir implantlarının MRI cihazlarının manyetik alanları tarafından 'yanıltılabileceğini' ve bu durumun istenmeyen sinir uyarımlarına yol açarak hastalarda beklenmedik ağrılara neden olabileceğini keşfetti. Vagus sinir stimülatörleri, epilepsi ve depresyon gibi çeşitli nörolojik bozuklukların tedavisinde kullanılmaktadır. Ancak, bu cihazların MRI esnasında tetiklenmesi, tedavi sürecini olumsuz etkileyebilir ve hastaların konforunu ciddi şekilde bozabilir.\n\nAraştırmacılar, bu durumun önüne geçmek için yeni güvenlik protokollerinin geliştirilmesi gerektiğini vurgulamaktadır. Ayrıca, MRI taramaları öncesinde hastaların implant türleri hakkında kapsamlı bir bilgilendirme yapılması, potansiyel risklerin azaltılmasına yardımcı olabilir.\n\nSonuç olarak, MRI teknolojisinin güvenlik standartlarının gözden geçirilmesi ve implant sahipleri için özel önlemler alınması, tıbbi uygulamalarda hasta güvenliğini artırmak adına büyük önem taşımaktadır.\n\nKaynak: Neuroscience News. (2023). MRI Risk: Nerve Implants Can Trigger Unintended Shocks. Erişim adresi: https://neurosciencenews.com/mri-safety-nerve-cuff-stimulation-30181/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/mri-safety-nerve-cuff-stimulation-30181/",
+            "date": "2026-02-24T02:50:59.400978",
+            "timestamp": 1771901459.400988
+        },
+        {
+            "title": "AI ile Tip 2 Diyabet Bağlantılı Pankreas Doku Değişiklikleri Haritalandı",
+            "original_title": "AI Maps Subtle Human Pancreatic Tissue Changes Linked to Type 2 Diabetes",
+            "content": "Yapay zeka tabanlı bir yöntem, tip 2 diyabetle bağlantılı olarak insan pankreas dokusunda meydana gelen, görülmesi zor ve ince değişiklikleri tespit etmek için geliştirildi. Gigapiksel mikroskopi ve açıklanabilir yapay zeka kullanılarak, ekip hastalığın erken biyobelirteçleri olarak hizmet edebilecek önemli hücresel özellikleri tanımladı. Yapılan bu çalışma, tip 2 diyabetin erken teşhisinde önemli bir adım olarak görülüyor. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). AI maps subtle human pancreatic tissue changes linked to type 2 diabetes. Retrieved from https://www.genengnews.com/topics/artificial-intelligence/ai-maps-subtle-human-pancreatic-tissue-changes-linked-to-type-2-diabetes/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/artificial-intelligence/ai-maps-subtle-human-pancreatic-tissue-changes-linked-to-type-2-diabetes/",
+            "date": "2026-02-24T02:51:03.220482",
+            "timestamp": 1771901463.220491
+        },
+        {
+            "title": "DROP-CAR Teknolojisi ile Daha Güvenli İmmünoterapi Mümkün Olabilir",
+            "original_title": "Drug-Controlled CAR T Cells May Enable Safer Immunotherapy",
+            "content": "Araştırmacılar, insan protein bileşenlerini içeren ve klinik olarak onaylanmış, bağışıklık sistemi baskılayıcı olmayan bir ilaç kullanarak CAR T hücrelerini uzaktan ve geri dönüşümlü olarak kapatabilen DROP-CAR adında bir CAR T teknolojisi geliştirdi. Bu teknoloji, tümör hücresi bağlanmasını kesintiye uğratarak CAR T hücrelerini etkisiz hale getirebiliyor. Bu yeni yöntem, immünoterapinin güvenliğini artırma potansiyeline sahip olabilir. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). Drug-Controlled CAR T Cells May Enable Safer Immunotherapy. Retrieved from https://www.genengnews.com/topics/cancer/drug-controlled-car-t-cells-may-enable-safer-immunotherapy/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/drug-controlled-car-t-cells-may-enable-safer-immunotherapy/",
+            "date": "2026-02-24T02:51:09.100531",
+            "timestamp": 1771901469.100539
+        },
         {
             "title": "Nöronlar Açlıkta Hayatta Kalmak İçin RNA 'Dokunaçları' Kullanıyor",
             "original_title": "Neurons Use RNA “Tentacles” to Survive Starvation",
@@ -480,36 +510,6 @@
             "link": "https://neurosciencenews.com/fiber-amygdala-emotional-memory-aging-30152/",
             "date": "2026-02-19T19:02:26.845116",
             "timestamp": 1771527746.845129
-        },
-        {
-            "title": "Sosyal Etkileşimlerin Şifresi: Oksitosin Anahtarı",
-            "original_title": "The Oxytocin Switch That Controls Your Social Vibe",
-            "content": "Beynimizin sosyal termostatı olarak bilinen oksitosin, insan bağlantıları kurmamızda önemli bir rol oynar. Son yapılan bilimsel araştırmalar, oksitosinin yavaş ve sürekli salgılanmasını kontrol eden bir proteini ortaya çıkardı. Bu protein, serotoninin yanında çalışarak bizi sosyal etkileşimlere hazırlar.\n\nOksitosin genellikle 'aşk hormonu' veya 'kucaklaşma hormonu' olarak adlandırılır. Sosyal bağlar kurma, empatinin artması ve stresin azalmasında etkili olan bu hormon, insan davranışlarını ve sosyal ilişki biçimlerini derinden etkiler. Yapılan araştırmalar, oksitosinin sadece anlık etkileri olmadığını, aynı zamanda sosyal 'ayarlamalar' yaparak uzun vadeli bir etki yarattığını gösteriyor.\n\nAraştırmacılar, beyindeki oksitosin seviyelerini düzenleyen SNAP47 adlı proteini tanımladı. Bu protein, oksitosinin beyinde daha dengeli ve sürekli bir şekilde salgılanmasını sağlıyor. Böylece sosyal etkileşimlere olan yatkınlığımız artıyor ve daha sağlıklı sosyal ilişkiler kurabiliyoruz.\n\nSNAP47 proteini, oksitosin ile serotonin arasındaki etkileşimde de önemli bir rol oynuyor. Bu iki kimyasal madde, birlikte çalışarak insanları sosyal etkileşimlere hazırlıyor, empati yeteneğini artırıyor ve sosyal kaygıyı azaltıyor.\n\nBu buluş, sosyal bozuklukların tedavisinde yeni yollar açabilir. Oksitosin seviyelerinin ve SNAP47 proteininin düzenlenmesi, sosyal kaygı bozukluğu veya otizm gibi durumların tedavisinde umut vaat eden bir yaklaşım olabilir.\n\nAraştırmacılar, bu bulguların beyindeki kimyasal süreçlerin karmaşıklığını daha iyi anlamamıza yardımcı olacağını ve sosyal davranışlarımızın biyolojik temelleri hakkında yeni bilgiler sağlayacağını belirtiyorlar.\n\nAPA formatında kaynak:\nNeuroscience News. (2023). The Oxytocin Switch That Controls Your Social Vibe. Erişim adresi: https://neurosciencenews.com/snap47-oxytocin-social-neuroscience-30151/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/snap47-oxytocin-social-neuroscience-30151/",
-            "date": "2026-02-19T19:02:44.728557",
-            "timestamp": 1771527764.728566
-        },
-        {
-            "title": "Microsoft'un Yeni Planı: İnternette Gerçek ile Yapayı Ayırma",
-            "original_title": "Microsoft has a new plan to prove what’s real and what’s AI online",
-            "content": "Yapay zeka destekli aldatmacalar artık çevrimiçi hayatımızın bir parçası haline geldi. Yüksek profilli vakalar, genellikle fark edilmesi kolay olanlar, örneğin Beyaz Saray yetkililerinin yakın zamanda Minnesota'da bir protestocunun manipüle edilmiş bir görüntüsünü paylaşıp, bu konuda soru soranlarla alay etmesi gibi olaylar. Diğer zamanlarda ise, bu tür içerikler sessizce sosyal medya akışlarına sızar ve görüntülenme sayısını artırır, tıpkı bazı videolar gibi.\n\nMicrosoft, bu tür yapay zeka destekli aldatmacaların önüne geçmek için yeni bir plan hazırlığında. Şirket, çevrimiçi dünyada gerçeği yapaydan ayırmak için çeşitli teknolojiler ve stratejiler üzerinde çalışıyor. Bu çalışmalar, hem kullanıcı deneyimini iyileştirmeyi hem de dijital içeriklerin doğruluğunu artırmayı hedefliyor.\n\nMicrosoft'un bu girişimi, çevrimiçi platformlarda gördüğümüz içeriklerin doğruluğunu sorgulama ihtiyacının her zamankinden daha önemli hale geldiği bir zamanda geliyor. Şirketin planı, kullanıcıların hangi içeriğin gerçek, hangisinin yapay olduğunu daha kolay ayırt edebilmesine yardımcı olmayı amaçlıyor.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
-            "date": "2026-02-19T19:03:02.530473",
-            "timestamp": 1771527782.530482
-        },
-        {
-            "title": "Beyin Gelişimi 30'lu Yaşlara Kadar Devam Ediyor",
-            "original_title": "Brain development may continue into your 30s, new research shows",
-            "content": "Uzun zamandır yaygın bir inanış olan 'Frontal lobun 25 yaşına kadar tam olarak gelişmediği' iddiası, yeni araştırmalarla birlikte daha çok bir mit olarak değerlendiriliyor. Erken dönem beyin taramaları, gri madde hacminin ergenlik dönemi boyunca önemli ölçüde değiştiğini gösteriyordu ve bu çalışmalar genellikle 20 yaş civarında sona erdiği için bilim insanları beyin gelişiminin 20'li yaşların ortasında tamamlanabileceğini tahmin ediyordu. Ancak daha yeni ve kapsamlı beyin görüntüleme araştırmaları, beynin kilit bağlantıları ve ağ verimliliğinin 30'lu yaşların başlarına kadar evrim geçirmeye devam ettiğini ortaya koyuyor. Bu bulgular, beyin gelişimi sürecinin daha önce düşünüldüğünden çok daha uzun sürdüğünü gösteriyor ve insanların nörolojik olarak ne zaman 'tamamen yetişkin' olabileceğine dair anlayışımızı yeniden şekillendiriyor. \n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/02/260218031606.htm",
-            "date": "2026-02-19T15:57:45.598638",
-            "timestamp": 1771516665.598652
         }
     ]
 }
