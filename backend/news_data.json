@@ -1,14 +1,14 @@
 {
-    "last_updated": "2026-02-24T02:51:09.100574",
+    "last_updated": "2026-02-24T04:59:23.457701",
     "daily_news": {
-        "title": "DROP-CAR Teknolojisi ile Daha Güvenli İmmünoterapi Mümkün Olabilir",
-        "original_title": "Drug-Controlled CAR T Cells May Enable Safer Immunotherapy",
-        "content": "Araştırmacılar, insan protein bileşenlerini içeren ve klinik olarak onaylanmış, bağışıklık sistemi baskılayıcı olmayan bir ilaç kullanarak CAR T hücrelerini uzaktan ve geri dönüşümlü olarak kapatabilen DROP-CAR adında bir CAR T teknolojisi geliştirdi. Bu teknoloji, tümör hücresi bağlanmasını kesintiye uğratarak CAR T hücrelerini etkisiz hale getirebiliyor. Bu yeni yöntem, immünoterapinin güvenliğini artırma potansiyeline sahip olabilir. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). Drug-Controlled CAR T Cells May Enable Safer Immunotherapy. Retrieved from https://www.genengnews.com/topics/cancer/drug-controlled-car-t-cells-may-enable-safer-immunotherapy/",
-        "category": "Genetik",
-        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/cancer/drug-controlled-car-t-cells-may-enable-safer-immunotherapy/",
-        "date": "2026-02-24T02:51:09.100531",
-        "timestamp": 1771901469.100539
+        "title": "MRI Cihazlarının Gizli Tehlikesi: Sinir İmplantları İstenmeyen Şoklara Neden Olabilir",
+        "original_title": "MRI Risk: Nerve Implants Can Trigger Unintended Shocks",
+        "content": "Manyetik rezonans görüntüleme (MRI) cihazları, tıp dünyasında tanı ve tedavi süreçlerinde vazgeçilmez bir araç haline gelmiştir. Ancak, bu cihazların güçlü manyetik alanları bazı beklenmedik yan etkilere yol açabilir. Son araştırmalar, özellikle vagus sinir implantlarına sahip hastalar için MRI taramalarının gizli bir tehlike barındırdığını ortaya koydu.\n\nBilim insanları, vagus sinir implantlarının MRI cihazlarının manyetik alanları tarafından 'yanıltılabileceğini' ve bu durumun istenmeyen sinir uyarımlarına yol açarak hastalarda beklenmedik ağrılara neden olabileceğini keşfetti. Vagus sinir stimülatörleri, epilepsi ve depresyon gibi çeşitli nörolojik bozuklukların tedavisinde kullanılmaktadır. Ancak, bu cihazların MRI esnasında tetiklenmesi, tedavi sürecini olumsuz etkileyebilir ve hastaların konforunu ciddi şekilde bozabilir.\n\nAraştırmacılar, bu durumun önüne geçmek için yeni güvenlik protokollerinin geliştirilmesi gerektiğini vurgulamaktadır. Ayrıca, MRI taramaları öncesinde hastaların implant türleri hakkında kapsamlı bir bilgilendirme yapılması, potansiyel risklerin azaltılmasına yardımcı olabilir.\n\nSonuç olarak, MRI teknolojisinin güvenlik standartlarının gözden geçirilmesi ve implant sahipleri için özel önlemler alınması, tıbbi uygulamalarda hasta güvenliğini artırmak adına büyük önem taşımaktadır.\n\nKaynak: Neuroscience News. (2023). MRI Risk: Nerve Implants Can Trigger Unintended Shocks. Erişim adresi: https://neurosciencenews.com/mri-safety-nerve-cuff-stimulation-30181/",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/mri-safety-nerve-cuff-stimulation-30181/",
+        "date": "2026-02-24T02:50:59.400978",
+        "timestamp": 1771901459.400988
     },
     "news_list": [
         {
