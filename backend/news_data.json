@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-02-24T21:45:26.112972",
+    "last_updated": "2026-02-25T02:52:22.093444",
     "daily_news": {
-        "title": "Mikropların Kan Basıncınızı Kontrol Ettiği Yeni Keşif: Bağırsak-Beyin-Kalp Ekseni",
-        "original_title": "Gut-Brain-Heart Axis: How Microbes Control Your Blood Pressure",
-        "content": "Bilim insanları, kalp sağlığınızın kontrolünün yalnızca göğsünüzde olmadığını, aynı zamanda bağırsaklarınızda ve beyninizde de önemli bir rol oynadığını keşfetti. Yeni araştırmalar, 'bağırsak-beyin-kalp ekseni' adı verilen bir mekanizmanın, tek bir bakteriyel molekül aracılığıyla kalp sağlığınızı uzaktan kontrol edebileceğini ortaya koyuyor. Bu keşif, bağırsak mikrobiyotasının kan basıncını düzenleme üzerindeki etkisine yeni bir bakış açısı sunuyor.\n\nAraştırmanın merkezi, bağırsak mikrobiyotasının ve ürettiği moleküllerin beyine ve dolayısıyla kalbe nasıl sinyaller gönderdiği üzerine kurulu. Bu mekanizma, özellikle hipertansiyon gibi kalp-damar hastalıklarının tedavisinde yeni stratejilerin geliştirilmesine yardımcı olabilir. Bağırsaklardaki belirli bakteriyel bileşikler, sinir sistemi aracılığıyla beyine iletilen sinyaller göndererek kan damarlarının genişlemesini veya daralmasını etkileyebilir. Bu da kan basıncının doğrudan düzenlenmesine olanak tanır.\n\nBu önemli keşif, gelecekte hipertansiyon ve diğer kalp-damar hastalıkları için mikrobiyotanın modülasyonu üzerine yeni tedavi yöntemlerinin geliştirilmesine kapı aralayabilir. Bağırsak sağlığının kalp sağlığı üzerindeki etkisi daha iyi anlaşıldıkça, beslenme alışkanlıklarından probiyotik kullanımına kadar birçok alanda yenilikçi yaklaşımlar gündeme gelebilir.\n\nKaynak: Neuroscience News. (2023). Gut-Brain-Heart Axis: How Microbes Control Your Blood Pressure. Retrieved from https://neurosciencenews.com/gut-brain-heart-axis-hypertension-30188/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/gut-brain-heart-axis-hypertension-30188/",
-        "date": "2026-02-24T21:45:16.985626",
-        "timestamp": 1771969516.985637
+        "title": "Kanserle Mücadelede Çığır Açan Yeni Polimerler: 'İlaçlanamaz' Proteinleri Hedef Alıyor",
+        "original_title": "New Protein-Like Polymers Target, Degrade “Undruggable” Proteins Driving Cancer",
+        "content": "Yeni geliştirilen protein benzeri polimerler, kanserin ilerlemesinde rol oynayan 'ilaçlanamaz' proteinleri hedef alarak yok ediyor. HYDRAC adı verilen bu yenilikçi polimerler, iki ana bileşeni birden fazla kopya halinde sergileyerek çalışıyor: hedef proteini tanıyan peptitler ve hücrenin doğal kalite kontrol sistemini harekete geçiren peptit bazlı veya küçük moleküllü degronlar. Bu yaklaşım, kanser tedavisinde büyük zorluklar yaratan ve geleneksel yöntemlerle hedef alınamayan proteinlerin etkisiz hale getirilmesine olanak sağlıyor.\n\nGeleneksel kanser tedavileri, genellikle kanser hücrelerini yok etmek için ilaçlar kullanır. Ancak bazı proteinler, bu ilaçların etkisinden kaçınarak kanserin ilerlemesine neden olabilir. HYDRAC teknolojisi, bu tür proteinlerin doğrudan hedef alınarak etkisiz hale getirilmesini ve hücrenin doğal sistemleri tarafından parçalanmasını sağlıyor.\n\nAraştırmacılar, HYDRAC'ların kullanımıyla kanser tedavisinde daha etkili ve hedefe yönelik çözümler sunulabileceğini belirtiyor. Bu yöntem, özellikle mevcut tedavilere dirençli olan kanser türleri için umut vadediyor.\n\nBu gelişme, genetik mühendislik ve biyoteknolojideki ilerlemelerin kanser tedavisi üzerindeki potansiyel etkisini bir kez daha gözler önüne seriyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/cancer/new-protein-like-polymers-target-degrade-undruggable-proteins-driving-cancer/)",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/cancer/new-protein-like-polymers-target-degrade-undruggable-proteins-driving-cancer/",
+        "date": "2026-02-25T02:52:22.093402",
+        "timestamp": 1771987942.09341
     },
     "news_list": [
+        {
+            "title": "Düz Bir Yüzeyden Çek-Yüksel: MIT'den Devrim Niteliğinde 3D Yapı Tekniği",
+            "original_title": "Just pull a string to turn these tile patterns into useful 3D structures",
+            "content": "MIT araştırmacıları, düz bir yüzeye bağlı karo desenlerinden, tek bir ip çekişiyle 3D yapılar oluşturabilen yeni bir yöntem geliştirdi. Bu teknik, katlanabilir bisiklet kaskları ve tıbbi cihazlar, afet bölgeleri için acil barınaklar ve sahra hastaneleri gibi birçok alanda kullanılabilir. \n\nBu yenilikçi yaklaşım, önceden belirlenmiş bir düzende yerleştirilmiş karo desenlerini kullanarak, ip çekildiğinde kendiliğinden yükselen yapılar meydana getiriyor. Bu karolar, belirli noktalardan birbirlerine bağlanarak, çekme kuvvetiyle belirlenen şekle bürünüyorlar. \n\nBu yöntemin en dikkat çekici kullanım alanlarından biri, taşınabilir ve kolayca kurulabilir yapılarda kendini gösteriyor. Acil durumlar için hızlı bir şekilde kurulan sahra hastaneleri ve barınaklar, bu teknoloji sayesinde daha da pratik hale gelebilir. Aynı zamanda, günlük yaşamda kullanılabilecek katlanabilir bisiklet kaskları gibi ürünlerin üretimi de mümkün hale geliyor. \n\nMIT araştırmacıları, bu tekniğin daha fazla geliştirilmesi halinde, mimari tasarımlar ve kişisel koruyucu ekipman üretiminde devrim yaratabileceğine inanıyorlar. Araştırmacıların çalışmaları, gelecekte bu tür yapılarla ilgili daha fazla yeniliğin kapısını aralayabilir.\n\nKaynak: MIT Technology Review.",
+            "category": "Bilim & Teknoloji",
+            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/",
+            "date": "2026-02-25T02:52:03.100629",
+            "timestamp": 1771987923.10064
+        },
+        {
+            "title": "Göz Tembelliği İçin Retinal Yeniden Başlatma",
+            "original_title": "A retinal reboot for amblyopia",
+            "content": "Göz tembelliği olarak da bilinen ambliyopi, hayatın erken dönemlerinde bir gözdeki görme bozukluğunun, beynin görsel sistemindeki sinir bağlantılarının diğer gözü destekleyecek şekilde değişmesine yol açmasıyla ortaya çıkar. Bu durum, orijinal bozukluk düzeltilse bile ambliyopik gözün daha az işlevsel kalmasına neden olur. Mevcut müdahaleler, bebeklik ve erken çocukluk döneminden sonra etkili değildir. Bu nedenle, ambliyopi tedavisi için yeni yaklaşımlar geliştirmek önem arz etmektedir. \n\nSon araştırmalar, retina üzerinden yapılan yenilikçi bir tedavi yöntemiyle bu rahatsızlığı ele almayı hedefliyor. Bu yeni yaklaşım, hem beyin hem de göz arasındaki bağlantıları yeniden şekillendirmeye odaklanarak, ilerleyen yaşlarda da etkili olabilecek çözümler sunmayı amaçlıyor. Bu tür bir tedavi, görme sisteminin iki göz arasında daha dengeli bir işlevsellik kazanmasına yardımcı olabilir. \n\nAraştırmalar, bu yeni yöntemin potansiyel olarak daha geniş bir yaş aralığında uygulanabilir olabileceğini ve hastaların yaşam kalitesini artırabileceğini göstermektedir. Henüz deneysel aşamada olan bu tedavi, gelecekte ambliyopi için umut verici bir çözüm sunabilir. \n\nKaynak: MIT Technology Review",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/24/1132077/a-retinal-reboot-for-amblyopia/",
+            "date": "2026-02-25T02:52:12.441391",
+            "timestamp": 1771987932.441404
+        },
+        {
+            "title": "Kanserle Mücadelede Çığır Açan Yeni Polimerler: 'İlaçlanamaz' Proteinleri Hedef Alıyor",
+            "original_title": "New Protein-Like Polymers Target, Degrade “Undruggable” Proteins Driving Cancer",
+            "content": "Yeni geliştirilen protein benzeri polimerler, kanserin ilerlemesinde rol oynayan 'ilaçlanamaz' proteinleri hedef alarak yok ediyor. HYDRAC adı verilen bu yenilikçi polimerler, iki ana bileşeni birden fazla kopya halinde sergileyerek çalışıyor: hedef proteini tanıyan peptitler ve hücrenin doğal kalite kontrol sistemini harekete geçiren peptit bazlı veya küçük moleküllü degronlar. Bu yaklaşım, kanser tedavisinde büyük zorluklar yaratan ve geleneksel yöntemlerle hedef alınamayan proteinlerin etkisiz hale getirilmesine olanak sağlıyor.\n\nGeleneksel kanser tedavileri, genellikle kanser hücrelerini yok etmek için ilaçlar kullanır. Ancak bazı proteinler, bu ilaçların etkisinden kaçınarak kanserin ilerlemesine neden olabilir. HYDRAC teknolojisi, bu tür proteinlerin doğrudan hedef alınarak etkisiz hale getirilmesini ve hücrenin doğal sistemleri tarafından parçalanmasını sağlıyor.\n\nAraştırmacılar, HYDRAC'ların kullanımıyla kanser tedavisinde daha etkili ve hedefe yönelik çözümler sunulabileceğini belirtiyor. Bu yöntem, özellikle mevcut tedavilere dirençli olan kanser türleri için umut vadediyor.\n\nBu gelişme, genetik mühendislik ve biyoteknolojideki ilerlemelerin kanser tedavisi üzerindeki potansiyel etkisini bir kez daha gözler önüne seriyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/cancer/new-protein-like-polymers-target-degrade-undruggable-proteins-driving-cancer/)",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/new-protein-like-polymers-target-degrade-undruggable-proteins-driving-cancer/",
+            "date": "2026-02-25T02:52:22.093402",
+            "timestamp": 1771987942.09341
+        },
         {
             "title": "Mikropların Kan Basıncınızı Kontrol Ettiği Yeni Keşif: Bağırsak-Beyin-Kalp Ekseni",
             "original_title": "Gut-Brain-Heart Axis: How Microbes Control Your Blood Pressure",
@@ -480,36 +510,6 @@
             "link": "https://neurosciencenews.com/astrocytes-fear-memory-amygdala-30159/",
             "date": "2026-02-20T19:00:30.651719",
             "timestamp": 1771614030.651727
-        },
-        {
-            "title": "Hava Kirliliği Alzheimer Riskini Artırıyor",
-            "original_title": "Air pollution linked to higher Alzheimer’s risk in 28 million older Americans",
-            "content": "Hava kirliliğinin solunum sistemine zarar vermesinin yanı sıra, Alzheimer hastalığı riskini de artırabileceği ortaya çıktı. Neredeyse 28 milyon yaşlı Amerikalı üzerinde yapılan kapsamlı bir araştırmada, ince partikül hava kirliliğine uzun süre maruz kalmanın Alzheimer gelişme olasılığını artırdığı bulundu. Bu bağlantının, büyük ölçüde kirliliğin beyin üzerindeki doğrudan etkilerinden kaynaklandığı ve hipertansiyon veya depresyon gibi ilişkili sağlık durumları aracılığıyla olmadığı görüldü.\n\nAraştırmacılar, ince partikül olarak bilinen PM2.5'in beyin sağlığını nasıl etkilediğini inceledi. PM2.5, 2.5 mikrometreden daha küçük çaplı parçacıklardır ve akciğerlerin derinliklerine kadar inebilmektedir. Uzun süreli maruz kalma, bu parçacıkların beyne doğrudan zarar verebileceğini düşündürmektedir.\n\nÇalışmanın bulguları, hava kalitesinin iyileştirilmesinin sadece solunumsal hastalıkları değil, aynı zamanda nörodejeneratif hastalıkların önlenmesinde de önemli bir adım olabileceğini göstermektedir. Araştırmacılar, hava kirliliğine maruz kalmanın azaltılmasıyla, yaşlı nüfusta Alzheimer hastalığı prevalansının da düşebileceğini vurgulamaktadır.\n\nBu araştırma, hava kirliliğinin beyindeki potansiyel etkilerini daha iyi anlamak için daha fazla çalışmanın yapılması gerektiğini ortaya koymaktadır.\n\nAPA: Mind & Brain News -- ScienceDaily. (Tarih). Air pollution linked to higher Alzheimer’s risk in 28 million older Americans. https://www.sciencedaily.com/releases/2023/XX/XXX.htm",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/02/260220010836.htm",
-            "date": "2026-02-20T15:48:17.355592",
-            "timestamp": 1771602497.355603
-        },
-        {
-            "title": "Parkinson Hastaları İçin Umut: Dopamin Üreten Kök Hücreler Beyne Naklediliyor",
-            "original_title": "Doctors implant dopamine-producing stem cells in Parkinson’s patients",
-            "content": "Parkinson hastalığının tedavisinde çığır açacak bir klinik deneme, özel olarak tasarlanmış kök hücrelerin, hastaların beyinlerinde dopamin üretimini yeniden başlatıp başlatamayacağını test ediyor. Parkinson hastalığı, dopamin üreten hücrelerin kademeli olarak kaybı nedeniyle oluşur ve bu kayıp, titreme, sertlik ve yavaş hareket gibi belirtilere yol açar. Araştırmacılar, laboratuvar ortamında üretilen bu hücreleri, beyin hareket merkezine doğrudan yerleştirerek kaybedilen hücrelerin yerine geçmesini sağlamaya çalışıyor. Bu yenilikçi tedavi yöntemi, Parkinson hastalığının semptomlarını hafifletmeyi ve hastaların yaşam kalitesini artırmayı hedefliyor. Eğer başarılı olursa, bu yöntem Parkinson hastalığı tedavisinde devrim niteliğinde bir adım olabilir. \n\nKaynak: Mind & Brain News. (tarih). Doctors implant dopamine-producing stem cells in Parkinson’s patients. ScienceDaily adresinden alındı.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/02/260219040820.htm",
-            "date": "2026-02-20T15:48:24.844284",
-            "timestamp": 1771602504.844293
-        },
-        {
-            "title": "Microsoft'un Gerçek ve Yapay Zekayı Ayırt Etme Planı ve Kızamık Vakalarındaki Endişe Verici Artış",
-            "original_title": "The Download: Microsoft’s online reality check, and the worrying rise in measles cases",
-            "content": "Bu, dünyanın dört bir yanından teknoloji haberlerini derleyen günlük bültenimiz The Download'ın bugünkü sayısıdır. Microsoft, çevrimiçi ortamda neyin gerçek, neyin yapay zeka ürünü olduğunu kanıtlamak için yeni bir plan geliştirdi. Yapay zeka destekli aldatma, artık çevrimiçi yaşamlarımızı sarmış durumda. Bunu kolayca fark edebileceğiniz yüksek profilli vakalar var. Ancak bazen bu aldatma, fark edilmeden gözden kaçabiliyor...\n\nMicrosoft'un bu yeni planı, çevrimiçi içeriklerin doğruluğunu ve kaynağını daha iyi belirleyebilmek için kullanıcılara araçlar sunmayı hedefliyor. Kullanıcılar, bir içeriğin gerçek mi yoksa yapay zeka tarafından mı üretildiğini anlamak için bu araçlardan faydalanabilecekler. Teknoloji devi, bu adımıyla internet üzerindeki bilgi kirliliğini azaltmayı ve kullanıcıların daha güvenilir kaynaklara erişimini sağlamayı amaçlıyor.\n\nÖte yandan, kızamık vakalarındaki endişe verici artış da dikkat çekiyor. Özellikle çocuklar arasında yayılan bu hastalık, aşı karşıtlığı gibi faktörler nedeniyle yeniden gündeme gelmiş durumda. Sağlık otoriteleri, kızamık aşısının önemine vurgu yaparken, toplumun bağışıklık kazanması için aşılamanın kritik bir rol oynadığını belirtiyor.\n\nBu vakaların artışı, sağlık sistemlerini zorlayan ve halk sağlığını tehdit eden önemli bir sorun olarak karşımıza çıkıyor. Yetkililer, kızamık vakalarının azaltılması için toplumsal farkındalığın artırılması gerektiğini vurguluyor.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/20/1133396/the-download-microsofts-online-reality-check-and-the-worrying-rise-in-measles-cases/",
-            "date": "2026-02-20T15:48:35.686820",
-            "timestamp": 1771602515.686829
         }
     ]
 }
