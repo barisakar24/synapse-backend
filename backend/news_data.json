@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-02-25T19:17:03.183742",
+    "last_updated": "2026-02-25T21:43:11.967684",
     "daily_news": {
-        "title": "Yapay Zekanın Zorlu Sınavı: 'İnsanlığın Son Sınavı'nda Başarısızlık",
-        "original_title": "“Humanity’s Last Exam”: The Super-Benchmark AI Is Currently Failing",
-        "content": "Yapay zeka (YZ), eski testlerini geride bırakarak daha zorlu meydan okumalar için hazırlanıyor. Bu bağlamda bilim insanları, dünyanın en iyi YZ modellerinin tek haneli puanlar aldığı son derece zorlu bir sınav olan 'İnsanlığın Son Sınavı'nı tanıttılar. Geleneksel YZ testlerinin ötesine geçerek YZ'nin sınırlarını keşfetmek amacıyla tasarlanan bu yeni benchmark, insan zekasına benzer bir düşünme yeteneği ve problem çözme becerisi gerektiriyor.\n\nBilim insanları, YZ teknolojisinin gelişimiyle birlikte mevcut testlerin artık yeterli olmadığını ve yeni bir değerlendirme standardına ihtiyaç duyulduğunu belirtiyorlar. 'İnsanlığın Son Sınavı', YZ'nin daha karmaşık ve nüanslı problemleri çözebilme kapasitesini ölçmeyi hedefliyor. Bu yeni sınav, YZ araştırmacılarına ve geliştiricilerine, modellerini daha da geliştirmeleri ve insan benzeri zekaya daha yakın bir seviyeye getirmeleri için önemli bir fırsat sunuyor.\n\nYapay zekanın bu zorlu sınavda şu anda düşük puanlar alması, teknolojiye olan güveni sarsmaktan ziyade, araştırmacıları daha ileriye taşıyan bir motivasyon olarak görülüyor. Uzmanlar, bu yeni benchmark sayesinde YZ'nin daha önce keşfedilmemiş potansiyelinin ortaya çıkabileceğini ve gelecekteki uygulamaların daha kapsamlı bir şekilde şekillendirilebileceğini umuyorlar.\n\nKaynakça:\nNeuroscience News. (2023). 'Humanity’s Last Exam': The Super-Benchmark AI Is Currently Failing. https://neurosciencenews.com/humanity-last-exam-ai-benchmark-30191/",
+        "title": "Dikkat Dağınıklığının Suçlusu: Beynin Aşırı Aktif Ritimleri",
+        "original_title": "Overactive Brain Rhythms May Be to Blame for Distractibility",
+        "content": "Bilim insanları, beynin dikkatini saniyede 10 kez \"yanıp söndüren\" bir yapıya sahip olduğunu keşfetti. Bu durum, evrimsel bir özellik olarak dikkat çekse de, modern çağın odaklanma gereksinimleri karşısında zorluk yaratıyor. Araştırmalara göre, beynin bu ritmik çalışma şekli, dikkatin kolayca dağılmasına neden olabiliyor. Beyin dalgalarının bu aşırı aktif yapısı, dikkat dağınıklığının altında yatan sebeplerden biri olarak gösteriliyor. Bu durum, günlük yaşamda dikkatinizi toplamakta neden zorlandığınızı açıklayabilir. \n\nKaynak: Neuroscience News. (2023). Overactive Brain Rhythms May Be to Blame for Distractibility. Erişim adresi: https://neurosciencenews.com/brain-rhythms-attention-distraction-30195/",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/humanity-last-exam-ai-benchmark-30191/",
-        "date": "2026-02-25T19:16:35.842810",
-        "timestamp": 1772046995.842818
+        "link": "https://neurosciencenews.com/brain-rhythms-attention-distraction-30195/",
+        "date": "2026-02-25T21:42:46.494617",
+        "timestamp": 1772055766.494628
     },
     "news_list": [
+        {
+            "title": "Dikkat Dağınıklığının Suçlusu: Beynin Aşırı Aktif Ritimleri",
+            "original_title": "Overactive Brain Rhythms May Be to Blame for Distractibility",
+            "content": "Bilim insanları, beynin dikkatini saniyede 10 kez \"yanıp söndüren\" bir yapıya sahip olduğunu keşfetti. Bu durum, evrimsel bir özellik olarak dikkat çekse de, modern çağın odaklanma gereksinimleri karşısında zorluk yaratıyor. Araştırmalara göre, beynin bu ritmik çalışma şekli, dikkatin kolayca dağılmasına neden olabiliyor. Beyin dalgalarının bu aşırı aktif yapısı, dikkat dağınıklığının altında yatan sebeplerden biri olarak gösteriliyor. Bu durum, günlük yaşamda dikkatinizi toplamakta neden zorlandığınızı açıklayabilir. \n\nKaynak: Neuroscience News. (2023). Overactive Brain Rhythms May Be to Blame for Distractibility. Erişim adresi: https://neurosciencenews.com/brain-rhythms-attention-distraction-30195/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/brain-rhythms-attention-distraction-30195/",
+            "date": "2026-02-25T21:42:46.494617",
+            "timestamp": 1772055766.494628
+        },
+        {
+            "title": "Rett Sendromunda Aşırı Aktif MikroRNA Beyin Sızıntısına Neden Oluyor",
+            "original_title": "Overactive MicroRNA Triggers Leaky Brain in Rett Syndrome",
+            "content": "Bilim insanları, sadece nöronların değil, aynı zamanda Rett sendromunun beynin 'tesisatını' sızdırdığını ve kan-beyin bariyerini bozarak sinirsel aktiviteyi ele geçirdiğini keşfettiler. Rett sendromu, genellikle kız çocuklarında görülen nörogelişimsel bir bozukluktur ve genellikle ciddi zihinsel ve fiziksel engellere yol açar. Son araştırmalar, bu sendromun etkilerini daha iyi anlamamıza yardımcı olacak yeni bir mekanizmayı ortaya koyuyor.\n\nAraştırmacılar, Rett sendromunda belirli bir mikroRNA'nın aşırı aktif hale gelerek kan-beyin bariyerinde sızıntılara yol açtığını buldular. Kan-beyin bariyeri, beyindeki sinir hücrelerini koruyan kritik bir yapıdır ve bu bariyerin bozulması, beyindeki nörolojik fonksiyonları olumsuz etkileyebilir. Bu durum, hem hastalığın belirtilerini ağırlaştırabilir hem de tedavi yöntemlerini zorlaştırabilir.\n\nBu bulgular, Rett sendromunun tedavisinde yeni stratejilerin geliştirilmesine olanak sağlayabilir. Özellikle mikroRNA'nın aktivitesinin düzenlenmesi, kan-beyin bariyerinin korunmasına yardımcı olabilir ve böylece hastalığın etkileri hafifletilebilir. Bu tür araştırmalar, nörogelişimsel bozuklukların altında yatan karmaşık biyolojik süreçlerin daha iyi anlaşılmasına katkıda bulunmaktadır.\n\nAraştırma, beynin yapısal ve işlevsel bütünlüğünün korunmasının, nörolojik hastalıkların tedavisinde ne kadar önemli olduğunu bir kez daha göstermiştir. Gelecekte yapılacak çalışmalar, bu mekanizmaların daha detaylı olarak incelenmesine ve potansiyel tedavi hedeflerinin belirlenmesine yardımcı olabilir.\n\nKaynak: Neuroscience News (2023). Overactive MicroRNA Triggers Leaky Brain in Rett Syndrome. https://neurosciencenews.com/rett-syndrome-leaky-brain-vascular-30194/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/rett-syndrome-leaky-brain-vascular-30194/",
+            "date": "2026-02-25T21:42:58.383830",
+            "timestamp": 1772055778.38384
+        },
+        {
+            "title": "2026'da Sodyum-İyon Piller Neden Öne Çıkacak?",
+            "original_title": "Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries",
+            "content": "Sodyum bazlı piller, lityum-iyon pillerine kıyasla daha ucuz ve daha güvenli bir alternatif olarak öne çıkıyor ve teknoloji nihayet araçlara ve şebeke üzerindeki enerji depolama sistemlerine entegre ediliyor. Sodyum-iyon piller, MIT Technology Review'un 2026'nın 10 Çığır Açan Teknolojisi listesinde yer almakta ve bu özel oturum, neden bu kadar önemli olduklarını açıklıyor. Sodyum-iyon pillerin maliyet avantajı, daha geniş bulunabilirlik ve çevresel etkiler gibi konular tartışılıyor. Ayrıca, bu pillerin elektrikli araçlar ve enerji depolama sistemlerinde nasıl kullanılabileceği ve bu alandaki son gelişmeler ele alınıyor. \n\nKaynakça: MIT Technology Review. (2023). Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries. Erişim adresi: https://www.technologyreview.com/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/",
+            "date": "2026-02-25T21:43:03.801245",
+            "timestamp": 1772055783.801254
+        },
+        {
+            "title": "ADMET Tahminleri Yapay Zeka Desteğiyle Gelişiyor: İlaç Sektöründe Federatif Veri Ağı Birliği",
+            "original_title": "ADMET Predictions Get AI Boost, Federated Data Network Unites Pharma",
+            "content": "Apheris'in ADMET Ağı, gizliliği koruyan bir ortamda özel veri setlerini birleştirerek yapay zeka destekli ilaç keşif modellerini hızlandırmayı hedefliyor. Kurucu büyük ilaç firmaları, ilgili verilerinin %80'ini küresel bir ADMET temel modelini eğitmek için ayırarak tüm ortakların erişimine açmaya taahhüt etti. Bu yaklaşım, ilaç geliştirme süreçlerini hızlandırmayı ve daha etkili tedavilerin bulunmasını sağlamayı amaçlıyor. \n\nApheris'in yenilikçi yaklaşımı, veri gizliliğini korurken, iş birliği yaparak ilaç keşfi sürecini daha etkin hale getirmeyi hedefliyor. Federatif veri ağı, ortakların kendi veri setlerini merkezileştirmeden, gizlilik endişelerini bertaraf ederek paylaşmalarına olanak tanıyor. Bu sayede, yapay zeka modelleri daha geniş ve çeşitli veriyle eğitilerek, ilaçların ADMET (Absorpsiyon, Dağılım, Metabolizma, Eliminasyon ve Toksisite) profillerinin daha doğru tahmin edilmesi sağlanacak. \n\nBu gelişme, ilaç keşif süreçlerinde kritik bir adım olarak değerlendiriliyor ve ilaç firmaları arasındaki iş birliğinin artmasını sağlaması bekleniyor. Apheris'in federatif veri ağı, ilaç endüstrisinde daha hızlı ve güvenli bir şekilde yenilikçi çözümler geliştirilmesine olanak tanıyacak.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). ADMET Predictions Get AI Boost, Federated Data Network Unites Pharma. URL: https://www.genengnews.com/topics/artificial-intelligence/admet-predictions-get-ai-boost-federated-data-network-unites-pharma/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/artificial-intelligence/admet-predictions-get-ai-boost-federated-data-network-unites-pharma/",
+            "date": "2026-02-25T21:43:11.967637",
+            "timestamp": 1772055791.967646
+        },
         {
             "title": "COVID-19 Beyni Gripten Farklı Olarak Yeniden Şekillendiriyor",
             "original_title": "COVID-19 Uniquely Rewires the Brain Compared to the Flu",
@@ -470,46 +510,6 @@
             "link": "https://neurosciencenews.com/hearing-loss-tmc1-membrane-apoptosis-30163/",
             "date": "2026-02-21T21:32:07.726655",
             "timestamp": 1771709527.726666
-        },
-        {
-            "title": "Mounjaro'nun Etken Maddesi Alkol Tüketimini Azaltıyor",
-            "original_title": "Mounjaro’s Active Ingredient Slashes Alcohol Intake",
-            "content": "Kilo kaybından ayıklığa uzanan bir yolculuk. Yeni araştırmalar, Mounjaro'nun etken maddesinin beynin ödül sistemini nasıl 'sessize aldığı' ve alkol isteğini önemli ölçüde azalttığını ortaya koyuyor. \n\nMounjaro, tip 2 diyabet tedavisinde kullanılan tirzepatid adlı bir ilacı içerir. Son yapılan çalışmalar, tirzepatidin sadece kilo kaybını teşvik etmekle kalmayıp, aynı zamanda alkol kullanım bozukluğu yaşayan bireylerde alkol tüketimini de azaltabileceğini göstermiştir. \n\nBu etken madde, beyindeki ödül sistemi üzerinde etkili olarak alkol tüketiminin cazibesini azaltabilir. Bu, alkol bağımlılığıyla mücadele edenler için umut verici bir gelişme olarak değerlendirilmektedir. \n\nAraştırmacılar, tirzepatidin beyindeki dopamin ve diğer nörotransmitter seviyelerini etkileyerek alkol isteğini azalttığını belirtmektedir. Bu sayede, alkol tüketme dürtüsünün önüne geçilmesi mümkün olabilmektedir.\n\nBu yeni bulgular, alkol bağımlılığı tedavisinde yeni ve etkili bir yaklaşım sunabilir. Araştırmacılar, bu alandaki çalışmaların devam ettiğini ve daha fazla veri elde edilmesiyle birlikte tirzepatidin bu amaçla kullanımının yaygınlaşabileceğini ifade etmektedir.\n\nKaynak:\nNeuroscience News. (2023). Mounjaro's Active Ingredient Slashes Alcohol Intake. https://neurosciencenews.com/tirzepatide-alcohol-use-disorder-30161/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/tirzepatide-alcohol-use-disorder-30161/",
-            "date": "2026-02-21T21:32:13.446893",
-            "timestamp": 1771709533.446902
-        },
-        {
-            "title": "OCD Beyni Günlük İşlerde Fazladan Çaba Harcıyor",
-            "original_title": "OCD Brains Work Harder to Stay on Track",
-            "content": "Obsesif Kompulsif Bozukluk (OCD) sadece tekrarlayan düşüncelerle sınırlı değil; bu durumun altında yatan beyin, günlük görevleri takip edebilmek için ekstra çaba sarf ediyor. Yeni araştırmalar, OCD'li bireylerin beyinlerinin, günlük sekansları takip edebilmek için neden ekstra bölgeleri devreye soktuğunu ortaya koyuyor.\n\nOCD, kişinin istem dışı tekrarlayan düşünceler ve davranışlar sergilemesine neden olan bir anksiyete bozukluğu olarak bilinir. Ancak bu durumun altında yatan nörobiyolojik nedenler hala tam olarak anlaşılabilmiş değil. Son zamanlarda yapılan bir çalışma, OCD'li bireylerin beyinlerinin, günlük görevleri takip edebilmek ve organize edebilmek için farklı beyin bölgelerini etkinleştirdiğini gösteriyor.\n\nAraştırmacılar, OCD'li bireylerin beyin aktivitesini, sağlıklı bireylerle karşılaştırarak beyinlerinin nasıl çalıştığını inceledi. Sonuçlar, OCD'li bireylerin beyninin, belirli görevleri yerine getirirken daha fazla enerji harcadığını ve bu süreçte daha geniş bir beyin ağını kullandığını ortaya koydu.\n\nBu ekstra çaba, OCD'li bireylerin günlük yaşamda karşılaştıkları zorlukları daha iyi anlamamıza yardımcı olabilir. Beynin bu ekstra bölgeleri devreye sokması, bireylerin günlük yaşamlarındaki karmaşık görevleri yönetmelerine yardımcı olabilirken, aynı zamanda bu durumun neden bu kadar yorucu olduğunu da açıklayabilir.\n\nAraştırma, OCD'nin tedavisinde yeni stratejilerin geliştirilmesine katkı sağlayabilir. Özellikle beyin stimülasyonu gibi yöntemlerin, bu ekstra çabayı azaltmada etkili olup olamayacağı araştırılmaya başlanabilir.\n\nBu çalışma, OCD'nin nörobiyolojik temellerini anlamak ve bu bozuklukla yaşayan bireylere daha iyi destek olabilmek adına önemli bir adım olarak kabul ediliyor.\n\nKaynak: Neuroscience News (2023). OCD Brains Work Harder to Stay on Track. https://neurosciencenews.com/ocd-brain-sequencing-tms-30159/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/ocd-brain-sequencing-tms-30159/",
-            "date": "2026-02-21T18:49:00.648967",
-            "timestamp": 1771699740.648976
-        },
-        {
-            "title": "Beyniniz Soğuğu Nasıl Hisseder: Soğuk Sensörünün Sırrı",
-            "original_title": "How Your Brain Knows It’s Cold",
-            "content": "Soğuğu nasıl hissederiz? Bilim insanları, vücudun 'soğuk sensörü' olan TRPM8'in atomik düzeydeki ilk görüntülerini yakalayarak, beynimizin soğuğu nasıl algıladığını ve mentolün beynimizi nasıl kandırdığını ortaya çıkardı. TRPM8, soğuk hava veya mentol gibi serinletici maddelere tepki veren bir iyon kanalıdır ve bu keşif, soğuğun beyinde nasıl işlendiğine dair önemli bilgiler sunmaktadır.\n\nAraştırma, TRPM8'in soğuk sıcaklıklarda veya mentol gibi maddelerle aktive olduğunda hücre zarında nasıl bir değişim geçirdiğini göstermektedir. Bu iyon kanalı, sinir hücrelerinde bir elektrik sinyali oluşturur ve bu da beyinde 'soğuk' hissi olarak algılanır. Bilim insanları, TRPM8'in yapısal değişikliklerini atomik düzeyde görüntüleyerek, bu sürecin daha iyi anlaşılmasını sağlamışlardır.\n\nBu keşif, sadece soğuğun algılanması konusundaki anlayışımızı derinleştirmekle kalmıyor, aynı zamanda soğuk algısı ile ilgili ağrı veya diğer duyusal bozuklukların tedavisi için yeni yollar açabilir. Özellikle soğuk algısının aşırı hassas olduğu veya hiç algılanmadığı durumlar, bu tür araştırmalar sayesinde daha iyi anlaşılabilir ve tedavi edilebilir.\n\nBu çalışmalar, mentolün neden serinletici bir etki yarattığının anlaşılmasına da katkıda bulunuyor. Mentol, TRPM8'i aktive ederek beyne soğuk bir his gönderir, bu da serinletici bir hissiyat yaratır. Bu mekanizmanın detaylı anlaşılması, soğuk algısı üzerindeki kontrolümüzü arttırabilir ve bu alandaki terapötik uygulamaları geliştirebilir.\n\nBu araştırma, vücudumuzun dış dünyayı nasıl algıladığını anlamamıza yardımcı olacak önemli bir adım olarak değerlendiriliyor.\n\nKaynak: Neuroscience News",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/cold-sensor-trpm8-neuroscience-30158/",
-            "date": "2026-02-21T18:49:10.210404",
-            "timestamp": 1771699750.210412
-        },
-        {
-            "title": "Düzensiz Lipid Nanoparçacıkları ile Daha Etkili Hücresel Kargo Teslimatı",
-            "original_title": "Internal Disorder in Lipid Nanoparticles May Improve Cargo Delivery in Cells",
-            "content": "Bilim insanları, organize ve amorf lipid nanoparçacıklarını karşılaştırarak, daha az yapılandırılmış iç mimarilere sahip nanoparçacıkların hücre içi ilaç teslimatını artırdığını keşfettiler. Bu bulgu, daha yüksek ilaç yükleme oranlarının tedavi edici performansı artırdığına dair yaygın varsayımlara meydan okuyor. Araştırmacılar, iç yapının düzensizliğinin, hücre zarlarıyla etkileşimi kolaylaştırarak ve hücreye giriş sürecini optimize ederek ilaçların daha etkili bir şekilde taşınmasına olanak tanıdığını belirttiler. Bu çalışma, gelecekteki ilaç taşıma sistemlerinin tasarımında yeni bir yaklaşımın önünü açabilir. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News (n.d.). Internal Disorder in Lipid Nanoparticles May Improve Cargo Delivery in Cells. GEN - Genetic Engineering and Biotechnology News. Retrieved from https://www.genengnews.com/topics/drug-discovery/internal-disorder-in-lipid-nanoparticles-may-improve-cargo-delivery-in-cells/.",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/drug-discovery/internal-disorder-in-lipid-nanoparticles-may-improve-cargo-delivery-in-cells/",
-            "date": "2026-02-21T13:06:15.041508",
-            "timestamp": 1771679175.04152
         }
     ]
 }
