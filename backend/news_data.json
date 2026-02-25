@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-02-25T10:02:14.692054",
+    "last_updated": "2026-02-25T13:25:28.894430",
     "daily_news": {
-        "title": "Düz Bir Yüzeyden Çek-Yüksel: MIT'den Devrim Niteliğinde 3D Yapı Tekniği",
-        "original_title": "Just pull a string to turn these tile patterns into useful 3D structures",
-        "content": "MIT araştırmacıları, düz bir yüzeye bağlı karo desenlerinden, tek bir ip çekişiyle 3D yapılar oluşturabilen yeni bir yöntem geliştirdi. Bu teknik, katlanabilir bisiklet kaskları ve tıbbi cihazlar, afet bölgeleri için acil barınaklar ve sahra hastaneleri gibi birçok alanda kullanılabilir. \n\nBu yenilikçi yaklaşım, önceden belirlenmiş bir düzende yerleştirilmiş karo desenlerini kullanarak, ip çekildiğinde kendiliğinden yükselen yapılar meydana getiriyor. Bu karolar, belirli noktalardan birbirlerine bağlanarak, çekme kuvvetiyle belirlenen şekle bürünüyorlar. \n\nBu yöntemin en dikkat çekici kullanım alanlarından biri, taşınabilir ve kolayca kurulabilir yapılarda kendini gösteriyor. Acil durumlar için hızlı bir şekilde kurulan sahra hastaneleri ve barınaklar, bu teknoloji sayesinde daha da pratik hale gelebilir. Aynı zamanda, günlük yaşamda kullanılabilecek katlanabilir bisiklet kaskları gibi ürünlerin üretimi de mümkün hale geliyor. \n\nMIT araştırmacıları, bu tekniğin daha fazla geliştirilmesi halinde, mimari tasarımlar ve kişisel koruyucu ekipman üretiminde devrim yaratabileceğine inanıyorlar. Araştırmacıların çalışmaları, gelecekte bu tür yapılarla ilgili daha fazla yeniliğin kapısını aralayabilir.\n\nKaynak: MIT Technology Review.",
-        "category": "Bilim & Teknoloji",
-        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/",
-        "date": "2026-02-25T02:52:03.100629",
-        "timestamp": 1771987923.10064
+        "title": "Teknoloji ile Suçun Sonsuz Takibi: Crime Sayısı Tanıtımı",
+        "original_title": "The Download: introducing the Crime issue",
+        "content": "Bu, dünyadaki teknoloji dünyasında neler olup bittiğine dair günlük bir doz sağlayan hafta içi bültenimiz The Download'un bugünkü sayısıdır. Tanıtıyoruz: Crime Sayısı. Teknoloji, uzun süredir suç ve onun kovuşturulması konularında bir kedi-fare oyunu haline gelmiştir. Ancak suçu yasaların önüne geçirecek şekilde hızlandıran aynı yeni teknolojiler, aynı zamanda suçu önleme ve kovuşturma çabalarını da yeniden canlandırdı. Bu sayı, suç ve teknoloji arasındaki bu karmaşık ilişkiyi keşfetmektedir. Teknolojinin suçu nasıl dönüştürdüğünü ve aynı zamanda suçu önleme ve adaleti sağlama çabalarını nasıl etkilediğini anlamak için derin bir dalış yapıyoruz. \n\nKaynak: MIT Technology Review",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/",
+        "date": "2026-02-25T13:25:11.799587",
+        "timestamp": 1772025911.799598
     },
     "news_list": [
+        {
+            "title": "Teknoloji ile Suçun Sonsuz Takibi: Crime Sayısı Tanıtımı",
+            "original_title": "The Download: introducing the Crime issue",
+            "content": "Bu, dünyadaki teknoloji dünyasında neler olup bittiğine dair günlük bir doz sağlayan hafta içi bültenimiz The Download'un bugünkü sayısıdır. Tanıtıyoruz: Crime Sayısı. Teknoloji, uzun süredir suç ve onun kovuşturulması konularında bir kedi-fare oyunu haline gelmiştir. Ancak suçu yasaların önüne geçirecek şekilde hızlandıran aynı yeni teknolojiler, aynı zamanda suçu önleme ve kovuşturma çabalarını da yeniden canlandırdı. Bu sayı, suç ve teknoloji arasındaki bu karmaşık ilişkiyi keşfetmektedir. Teknolojinin suçu nasıl dönüştürdüğünü ve aynı zamanda suçu önleme ve adaleti sağlama çabalarını nasıl etkilediğini anlamak için derin bir dalış yapıyoruz. \n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/",
+            "date": "2026-02-25T13:25:11.799587",
+            "timestamp": 1772025911.799598
+        },
+        {
+            "title": "Dünyanın Gizli Sesleri: Doğanın Müziğini Dinleyin",
+            "original_title": "Listen to Earth’s rumbling, secret soundtrack",
+            "content": "Bir buzulun kopuşunun gürültüsü. Bir orman yangınının çıtırdayan uğultusu. Güçlü bir fırtına cephesinin kükremesi. Bunlar yaşayan Dünyanın sesleri, bu özel kürenin müziği ve bu dramatik olayların gerçek doğasına dair ipuçlarıdır. Ancak tüm bu sesler ne kadar yüksek olursa olsun, daha fazla akustik yayarlar. MIT Technology Review'de yer alan habere göre, bu sesler ve titreşimler, bilim insanlarının Dünya'nın dinamik süreçlerini daha iyi anlamalarına yardımcı oluyor. Araştırmacılar, bu doğal olayların sesini kaydederek ve analiz ederek, hem yer kabuğunun hem de atmosferin hareketleri hakkında değerli bilgiler ediniyorlar. Bu sesler, sadece estetik bir deneyim sunmakla kalmaz, aynı zamanda dünyamızın fiziksel süreçlerini daha iyi anlamamıza olanak tanır. Örneğin, buzulların kopuşları, buz tabakalarının hareketlerini ve iklim değişikliğinin etkilerini anlamada önemli veriler sağlar. Benzer şekilde, orman yangınlarının ve fırtınaların sesi, bu olayların şiddeti ve yayılma hızları hakkında bilgi verir. Bu nedenle, dünyanın seslerini dinlemek, sadece doğanın müziğini keşfetmek değil, aynı zamanda gezegenimizin sağlığını izlemek için de kritik bir araçtır.",
+            "category": "Bilim & Teknoloji",
+            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/25/1132829/listen-earths-rumbling-secret-soundtrack/",
+            "date": "2026-02-25T13:25:20.265401",
+            "timestamp": 1772025920.265409
+        },
+        {
+            "title": "Fare Beynindeki Oligodendrositlerin ve Miyelin Yoğunluğunun Yaşam Boyu Haritalanması",
+            "original_title": "Precise Locations of Oligodendrocytes, Myelin Density Mapped Across Mouse Lifespan",
+            "content": "Araştırmacılar, fare beynindeki milyonlarca oligodendrositin ve miyelin yoğunluğunun yaşam boyu haritasını çıkardı. Çalışma, miyelin içeriğinin beyin devreleri arasında nasıl değiştiğini gösterirken, oligodendrosit kaybının insanlardaki nörodejeneratif hastalıklar, öğrenme ve hafıza bozuklukları üzerindeki etkilerine dair önemli bilgiler sunuyor.\n\nBu çalışma, farelerin beyinlerinde oligodendrositlerin ve miyelin yoğunluğunun yaşa bağlı olarak nasıl değiştiğini detaylı bir şekilde ortaya koyuyor. Oligodendrositler, sinir hücrelerinin etrafını saran ve sinir sinyallerinin hızlı iletimini sağlayan miyelin kılıfının üretiminde görev alır. Bu nedenle, oligodendrositlerin ve miyelinin dağılımı ve yoğunluğu, sinir sistemi sağlığı için kritik öneme sahiptir.\n\nAraştırma sonuçları, yaşlandıkça beyinde meydana gelen değişikliklerin daha iyi anlaşılmasına yardımcı olabilir ve bu bilgilerin, özellikle nörodejeneratif hastalıkların ve öğrenme ile hafıza bozukluklarının tedavisinde yeni yaklaşımlar geliştirilmesine katkı sağlaması bekleniyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). Precise Locations of Oligodendrocytes, Myelin Density Mapped Across Mouse Lifespan. Retrieved from https://www.genengnews.com/topics/translational-medicine/precise-locations-of-oligodendrocytes-myelin-density-mapped-across-mouse-lifespan/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/precise-locations-of-oligodendrocytes-myelin-density-mapped-across-mouse-lifespan/",
+            "date": "2026-02-25T13:25:28.894387",
+            "timestamp": 1772025928.894396
+        },
         {
             "title": "Düz Bir Yüzeyden Çek-Yüksel: MIT'den Devrim Niteliğinde 3D Yapı Tekniği",
             "original_title": "Just pull a string to turn these tile patterns into useful 3D structures",
@@ -480,36 +510,6 @@
             "link": "https://www.technologyreview.com/2026/02/20/1133368/exclusive-ebook-the-great-al-hype-correction-of-2025/",
             "date": "2026-02-20T21:34:03.802074",
             "timestamp": 1771623243.802082
-        },
-        {
-            "title": "Kadınlarda Uzun Süreli Ağrının Sebebi: Hormonlarla Düzenlenen Bağışıklık Hücreleri",
-            "original_title": "Hormone-Regulated Immune Cells Implicated in Longer Lasting Pain in Women",
-            "content": "Araştırmacılar, farelerde ağrı çözümünde cinsiyet farklılıklarının nedenini araştırırken IL-10 üreten hormonlarla düzenlenen monositleri belirlediler. İnsanlarda yapılan ek çalışmalar, bu faktörlerin kadınların erkeklere kıyasla neden daha uzun süreli ağrı deneyimlediklerini açıklayabileceğini öne sürüyor.\n\nÇalışma, ağrı mekanizmalarının cinsiyetler arasında nasıl farklılık gösterdiğine dair önemli kanıtlar sunuyor. Özellikle kadınların, hormonal değişiklikler nedeniyle daha uzun süre ağrı hissetmelerine yol açabilecek bağışıklık hücreleri ile ilgili yeni bilgiler ortaya kondu.\n\nMonositler, bağışıklık sisteminin önemli bir parçası olup, vücudun enfeksiyonlarla mücadele etmesine yardımcı olur. Ancak, bu hücrelerin IL-10 üretimi ile hormonlar tarafından nasıl düzenlendiği, kadınların ağrı deneyimlerini daha iyi anlamamızı sağlayabilir. Hormon seviyelerindeki değişiklikler, bu bağışıklık hücrelerinin işlevlerini ve ağrı algısını etkileyebilir.\n\nBu bulgular, kadınların daha etkili ağrı yönetimi stratejileri geliştirmelerine yardımcı olabilir ve tıbbi tedavilerin kişiselleştirilmesi için yeni yollar açabilir. Araştırmanın sonuçları, kadınların ağrı yönetiminde daha fazla dikkat edilmesi gerektiğini ve bu konuda daha fazla araştırmanın yapılmasının önemini vurguluyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). Hormone-regulated immune cells implicated in longer lasting pain in women. https://www.genengnews.com/topics/translational-medicine/hormone-regulated-immune-cells-implicated-in-longer-lasting-pain-in-women/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/hormone-regulated-immune-cells-implicated-in-longer-lasting-pain-in-women/",
-            "date": "2026-02-20T21:34:14.218521",
-            "timestamp": 1771623254.218528
-        },
-        {
-            "title": "Gençlerde Esrar Kullanımı Psikoz ve Bipolar Riskini İkiye Katlıyor",
-            "original_title": "Teen Cannabis Use Doubles Psychosis and Bipolar Risk",
-            "content": "Yeni bir araştırma, genç yaşlarda esrar kullanımının, genç yetişkinlik döneminde ciddi psikiyatrik bozukluklar riskini iki katına çıkardığını doğruluyor. Bir kez tüketim bile iki yıllık bir geri sayımı başlatabilir. Bu bulgular, gençlerin esrar kullanımının potansiyel tehlikelerine dikkat çekiyor ve ebeveynler ile eğitimcilerin bu konuda daha bilinçli olmaları gerektiğini vurguluyor. Araştırma, gençlerin gelişim aşamasında olan beyinlerinin esrarın etkilerine karşı daha savunmasız olduğunu ve bu durumun uzun vadeli zihinsel sağlık sorunlarına yol açabileceğini gösteriyor. Elde edilen veriler, gençlerin bu tür maddelerden uzak durmalarının önemini bir kez daha gözler önüne seriyor.\n\nAPA: Neuroscience News. (2023). Teen Cannabis Use Doubles Psychosis and Bipolar Risk. https://neurosciencenews.com/teen-cannabis-psychosis-bipolar-30160/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/teen-cannabis-psychosis-bipolar-30160/",
-            "date": "2026-02-20T19:00:20.728821",
-            "timestamp": 1771614020.72883
-        },
-        {
-            "title": "Astrositler: Korku Hafızasının Mimarları Olarak Keşfedildi",
-            "original_title": "Astrocytes Discovered as Architects of Fear Memory",
-            "content": "Astrositler, yıldız şeklinde olan ve beyindeki birçok işlevde rol oynayan hücrelerdir. Son araştırmalar, bu hücrelerin, beynin korkuyu nasıl öğrenip öğrendiğini ve nasıl unuttuğunu kontrol eden anahtar oyuncular olduğunu ortaya koymuştur. Özellikle, amigdala bölgesinde bulunan astrositler, korku hafızasının oluşumunda ve düzenlenmesinde önemli bir rol oynamaktadır.\n\nAstrositlerin, korku hafızası üzerindeki etkisi, beynin bu hücreler aracılığıyla nasıl daha esnek hale geldiğini göstermektedir. Beyin, yeni bilgileri öğrenme ve eski, gereksiz korku anılarını silme kapasitesine sahiptir. Bu da, travma sonrası stres bozukluğu (TSSB) gibi durumların tedavisinde yeni yaklaşımlar geliştirilmesine olanak tanıyabilir.\n\nAraştırmacılar, astrositlerin nasıl çalıştığını ve korku hafızası üzerindeki etkilerini daha iyi anlamak amacıyla çeşitli deneyler yapmışlardır. Bu deneyler, astrositlerin beyinde sinapsları nasıl etkilediğini ve böylece korku yanıtlarını nasıl şekillendirdiğini göstermiştir.\n\nBu bulgular, astrositlerin sadece destek hücreler olmadığını, aynı zamanda beyin fonksiyonlarının karmaşık ağında merkezi bir rol oynadığını ortaya koymaktadır. Gelecekteki araştırmalar, bu hücrelerin nörolojik ve psikiyatrik bozukluklardaki rolünü daha da aydınlatabilir ve yeni tedavi yöntemlerinin geliştirilmesine katkı sağlayabilir.\n\nKaynak: Neuroscience News (2023). Astrocytes Discovered as Architects of Fear Memory. https://neurosciencenews.com/astrocytes-fear-memory-amygdala-30159/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/astrocytes-fear-memory-amygdala-30159/",
-            "date": "2026-02-20T19:00:30.651719",
-            "timestamp": 1771614030.651727
         }
     ]
 }
