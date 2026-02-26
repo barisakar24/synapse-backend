@@ -1,16 +1,66 @@
 {
-    "last_updated": "2026-02-26T16:01:15.602348",
+    "last_updated": "2026-02-26T19:04:24.970925",
     "daily_news": {
-        "title": "AI ve Endüstri 5.0: Teknolojilerin Ölçekli Orkestrasyonu",
-        "original_title": "Finding value with AI and Industry 5.0 transformation",
-        "content": "Yıllardır, Endüstri 4.0 dönüşümü, yapay zeka, bulut bilişim, nesnelerin interneti, robotik ve dijital ikizler gibi akıllı teknolojilerin birleşimi etrafında şekillenmiştir. Endüstri 5.0, ortaya çıkan bu teknolojilerin entegrasyonundan, onları ölçekli bir şekilde yönetmeye yönelik önemli bir kaymayı temsil etmektedir. Endüstri 5.0 ile bu birbirine bağlı teknoloji ağının amacı daha hassas bir hale geliyor: artırmak...\n\nKaynak: MIT Technology Review. (Yıl, Ay Gün). Finding value with AI and Industry 5.0 transformation.",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/02/26/1133707/finding-value-with-ai-and-industry-5-0-transformation/",
-        "date": "2026-02-26T16:01:15.373385",
-        "timestamp": 1772121675.373398
+        "title": "Bağırsak Mikrobiyomunun Yeniden Ayarlanması Beyin İltihabını Azaltıyor",
+        "original_title": "Gut Microbiome Reset Reduces Brain Inflammation",
+        "content": "Vücudu içten dışa iyileştirme. Bilim insanları, beyin yaralanmasından sonra bağırsak mikrobiyomunun yeniden ayarlanmasının beyne gönderilen sinyalleri 'düzene sokabileceğini' ve hücre tamirini hızlandırabileceğini keşfettiler. Beyin ve bağırsak arasındaki bu güçlü bağlantı, nörolojik sağlık üzerinde derin etkiler yaratabilir. Araştırma, travmatik beyin hasarı (TBI) sonrası oluşan nöroinflamasyonun, bağırsak mikrobiyomunun dengelenmesi ile azaltılabileceğini gösteriyor. Bu bulgular, beyin yaralanmalarının tedavisi ve rehabilitasyonu için yeni yaklaşımlar geliştirilmesine olanak sağlayabilir.\n\nKaynak: Neuroscience News. (2023). Gut Microbiome Reset Reduces Brain Inflammation. Erişim adresi: https://neurosciencenews.com/microbiome-tbi-brain-neuroinflammation-30201/",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/microbiome-tbi-brain-neuroinflammation-30201/",
+        "date": "2026-02-26T19:03:58.057332",
+        "timestamp": 1772132638.057339
     },
     "news_list": [
+        {
+            "title": "Lazer Isısı Beyin Kanseri İçin İmmünoterapinin Kapılarını Aralıyor",
+            "original_title": "Laser Heat Unlocks Immunotherapy for Brain Cancer",
+            "content": "Bilim insanları, lazer ısısını kullanarak kan-beyin bariyerini 'açarak' immünoterapinin beyin kanseri için rekor düzeyde hayatta kalma oranları elde etmesini sağladılar. Bu yöntem, beyin kanseri tedavisinde devrim yaratabilecek bir potansiyele sahip. Kan-beyin bariyeri, genellikle ilaçların beyin dokusuna ulaşmasını engelleyen koruyucu bir kalkan işlevi görür. Ancak, lazer ısısı ile bu bariyerin geçici olarak açılması, immünoterapinin etkili bir şekilde beyin tümörlerine ulaşmasına olanak tanıyor. Bu da tedavi sonuçlarında önemli iyileşmelere yol açıyor. Araştırmacılar, bu yöntemin gelecekte beyin kanseri tedavisinde standart bir uygulama haline gelebileceğini belirtiyorlar. Bu heyecan verici gelişme, beyin kanseri olan hastalar için yeni umutlar vaat ediyor. \n\nKaynak: Neuroscience News. (2023). Laser Heat Unlocks Immunotherapy for Brain Cancer. Erişim adresi: https://neurosciencenews.com/brain-cancer-laser-immunotherapy-30202/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/brain-cancer-laser-immunotherapy-30202/",
+            "date": "2026-02-26T19:03:52.373250",
+            "timestamp": 1772132632.37326
+        },
+        {
+            "title": "Bağırsak Mikrobiyomunun Yeniden Ayarlanması Beyin İltihabını Azaltıyor",
+            "original_title": "Gut Microbiome Reset Reduces Brain Inflammation",
+            "content": "Vücudu içten dışa iyileştirme. Bilim insanları, beyin yaralanmasından sonra bağırsak mikrobiyomunun yeniden ayarlanmasının beyne gönderilen sinyalleri 'düzene sokabileceğini' ve hücre tamirini hızlandırabileceğini keşfettiler. Beyin ve bağırsak arasındaki bu güçlü bağlantı, nörolojik sağlık üzerinde derin etkiler yaratabilir. Araştırma, travmatik beyin hasarı (TBI) sonrası oluşan nöroinflamasyonun, bağırsak mikrobiyomunun dengelenmesi ile azaltılabileceğini gösteriyor. Bu bulgular, beyin yaralanmalarının tedavisi ve rehabilitasyonu için yeni yaklaşımlar geliştirilmesine olanak sağlayabilir.\n\nKaynak: Neuroscience News. (2023). Gut Microbiome Reset Reduces Brain Inflammation. Erişim adresi: https://neurosciencenews.com/microbiome-tbi-brain-neuroinflammation-30201/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/microbiome-tbi-brain-neuroinflammation-30201/",
+            "date": "2026-02-26T19:03:58.057332",
+            "timestamp": 1772132638.057339
+        },
+        {
+            "title": "Yaşlanma Korkusu, Hücresel Düzeyde Yaşlanmayı Hızlandırabilir",
+            "original_title": "The more you fear aging, the faster your body may age",
+            "content": "NYU tarafından yapılan yeni bir araştırmaya göre, yaşlanmaktan korkmak, özellikle gelecekteki sağlık sorunlarından endişe duymak, hücresel düzeyde yaşlanmayı hızlandırabilir. 700'den fazla kadın üzerinde yapılan çalışmada, yaşlanma konusunda daha fazla endişe duyanların, kanlarındaki biyolojik yaşlanma belirtilerini daha hızlı gösterdikleri tespit edildi. Bu belirtiler, gelişmiş 'epigenetik saatler' kullanılarak ölçüldü. Sağlık sorunlarıyla ilgili korkular, en güçlü bağlantıya sahipken, güzellik veya doğurganlıkla ilgili endişelerin aynı biyolojik etkiye sahip olmadığı gözlendi.\n\nKaynak: Mind & Brain News -- ScienceDaily (Yayınlanma Tarihi: [Ekim 2023])",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260225081205.htm",
+            "date": "2026-02-26T19:04:04.205538",
+            "timestamp": 1772132644.205546
+        },
+        {
+            "title": "Metabolik Hastalıklar İçin Oral Biyolojik İlaçlarda Dev Anlaşma",
+            "original_title": "Novo Nordisk, Vivtex Ink Up to $2.1B Deal to Develop Oral Biologics for Metabolic Conditions",
+            "content": "Artan metabolik tedavi talebi ortasında, Novo Nordisk ve Vivtex, biyoyararlanımı artırılmış oral biyolojik ilaçlar geliştirmek üzere 2,1 milyar dolara kadar değerinde bir anlaşma imzaladı. Bu işbirliği, iki şirketin, ağız yoluyla alınabilen ve metabolik koşulların tedavisinde kullanılabilecek yenilikçi biyolojik ilaçlar geliştirmeye odaklanacağını ortaya koyuyor.\n\nNovo Nordisk, diyabet ve diğer kronik hastalıklar için tedaviler geliştiren küresel bir sağlık şirketi olarak tanınıyor. Vivtex ise, oral ilaçların biyoyararlanımını artırma konusunda uzmanlaşmış bir biyoteknoloji firması. Bu anlaşma, her iki şirketin de kendi alanlarındaki uzmanlıklarını birleştirerek, daha etkili ve hasta dostu tedavi seçenekleri sunma hedeflerini yansıtıyor.\n\nAnlaşma kapsamında, Vivtex'in sahip olduğu platform teknolojileri kullanılarak, biyolojik ilaçların oral biyoyararlanımı artırılacak. Bu, geleneksel enjeksiyon yöntemlerine alternatif olarak, hasta uyumunu artırabilecek bir çözüm sunuyor.\n\nNovo Nordisk CEO'su Lars Fruergaard Jørgensen, \"Vivtex ile olan işbirliğimiz, hastalar için daha iyi tedavi seçenekleri sunma hedefimize ulaşmada önemli bir adım,\" dedi. Vivtex CEO'su ise bu işbirliğinin biyoteknoloji alanında yeni bir çığır açacağına inandığını belirtti.\n\nBu anlaşma, Novo Nordisk'in oral biyolojik tedavilere yönelik stratejik yatırımlarını genişletirken, Vivtex'in yenilikçi çözümlerini global ölçekte sunmasına olanak tanıyacak.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). Novo Nordisk, Vivtex Ink Up to $2.1B Deal to Develop Oral Biologics for Metabolic Conditions. Retrieved from https://www.genengnews.com/topics/drug-discovery/novo-nordisk-vivtex-ink-up-to-2-1b-deal-to-develop-oral-biologics-for-metabolic-conditions/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/drug-discovery/novo-nordisk-vivtex-ink-up-to-2-1b-deal-to-develop-oral-biologics-for-metabolic-conditions/",
+            "date": "2026-02-26T19:04:15.891959",
+            "timestamp": 1772132655.891967
+        },
+        {
+            "title": "Yüksek Çözünürlüklü Dizileme ile RNA Tedavilerinde Risk Azaltma",
+            "original_title": "De-Risking RNA Therapeutics with High-Resolution Sequencing",
+            "content": "Yüksek çözünürlüklü dizileme teknikleri, RNA terapötiklerinin geliştirilmesi sürecinde karşılaşılan riskleri azaltmak için büyük bir potansiyel sunmaktadır. Bu webinar, RNA terapötiklerinin etkinliğini ve güvenliğini artırmak amacıyla yüksek çözünürlüklü dizileme teknolojilerinin nasıl kullanılabileceğini ele alıyor. RNA terapötikleri, genetik hastalıkların tedavisinde büyük bir yenilik sunmakta; ancak bu tedavilerin geliştirilmesi sırasında karşılaşılan biyolojik karmaşıklıklar ve potansiyel yan etkiler, bilim insanlarını ve araştırmacıları bu süreçte dikkatli olmaya zorluyor. Webinar, bu zorlukların üstesinden gelmek için yüksek çözünürlüklü dizilemenin sunduğu avantajları açıklıyor ve bu teknolojilerin RNA terapötiklerinin daha güvenli ve etkili hale getirilmesinde nasıl kritik bir rol oynayabileceğini ortaya koyuyor. Yüksek çözünürlüklü dizileme sayesinde, RNA yapılarının ve bunların hücresel mekanizmalar üzerindeki etkilerinin daha iyi anlaşılması sağlanabilir. Böylece, tedavi süreçleri daha öngörülebilir ve güvenli hale getirilebilir.\n\nAPA: GEN - Genetic Engineering and Biotechnology News. (tarih). De-Risking RNA Therapeutics with High-Resolution Sequencing. https://www.genengnews.com/multimedia/webinars/de-risking-rna-therapeutics-with-high-resolution-sequencing/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/multimedia/webinars/de-risking-rna-therapeutics-with-high-resolution-sequencing/",
+            "date": "2026-02-26T19:04:24.970886",
+            "timestamp": 1772132664.970894
+        },
         {
             "title": "AI ve Endüstri 5.0: Teknolojilerin Ölçekli Orkestrasyonu",
             "original_title": "Finding value with AI and Industry 5.0 transformation",
@@ -460,56 +510,6 @@
             "link": "https://www.technologyreview.com/2026/02/23/1133522/peptides-are-everywhere-heres-what-you-need-to-know/",
             "date": "2026-02-23T19:18:14.550931",
             "timestamp": 1771874294.550941
-        },
-        {
-            "title": "İnsanların Emeği Gizlenen Humanoid Robotlar",
-            "original_title": "The human work behind humanoid robots is being hidden",
-            "content": "Bu hikaye ilk olarak yapay zeka konusunda haftalık bültenimiz olan The Algorithm'de yer aldı. Benzer hikayeleri ilk olarak e-posta kutunuzda görmek için buradan abone olabilirsiniz. Ocak ayında, dünyanın en değerli şirketinin başındaki Nvidia'nın Jensen Huang, yapay zekanın dil ve sohbet botlarının ötesine geçeceği fiziksel yapay zeka çağına girdiğimizi ilan etti. Bu yeni dönemde, yapay zeka sistemleri fiziksel dünyada daha fazla yer alacak ve daha fazla insana benzer interaktif yetenekler kazanacak. Ancak bu teknolojik gelişmelerin arkasında büyük bir insan emeği gizli. Humanoid robotların geliştirilmesi, onları eğitmek ve gerçek dünyada işlevsellik kazandırmak için büyük ölçüde insan müdahalesine dayanıyor. Bu durum, yapay zekanın ne kadar 'bağımsız' olduğuna dair soruları da beraberinde getiriyor. İnsanlar, robotların öğrenme süreçlerini denetliyor, hatalarını düzeltiyor ve onları çeşitli senaryolara hazırlıyor. Yani, yapay zekanın fiziksel dünyada etkili olabilmesi için insan emeği çok önemli bir rol oynamaktadır. Yapay zekanın bu yeni aşaması, teknoloji ve insan işbirliğinin ne denli kritik olduğunu bir kez daha gözler önüne seriyor.\n\nKaynak: MIT Technology Review. (2023). The human work behind humanoid robots is being hidden. https://www.technologyreview.com/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/23/1133508/the-human-work-behind-humanoid-robots-is-being-hidden/",
-            "date": "2026-02-23T19:18:22.109524",
-            "timestamp": 1771874302.10953
-        },
-        {
-            "title": "FDA'nın Öncelikli Kupon Kararı Psikedelik İlaç Gelişimini Nasıl Etkileyecek?",
-            "original_title": "What the FDA’s Priority Voucher Decision Means for Psychedelic Drug Development",
-            "content": "Son zamanlarda CNPV uygunluğu etrafında dönen tartışma, düzenleyici sistemlerin sembolizmden çok dayanıklılığı önceliklendiren yasal çerçeveler içinde çalıştığını hatırlatıyor. Sıkıştırılmış bir inceleme, yalnızca altında yatan başvuru yeterince olgun olduğunda değerlidir. Psikedelik sektör için uzun vadeli başarı, ilk onayın hızından çok, bu onayı destekleyen delillerin güvenilirliğine dayanacaktır.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/translational-medicine/what-the-fdas-priority-voucher-decision-means-for-psychedelic-drug-development/)",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/what-the-fdas-priority-voucher-decision-means-for-psychedelic-drug-development/",
-            "date": "2026-02-23T19:18:26.233138",
-            "timestamp": 1771874306.233148
-        },
-        {
-            "title": "Chicago'da Gözetim Ağı: Teknolojinin Gücü ve Mahremiyet Tartışmaları",
-            "original_title": "The Download: Chicago’s surveillance network, and building better bras",
-            "content": "Bugünün \"The Download\" bülteninde, teknoloji dünyasında neler olup bittiğine dair günlük bir doz sunuyoruz. Bu sayıda, Chicago'nun gözetim ağı ve daha iyi sütyenler tasarlama konuları ele alınıyor.\n\nChicago'daki Gözetim Panopticon'u\n\nChicago, on binlerce gözetim kamerasına sahip; bazı tahminlere göre bu sayı 45.000'e kadar çıkıyor. Bu, ABD'de kişi başına düşen en yüksek sayılardan biri. Chicago, ülkenin en büyük gözetim ağlarından birine sahip olmanın gururunu taşıyor. \n\nKentin bu denli geniş bir gözetim ağına sahip olması, hem güvenlik hem de mahremiyet açısından çeşitli tartışmaları beraberinde getiriyor. Yetkililer, bu kameraların suçla mücadelede etkili olduğunu savunurken, eleştirmenler ise bu durumun kişisel mahremiyetin ihlali olduğunu ileri sürüyor.\n\nTeknoloji ve gözetim konularındaki bu gelişmeler, toplumsal yaşamın nasıl şekillendiği ve bireylerin özel alanlarının ne şekilde korunduğu konularında derinlemesine düşünmeyi gerektiriyor.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/23/1133495/the-download-chicagos-surveillance-network-and-building-better-bras/",
-            "date": "2026-02-23T15:55:23.757069",
-            "timestamp": 1771862123.757078
-        },
-        {
-            "title": "Ultima Genomics, AGBT Öncesi UG 200 Serisini Tanıttı",
-            "original_title": "Before AGBT Kicks Off, Ultima Unveils the UG 200",
-            "content": "Ultima Genomics, AGBT konferansından önce UG200 serisi ve Solaris 2.0 iş akışlarını tanıttı. Yeni seri, daha küçük boyut, daha hızlı çalışma süresi, daha yüksek verimlilik ve daha düşük fiyatlar sunarken, yüksek ölçekli DNA dizilimi konusundaki odaklanmasını sürdürüyor.\n\nUG200 serisi, DNA dizileme işlemlerinde devrim yaratacak nitelikte özelliklere sahip. Daha küçük bir alana ihtiyaç duyması, laboratuvarlarda yer tasarrufu sağlarken, hızlanan çalışma süresi ile araştırmalar daha hızlı tamamlanabilecek. Artan verimlilik, daha fazla verinin daha kısa sürede işlenmesine imkan tanıyor. Ayrıca, maliyetlerin düşmesi, DNA dizileme teknolojilerine erişimi kolaylaştırarak daha geniş bir kullanıcı kitlesine hitap ediyor.\n\nSolaris 2.0 iş akışları da bu yeni sistemle entegre çalışarak, araştırmacılara daha kapsamlı ve etkili çözümler sunuyor. Ultima Genomics, bu yeni teknolojileri ile genetik araştırmaların daha erişilebilir ve etkili hale gelmesini amaçlıyor.\n\nKaynak:\nGEN - Genetic Engineering and Biotechnology News. (tarih). Before AGBT Kicks Off, Ultima Unveils the UG 200. Erişim adresi: https://www.genengnews.com/topics/omics/before-agbt-kicks-off-ultima-unveils-the-ug-200/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/omics/before-agbt-kicks-off-ultima-unveils-the-ug-200/",
-            "date": "2026-02-23T15:55:31.204265",
-            "timestamp": 1771862131.204273
-        },
-        {
-            "title": "Alzheimer Belirtilerini Yıllar Öncesinden Tahmin Eden Kan Testi Geliştirildi",
-            "original_title": "Simple blood test can forecast Alzheimer’s years before memory loss",
-            "content": "Bilim insanları, Alzheimer hastalığının belirtilerinin başlamasını tahmin edebilen bir kan testi geliştirdiler. Bu test, beyindeki amiloid ve tau proteinlerinin sessizce birikimini yansıtan p-tau217 adlı bir proteini ölçerek, belirtilerin ne zaman başlayacağını yaklaşık üç ila dört yıl öncesinden tahmin edebiliyor. Bu ilerleme, önleyici ilaç denemelerinin hızlandırılmasına ve nihayetinde kişiselleştirilmiş bakım rehberliğine olanak tanıyabilir. Alzheimer hastalığı, genellikle hafıza kaybı gibi belirtilerle tanınsa da, beyinde yıllar boyunca süren sessiz bir süreç olarak başlar. Yeni geliştirilen bu kan testi, beyindeki bu sessiz süreçlerin erken aşamalarını tespit edebilmesi nedeniyle, araştırmacılara ve doktorlara önemli bir avantaj sağlayabilir. Bilim insanları, bu yeni testin, Alzheimer’ın erken belirtilerini tespit etmek için mevcut yöntemlere kıyasla daha hızlı ve daha az invaziv bir alternatif sunduğunu belirtiyor. İleriye dönük olarak, bu tür testlerin, Alzheimer’ın önleyici tedavileri için klinik denemelerin daha etkili bir şekilde yapılmasına yardımcı olması bekleniyor. Ayrıca, hastaların tedavi süreçlerini kişiselleştirmek ve daha iyi bir yaşam kalitesi sağlamak için kullanılabilir.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/02/260222085203.htm",
-            "date": "2026-02-23T13:24:15.535981",
-            "timestamp": 1771853055.53599
         }
     ]
 }
