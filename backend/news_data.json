@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-02-25T21:43:11.967684",
+    "last_updated": "2026-02-26T02:47:22.735426",
     "daily_news": {
-        "title": "Dikkat Dağınıklığının Suçlusu: Beynin Aşırı Aktif Ritimleri",
-        "original_title": "Overactive Brain Rhythms May Be to Blame for Distractibility",
-        "content": "Bilim insanları, beynin dikkatini saniyede 10 kez \"yanıp söndüren\" bir yapıya sahip olduğunu keşfetti. Bu durum, evrimsel bir özellik olarak dikkat çekse de, modern çağın odaklanma gereksinimleri karşısında zorluk yaratıyor. Araştırmalara göre, beynin bu ritmik çalışma şekli, dikkatin kolayca dağılmasına neden olabiliyor. Beyin dalgalarının bu aşırı aktif yapısı, dikkat dağınıklığının altında yatan sebeplerden biri olarak gösteriliyor. Bu durum, günlük yaşamda dikkatinizi toplamakta neden zorlandığınızı açıklayabilir. \n\nKaynak: Neuroscience News. (2023). Overactive Brain Rhythms May Be to Blame for Distractibility. Erişim adresi: https://neurosciencenews.com/brain-rhythms-attention-distraction-30195/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/brain-rhythms-attention-distraction-30195/",
-        "date": "2026-02-25T21:42:46.494617",
-        "timestamp": 1772055766.494628
+        "title": "Hastalığa Yatkınlığı ve Sağlık Özelliklerini Etkileyen Genetik Varyantlar Belirlendi",
+        "original_title": "Key Genetic Variants That Influence Disease Risk, Human Health Traits Identified",
+        "content": "Araştırmacılar, farklı hücre tiplerinde 220.000'den fazla DNA varyantını test etmek için yoğun bir paralel raporlayıcı deney kullanarak, belirli genetik değişikliklerin hücrelerde nasıl işlev gördüğünü ve bunların hastalık riskini ve insan sağlığı özelliklerini nasıl etkilediğini belirledi. Bu çalışma, genetik varyantların hücre fonksiyonlarına olan etkilerini daha iyi anlamamıza yardımcı olabilir ve potansiyel olarak kişisel sağlık stratejilerinin geliştirilmesine katkıda bulunabilir.\n\nAraştırmada kullanılan yoğun paralel raporlayıcı deney yöntemi, genetik varyantların hücresel düzeyde nasıl işlev gördüğünü hızlı ve kapsamlı bir şekilde değerlendirmemizi sağladı. Bu yöntem sayesinde, genetik değişikliklerin hastalık riskine ve sağlık özelliklerine olan etkileri daha ayrıntılı bir şekilde incelenebildi.\n\nBu araştırmanın bulguları, genetik mühendisliği ve biyoteknoloji alanında önemli bir adım olarak kabul ediliyor ve gelecekteki genetik araştırmalar için bir temel oluşturuyor. Özellikle hastalıklara yatkınlığı etkileyen genetik varyantların belirlenmesi, kişiselleştirilmiş tıp uygulamalarında kullanılabilecek yeni yollar açabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Key Genetic Variants That Influence Disease Risk, Human Health Traits Identified. https://www.genengnews.com/topics/omics/key-genetic-variants-that-influence-disease-risk-human-health-traits-identified/",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/omics/key-genetic-variants-that-influence-disease-risk-human-health-traits-identified/",
+        "date": "2026-02-26T02:47:14.828288",
+        "timestamp": 1772074034.828297
     },
     "news_list": [
+        {
+            "title": "Sigara İçmenin Parkinson Riskini Azaltırken Ölüm Oranını Artırdığı Keşfedildi",
+            "original_title": "Smoking Linked to Lower Parkinson’s Risk but Higher Mortality",
+            "content": "Yeni bir araştırmaya göre, sigara içmenin Parkinson hastalığı riskini azaltabileceği ancak sigarayı bırakmanın genel ölüm riskini azaltmanın tek yolu olduğu bulundu. Sigara içen bireylerin Parkinson hastalığına yakalanma olasılıkları daha düşük olabilir, ancak bu durum sigara içmenin ölümcül etkilerini ortadan kaldırmıyor.\n\nAraştırmacılar, sigara içmenin bazı nörolojik faydalar sağlayabileceğini, ancak sigarayı bırakmanın uzun vadede sağlık için daha iyi bir seçenek olduğunu belirtiyorlar. Sigara içmenin çeşitli sağlık sorunlarına yol açtığı ve yaşam beklentisini kısalttığı uzun süredir bilinmektedir. Sigara içen bireylerde kanser, kalp hastalıkları ve solunum yolu hastalıkları gibi ciddi sağlık sorunları daha sık görülmektedir.\n\nParkinson hastalığı, beyin hücrelerinin dejenerasyonu sonucu ortaya çıkan ve motor becerilerde bozulmaya yol açan bir nörolojik hastalıktır. Araştırmalar, sigara içen bireylerde Parkinson hastalığı riskinin azaldığını öne sürse de, bu durum sigarayı bırakmanın önemini azaltmamaktadır.\n\nSonuç olarak, sigara içmenin bazı nörolojik koruyucu etkileri olsa da, genel sağlık ve yaşam süresi üzerindeki olumsuz etkileri göz önünde bulundurulduğunda, sigarayı bırakmak en iyi seçenektir.\n\nKaynak: Neuroscience News. (2026). Smoking Linked to Lower Parkinson’s Risk but Higher Mortality. https://neurosciencenews.com/smoking-parkinsons-mortality-30198/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/smoking-parkinsons-mortality-30198/",
+            "date": "2026-02-26T02:47:03.324019",
+            "timestamp": 1772074023.324031
+        },
+        {
+            "title": "RNA Gözetim Sistemi: Beynin Haritasını Çıkarıyor",
+            "original_title": "RNA Cleanup System Maps the Brain",
+            "content": "Bilim insanları, nöronların doğru katmanlara ulaşarak işlevsel bir beyin inşa etmelerini sağlayan bir RNA 'gözetim sistemi'ni tanımladılar. Bu sistem, nöronlar için bir tür GPS görevi görerek, beyin haritasının oluşturulmasında kritik bir rol oynuyor. RNA temizleme sisteminin beyin katmanlarının oluşumunu nasıl yönlendirdiğini ve bunun nörolojik gelişim üzerindeki etkilerini keşfetmek, beyin araştırmalarında yeni ufuklar açabilir. \n\nÖzellikle, nöronal göçün nasıl yönlendirildiğini anlamak, beyin gelişimi ile ilgili birçok sorunun cevabını bulmak için önemli bir adım olabilir. Bu bulgular, nörolojik hastalıkların daha iyi anlaşılması ve yeni tedavi yöntemlerinin geliştirilmesi için de umut vaat ediyor.\n\nKaynak: Neuroscience News (https://neurosciencenews.com/nmd-neuronal-migration-brain-layers-30197/)",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/nmd-neuronal-migration-brain-layers-30197/",
+            "date": "2026-02-26T02:47:07.957576",
+            "timestamp": 1772074027.957584
+        },
+        {
+            "title": "Hastalığa Yatkınlığı ve Sağlık Özelliklerini Etkileyen Genetik Varyantlar Belirlendi",
+            "original_title": "Key Genetic Variants That Influence Disease Risk, Human Health Traits Identified",
+            "content": "Araştırmacılar, farklı hücre tiplerinde 220.000'den fazla DNA varyantını test etmek için yoğun bir paralel raporlayıcı deney kullanarak, belirli genetik değişikliklerin hücrelerde nasıl işlev gördüğünü ve bunların hastalık riskini ve insan sağlığı özelliklerini nasıl etkilediğini belirledi. Bu çalışma, genetik varyantların hücre fonksiyonlarına olan etkilerini daha iyi anlamamıza yardımcı olabilir ve potansiyel olarak kişisel sağlık stratejilerinin geliştirilmesine katkıda bulunabilir.\n\nAraştırmada kullanılan yoğun paralel raporlayıcı deney yöntemi, genetik varyantların hücresel düzeyde nasıl işlev gördüğünü hızlı ve kapsamlı bir şekilde değerlendirmemizi sağladı. Bu yöntem sayesinde, genetik değişikliklerin hastalık riskine ve sağlık özelliklerine olan etkileri daha ayrıntılı bir şekilde incelenebildi.\n\nBu araştırmanın bulguları, genetik mühendisliği ve biyoteknoloji alanında önemli bir adım olarak kabul ediliyor ve gelecekteki genetik araştırmalar için bir temel oluşturuyor. Özellikle hastalıklara yatkınlığı etkileyen genetik varyantların belirlenmesi, kişiselleştirilmiş tıp uygulamalarında kullanılabilecek yeni yollar açabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Key Genetic Variants That Influence Disease Risk, Human Health Traits Identified. https://www.genengnews.com/topics/omics/key-genetic-variants-that-influence-disease-risk-human-health-traits-identified/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/omics/key-genetic-variants-that-influence-disease-risk-human-health-traits-identified/",
+            "date": "2026-02-26T02:47:14.828288",
+            "timestamp": 1772074034.828297
+        },
+        {
+            "title": "Astellas ve Vir Biotechnology, 1,7 Milyar Dolara Kadar Prostat Kanseri İş Birliği Başlattı",
+            "original_title": "Astellas, Vir Biotechnology Launch Up-to-$1.7B Prostate Cancer Collaboration",
+            "content": "Astellas ve Vir Biotechnology, PRO-XTEN® platformu üzerinden geliştirilen ve Prostat Spesifik Membran Antijenini (PSMA) hedef alan çift maskeli T-hücre yönlendirici (TCE) adayı olan VIR-5500 üzerinde iş birliğine gidiyor. Bu iş birliği, 1,7 milyar dolara kadar bir değerde olup, prostat kanseri tedavisinde önemli bir adım olarak değerlendiriliyor.\n\nVIR-5500, TCE'lerin tümör mikroçevresine ulaşana kadar 'maskeleme' veya etkisiz durumda kalmasını sağlayacak şekilde tasarlanmıştır. Bu yaklaşım, istenmeyen hedef dışı etkileri azaltmayı ve ilacın 'terapötik indeksi' veya güvenlik marjını artırmayı amaçlıyor.\n\nBu iş birliği, kanser tedavisinde yenilikçi yaklaşımların geliştirilmesine yönelik önemli bir örnek teşkil ediyor ve iki şirketin bilimsel ve finansal kaynaklarını birleştirerek daha etkili tedavilerin araştırılması hedefleniyor.\n\nKaynak: Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/cancer/astellas-vir-biotechnology-launch-up-to-1-7b-prostate-cancer-collaboration/)",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/astellas-vir-biotechnology-launch-up-to-1-7b-prostate-cancer-collaboration/",
+            "date": "2026-02-26T02:47:22.735383",
+            "timestamp": 1772074042.735392
+        },
         {
             "title": "Dikkat Dağınıklığının Suçlusu: Beynin Aşırı Aktif Ritimleri",
             "original_title": "Overactive Brain Rhythms May Be to Blame for Distractibility",
@@ -470,46 +510,6 @@
             "link": "https://neurosciencenews.com/ai-face-recognition-overconfidence-30171/",
             "date": "2026-02-23T02:53:49.747078",
             "timestamp": 1771815229.747088
-        },
-        {
-            "title": "Bebek Uykusu ve Otizm Belirtileri Arasındaki Bağlantı",
-            "original_title": "Predicting Autism Traits Through Infant Sleep",
-            "content": "Bilim insanları, bebeklerin duyusal hassasiyetlerinin uyku kalitelerini etkileyebileceğini keşfetti. Duyusal hassasiyete sahip bebekler, dış dünyayla bağlantılarını koparamadıkları için daha yüzeysel ve daha az dinlendirici bir uyku deneyimi yaşıyorlar. Bu durum, otizm spektrum bozukluğu (ASD) belirtilerinin erken dönemde tahmin edilmesine yardımcı olabilir. Bebeklerin uyku düzenleri ve duyusal hassasiyetleri arasındaki bu bağlantı, otizm belirtilerinin erken teşhisi ve müdahalesi için yeni yollar açabilir. Araştırmacılar, bu bulguların otizmli bireyler için daha iyi bir yaşam kalitesi sağlamada önemli bir rol oynayabileceğine inanıyor.\n\nKaynak: Neuroscience News (2026, Şubat). Predicting Autism Traits Through Infant Sleep. https://neurosciencenews.com/infant-sensory-sensitivity-sleep-asd-30170/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/infant-sensory-sensitivity-sleep-asd-30170/",
-            "date": "2026-02-22T21:32:37.451241",
-            "timestamp": 1771795957.451252
-        },
-        {
-            "title": "Omurilik Onarımında Devrim: Yeni Biyo-İmplant Umut Vaat Ediyor",
-            "original_title": "New Bio-Implant for Spinal Cord Repair",
-            "content": "Bilim insanları, omurilik yaralanmalarının tedavisinde devrim yaratabilecek yeni bir biyo-implant geliştirdi. Bu yenilikçi implant, RNA kullanarak sinirlerin yeniden büyümesini tetikleyip felçli bölgeler arasında bir köprü kuruyor. 3D yazıcı teknolojisi kullanılarak üretilen bu implant, omurilik onarımında uzun süredir karşılaşılan 'tamir freni' sorununu çözmeyi hedefliyor. \n\nOmurilik yaralanmaları, sıklıkla sinirlerin hasar görmesi ve bunun sonucunda felç oluşmasıyla sonuçlanır. Geleneksel tedaviler, sinirlerin yeniden büyümesini ve işlev kazanmasını sağlamakta yetersiz kalıyordu. Ancak yeni geliştirilen bu biyo-implant, RNA teknolojisi sayesinde sinirlerin yeniden büyümesini hızlandırarak bu engeli aşmayı vaat ediyor.\n\nBilim insanları, RNA'nın sinir hücreleri üzerindeki etkilerini inceleyerek, hasarlı bölgelerdeki sinirlerin yeniden yapılanmasını teşvik edecek genetik talimatlar veriyorlar. Bu süreç, sinir hücreleri arasındaki bağlantıların yeniden oluşmasını ve böylece sinir sinyallerinin geçişini mümkün kılıyor. Sonuç olarak, felçli bölgelerde kısmi veya tam hareketlilik geri kazanılabiliyor.\n\nBu yenilik, omurilik yaralanmalarının tedavisinde çığır açıcı bir adım olarak görülüyor. Araştırmacılar, bu biyo-implantın klinik denemelerle insanlarda kullanılabilir hale gelmesi için çalışmalarını sürdürüyor.\n\nKaynak: Neuroscience News (2023, Şubat 26). New Bio-Implant for Spinal Cord Repair. Erişim adresi: https://neurosciencenews.com/spinal-cord-rna-implant-pten-30169/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/spinal-cord-rna-implant-pten-30169/",
-            "date": "2026-02-22T21:32:44.115510",
-            "timestamp": 1771795964.11552
-        },
-        {
-            "title": "Moderna'nın FDA Onayı: 50 Yaş Üstü İçin Aşı Umudu",
-            "original_title": "StockWatch: FDA Reversal Boosts Moderna, But Not Other Vaccine Companies",
-            "content": "Moderna, yaşa dayalı olarak revize edilmiş bir düzenleyici yol izlemeyi önerdi. Bu kapsamda, 50-64 yaş arası yetişkinler için tam onay ve 65 yaş ve üzeri yetişkinler için hızlandırılmış onay talep etmeyi kabul etti. Hızlandırılmış onay, Moderna'nın yaşlı yetişkinlerde ek bir çalışma yapmasını gerektiren bir pazarlama sonrası şartına tabi olacak. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/infectious-diseases/stockwatch-fda-reversal-boosts-moderna-but-not-other-vaccine-companies/",
-            "date": "2026-02-22T02:53:41.522081",
-            "timestamp": 1771728821.522092
-        },
-        {
-            "title": "Kalıcı İşitme Kaybının Gizli Sebebi: Hücre Zarı 'Ölüm Dönüşü'",
-            "original_title": "Hidden Cause of Permanent Hearing Loss Identified",
-            "content": "Bilim insanları, kalıcı işitme kaybının sadece yüksek ses maruziyetinden kaynaklanmadığını keşfettiler. Araştırmalar, hücre zarlarında meydana gelen ve 'ölüm dönüşü' olarak adlandırılan bir sürecin işitme kaybına yol açtığını gösteriyor. Bu süreçte, hücre zarlarının yapısındaki değişiklikler hücre ölümüne neden oluyor ve bu da kalıcı işitme kaybı ile sonuçlanıyor. Ayrıca, bazı ilaçların bu süreci tetikleyebileceği ve işitme kaybını hızlandırabileceği belirtildi. Bu buluş, işitme kaybının önlenmesi ve tedavisi için yeni yollar açabilir. Bilim insanları, 'ölüm dönüşü' sürecini daha iyi anlamak ve bu süreci engelleyecek tedaviler geliştirmek için çalışmalarını sürdürüyorlar.\n\nKaynak: Neuroscience News.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/hearing-loss-tmc1-membrane-apoptosis-30163/",
-            "date": "2026-02-21T21:32:07.726655",
-            "timestamp": 1771709527.726666
         }
     ]
 }
