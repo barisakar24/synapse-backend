@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-26T09:58:56.675828",
+    "last_updated": "2026-02-26T13:26:21.369680",
     "daily_news": {
-        "title": "Sigara İçmenin Parkinson Riskini Azaltırken Ölüm Oranını Artırdığı Keşfedildi",
-        "original_title": "Smoking Linked to Lower Parkinson’s Risk but Higher Mortality",
-        "content": "Yeni bir araştırmaya göre, sigara içmenin Parkinson hastalığı riskini azaltabileceği ancak sigarayı bırakmanın genel ölüm riskini azaltmanın tek yolu olduğu bulundu. Sigara içen bireylerin Parkinson hastalığına yakalanma olasılıkları daha düşük olabilir, ancak bu durum sigara içmenin ölümcül etkilerini ortadan kaldırmıyor.\n\nAraştırmacılar, sigara içmenin bazı nörolojik faydalar sağlayabileceğini, ancak sigarayı bırakmanın uzun vadede sağlık için daha iyi bir seçenek olduğunu belirtiyorlar. Sigara içmenin çeşitli sağlık sorunlarına yol açtığı ve yaşam beklentisini kısalttığı uzun süredir bilinmektedir. Sigara içen bireylerde kanser, kalp hastalıkları ve solunum yolu hastalıkları gibi ciddi sağlık sorunları daha sık görülmektedir.\n\nParkinson hastalığı, beyin hücrelerinin dejenerasyonu sonucu ortaya çıkan ve motor becerilerde bozulmaya yol açan bir nörolojik hastalıktır. Araştırmalar, sigara içen bireylerde Parkinson hastalığı riskinin azaldığını öne sürse de, bu durum sigarayı bırakmanın önemini azaltmamaktadır.\n\nSonuç olarak, sigara içmenin bazı nörolojik koruyucu etkileri olsa da, genel sağlık ve yaşam süresi üzerindeki olumsuz etkileri göz önünde bulundurulduğunda, sigarayı bırakmak en iyi seçenektir.\n\nKaynak: Neuroscience News. (2026). Smoking Linked to Lower Parkinson’s Risk but Higher Mortality. https://neurosciencenews.com/smoking-parkinsons-mortality-30198/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/smoking-parkinsons-mortality-30198/",
-        "date": "2026-02-26T02:47:03.324019",
-        "timestamp": 1772074023.324031
+        "title": "Donut Lab'den Batarya Devrimi: Gerçek mi Yoksa Hayal mi?",
+        "original_title": "This company claims a battery breakthrough. Now they need to prove it.",
+        "content": "Bir şirket, bataryalar konusunda adeta kutsal kaseyi yarattığını iddia ettiğinde, doğal olarak bazı sorular ortaya çıkacaktır. Geçen ay, Finlandiyalı Donut Lab şirketi, yeni bir katı hal batarya teknolojisine sahip olduğunu ve bunun büyük ölçekli üretime hazır olduğunu duyurduğundan beri ilgi odağı haline geldi. Şirket, bataryalarının... \n\nDonut Lab'in yeni teknolojisinin, geleneksel lityum-iyon bataryalara göre daha güvenli, daha uzun ömürlü ve daha hızlı şarj edilebilir olduğu iddia ediliyor. Katı hal bataryaları, sıvı veya jel elektrolit yerine katı bir elektrolit kullandıkları için genellikle daha güvenli olarak kabul edilir. Bu, bataryaların aşırı ısınma veya patlama riskini azaltabilir.\n\nAncak, birçok batarya üreticisi ve teknoloji uzmanı, bu iddiaların gerçek olup olmadığını görmek için Donut Lab'in teknolojisinin daha fazla test edilmesi gerektiğini söylüyor. Şirketin, teknolojisini dünya çapında kabul edilebilir ve uygulanabilir hale getirmesi için birçok engeli aşması gerekecek.\n\nDonut Lab, bu yeni bataryaların elektrikli araçlar, akıllı telefonlar ve diğer taşınabilir cihazlar için enerji depolama çözümlerinde devrim yaratacağını öne sürüyor. Ancak, bu tür iddiaların gerçeğe dönüşüp dönüşmeyeceği, şirketin teknolojisini nasıl uygulayacağına ve piyasada nasıl bir etki yaratacağına bağlı olacak.\n\nKaynak: MIT Technology Review",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
+        "date": "2026-02-26T13:26:21.163901",
+        "timestamp": 1772112381.16391
     },
     "news_list": [
+        {
+            "title": "Amerika'nın Mars'ta Yaşam Arayışında Liderliği Nasıl Kaybettiği ve İddialı Batarya Gelişmeleri",
+            "original_title": "The Download: how America lost its lead in the hunt for alien life, and ambitious battery claims",
+            "content": "Amerika, Mars'ta yaşam arayışında liderliğini sürdürürken, Çin bu yarışa hızlı bir giriş yaptı. Temmuz 2024'te, NASA'nın Perseverance isimli keşif aracı Mars'ta tuhaf noktalarla kaplı bir kaya çıkıntısına rastladı. Bu keşif, dünya üzerindeki bilim insanlarının dikkatini çekti ve Mars'ta yaşamın izlerini bulma yarışında yeni bir dönemin habercisi oldu. Ancak Çin, bu yarışta Amerika'nın önüne geçmeyi başardı. Çin'in Mars'a gönderdiği Zhurong keşif aracı, önemli bilimsel veriler toplayarak bu yarışta büyük bir adım attı. Çin'in uzay araştırmalarına yaptığı yatırımlar ve geliştirdiği ileri teknoloji, Mars'ta yaşam arayışında yeni bir dönemin kapılarını araladı. Amerikan uzay ajansı NASA, bu yeni gelişmeler karşısında stratejilerini gözden geçirmeye ve Çin ile rekabet edebilmek için yeni teknolojiler geliştirmeye başladı. Öte yandan, enerji depolama teknolojilerinde de büyük gelişmeler yaşanıyor. Özellikle batarya teknolojilerinde yapılan yenilikler, daha uzun ömürlü ve güçlü enerji depolama çözümleri sunuyor. Bu alanda yapılan iddialı çalışmalar, elektrikli araçlardan taşınabilir cihazlara kadar birçok alanda devrim niteliğinde değişiklikler vaat ediyor. Sonuç olarak, hem uzay araştırmalarında hem de enerji teknolojilerinde yaşanan bu gelişmeler, gelecekteki teknolojik dönüşümlerin habercisi niteliğinde. \n\nKaynak: MIT Technology Review.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/26/1133734/the-download-how-america-lost-its-lead-in-the-hunt-for-alien-life-and-ambitious-battery-claims/",
+            "date": "2026-02-26T13:26:11.744134",
+            "timestamp": 1772112371.744144
+        },
+        {
+            "title": "Donut Lab'den Batarya Devrimi: Gerçek mi Yoksa Hayal mi?",
+            "original_title": "This company claims a battery breakthrough. Now they need to prove it.",
+            "content": "Bir şirket, bataryalar konusunda adeta kutsal kaseyi yarattığını iddia ettiğinde, doğal olarak bazı sorular ortaya çıkacaktır. Geçen ay, Finlandiyalı Donut Lab şirketi, yeni bir katı hal batarya teknolojisine sahip olduğunu ve bunun büyük ölçekli üretime hazır olduğunu duyurduğundan beri ilgi odağı haline geldi. Şirket, bataryalarının... \n\nDonut Lab'in yeni teknolojisinin, geleneksel lityum-iyon bataryalara göre daha güvenli, daha uzun ömürlü ve daha hızlı şarj edilebilir olduğu iddia ediliyor. Katı hal bataryaları, sıvı veya jel elektrolit yerine katı bir elektrolit kullandıkları için genellikle daha güvenli olarak kabul edilir. Bu, bataryaların aşırı ısınma veya patlama riskini azaltabilir.\n\nAncak, birçok batarya üreticisi ve teknoloji uzmanı, bu iddiaların gerçek olup olmadığını görmek için Donut Lab'in teknolojisinin daha fazla test edilmesi gerektiğini söylüyor. Şirketin, teknolojisini dünya çapında kabul edilebilir ve uygulanabilir hale getirmesi için birçok engeli aşması gerekecek.\n\nDonut Lab, bu yeni bataryaların elektrikli araçlar, akıllı telefonlar ve diğer taşınabilir cihazlar için enerji depolama çözümlerinde devrim yaratacağını öne sürüyor. Ancak, bu tür iddiaların gerçeğe dönüşüp dönüşmeyeceği, şirketin teknolojisini nasıl uygulayacağına ve piyasada nasıl bir etki yaratacağına bağlı olacak.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
+            "date": "2026-02-26T13:26:21.163901",
+            "timestamp": 1772112381.16391
+        },
         {
             "title": "Sigara İçmenin Parkinson Riskini Azaltırken Ölüm Oranını Artırdığı Keşfedildi",
             "original_title": "Smoking Linked to Lower Parkinson’s Risk but Higher Mortality",
@@ -490,26 +510,6 @@
             "link": "https://www.technologyreview.com/2026/02/23/1132740/inside-chicago-surveillance-panopticon/",
             "date": "2026-02-23T13:24:22.358241",
             "timestamp": 1771853062.358249
-        },
-        {
-            "title": "Doğum Öncesi Kurşun Maruziyeti ve Yaşlanan Beyin Üzerindeki Etkileri",
-            "original_title": "Prenatal Lead Exposure Affects the Aging Brain",
-            "content": "Özet: Bilim insanları, doğum öncesi kurşun maruziyetinin, yıllar boyu gizli kalmış bir biyolojik sır olduğunu ortaya çıkardı. Yapılan araştırmalar, anne karnında maruz kalınan kurşunun, yaşlanan beynin üzerinde \"bilişsel hızlandırıcı\" etkisi yaratarak, beyni yıllarca yaşlandırabileceğini gösteriyor.\n\nDetaylı Makale: Bilim dünyası, doğum öncesi çevresel faktörlerin, bireylerin yaşam boyu sağlığı üzerindeki etkilerini araştırmaya devam ediyor. Son araştırmalar, anne karnında kurşuna maruz kalmanın, yaşlanma sürecinde beyin üzerinde önemli etkileri olabileceğini ortaya koyuyor. Bu durum, bireyin yaşamının ilerleyen dönemlerinde bilişsel işlevlerini ve genel beyin sağlığını etkileyebilecek ciddi sonuçlar doğurabilir.\n\nKurşun, uzun yıllardır çevresel bir kirletici olarak biliniyor ve özellikle çocukların gelişim dönemlerinde ciddi sağlık sorunlarına yol açabileceği düşünülüyordu. Ancak, bu yeni bulgular, doğum öncesi maruziyetin, beynin yaşlanma sürecini hızlandırabileceğini ve bu etkinin, yaşamın ileri dönemlerinde bilişsel bozulmalara yol açabileceğini gösteriyor.\n\nAraştırmacılar, bu etkinin biyolojik bir zaman kapsülü gibi işlediğini ve kurşunun, beynin yaşlanmasını hızlandırarak adeta bir \"bilişsel hızlandırıcı\" gibi davrandığını belirtiyor. Bu durum, yaşa bağlı bilişsel gerileme riskini artırabilir ve bireyin yaşam kalitesini olumsuz etkileyebilir.\n\nBu çalışmanın sonuçları, çevresel kirleticilerin, özellikle de kurşunun, toplum sağlığı üzerindeki uzun vadeli etkilerini daha iyi anlamamıza yardımcı olabilir. Aynı zamanda, hamilelik döneminde çevresel maruziyetlerin, çocukların gelecekteki sağlık ve bilişsel performansları üzerindeki potansiyel etkileri konusunda farkındalık yaratabilir.\n\nKaynak: Neuroscience News (2023, Şubat 26). Prenatal Lead Exposure Affects the Aging Brain. Erişim adresi: https://neurosciencenews.com/prenatal-lead-cognitive-aging-30172/.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/prenatal-lead-cognitive-aging-30172/",
-            "date": "2026-02-23T02:53:43.377805",
-            "timestamp": 1771815223.377815
-        },
-        {
-            "title": "Yapay Zeka Yüzleri: Gerçek ile Sahteyi Ayırt Etmek Artık Daha Zor",
-            "original_title": "Uncanny Average: Most People Can No Longer Spot an AI Face",
-            "content": "Günümüzde, yapay zeka tarafından üretilen yüzleri gerçeğinden ayırt etmek her zamankinden daha zor hale geldi. Bilim insanları, en gerçekçi yapay zeka yüzlerinin, var olan bir hata nedeniyle değil, aksine 'fazla doğru' olmaları sebebiyle ele verildiklerini ortaya koyuyor. Yapay zeka teknolojilerinin gelişimiyle birlikte, bu tür yüzlerin oluşturulması daha kusursuz hale geldi ve insanlar, bu yüzlerin sahte olduğunu fark etmekte zorlanıyor.\n\nYapay zeka tarafından üretilen yüzler, gerçeğe yakın detaylara ve simetriye sahip oldukları için, çoğu insan tarafından doğal bir yüz gibi algılanıyor. Bu durum, sahte yüzlerin sosyal medya ve diğer platformlarda yayılmasına ve yanlış bilgilerin hızla yayılmasına yol açabilir. Uzmanlar, toplumda bu tür teknolojilere karşı farkındalığın artırılması gerektiğini vurguluyor.\n\nYapay zeka yüzlerinin bu kadar gerçekçi hale gelmesi, hem güvenlik hem de etik açısından önemli soruları beraberinde getiriyor. Özellikle sahte haberlerin ve dezenformasyonun yayılması konusunda endişeler artıyor. Bu bağlamda, kullanıcıların ve platformların bu tür içeriklere karşı daha dikkatli olmaları gerektiği belirtiliyor.\n\nKaynakça:\nNeuroscience News. (2023). Uncanny Average: Most People Can No Longer Spot an AI Face. Erişim adresi: https://neurosciencenews.com/ai-face-recognition-overconfidence-30171/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/ai-face-recognition-overconfidence-30171/",
-            "date": "2026-02-23T02:53:49.747078",
-            "timestamp": 1771815229.747088
         }
     ]
 }
