@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-27T18:57:22.324019",
+    "last_updated": "2026-02-27T21:36:58.561987",
     "daily_news": {
-        "title": "Sigara Dumanı Gözlerde Epigenetik Yaşlanmayı Hızlandırıyor",
-        "original_title": "Cigarette Smoke Triggers Epigenetic Age Acceleration in the Eyes",
-        "content": "Sigara dumanı sadece göz hücrelerine zarar vermekle kalmaz, aynı zamanda körlüğü ve maküler dejenerasyonu önlemek için gerekli genleri 'kilitleyen' epigenetik değişikliklere neden olur. Sigara içmenin sağlık üzerindeki olumsuz etkileri iyi bilinse de, bu yeni araştırma, sigara dumanının gözlerdeki yaşlanma sürecini hızlandırabileceğini ortaya koymaktadır.\n\nAraştırmacılar, sigara dumanına maruz kalmanın, göz hücrelerinde genetik materyalin nasıl ifade edildiğini etkileyen epigenetik değişikliklere yol açtığını bulmuşlardır. Bu değişiklikler, görme kaybı ve yaşa bağlı maküler dejenerasyon (AMD) gibi ciddi göz rahatsızlıklarına yol açabilecek genlerin işlevselliğini bozabilir. AMD, özellikle yaşlı bireylerde yaygın olarak görülen bir durumdur ve merkezi görme kaybına neden olabilir.\n\nSigara içen bireylerde, göz sağlığını korumak için gerekli olan genlerin epigenetik 'kilitlenmesi', bu kişilerin AMD ve diğer göz hastalıklarına yakalanma riskini artırabilir. Bu bulgular, sigaranın göz sağlığı üzerindeki etkilerini anlamada önemli bir adım olup, sigara kullanımının azaltılması veya bırakılması için bir başka neden sunmaktadır.\n\nUzmanlar, sigara dumanının göz sağlığı üzerindeki etkilerini daha iyi anlamak ve potansiyel tedavi yolları geliştirmek için daha fazla araştırma yapılması gerektiğini vurgulamaktadır. Bu çalışma, sigara içmenin sadece genel sağlık değil, aynı zamanda göz sağlığı üzerindeki olumsuz etkilerini de gözler önüne sermektedir.\n\nKaynak: Neuroscience News, (Erişim Tarihi: 2026).",
+        "title": "Tekrarlayan Kafa Darbeleri ve Hafıza Kaybı Arasındaki Bağlantı",
+        "original_title": "Repeated Head Impacts, Inflammation and Memory Loss Connected",
+        "content": "Eski futbol oyuncularında yapılan araştırmalar, yüksek inflamasyon seviyelerinin hafıza ile ilişkili beyaz madde yollarında hasara yol açtığını ortaya koydu. Bu bulgular, inflamasyonun tekrarlayan kafa darbeleri ile sonraki bilişsel gerileme arasındaki biyolojik zincirin bir parçası olabileceğini öne sürüyor. Tekrarlayan kafa darbeleri, sporcular arasında yaygın bir durum olup, uzun vadede ciddi sağlık sorunlarına yol açabilir. Araştırmalar, bu darbelerin beyinde inflamasyona neden olarak, özellikle hafıza ile ilgili alanlarda kalıcı hasara yol açabileceğini gösteriyor. Bu durum, sporcularda ve özellikle futbol oyuncularında, yaşlandıkça artan bilişsel gerileme riskiyle ilişkilendiriliyor. Çalışma, bu riski azaltmak için potansiyel tedavi yöntemlerini araştırmanın ve sporcuların bu tür yaralanmalardan korunmasının önemini vurguluyor.\n\nKaynak: Neuroscience News. (2023). Repeated Head Impacts, Inflammation and Memory Loss Connected. Retrieved from https://neurosciencenews.com/neuroinflammation-memory-tbi-30210/",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/smoking-eye-aging-epigenetics-30208/",
-        "date": "2026-02-27T18:57:10.145994",
-        "timestamp": 1772218630.146006
+        "link": "https://neurosciencenews.com/neuroinflammation-memory-tbi-30210/",
+        "date": "2026-02-27T21:36:52.415657",
+        "timestamp": 1772228212.415667
     },
     "news_list": [
+        {
+            "title": "Tekrarlayan Kafa Darbeleri ve Hafıza Kaybı Arasındaki Bağlantı",
+            "original_title": "Repeated Head Impacts, Inflammation and Memory Loss Connected",
+            "content": "Eski futbol oyuncularında yapılan araştırmalar, yüksek inflamasyon seviyelerinin hafıza ile ilişkili beyaz madde yollarında hasara yol açtığını ortaya koydu. Bu bulgular, inflamasyonun tekrarlayan kafa darbeleri ile sonraki bilişsel gerileme arasındaki biyolojik zincirin bir parçası olabileceğini öne sürüyor. Tekrarlayan kafa darbeleri, sporcular arasında yaygın bir durum olup, uzun vadede ciddi sağlık sorunlarına yol açabilir. Araştırmalar, bu darbelerin beyinde inflamasyona neden olarak, özellikle hafıza ile ilgili alanlarda kalıcı hasara yol açabileceğini gösteriyor. Bu durum, sporcularda ve özellikle futbol oyuncularında, yaşlandıkça artan bilişsel gerileme riskiyle ilişkilendiriliyor. Çalışma, bu riski azaltmak için potansiyel tedavi yöntemlerini araştırmanın ve sporcuların bu tür yaralanmalardan korunmasının önemini vurguluyor.\n\nKaynak: Neuroscience News. (2023). Repeated Head Impacts, Inflammation and Memory Loss Connected. Retrieved from https://neurosciencenews.com/neuroinflammation-memory-tbi-30210/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/neuroinflammation-memory-tbi-30210/",
+            "date": "2026-02-27T21:36:52.415657",
+            "timestamp": 1772228212.415667
+        },
+        {
+            "title": "Beklenmedik Dopamin Sürprizi İnsan Hareketlerine Hız Kazandırıyor",
+            "original_title": "Dopamine Surprise Gives Human Movements a Measurable Speed Boost",
+            "content": "Beklenmedik ödüller, insanların sadece milisaniyeler içinde daha hızlı hareket etmelerini sağlayabilir. Yapılan araştırmalar, hareket enerjilerinin dopamin bazlı ödül tahmin sinyallerini yansıttığını ve bu durumun Parkinson hastalığı ve depresyon gibi rahatsızlıklarda beyin sağlığını izlemek için basit bir yöntem sunabileceğini gösteriyor. Dopamin, beynin ödül ve motivasyon sistemlerinde önemli bir rol oynar ve bu çalışma, dopaminin ani artışlarının fiziksel hareketler üzerinde doğrudan bir etkisi olabileceğini ortaya koymaktadır. Bu bulgular, nörolojik ve psikiyatrik hastalıkların tedavi ve teşhis süreçlerinde yeni yaklaşımlar geliştirilmesine ön ayak olabilir. Özellikle Parkinson hastalığı, dopamin eksikliği ile karakterize edilen bir durum olduğundan, bu tür araştırmalar hastalığın semptomlarının daha iyi anlaşılmasına ve yönetilmesine katkıda bulunabilir. \n\nKaynak: Neuroscience News.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/dopamine-reward-movement-30209/",
+            "date": "2026-02-27T21:36:57.617319",
+            "timestamp": 1772228217.617328
+        },
         {
             "title": "Sigara Dumanı Gözlerde Epigenetik Yaşlanmayı Hızlandırıyor",
             "original_title": "Cigarette Smoke Triggers Epigenetic Age Acceleration in the Eyes",
@@ -490,26 +510,6 @@
             "link": "https://www.technologyreview.com/2026/02/24/1133567/the-download-radioactive-rhinos-and-the-rise-and-rise-of-peptides/",
             "date": "2026-02-24T16:06:28.594533",
             "timestamp": 1771949188.594545
-        },
-        {
-            "title": "Tamarind Bio, Biyoloji İçin Yapay Zekayı Daha Erişilebilir Hale Getirmek İçin 13,6 Milyon Dolar Topladı",
-            "original_title": "Tamarind Bio Secures $13.6M Series A to Make AI More Accessible for Biology",
-            "content": "Tamarind Bio, biyoloji alanında yapay zekayı daha erişilebilir hale getirmeyi amaçlayan platformu için 13,6 milyon dolar değerinde Seri A yatırım aldı. Şirketin platformu, model koordinasyonu ve çıkarımı için kullanıcı dostu yapay zeka araçları sunarak yaşam bilimi araştırmacılarına büyük kolaylık sağlıyor. Kütüphane, küçük moleküllerden antikorlara kadar çeşitli modalleri kapsayan 200'den fazla modeli içeriyor ve yaklaşık 100 biyoteknoloji şirketine ulaşan geniş bir kullanıcı tabanına sahip.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Tamarind Bio Secures $13.6M Series A to Make AI More Accessible for Biology. https://www.genengnews.com/topics/artificial-intelligence/tamarind-bio-secures-13-6m-series-a-to-make-ai-more-accessible-for-biology/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/artificial-intelligence/tamarind-bio-secures-13-6m-series-a-to-make-ai-more-accessible-for-biology/",
-            "date": "2026-02-24T16:06:32.585851",
-            "timestamp": 1771949192.585858
-        },
-        {
-            "title": "Uzaya Gönderilen Cihazların Artışı: Dünya'nın Çevresindeki Teknolojik Tabaka",
-            "original_title": "We’re putting more stuff into space than ever. Here’s what’s up there.",
-            "content": "Dünya, üzerinde su bulunan orta büyüklükte bir kaya parçasıdır ve burada yaşayan her şeyi hayatta tutan gazlarla çevrilidir. Bu gaz tabakasının hemen sınırında, insanlar tarafından üretilmiş yüksek teknoloji ürünlerinden oluşan ince ama yoğun bir katman başlar. İnsanlar, 1957 yılında uzaya cihazlar göndermeye başladılar ve bu şimdi artık bir alışkanlık haline geldi. Yukarıya ve dışarıya bakan teleskoplar, iletişim uyduları, bilimsel araştırmalar için kullanılan araçlar ve daha birçok cihaz bu katmanın parçası haline geldi. Uzay teknolojilerinin bu hızlı gelişimi, Dünya'nın etrafında bir nevi insan yapımı bir tabaka oluşmasına sebep oldu.\n\nBu teknolojik cihazlar, iletişimden hava durumunu izlemeye, bilimsel araştırmalardan askeri gözetim faaliyetlerine kadar birçok alanda kullanılmaktadır. Uydu sayısındaki bu artış, hem avantajlar hem de bazı zorluklar getirmektedir. Teknolojik gelişmeler ile birlikte, uzayda daha fazla cihazın bulunması, çarpışma risklerini artırmakta ve uzay çöplüğü problemine yol açmaktadır. Ayrıca, bu cihazların yönetimi ve sürdürülebilir kullanımı da büyük önem taşımaktadır.\n\nSonuç olarak, uzaya gönderilen cihazların sayısındaki artış, insanlığın uzay teknolojilerine olan bağımlılığını ve bu teknolojilerin dünya üzerindeki etkisini artırmaya devam etmektedir.\n\nKaynak: MIT Technology Review, (2023). We’re putting more stuff into space than ever. Here’s what’s up there.",
-            "category": "Bilim & Teknoloji",
-            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/24/1132755/anthroposphere-putting-more-stuff-into-space-than-ever/",
-            "date": "2026-02-24T13:25:49.772707",
-            "timestamp": 1771939549.772717
         }
     ]
 }
