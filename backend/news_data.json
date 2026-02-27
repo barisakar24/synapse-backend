@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-02-26T21:40:39.973415",
+    "last_updated": "2026-02-27T02:45:37.949609",
     "daily_news": {
-        "title": "Gen Bilgisi ile Seçici Islah: Pirinç Veriminde Artış",
-        "original_title": "Increasing Rice Yields with Gene-Informed Selective Breeding",
-        "content": "Geleneksel tarım uygulamaları genellikle verimi artırmak için azotlu gübrelerin kullanılmasına dayanır, ancak bu hem finansal hem de çevresel açıdan maliyetlidir. Yeni çalışmalar, pirincin toprak azot seviyelerine tepkisinin genetik yapısını ortaya koyuyor. Bu genetik bilgiler, pirinç verimini artırmak için daha etkili ve sürdürülebilir yöntemlerin geliştirilmesine olanak tanıyor.\n\nGeleneksel gübreleme yöntemlerinin yüksek maliyetleri ve çevresel etkileri, bilim insanlarını daha sürdürülebilir tarım uygulamalarına yönlendirmiştir. Bu bağlamda, pirincin genetik yapısı üzerine yapılan araştırmalar, bitkinin toprak azotuna nasıl tepki verdiğini anlamamıza yardımcı oluyor. Araştırmacılar, pirincin genetik yapısındaki belirli genlerin, bitkinin azot kullanma kapasitesini artırarak daha yüksek verim elde edebileceğini keşfettiler.\n\nBu yeni yaklaşım, gen bilgilendirme temelli selektif ıslah yöntemleri ile pirinç verimini artırmayı amaçlıyor. Böylece, hem tarımsal üretkenlik artırılabilecek hem de çevresel etkiler minimize edilebilecektir. Araştırmacılar, bu genleri hedef alarak, daha az gübre kullanımı ile daha yüksek verimler elde edebilecek pirinç çeşitleri geliştirmeyi planlıyorlar.\n\nKaynakça:\nGEN - Genetic Engineering and Biotechnology News. (tarih). Increasing Rice Yields with Gene-Informed Selective Breeding. Erişim adresi: https://www.genengnews.com/topics/genome-editing/increasing-rice-yields-with-gene-informed-selective-breeding/",
-        "category": "Psikoloji",
-        "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/genome-editing/increasing-rice-yields-with-gene-informed-selective-breeding/",
-        "date": "2026-02-26T21:40:39.973356",
-        "timestamp": 1772142039.973369
+        "title": "Gelişmiş Solid Tümörlerde Mutant p53'ün Seçici Yeniden Aktifleştirilmesi Gösterildi",
+        "original_title": "Mutant p53 Selective Reactivation Demonstrated in Advanced Solid Tumors",
+        "content": "<p>Faz I çalışmasında, TP53 Y220C mutasyonu taşıyan ileri evre solid tümörlere sahip 77 önceden tedavi görmüş hasta, maksimum tolere edilebilir dozu ve Faz II için önerilen dozu belirlemek amacıyla doz artırımı kohortlarında ağızdan rezatapopt aldı.</p><p>Bu çalışma, mutant p53'ün seçici olarak yeniden aktifleştirilmesinin, ileri evre solid tümörlerde potansiyel bir tedavi seçeneği olabileceğini göstermektedir. Çalışma sonuçları, rezatapopt'un TP53 Y220C mutasyonu taşıyan hastalarda etkinlik gösterdiğini ve güvenli bir şekilde tolere edildiğini ortaya koymuştur.</p><p>Bu bulgular, genetik mühendislik ve biyoteknoloji alanında yenilikçi yaklaşımlar geliştirmek ve kanser tedavisinde yeni hedefler belirlemek için önemli bir adım olarak değerlendirilmektedir.</p><p>Kaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). Mutant p53 Selective Reactivation Demonstrated in Advanced Solid Tumors. https://www.genengnews.com/topics/cancer/mutant-p53-selective-reactivation-demonstrated-in-advanced-solid-tumors/</p>",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/cancer/mutant-p53-selective-reactivation-demonstrated-in-advanced-solid-tumors/",
+        "date": "2026-02-27T02:45:34.257832",
+        "timestamp": 1772160334.257842
     },
     "news_list": [
+        {
+            "title": "Yeni Doğanlarda Vitamin K Reddedilmesi Beyin Kanaması Riskini Artırıyor",
+            "original_title": "Vitamin K Refusal Puts Newborns at High Risk for Brain Injury",
+            "content": "Son yıllarda daha fazla ebeveyn, yeni doğan bebekleri için vitamin K takviyesini reddetmektedir. Ancak bu karar, bebeklerin yıkıcı bir beyin kanaması geçirme riskini 81 kat artırmaktadır. Vitamin K, kanın pıhtılaşmasına yardımcı olan hayati bir vitamindir ve doğumdan hemen sonra alınmaması durumunda, bebeklerde ciddi kanama sorunlarına yol açabilir. Uzmanlar, bebeklerinin sağlığını tehlikeye atmamak için ebeveynlerin bu konuda bilinçli kararlar almasının önemine dikkat çekiyor. Vitamin K eksikliği nedeniyle ortaya çıkan beyin kanamaları, kalıcı beyin hasarına ve hatta ölüme neden olabilecek kadar ciddi olabilir. Bu nedenle, sağlık uzmanları ebeveynlere vitamin K'nın önemini anlatmakta ve bu hayati takviyeyi reddetmemeleri konusunda uyarılar yapmaktadır. \n\nKaynak: Neuroscience News. (2023). Vitamin K Refusal Puts Newborns at High Risk for Brain Injury. https://neurosciencenews.com/vitamin-k-newborn-brain-bleed-30205/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/vitamin-k-newborn-brain-bleed-30205/",
+            "date": "2026-02-27T02:45:22.768509",
+            "timestamp": 1772160322.768524
+        },
+        {
+            "title": "Doğada 3 Dakika: Beyninizi Sıfırlayın",
+            "original_title": "Nature Exposure Triggers Brain Reset",
+            "content": "Yeni araştırmalar, doğada sadece üç dakika geçirmenin beyninizi 'yeniden kalibre edebileceğini', stresi azaltabileceğini ve odağınızı geri kazandırabileceğini doğruluyor. Bu kısa süreli doğa teması, zihinsel bir yeniden başlangıç olarak nitelendiriliyor. Günümüzde artan şehirleşme ve günlük yaşamın stresi, insan beyni üzerinde olumsuz etkiler yaratabilmektedir. Ancak, doğa ile kısa süreli temasın bile bu etkileri tersine çevirebileceği belirtiliyor. Araştırmacılar, doğanın sunduğu görsel ve işitsel uyaranların beynin stres tepkilerini azalttığını ve zihinsel odağı artırdığını keşfetti. Bu bulgular, doğanın insan sağlığı üzerindeki olumlu etkilerini bir kez daha gözler önüne seriyor. Sonuç olarak, doğada kısa bir yürüyüş bile stresli bir günün ardından zihninizi tazelemek için etkili bir yöntem olabilir.\n\nAPA Kaynak: Neuroscience News. (2023). Nature Exposure Triggers Brain Reset. https://neurosciencenews.com/nature-brain-reset-30204/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/nature-brain-reset-30204/",
+            "date": "2026-02-27T02:45:27.240910",
+            "timestamp": 1772160327.24092
+        },
+        {
+            "title": "Gelişmiş Solid Tümörlerde Mutant p53'ün Seçici Yeniden Aktifleştirilmesi Gösterildi",
+            "original_title": "Mutant p53 Selective Reactivation Demonstrated in Advanced Solid Tumors",
+            "content": "<p>Faz I çalışmasında, TP53 Y220C mutasyonu taşıyan ileri evre solid tümörlere sahip 77 önceden tedavi görmüş hasta, maksimum tolere edilebilir dozu ve Faz II için önerilen dozu belirlemek amacıyla doz artırımı kohortlarında ağızdan rezatapopt aldı.</p><p>Bu çalışma, mutant p53'ün seçici olarak yeniden aktifleştirilmesinin, ileri evre solid tümörlerde potansiyel bir tedavi seçeneği olabileceğini göstermektedir. Çalışma sonuçları, rezatapopt'un TP53 Y220C mutasyonu taşıyan hastalarda etkinlik gösterdiğini ve güvenli bir şekilde tolere edildiğini ortaya koymuştur.</p><p>Bu bulgular, genetik mühendislik ve biyoteknoloji alanında yenilikçi yaklaşımlar geliştirmek ve kanser tedavisinde yeni hedefler belirlemek için önemli bir adım olarak değerlendirilmektedir.</p><p>Kaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). Mutant p53 Selective Reactivation Demonstrated in Advanced Solid Tumors. https://www.genengnews.com/topics/cancer/mutant-p53-selective-reactivation-demonstrated-in-advanced-solid-tumors/</p>",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/mutant-p53-selective-reactivation-demonstrated-in-advanced-solid-tumors/",
+            "date": "2026-02-27T02:45:34.257832",
+            "timestamp": 1772160334.257842
+        },
+        {
+            "title": "City Therapeutics'in Yeni Nesil RNAi Hamlesi",
+            "original_title": "City Therapeutics Pursues ‘Next Generation of RNAi’",
+            "content": "City Therapeutics, geçtiğimiz sonbaharda başlattığı ilk klinik programıyla dikkat çekiyor. Bu program kapsamında, CITY-FXI adlı öncü pipeline adayının Faz I çalışması (NCT07430397) başlatıldı. CITY-FXI, yeni nesil bir RNAi terapötik olarak, kanama riskini artırmadan kan pıhtılarını önlemeyi hedefliyor. Bu hedefe ulaşmak için Faktör XI'i hedef alıyor. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/drug-discovery/city-therapeutics-pursues-next-generation-of-rnai/",
+            "date": "2026-02-27T02:45:37.949563",
+            "timestamp": 1772160337.949573
+        },
         {
             "title": "Gen Bilgisi ile Seçici Islah: Pirinç Veriminde Artış",
             "original_title": "Increasing Rice Yields with Gene-Informed Selective Breeding",
@@ -470,46 +510,6 @@
             "link": "https://neurosciencenews.com/seizure-memory-sleep-consolidation-30179/",
             "date": "2026-02-23T21:55:21.919313",
             "timestamp": 1771883721.919323
-        },
-        {
-            "title": "Gilead, Arcellx'i 7.8 Milyar Dolara Satın Alarak Kanser Portföyünü Genişletiyor",
-            "original_title": "Gilead to Acquire Arcellx for $7.8B, Adding Anito-Cel to Cancer Pipeline",
-            "content": "Gilead Sciences, Arcellx'i 7.8 milyar dolara satın almak için anlaşmaya vardı. Bu anlaşma, Gilead'a, Arcellx'in lider adayı olan ve Gilead'ın bir şirketi olan Kite ile birlikte son 3 yılı aşkın süredir ortaklaşa geliştirdikleri ve ticarileştirdikleri, multiple miyelom için BCMA yönlendirmeli bir kimerik antijen reseptörü (CAR) T-hücre tedavisi olan Anito-Cel üzerinde tam kontrol sağlamayı amaçlıyor.\n\nAnlaşma, Gilead'ın kanser tedavi portföyünü genişletme stratejisinin bir parçası olarak görülüyor. Arcellx'in geliştirdiği bu yenilikçi tedavi, multiple miyelom gibi zorlu kanser türlerine karşı etkili bir çözüm sunmayı hedefliyor. Gilead ve Kite, bu terapiyi daha geniş kitlelere ulaştırmak adına güçlü bir iş birliği yürütüyor.\n\nAnlaşmanın tamamlanmasıyla, Gilead'ın kanser araştırmaları ve tedavi alanındaki etkisi daha da artacak ve bu da şirketi sektörde daha rekabetçi bir konuma getirecek.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). Gilead to Acquire Arcellx for $7.8B, Adding Anito-Cel to Cancer Pipeline. https://www.genengnews.com/topics/cancer/gilead-to-acquire-arcellx-for-7-8b-adding-anito-cel-to-cancer-pipeline/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/gilead-to-acquire-arcellx-for-7-8b-adding-anito-cel-to-cancer-pipeline/",
-            "date": "2026-02-23T21:55:30.113215",
-            "timestamp": 1771883730.113226
-        },
-        {
-            "title": "Kütle Fotometrisi ile GMP Kalite Kontrolünü Hızlandırmak",
-            "original_title": "Accelerating GMP Quality Control with Mass Photometry from Development to Release",
-            "content": "Franklin Biolabs'ta QC-Analytics'in yardımcı direktörü Dr. Ray Zhang, bir <i>GEN</i> web seminerinde kütle fotometrisinin prensiplerini tanıtacak ve bu teknolojinin analitik yaşam döngüsünün farklı aşamalarında nasıl değer kattığını vurgulayacak. Kütle fotometrisi, özellikle ilaç geliştirme ve üretim süreçlerinde kalite kontrolünü hızlandırma potansiyeline sahip yenilikçi bir yöntem olarak öne çıkıyor. Dr. Zhang, bu web seminerinde, kütle fotometrisinin geliştirmeden ürün onayına kadar olan süreçte nasıl kritik bir rol oynayabileceğini detaylandıracak.\n\nWeb semineri, kütle fotometrisinin GMP (İyi Üretim Uygulamaları) kalite kontrol süreçlerinde uygulama alanlarını ve avantajlarını ele alacak. Bu teknoloji, moleküler düzeyde hassas ölçümler yapabilmesi sayesinde, hem geliştirme aşamasında hem de piyasaya sürülmeden önceki son kalite kontrol süreçlerinde önemli katkılar sağlayabilir. Dr. Zhang, kütle fotometrisinin laboratuvarlardaki uygulama örneklerini ve bu teknoloji sayesinde elde edilen verimlilik artışlarını katılımcılarla paylaşacak.\n\nBu web seminerinin, kalite kontrol süreçlerini optimize etmek isteyen profesyoneller için değerli bilgiler sunacağı belirtiliyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). Accelerating GMP Quality Control with Mass Photometry from Development to Release. Retrieved from https://www.genengnews.com/multimedia/webinars/accelerating-gmp-quality-control-with-mass-photometry-from-development-to-release/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/multimedia/webinars/accelerating-gmp-quality-control-with-mass-photometry-from-development-to-release/",
-            "date": "2026-02-23T21:55:35.779238",
-            "timestamp": 1771883735.779248
-        },
-        {
-            "title": "Kuş Gözlemciliği: Beyni Yaşlanmaya Karşı Korumak",
-            "original_title": "Expertise Protects Against Cognitive Decline",
-            "content": "Kuş gözlemciliği sadece bir hobi değil, aynı zamanda beyin için güçlü bir egzersiz. Bilim insanları, kuş gözlemciliği sırasında gereken yoğun algılama ve hafıza süreçlerinin, beynin yaşlanmaya karşı daha iyi bir şekilde yeniden organize olmasına yardımcı olduğunu keşfetti. Birdwatching, yani kuş gözlemciliği, kişinin dikkatini ve hafıza kapasitesini geliştirerek bilişsel gerilemeye karşı bir kalkan görevi görebiliyor. \n\nBilim insanları, bu tür yoğun faaliyetlerin beyin yapısında ve işlevinde olumlu değişiklikler yapabileceğini belirtiyor. Özellikle yaşlı bireylerde, düzenli olarak yapılan kuş gözlemciliği gibi aktiviteler, bilişsel sağlığın korunmasına önemli katkılar sağlayabilir. Bu bulgular, yaşlanma sürecinde bilişsel işlevlerin korunması için uzmanlık gerektiren hobilerin ve aktivitelerin ne kadar önemli olduğunu ortaya koyuyor.\n\nKuş gözlemciliği sırasında, gözlemciler farklı kuş türlerini tanımlamak için dikkatli gözlem ve güçlü bir hafıza kullanır. Bu süreç, beynin bilişsel rezervini artırır ve yaşlanmanın getirdiği bilişsel zorluklara karşı daha dirençli olmasını sağlar.\n\nBu araştırma, yaşlılıkta bilişsel sağlığı korumak için stratejiler geliştirilmesine ışık tutuyor ve uzmanlık gerektiren aktivitelerin beyin sağlığı üzerindeki olumlu etkilerini vurguluyor.\n\nKaynak: Neuroscience News, \"Expertise Protects Against Cognitive Decline,\" https://neurosciencenews.com/birdwatching-brain-expertise-aging-30176/.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/birdwatching-brain-expertise-aging-30176/",
-            "date": "2026-02-23T19:17:53.847691",
-            "timestamp": 1771874273.847704
-        },
-        {
-            "title": "Şizofreni Tedavisinde Dopaminin Ötesine Geçmek",
-            "original_title": "Moving Beyond Dopamine to Treat Schizophrenia",
-            "content": "Dopamin, uzun yıllardır şizofreni tedavisinde merkezde yer alıyor olsa da, son araştırmalar bu yaklaşımın eksik kalabileceğine işaret ediyor. Yeni bir geniş kapsamlı inceleme, şizofreni tedavisinde yeni nesil terapötik yaklaşımları gözler önüne seriyor. Bu yaklaşımlar, bağışıklık sistemi, bağırsak sağlığı ve kognitif reseptörler gibi farklı alanları hedef alıyor.\n\nŞizofreni, genellikle düşünce, algı, duygu, dil ve davranışları etkileyen kronik bir zihinsel sağlık bozukluğu olarak tanımlanır. Geleneksel tedaviler, genellikle beyin dopamin sistemini hedef alarak semptomları hafifletmeye çalışır. Ancak, bu tedaviler her zaman etkili olmayabilir ve birçok yan etkiye neden olabilir.\n\nSon araştırmalar, şizofreninin yalnızca dopamin dengesizliğinden kaynaklanmadığını, aynı zamanda bağışıklık sistemi ve bağırsak mikrobiomunun da önemli rol oynayabileceğini göstermektedir. Bağışıklık sistemi ile ilişkili terapiler, inflamatuar süreçlerin düzenlenmesine yardımcı olarak semptomları hafifletebilir. Aynı şekilde, bağırsak ve beyin arasındaki bağlantının daha iyi anlaşılması, bağırsak sağlığının iyileştirilmesi yoluyla şizofreni tedavisinde yeni stratejiler geliştirilmesine olanak sağlayabilir.\n\nAyrıca, kognitif reseptörleri hedef alan yeni tedaviler de geliştirilme aşamasındadır. Bu tedaviler, hastaların bilişsel işlevlerini ve yaşam kalitelerini artırmayı amaçlamaktadır.\n\nBu yeni yaklaşımlar, şizofreni tedavisinde daha kapsamlı ve etkili sonuçlar elde etmeyi vaat ediyor. Gelecekte, multidisipliner bir yaklaşımın, bu karmaşık bozukluğun tedavisinde daha iyi sonuçlar doğurabileceği umulmaktadır.\n\nKaynak: Neuroscience News. (2023). Moving Beyond Dopamine to Treat Schizophrenia. https://neurosciencenews.com/schizophrenia-neurobiology-antipsychotics-30176/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/schizophrenia-neurobiology-antipsychotics-30176/",
-            "date": "2026-02-23T19:18:04.479891",
-            "timestamp": 1771874284.4799
         }
     ]
 }
