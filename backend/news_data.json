@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-27T13:17:07.880294",
+    "last_updated": "2026-02-27T15:46:06.686804",
     "daily_news": {
-        "title": "Yapay Zeka, Go Oyununda Ustaların Düşünce Yapısını Değiştiriyor",
-        "original_title": "AI is rewiring how the world’s best Go players think",
-        "content": "Hongik-dong'un sessiz bir yerleşim bölgesi olan doğu Seul'deki dar sokaklarına gömülmüş, 'Kore Baduk Derneği' damgalı, solgun taş döşemeli bir bina bulunmaktadır. Bu bina, profesyonel Go oyunu için yönetim organıdır. Güney Kore'de kutsal bir konuma sahip olan bu oyun, eski bir geçmişe sahiptir. Ancak, binanın içinde, bir zamanlar ellerin taşlara dokunurken çıkardığı yumuşak seslerle dolu odalar... \n\nYapay zeka, son yıllarda Go oyununda devrim yaratmıştır. Özellikle Google'ın geliştirdiği AlphaGo, bu alanda çığır açmış ve profesyonel oyuncuların stratejilerini yeniden düşünmelerine neden olmuştur. Go, strateji ve karmaşıklık açısından satrancı bile geride bırakan bir oyundur ve yapay zeka, bu oyunun dinamiklerini kökten değiştirmiştir.\n\nProfesyonel oyuncular, artık yapay zeka destekli programlarla antrenman yapmakta ve bu programlar sayesinde yeni stratejiler geliştirmektedirler. Bu durum, oyuncuların oyun içinde daha yaratıcı olmalarına olanak tanımaktadır. Yapay zeka, oyunculara daha önce düşünülmemiş hamleleri öğretmekte ve bu sayede oyunun zenginliğini artırmaktadır.\n\nYapay zekanın getirdiği bu değişim, sadece stratejik düşünme şekillerini değil, aynı zamanda oyunun kendisine bakış açısını da değiştirmektedir. Geleneksel olarak insan zekası ve sezgisiyle özdeşleştirilen Go oyunu, artık teknolojinin de bir parçası haline gelmiştir.\n\nKaynak: MIT Technology Review",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
-        "date": "2026-02-27T13:16:57.319052",
-        "timestamp": 1772198217.319063
+        "title": "Orlando'da Omics: AGBT'nin İkinci Gününden Gelişmeler",
+        "original_title": "Omics in Orlando Day 2: A Video Report from AGBT",
+        "content": "<p>AGBT toplantısının kapanışında, Julianna LeMieux ve Kevin Davies toplantıdan yapılan duyuruları değerlendiriyor. Bunlar arasında Vizgen'in mekansal yenilikleri ve organoid odaklı çalışmaları, Illumina'nın TruPath ürünü, Bruker'in mekansal lansmanları, 10x Genomics'in çikolata sürprizi ve daha fazlası yer alıyor.</p>\n<p>Bu makale ilk olarak <a href=\"https://www.genengnews.com/topics/omics/omics-in-orlando-day-2-a-video-report-from-agbt/\">AGBT'den Omics: Orlando'da İkinci Gün Video Raporu</a> başlığıyla <a href=\"https://www.genengnews.com\">GEN - Genetic Engineering and Biotechnology News</a> sitesinde yayımlandı.</p>\n<p><b>Kaynak:</b> GEN – Genetic Engineering and Biotechnology News. (2023). Omics in Orlando Day 2: A Video Report from AGBT. Erişim adresi: https://www.genengnews.com/topics/omics/omics-in-orlando-day-2-a-video-report-from-agbt/</p>",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/omics/omics-in-orlando-day-2-a-video-report-from-agbt/",
+        "date": "2026-02-27T15:46:06.686759",
+        "timestamp": 1772207166.686768
     },
     "news_list": [
+        {
+            "title": "Yapay Zeka, Go Oyununu Nasıl Değiştiriyor?",
+            "original_title": "The Download: how AI is shaking up Go, and a cybersecurity mystery",
+            "content": "Yapay Zeka, Dünyanın En İyi Go Oyuncularının Düşünme Şekillerini Yeniden Şekillendiriyor\n\nOn yıl önce, Google DeepMind'ın yapay zeka programı AlphaGo, Güney Koreli Go oyuncusu Lee Sedol'u yenerek dünyayı şaşkına çevirmişti. Bu olay, yapay zekanın karmaşık strateji oyunlarındaki potansiyelini gözler önüne serdi. Go, antik bir Çin strateji oyunu olup, satranca benzer şekilde derin düşünce ve strateji gerektirir. Ancak, Go'nun satranca göre çok daha fazla olasılık içerdiği düşünülür ve bu nedenle insanların yanında yapay zekanın da ilgisini çeken bir alan haline gelmiştir.\n\nAlphaGo'nun tarihi zaferi, Go oyuncularının oyuna bakış açısını kökten değiştirdi. Geleneksel stratejiler, yapay zekanın yenilikçi ve beklenmedik hamleleri karşısında sorgulanmaya başlandı. AlphaGo'nun zaferinden sonra pek çok profesyonel oyuncu, yapay zekanın stratejilerini incelemeye ve kendi oyunlarına entegre etmeye başladı. Yapay zeka, oyuncuların daha önce düşünemediği veya cesaret edemediği hamleleri ortaya çıkararak, oyun dünyasında yenilikçi bir değişim dalgası yarattı.\n\nBu durum, yalnızca Go ile sınırlı kalmadı. Yapay zekanın strateji oyunlarına olan etkisi, birçok alanda bir paradigma değişikliğine yol açtı. Go dünyasındaki bu değişimler, yapay zekanın gücünü ve yeteneklerini gösteren önemli bir örnek teşkil ediyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/27/1133754/the-download-how-ai-is-shaking-up-go-and-a-cybersecurity-mystery/",
+            "date": "2026-02-27T15:46:04.443999",
+            "timestamp": 1772207164.444009
+        },
+        {
+            "title": "Orlando'da Omics: AGBT'nin İkinci Gününden Gelişmeler",
+            "original_title": "Omics in Orlando Day 2: A Video Report from AGBT",
+            "content": "<p>AGBT toplantısının kapanışında, Julianna LeMieux ve Kevin Davies toplantıdan yapılan duyuruları değerlendiriyor. Bunlar arasında Vizgen'in mekansal yenilikleri ve organoid odaklı çalışmaları, Illumina'nın TruPath ürünü, Bruker'in mekansal lansmanları, 10x Genomics'in çikolata sürprizi ve daha fazlası yer alıyor.</p>\n<p>Bu makale ilk olarak <a href=\"https://www.genengnews.com/topics/omics/omics-in-orlando-day-2-a-video-report-from-agbt/\">AGBT'den Omics: Orlando'da İkinci Gün Video Raporu</a> başlığıyla <a href=\"https://www.genengnews.com\">GEN - Genetic Engineering and Biotechnology News</a> sitesinde yayımlandı.</p>\n<p><b>Kaynak:</b> GEN – Genetic Engineering and Biotechnology News. (2023). Omics in Orlando Day 2: A Video Report from AGBT. Erişim adresi: https://www.genengnews.com/topics/omics/omics-in-orlando-day-2-a-video-report-from-agbt/</p>",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/omics/omics-in-orlando-day-2-a-video-report-from-agbt/",
+            "date": "2026-02-27T15:46:06.686759",
+            "timestamp": 1772207166.686768
+        },
         {
             "title": "Yapay Zeka, Go Oyununda Ustaların Düşünce Yapısını Değiştiriyor",
             "original_title": "AI is rewiring how the world’s best Go players think",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/mri-safety-nerve-cuff-stimulation-30181/",
             "date": "2026-02-24T02:50:59.400978",
             "timestamp": 1771901459.400988
-        },
-        {
-            "title": "AI ile Tip 2 Diyabet Bağlantılı Pankreas Doku Değişiklikleri Haritalandı",
-            "original_title": "AI Maps Subtle Human Pancreatic Tissue Changes Linked to Type 2 Diabetes",
-            "content": "Yapay zeka tabanlı bir yöntem, tip 2 diyabetle bağlantılı olarak insan pankreas dokusunda meydana gelen, görülmesi zor ve ince değişiklikleri tespit etmek için geliştirildi. Gigapiksel mikroskopi ve açıklanabilir yapay zeka kullanılarak, ekip hastalığın erken biyobelirteçleri olarak hizmet edebilecek önemli hücresel özellikleri tanımladı. Yapılan bu çalışma, tip 2 diyabetin erken teşhisinde önemli bir adım olarak görülüyor. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). AI maps subtle human pancreatic tissue changes linked to type 2 diabetes. Retrieved from https://www.genengnews.com/topics/artificial-intelligence/ai-maps-subtle-human-pancreatic-tissue-changes-linked-to-type-2-diabetes/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/artificial-intelligence/ai-maps-subtle-human-pancreatic-tissue-changes-linked-to-type-2-diabetes/",
-            "date": "2026-02-24T02:51:03.220482",
-            "timestamp": 1771901463.220491
-        },
-        {
-            "title": "DROP-CAR Teknolojisi ile Daha Güvenli İmmünoterapi Mümkün Olabilir",
-            "original_title": "Drug-Controlled CAR T Cells May Enable Safer Immunotherapy",
-            "content": "Araştırmacılar, insan protein bileşenlerini içeren ve klinik olarak onaylanmış, bağışıklık sistemi baskılayıcı olmayan bir ilaç kullanarak CAR T hücrelerini uzaktan ve geri dönüşümlü olarak kapatabilen DROP-CAR adında bir CAR T teknolojisi geliştirdi. Bu teknoloji, tümör hücresi bağlanmasını kesintiye uğratarak CAR T hücrelerini etkisiz hale getirebiliyor. Bu yeni yöntem, immünoterapinin güvenliğini artırma potansiyeline sahip olabilir. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). Drug-Controlled CAR T Cells May Enable Safer Immunotherapy. Retrieved from https://www.genengnews.com/topics/cancer/drug-controlled-car-t-cells-may-enable-safer-immunotherapy/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/drug-controlled-car-t-cells-may-enable-safer-immunotherapy/",
-            "date": "2026-02-24T02:51:09.100531",
-            "timestamp": 1771901469.100539
         }
     ]
 }
