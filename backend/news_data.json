@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-27T09:54:13.780457",
+    "last_updated": "2026-02-27T13:17:07.880294",
     "daily_news": {
-        "title": "Yeni Doğanlarda Vitamin K Reddedilmesi Beyin Kanaması Riskini Artırıyor",
-        "original_title": "Vitamin K Refusal Puts Newborns at High Risk for Brain Injury",
-        "content": "Son yıllarda daha fazla ebeveyn, yeni doğan bebekleri için vitamin K takviyesini reddetmektedir. Ancak bu karar, bebeklerin yıkıcı bir beyin kanaması geçirme riskini 81 kat artırmaktadır. Vitamin K, kanın pıhtılaşmasına yardımcı olan hayati bir vitamindir ve doğumdan hemen sonra alınmaması durumunda, bebeklerde ciddi kanama sorunlarına yol açabilir. Uzmanlar, bebeklerinin sağlığını tehlikeye atmamak için ebeveynlerin bu konuda bilinçli kararlar almasının önemine dikkat çekiyor. Vitamin K eksikliği nedeniyle ortaya çıkan beyin kanamaları, kalıcı beyin hasarına ve hatta ölüme neden olabilecek kadar ciddi olabilir. Bu nedenle, sağlık uzmanları ebeveynlere vitamin K'nın önemini anlatmakta ve bu hayati takviyeyi reddetmemeleri konusunda uyarılar yapmaktadır. \n\nKaynak: Neuroscience News. (2023). Vitamin K Refusal Puts Newborns at High Risk for Brain Injury. https://neurosciencenews.com/vitamin-k-newborn-brain-bleed-30205/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/vitamin-k-newborn-brain-bleed-30205/",
-        "date": "2026-02-27T02:45:22.768509",
-        "timestamp": 1772160322.768524
+        "title": "Yapay Zeka, Go Oyununda Ustaların Düşünce Yapısını Değiştiriyor",
+        "original_title": "AI is rewiring how the world’s best Go players think",
+        "content": "Hongik-dong'un sessiz bir yerleşim bölgesi olan doğu Seul'deki dar sokaklarına gömülmüş, 'Kore Baduk Derneği' damgalı, solgun taş döşemeli bir bina bulunmaktadır. Bu bina, profesyonel Go oyunu için yönetim organıdır. Güney Kore'de kutsal bir konuma sahip olan bu oyun, eski bir geçmişe sahiptir. Ancak, binanın içinde, bir zamanlar ellerin taşlara dokunurken çıkardığı yumuşak seslerle dolu odalar... \n\nYapay zeka, son yıllarda Go oyununda devrim yaratmıştır. Özellikle Google'ın geliştirdiği AlphaGo, bu alanda çığır açmış ve profesyonel oyuncuların stratejilerini yeniden düşünmelerine neden olmuştur. Go, strateji ve karmaşıklık açısından satrancı bile geride bırakan bir oyundur ve yapay zeka, bu oyunun dinamiklerini kökten değiştirmiştir.\n\nProfesyonel oyuncular, artık yapay zeka destekli programlarla antrenman yapmakta ve bu programlar sayesinde yeni stratejiler geliştirmektedirler. Bu durum, oyuncuların oyun içinde daha yaratıcı olmalarına olanak tanımaktadır. Yapay zeka, oyunculara daha önce düşünülmemiş hamleleri öğretmekte ve bu sayede oyunun zenginliğini artırmaktadır.\n\nYapay zekanın getirdiği bu değişim, sadece stratejik düşünme şekillerini değil, aynı zamanda oyunun kendisine bakış açısını da değiştirmektedir. Geleneksel olarak insan zekası ve sezgisiyle özdeşleştirilen Go oyunu, artık teknolojinin de bir parçası haline gelmiştir.\n\nKaynak: MIT Technology Review",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+        "date": "2026-02-27T13:16:57.319052",
+        "timestamp": 1772198217.319063
     },
     "news_list": [
+        {
+            "title": "Yapay Zeka, Go Oyununda Ustaların Düşünce Yapısını Değiştiriyor",
+            "original_title": "AI is rewiring how the world’s best Go players think",
+            "content": "Hongik-dong'un sessiz bir yerleşim bölgesi olan doğu Seul'deki dar sokaklarına gömülmüş, 'Kore Baduk Derneği' damgalı, solgun taş döşemeli bir bina bulunmaktadır. Bu bina, profesyonel Go oyunu için yönetim organıdır. Güney Kore'de kutsal bir konuma sahip olan bu oyun, eski bir geçmişe sahiptir. Ancak, binanın içinde, bir zamanlar ellerin taşlara dokunurken çıkardığı yumuşak seslerle dolu odalar... \n\nYapay zeka, son yıllarda Go oyununda devrim yaratmıştır. Özellikle Google'ın geliştirdiği AlphaGo, bu alanda çığır açmış ve profesyonel oyuncuların stratejilerini yeniden düşünmelerine neden olmuştur. Go, strateji ve karmaşıklık açısından satrancı bile geride bırakan bir oyundur ve yapay zeka, bu oyunun dinamiklerini kökten değiştirmiştir.\n\nProfesyonel oyuncular, artık yapay zeka destekli programlarla antrenman yapmakta ve bu programlar sayesinde yeni stratejiler geliştirmektedirler. Bu durum, oyuncuların oyun içinde daha yaratıcı olmalarına olanak tanımaktadır. Yapay zeka, oyunculara daha önce düşünülmemiş hamleleri öğretmekte ve bu sayede oyunun zenginliğini artırmaktadır.\n\nYapay zekanın getirdiği bu değişim, sadece stratejik düşünme şekillerini değil, aynı zamanda oyunun kendisine bakış açısını da değiştirmektedir. Geleneksel olarak insan zekası ve sezgisiyle özdeşleştirilen Go oyunu, artık teknolojinin de bir parçası haline gelmiştir.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/27/1133624/ai-is-rewiring-how-the-worlds-best-go-players-think/",
+            "date": "2026-02-27T13:16:57.319052",
+            "timestamp": 1772198217.319063
+        },
+        {
+            "title": "Hassas CAR T Hücreleri ile Solid Tümörlere Karşı Yeni Tedavi Umudu",
+            "original_title": "Ultra-Sensitive CAR T Cells May Unlock Potential Therapeutic Strategy for Solid Tumors",
+            "content": "<p>Araştırmacılar, HIT T hücreleri olarak bilinen yeni bir yüksek hassasiyetli CAR T hücresi formu geliştirdi. Bu hücreler, solid tümör immünoterapilerindeki en büyük engellerden birini aşmayı hedefliyor: Solid tümörlerin tek bir, yaygın olarak paylaşılan yüzey hedefinin bulunmaması. Bu yeni yaklaşımla, solid tümörlerin tedavisinde önemli bir ilerleme kaydedilmesi bekleniyor.</p><p>HIT T hücreleri, CAR T hücrelerinin doğal özelliklerini geliştirerek, tümör hücrelerini daha etkili bir şekilde tanıyıp yok etmelerini sağlıyor. Bu hücreler, tümör mikroçevresinde daha iyi performans gösterebilecek şekilde tasarlandı ve bu da onların daha geniş bir tümör yelpazesine karşı etkili olabileceği anlamına geliyor.</p><p>HIT T hücrelerinin geliştirilmesi, solid tümörler için CAR T hücre terapilerinin potansiyelini artırabilir ve bu da kanser tedavisinde yeni bir çığır açabilir. Araştırmalar, bu hücrelerin klinik kullanıma girmesiyle birlikte, kanser tedavisinde daha önce erişilemeyen hedeflerin saldırıya uğrayabileceğini gösteriyor.</p><p>Bu gelişme, kanser tedavilerinde yeni stratejilerin kapısını aralayarak, özellikle tedavisi zor olan solid tümörler için umut vadediyor. Araştırmacılar, bu yeni teknolojinin klinik denemelerde de olumlu sonuçlar vermesini umuyor.</p><p>Kaynak: GEN - Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/drug-discovery/ultra-sensitive-car-t-cells-may-unlock-potential-therapeutic-strategy-for-solid-tumors/)</p>",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/drug-discovery/ultra-sensitive-car-t-cells-may-unlock-potential-therapeutic-strategy-for-solid-tumors/",
+            "date": "2026-02-27T13:17:07.880243",
+            "timestamp": 1772198227.880252
+        },
         {
             "title": "Yeni Doğanlarda Vitamin K Reddedilmesi Beyin Kanaması Riskini Artırıyor",
             "original_title": "Vitamin K Refusal Puts Newborns at High Risk for Brain Injury",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/cancer/drug-controlled-car-t-cells-may-enable-safer-immunotherapy/",
             "date": "2026-02-24T02:51:09.100531",
             "timestamp": 1771901469.100539
-        },
-        {
-            "title": "Nöronlar Açlıkta Hayatta Kalmak İçin RNA 'Dokunaçları' Kullanıyor",
-            "original_title": "Neurons Use RNA “Tentacles” to Survive Starvation",
-            "content": "Araştırmacılar, nöronların açlık veya stres dönemlerinde enerji tasarrufu yapmak ve hayatta kalmak için inaktif ribozomları RNA 'dokunaçları' kullanarak eşleştirdiğini keşfettiler. Bu keşif, nöronların enerji tasarrufu sağlamak için nasıl adapte olabildiğini ve zorlu koşullar altında nasıl hayatta kalabileceğini anlamamıza yardımcı oluyor. RNA 'dokunaçları', ribozomları bir araya getirerek, protein sentezini geçici olarak durduruyor ve enerji harcamasını azaltıyor. Bu süreç, nöronların enerji kaynakları sınırlı olduğunda bile işlevlerini sürdürebilmelerini sağlıyor. Bu bulgular, nörolojik hastalıkların tedavisinde yeni stratejilere kapı aralayabilir.\n\nKaynak: Neuroscience News (2023). Neurons Use RNA “Tentacles” to Survive Starvation. https://neurosciencenews.com/neuron-ribosome-hibernation-rna-30180/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/neuron-ribosome-hibernation-rna-30180/",
-            "date": "2026-02-23T21:55:15.892452",
-            "timestamp": 1771883715.892466
-        },
-        {
-            "title": "Beyin, Nöbetleri Hatıra Gibi Kaydedebilir",
-            "original_title": "Brain May Treat Seizures As Memories",
-            "content": "Beyin öğrenmede ustadır, ancak bazen yanlış şeyleri öğrenir. Bilim insanları, nöbetlerden sonra uykunun epilepsi için bir \"kaydetme düğmesi\" olarak işlev gördüğünü keşfettiler. Epilepsi, beyindeki anormal elektriksel aktivitenin neden olduğu bir nörolojik bozukluktur ve genellikle tekrarlayan nöbetlerle karakterizedir. Araştırmalar, nöbetlerden sonra uykunun, beynin bu deneyimleri adeta birer hatıra gibi işlemesine neden olabileceğini öne sürüyor. Nöbet sonrası uyku sırasında, beyin nöbetle ilgili faaliyetleri konsolide ederek, adeta bu olayın bir kaydını tutar. Bu durum, beynin bazen yanlış bilgileri öğrenip saklayabileceğini gösteriyor. Bu yeni bulgular, epilepsi tedavisinde yeni yaklaşımlar geliştirmek için umut verici olabilir. Araştırmacılar, gelecekte bu \"kaydetme\" sürecini etkileyebilecek tedavi yöntemleri üzerinde daha fazla çalışma yapmayı planlıyorlar. \n\nKaynak: Neuroscience News (2023). Brain May Treat Seizures As Memories. https://neurosciencenews.com/seizure-memory-sleep-consolidation-30179/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/seizure-memory-sleep-consolidation-30179/",
-            "date": "2026-02-23T21:55:21.919313",
-            "timestamp": 1771883721.919323
         }
     ]
 }
