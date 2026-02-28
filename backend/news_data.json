@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-02-27T21:36:58.561987",
+    "last_updated": "2026-02-28T02:33:47.737374",
     "daily_news": {
-        "title": "Tekrarlayan Kafa Darbeleri ve Hafıza Kaybı Arasındaki Bağlantı",
-        "original_title": "Repeated Head Impacts, Inflammation and Memory Loss Connected",
-        "content": "Eski futbol oyuncularında yapılan araştırmalar, yüksek inflamasyon seviyelerinin hafıza ile ilişkili beyaz madde yollarında hasara yol açtığını ortaya koydu. Bu bulgular, inflamasyonun tekrarlayan kafa darbeleri ile sonraki bilişsel gerileme arasındaki biyolojik zincirin bir parçası olabileceğini öne sürüyor. Tekrarlayan kafa darbeleri, sporcular arasında yaygın bir durum olup, uzun vadede ciddi sağlık sorunlarına yol açabilir. Araştırmalar, bu darbelerin beyinde inflamasyona neden olarak, özellikle hafıza ile ilgili alanlarda kalıcı hasara yol açabileceğini gösteriyor. Bu durum, sporcularda ve özellikle futbol oyuncularında, yaşlandıkça artan bilişsel gerileme riskiyle ilişkilendiriliyor. Çalışma, bu riski azaltmak için potansiyel tedavi yöntemlerini araştırmanın ve sporcuların bu tür yaralanmalardan korunmasının önemini vurguluyor.\n\nKaynak: Neuroscience News. (2023). Repeated Head Impacts, Inflammation and Memory Loss Connected. Retrieved from https://neurosciencenews.com/neuroinflammation-memory-tbi-30210/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/neuroinflammation-memory-tbi-30210/",
-        "date": "2026-02-27T21:36:52.415657",
-        "timestamp": 1772228212.415667
+        "title": "MIT Technology Review, 2026 ASME Ödüllerinde Finalist Oldu",
+        "original_title": "MIT Technology Review is a 2026 ASME finalist in reporting",
+        "content": "Amerikan Dergi Editörleri Derneği, MIT Technology Review dergisini 2026 Ulusal Dergi Ödülleri'nde raporlama kategorisinde finalist olarak belirledi. Kısa listeye giren hikaye—\"Yapay Zekanın Enerji Ayak İzi Üzerine Matematik Yaptık. İşte Duymadığınız Hikaye\"—yayının yapay zekanın enerji yükünü ele alan Power Hungry paketinin bir parçası. Yapay zeka genellikle... \n\nKaynak: MIT Technology Review",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/",
+        "date": "2026-02-28T02:33:47.561724",
+        "timestamp": 1772246027.561736
     },
     "news_list": [
+        {
+            "title": "MIT Technology Review, 2026 ASME Ödüllerinde Finalist Oldu",
+            "original_title": "MIT Technology Review is a 2026 ASME finalist in reporting",
+            "content": "Amerikan Dergi Editörleri Derneği, MIT Technology Review dergisini 2026 Ulusal Dergi Ödülleri'nde raporlama kategorisinde finalist olarak belirledi. Kısa listeye giren hikaye—\"Yapay Zekanın Enerji Ayak İzi Üzerine Matematik Yaptık. İşte Duymadığınız Hikaye\"—yayının yapay zekanın enerji yükünü ele alan Power Hungry paketinin bir parçası. Yapay zeka genellikle... \n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/",
+            "date": "2026-02-28T02:33:47.561724",
+            "timestamp": 1772246027.561736
+        },
         {
             "title": "Tekrarlayan Kafa Darbeleri ve Hafıza Kaybı Arasındaki Bağlantı",
             "original_title": "Repeated Head Impacts, Inflammation and Memory Loss Connected",
@@ -500,16 +510,6 @@
             "link": "https://www.genengnews.com/topics/genome-editing/beam-designs-new-approach-for-direct-correction-of-mutations-causing-pku/",
             "date": "2026-02-24T19:13:36.427065",
             "timestamp": 1771960416.427075
-        },
-        {
-            "title": "Radyoaktif Gergedanlar: Koruma Çabasındaki Yeni Yöntem",
-            "original_title": "The Download: radioactive rhinos, and the rise and rise of peptides",
-            "content": "Her yıl, avcılar yüzlerce gergedanı vuruyor, balıkçı ekipleri koruma altındaki denizlerden milyonlarca köpekbalığını çekip çıkarıyor ve kaçakçılar sınırların ötesine sayısız hayvan ve bitki taşıyor. Koruma uzmanları, bu yasa dışı avlanmayı ve kaçakçılığı engellemek amacıyla yeni ve ilginç bir yöntem deniyor: gergedanları radyoaktif hale getirmek.\n\nRadyoaktif izotoplar kullanarak gergedan boynuzlarını izlenebilir hale getirmek, kaçak avcılar ve alıcılar için caydırıcı bir etken olabilir. Bu yöntem, boynuzların güvenli bir şekilde izlenmesini sağlarken, yasa dışı ticareti de engelleyebilir. Bu yenilikçi yaklaşım, vahşi yaşamın korunması ve türlerin sürdürülebilirliği için umut verici bir adım olarak görülüyor.\n\nGergedanların radyoaktif hale getirilmesi, hem yerel halkın hem de uluslararası topluluğun dikkatini çekmiş durumda. Bu yöntemle, hem gergedanların yaşam alanları korunabilir hem de kaçak avın önüne geçilebilir. Ancak, bu tür yenilikçi çözümler, etik ve çevresel etkileri göz önünde bulundurularak dikkatlice değerlendirilmelidir.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/24/1133567/the-download-radioactive-rhinos-and-the-rise-and-rise-of-peptides/",
-            "date": "2026-02-24T16:06:28.594533",
-            "timestamp": 1771949188.594545
         }
     ]
 }
