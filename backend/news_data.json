@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-02-28T18:44:53.107864",
+    "last_updated": "2026-02-28T21:29:43.096759",
     "daily_news": {
-        "title": "MIT Technology Review, 2026 ASME Ödüllerinde Finalist Oldu",
-        "original_title": "MIT Technology Review is a 2026 ASME finalist in reporting",
-        "content": "Amerikan Dergi Editörleri Derneği, MIT Technology Review dergisini 2026 Ulusal Dergi Ödülleri'nde raporlama kategorisinde finalist olarak belirledi. Kısa listeye giren hikaye—\"Yapay Zekanın Enerji Ayak İzi Üzerine Matematik Yaptık. İşte Duymadığınız Hikaye\"—yayının yapay zekanın enerji yükünü ele alan Power Hungry paketinin bir parçası. Yapay zeka genellikle... \n\nKaynak: MIT Technology Review",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/",
-        "date": "2026-02-28T02:33:47.561724",
-        "timestamp": 1772246027.561736
+        "title": "Ketamin Devrimi: Depresyon Tedavisinde Yeni Bir Dönem Başlıyor",
+        "original_title": "Ketamine Revolution: Study Redefines Depression Treatment",
+        "content": "Öncü bir araştırma, depresyon tedavisinde ketaminin kullanımını inceleyerek, tedavi yöntemlerini yavaş etkili serotonin ilaçlarından hızlı etkili glutamat terapisine doğru kaydırdı. Bu yeni yaklaşım, depresyon tedavisinde çığır açıcı bir değişimi simgeliyor. Ketamin, hızla etki gösteren bir ajan olarak, depresyon belirtilerinin hızla hafifletilmesine olanak tanıyor. Bu da hastaların daha kısa sürede ve etkili bir şekilde iyileşmesine yardımcı oluyor. \n\nKetaminin bu yeni kullanım şekli, geleneksel depresyon tedavilerinin aksine, beyindeki glutamat sistemini hedef alıyor. Glutamat, beyindeki sinir hücreleri arasındaki iletişimi etkileyen bir nörotransmitterdir ve bu yeni terapi, depresyonun biyolojik temelini daha iyi anlamamıza yardımcı olabilir. \n\nAraştırma, ketaminin depresyon tedavisinde güvenilir ve etkili bir seçenek olduğunu gösteriyor ve bu da gelecekteki tedavi stratejilerini yeniden şekillendirebilir. Bu yeni tedavi yaklaşımı, özellikle tedaviye dirençli depresyon vakalarında umut vadediyor.\n\nKaynak:\nNeuroscience News. (2023). Ketamine Revolution: Study Redefines Depression Treatment. https://neurosciencenews.com/ketamine-depression-treatment-30212/",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/ketamine-depression-treatment-30212/",
+        "date": "2026-02-28T21:29:42.206512",
+        "timestamp": 1772314182.206522
     },
     "news_list": [
+        {
+            "title": "Tau PET Taramalarının Gerçek Yüzü: Demir ve Beyin İltihabı ile İlişkisi",
+            "original_title": "Study Reveals What Tau PET Scans Are Actually Seeing",
+            "content": "Yüksek hassasiyetli bir çalışma, en yaygın kullanılan tau PET izleyicisinin demir ve beyin iltihabına da tepki verdiğini ortaya koyarak doğru teşhis için yeni bir rehber sunuyor. Alzheimer hastalığı gibi nörodejeneratif hastalıkların teşhisinde kullanılan tau PET taramaları, beyindeki tau protein birikimlerini görüntülemek için geliştirilmiştir. Ancak bu yeni araştırma, bu izleyicilerin aynı zamanda demir birikimi ve iltihaplanma gibi diğer beyin değişikliklerine de duyarlı olduğunu göstermektedir. Bu bulgu, tau PET taramalarının yorumlanmasında dikkat edilmesi gereken yeni faktörler olduğunu ortaya koymaktadır. Bu durum, nörodejeneratif hastalıkların teşhis ve tedavisinde daha kapsamlı bir yaklaşım benimsenmesi gerektiğini işaret etmektedir. Çalışmanın bulguları, bu tür taramaların daha doğru sonuçlar vermesi için yeni stratejilerin geliştirilmesine öncülük edebilir. \n\nKaynak: Neuroscience News (2023)",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/tau-pet-inflammation-30213/",
+            "date": "2026-02-28T21:29:36.105487",
+            "timestamp": 1772314176.105498
+        },
+        {
+            "title": "Ketamin Devrimi: Depresyon Tedavisinde Yeni Bir Dönem Başlıyor",
+            "original_title": "Ketamine Revolution: Study Redefines Depression Treatment",
+            "content": "Öncü bir araştırma, depresyon tedavisinde ketaminin kullanımını inceleyerek, tedavi yöntemlerini yavaş etkili serotonin ilaçlarından hızlı etkili glutamat terapisine doğru kaydırdı. Bu yeni yaklaşım, depresyon tedavisinde çığır açıcı bir değişimi simgeliyor. Ketamin, hızla etki gösteren bir ajan olarak, depresyon belirtilerinin hızla hafifletilmesine olanak tanıyor. Bu da hastaların daha kısa sürede ve etkili bir şekilde iyileşmesine yardımcı oluyor. \n\nKetaminin bu yeni kullanım şekli, geleneksel depresyon tedavilerinin aksine, beyindeki glutamat sistemini hedef alıyor. Glutamat, beyindeki sinir hücreleri arasındaki iletişimi etkileyen bir nörotransmitterdir ve bu yeni terapi, depresyonun biyolojik temelini daha iyi anlamamıza yardımcı olabilir. \n\nAraştırma, ketaminin depresyon tedavisinde güvenilir ve etkili bir seçenek olduğunu gösteriyor ve bu da gelecekteki tedavi stratejilerini yeniden şekillendirebilir. Bu yeni tedavi yaklaşımı, özellikle tedaviye dirençli depresyon vakalarında umut vadediyor.\n\nKaynak:\nNeuroscience News. (2023). Ketamine Revolution: Study Redefines Depression Treatment. https://neurosciencenews.com/ketamine-depression-treatment-30212/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/ketamine-depression-treatment-30212/",
+            "date": "2026-02-28T21:29:42.206512",
+            "timestamp": 1772314182.206522
+        },
         {
             "title": "MIT Technology Review, 2026 ASME Ödüllerinde Finalist Oldu",
             "original_title": "MIT Technology Review is a 2026 ASME finalist in reporting",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/mitochondria-long-term-memory-30135/",
             "date": "2026-02-24T19:13:21.694927",
             "timestamp": 1771960401.694936
-        },
-        {
-            "title": "Alzheimer'ın Sessiz Başlangıcı: Beyin Kan Akışındaki Düşüş",
-            "original_title": "Alzheimer’s may begin with a silent drop in brain blood flow",
-            "content": "Beyin kan akışı ve oksijen kullanımında meydana gelen ince değişiklikler, Alzheimer hastalığının belirgin işaretleri olan amiloid plakları ve hafıza ile ilgili beyin küçülmesiyle yakından ilişkilidir. Gelecekte, basit ve invaziv olmayan taramalar, yalnızca plaklara değil, beynin damar sağlığına bakarak, riski daha erken tespit etmeye yardımcı olabilir. \n\nAlzheimer hastalığı, genellikle hafıza kaybı ve bilişsel gerileme ile ilişkilendirilir, ancak son araştırmalar, bu hastalığın başlangıcında beyin kan akışında sessiz bir düşüşün rol oynayabileceğini öne sürüyor. Beyin damar sağlığındaki bu değişiklikler, Alzheimer ile ilişkilendirilen amiloid plaklarının ve beyin küçülmesinin erken belirtileri olabilir. \n\nBu yeni bulgular, Alzheimer hastalığının daha erken teşhis edilmesine yönelik umut verici bir yol sunuyor. Beynin damar sağlığını değerlendiren basit, invaziv olmayan taramalar ile, bu hastalığın gelişme riski altında olan bireyler daha erken bir aşamada belirlenebilir. Bu, erken müdahale ve tedavi imkânlarını artırarak, hastalığın ilerlemesini yavaşlatabilir ve yaşam kalitesini iyileştirebilir. \n\nAraştırmacılar, bu bulguların, Alzheimer'ın teşhisi ve tedavisine yönelik yeni stratejiler geliştirmek için önemli bir adım olduğunu vurguluyorlar. Beynin kan akışı ve oksijen kullanımının izlenmesi, bu hastalığın daha iyi anlaşılmasına ve daha etkili tedavi yöntemlerinin geliştirilmesine katkı sağlayabilir. \n\nKaynak: Mind & Brain News -- ScienceDaily.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/02/260224023159.htm",
-            "date": "2026-02-24T19:13:32.165984",
-            "timestamp": 1771960412.165993
-        },
-        {
-            "title": "Beam, PKU'ya Neden Olan Mutasyonların Doğrudan Düzeltilmesi İçin Yeni Bir Yaklaşım Tasarladı",
-            "original_title": "Beam Designs New Approach for Direct Correction of Mutations Causing PKU",
-            "content": "Beam'in karaciğeri hedef alan genetik hastalık programı BEAM-304, Beam'in tescilli ve klinik olarak doğrulanmış baz düzenleme teknolojisi ve lipid nanopartikül taşıma yeteneklerinden yararlanarak PKU'ya neden olan fenilalanin hidroksilaz genindeki mutasyonları düzeltmektedir. Bu yenilikçi yaklaşım, PKU hastalığının kökenindeki genetik hataları doğrudan düzeltmeyi hedefler ve bu sayede hastaların yaşam kalitesini artırmayı amaçlar. BEAM-304 programı, genetik mühendislik alanında önemli bir ilerleme olarak değerlendirilmektedir ve gelecekte benzer genetik hastalıkların tedavisinde umut vaat edebilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (tarih). Beam Designs New Approach for Direct Correction of Mutations Causing PKU. GEN - Genetic Engineering and Biotechnology News. Erişim adresi: https://www.genengnews.com/topics/genome-editing/beam-designs-new-approach-for-direct-correction-of-mutations-causing-pku/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/genome-editing/beam-designs-new-approach-for-direct-correction-of-mutations-causing-pku/",
-            "date": "2026-02-24T19:13:36.427065",
-            "timestamp": 1771960416.427075
         }
     ]
 }
