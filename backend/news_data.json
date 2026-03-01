@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-01T15:31:58.564086",
+    "last_updated": "2026-03-01T18:46:49.862300",
     "daily_news": {
-        "title": "Hayal Gücüyle Negatif Anı İzlerini Bozmak: Başarısızlık Korkusunu Yenmek",
-        "original_title": "Using Imagination to Disrupt Negative Memory Traces",
-        "content": "Hayal gücüyle iyileşme. Araştırmacılar, acı verici çocukluk anılarını destekleyici bir savunucu ile yeniden kurgulamanın, yetişkinlerdeki başarısızlık korkusunu kalıcı olarak azaltabileceğini kanıtladı. \n\nÇocukluk döneminde yaşanan olumsuz deneyimler, yetişkinlikte başarısızlık korkusuna yol açabilir. Ancak yeni bir araştırma, bu olumsuz anıların hayal gücü kullanılarak yeniden tasarlanmasının, bu korkunun üstesinden gelmeye yardımcı olabileceğini gösteriyor. \n\nAraştırmacılar, katılımcılara çocukluk döneminde yaşadıkları olumsuz anıları düşünmelerini ve bu anıları, kendilerini savunan, destekleyen bir figürle yeniden yazmalarını önerdi. Bu süreçte katılımcılar, geçmişteki travmatik deneyimlerini yeniden yapılandırarak, bu deneyimlerin üzerlerindeki olumsuz etkilerini azalttılar. \n\nBu çalışmanın sonuçları, psikoterapi ve kişisel gelişim alanlarında yeni yaklaşımların kapılarını aralayabilir. Destekleyici ve koruyucu bir figürün varlığı, bireylerin geçmişteki travmalarını daha sağlıklı bir şekilde işlemelerine yardımcı olabilir. \n\nBu tür teknikler, bireylerin duygusal yüklerini azaltmalarına ve daha özgüvenli bir şekilde geleceğe bakmalarına olanak tanır. Hayal gücü, bu süreçte güçlü bir araç olarak karşımıza çıkıyor ve bireylerin kendi zihinlerinde güvenli bir alan oluşturmalarına yardımcı oluyor. \n\nKaynak: Neuroscience News",
+        "title": "Alzheimer Beyninde Gizli Kimyasal Değişiklikler: Yapay Zeka ile Yeni Keşifler",
+        "original_title": "Beyond amyloid plaques: AI reveals hidden chemical changes across the Alzheimer’s brain",
+        "content": "Rice Üniversitesi'ndeki bilim insanları, Alzheimer beyni için ilk tam ve boyasız moleküler atlası ürettiler. Lazer tabanlı görüntüleme ve makine öğrenimini birleştirerek, beyinde düzensiz olarak yayılan ve amyloid plaklarının ötesine geçen kimyasal değişiklikleri ortaya çıkardılar. Anahtar hafıza bölgeleri, kolesterol ve enerjiyle ilgili moleküllerde büyük değişimler gösterdi. Bulgular, Alzheimer'ın sadece bir protein sorunu olmadığını, aksine tüm beyinle ilgili bir metabolik bozulma olduğunu düşündürüyor. \n\nKaynak: Mind & Brain News -- ScienceDaily (2023)",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/imagery-rescripting-fear-of-failure-30215/",
-        "date": "2026-03-01T03:17:41.590506",
-        "timestamp": 1772335061.590518
+        "link": "https://www.sciencedaily.com/releases/2026/02/260228093505.htm",
+        "date": "2026-03-01T18:46:49.378440",
+        "timestamp": 1772390809.378448
     },
     "news_list": [
+        {
+            "title": "Tok Olsak Bile Atıştırmalıklara Neden Hayır Diyemiyoruz?",
+            "original_title": "Why You Can’t Say No to Snacks Even When Full",
+            "content": "Yeni EEG araştırmaları, beyninizin yiyeceklere karşı olan ödül tepkisini, tok olsanız bile \"kapatmayı\" reddettiğini ortaya koyuyor. Araştırmalar, insanların yemek yedikten sonra bile atıştırmalıklara neden karşı koyamadığını anlamamıza yardımcı oluyor.\n\nBu araştırmaya göre, beynimizin ödül merkezi, doyduğumuzu hissettiğimizde bile yiyeceklerin cazibesine yanıt vermeye devam ediyor. Beynin bu bölgesi, yemek yemenin verdiği zevkle ilişkilendiriliyor ve bu, kilo kontrolü ve sağlıklı beslenme alışkanlıkları oluşturma konusunda zorluklara neden olabiliyor.\n\nEEG (elektroensefalografi) kullanılarak yapılan bu araştırma, katılımcıların doyma seviyelerine rağmen yiyecek resimlerine nasıl tepki verdiklerini inceledi. Bulgular, yiyeceklerin beyinde güçlü bir ödül sinyali oluşturduğunu ve bu sinyalin, fiziksel olarak doygunluk hissedilse bile devam ettiğini gösteriyor.\n\nBu durum, özellikle yüksek kalorili ve işlenmiş gıdalar söz konusu olduğunda önem kazanıyor. Beynimiz, bu tür yiyeceklerin getirdiği hızlı enerji patlamalarını ve tatmin duygusunu ödüllendiriyor, bu da onları daha çekici hale getiriyor.\n\nAraştırmacılar, bu bilgilerin, kilo yönetimi ve sağlıklı beslenme alışkanlıkları geliştirmek isteyen insanlar için önemli olduğunu belirtiyor. Beynin bu ödül tepkisini anlamak, insanların neden tok olduklarında bile atıştırmalıklara yöneldiğini açıklayabilir ve bu durumla başa çıkmanın yollarını geliştirmeye yardımcı olabilir.\n\nKaynak: Neuroscience News. (2026). Why You Can’t Say No to Snacks Even When Full. https://neurosciencenews.com/food-reward-satiety-snacking-30216/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/food-reward-satiety-snacking-30216/",
+            "date": "2026-03-01T18:46:45.513744",
+            "timestamp": 1772390805.513754
+        },
+        {
+            "title": "Alzheimer Beyninde Gizli Kimyasal Değişiklikler: Yapay Zeka ile Yeni Keşifler",
+            "original_title": "Beyond amyloid plaques: AI reveals hidden chemical changes across the Alzheimer’s brain",
+            "content": "Rice Üniversitesi'ndeki bilim insanları, Alzheimer beyni için ilk tam ve boyasız moleküler atlası ürettiler. Lazer tabanlı görüntüleme ve makine öğrenimini birleştirerek, beyinde düzensiz olarak yayılan ve amyloid plaklarının ötesine geçen kimyasal değişiklikleri ortaya çıkardılar. Anahtar hafıza bölgeleri, kolesterol ve enerjiyle ilgili moleküllerde büyük değişimler gösterdi. Bulgular, Alzheimer'ın sadece bir protein sorunu olmadığını, aksine tüm beyinle ilgili bir metabolik bozulma olduğunu düşündürüyor. \n\nKaynak: Mind & Brain News -- ScienceDaily (2023)",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/02/260228093505.htm",
+            "date": "2026-03-01T18:46:49.378440",
+            "timestamp": 1772390809.378448
+        },
         {
             "title": "Hayal Gücüyle Negatif Anı İzlerini Bozmak: Başarısızlık Korkusunu Yenmek",
             "original_title": "Using Imagination to Disrupt Negative Memory Traces",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/gut-brain-heart-axis-hypertension-30188/",
             "date": "2026-02-24T21:45:16.985626",
             "timestamp": 1771969516.985637
-        },
-        {
-            "title": "Uyku Kaybının Sosyal Hafızaya Etkisi: Oksitosin Bağlantısı",
-            "original_title": "Oxytocin Crash: Why Sleep Loss Leaves You Socially Forgetful",
-            "content": "Geç saatlere kadar uyanık kaldıktan sonra unutkan mı oluyorsunuz? Bilim insanları, uyku kaybının beynin oksitosin sinyallerini 'sessizleştirdiğini' ve bu durumun arkadaşları tanıma ve yeni yüzleri hatırlama yeteneğimizi etkilediğini ortaya koydu. Uyku, beynin sosyal hafıza işlevleri için kritik öneme sahip olan oksitosin hormonunun etkili bir şekilde çalışmasına olanak tanır. Ancak yeterli uyku alınmadığında, oksitosin sinyalleri zayıflar ve bu da sosyal bağlantı kurma yeteneğimizi olumsuz etkiler. Araştırmacılar, bu bulguların uyku düzeninin sosyal etkileşimlerdeki rolünü daha iyi anlamamıza yardımcı olabileceğini belirtiyorlar.\n\nKaynak: Neuroscience News (2023). Oxytocin Crash: Why Sleep Loss Leaves You Socially Forgetful. Erişim adresi: https://neurosciencenews.com/sleep-deprivation-oxytocin-social-memory-30187/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/sleep-deprivation-oxytocin-social-memory-30187/",
-            "date": "2026-02-24T21:45:21.990819",
-            "timestamp": 1771969521.990827
-        },
-        {
-            "title": "Antikor-İlaç Konjugatlarında Direnç ve Hedef Dışı Toksisiteye Çözüm Stratejileri",
-            "original_title": "Strategies for Addressing Resistance and Off-Target Toxicity in Antibody-Drug Conjugates",
-            "content": "Bu GEN webinarında, ChemPartner’dan uzmanlar Philip Clarke, PhD, Hu Liu, PhD ve Greg Liang, MD, antikor-ilaç konjugatlarının bir sonraki neslini şekillendiren yenilikçi platformlar hakkında genel bir bakış sunacaklar. Bu platformlar, direnç ve hedef dışı toksisite sorunlarına yönelik stratejilerin geliştirilmesinde kritik bir rol oynamaktadır. Webinar boyunca, antikor-ilaç konjugatlarının etkinliğini artırmak ve yan etkilerini en aza indirmek için kullanılan bazı ileri teknolojiler ve metodolojiler tartışılacaktır. Bu, özellikle kanser tedavilerinde büyük bir potansiyele sahip olan bu biyolojik ajanların daha güvenli ve etkili bir şekilde kullanılabilmesi için önem arz etmektedir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/multimedia/webinars/strategies-for-addressing-resistance-and-off-target-toxicity-in-antibody-drug-conjugates/",
-            "date": "2026-02-24T21:45:26.112934",
-            "timestamp": 1771969526.112942
         }
     ]
 }
