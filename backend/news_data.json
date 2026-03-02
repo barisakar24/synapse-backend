@@ -1,16 +1,66 @@
 {
-    "last_updated": "2026-03-02T15:50:45.405396",
+    "last_updated": "2026-03-02T19:01:22.979311",
     "daily_news": {
-        "title": "Yapay Zeka Karşıtı Protestolar ve Uzayda Neler Yüzüyor?",
-        "original_title": "The Download: protesting AI, and what’s floating in space",
-        "content": "Bugünün Teknoloji Dünyası'na dair günlük bir doz sunan bültenimiz The Download'un bu günkü sayısında, teknoloji dünyasında olup bitenleri ele alıyoruz. Bu cumartesi, 28 Şubat tarihinde düzenlenen en büyük yapay zeka karşıtı protestolardan birine yakından göz attım. Katılımcılar 'Fişi çek! Fişi çek! Saçmalığı durdur! Saçmalığı durdur!' sloganlarıyla seslerini duyurmaya çalıştılar. Protestocular, yapay zekanın kontrolsüz gelişiminin durdurulması gerektiğini vurgularken, bunun insanlık için potansiyel tehlikeler taşıdığını belirttiler. Öte yandan, uzayda nelerin dolaştığını inceleyen bir diğer haberimizde, evrenin derinliklerinde insan yapımı ve doğal nesnelerin izini sürdük.",
+        "title": "OpenAI ve Pentagon Anlaşması: Anthropic'in Korkuları Gerçekleşiyor",
+        "original_title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
+        "content": "OpenAI, 28 Şubat'ta yaptığı açıklamada, ABD ordusunun teknolojilerini gizli ortamlarda kullanmasına olanak tanıyan bir anlaşmaya vardığını duyurdu. CEO Sam Altman, şirketin, yalnızca Pentagon'un Anthropic'e yönelik kamuoyu önünde yaptığı uyarının ardından bu müzakereleri başlattığını ve sürecin 'kesinlikle aceleye getirildiğini' belirtti. OpenAI, duyurularında bu anlaşmayı açıklarken büyük bir titizlik gösterdi. \n\nBu anlaşma, yapay zeka dünyasında önemli yankı uyandırdı ve özellikle etik ve güvenlik kaygıları nedeniyle endişelere yol açtı. Anthropic gibi şirketler, askeri uygulamalar için yapay zeka teknolojilerinin kullanılmasının potansiyel risklerine dikkat çekmişti. Ancak OpenAI'nin bu hızlı anlaşması, bu tarz endişe ve çekinceleri bir kenara bırakmış gibi görünüyor.\n\nOpenAI'nin Pentagon ile yaptığı bu anlaşma, şirketin askeri alanda yapay zeka teknolojilerinin nasıl kullanılacağına dair daha geniş bir strateji geliştirdiğine işaret ediyor. Ancak bu durum, sivil toplum kuruluşları ve etik komiteler tarafından dikkatle izlenmeye devam edecek gibi görünüyor. \n\nKaynakça: MIT Technology Review. (2023). OpenAI’s “compromise” with the Pentagon is what Anthropic feared. Erişim adresi: https://www.technologyreview.com",
         "category": "Yapay Zeka",
         "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/",
-        "date": "2026-03-02T15:50:45.326925",
-        "timestamp": 1772466645.326936
+        "link": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+        "date": "2026-03-02T19:01:22.907643",
+        "timestamp": 1772478082.907651
     },
     "news_list": [
+        {
+            "title": "Bağımlılıkta Sosyalleşmenin Alkole Yenik Düşmesinin Sırrı: Anterior İnsula'nın Rolü",
+            "original_title": "Why Socializing Loses to Alcohol in Addiction",
+            "content": "Yeni araştırmalar, anterior insula'daki aktivitenin, beynin sosyal etkileşim yerine alkolü tercih etmesine neden olduğunu ortaya koyuyor. Bu bulgu, bağımlılık tedavisi için yeni bir hedef sunuyor. Anterior insula, karar verme süreçlerinde ve bağımlılık davranışlarında kilit bir rol oynayan bir beyin bölgesidir. Yapılan çalışmalara göre, bu bölgedeki artan aktivite, kişilerin sosyal ortamlarda bile alkolü tercih etmelerine yol açıyor. \n\nBu araştırma, bağımlılıkla mücadelede yeni stratejiler geliştirilmesine olanak sağlayabilir. Alkol bağımlılığı, sosyal ilişkileri zayıflatarak bireylerin toplumdan izole olmasına neden olabilir. Anterior insula'nın etkilerini anlamak, alkol bağımlılığı tedavisinde daha etkili yöntemlerin geliştirilmesine kapı aralayabilir.\n\nAraştırmacılar, bu bulguların klinik uygulamalara nasıl yansıtılabileceği konusunda çalışmalarını sürdürüyor. Özellikle, anterior insula'nın aktivitesini azaltabilecek tedavi yöntemleri üzerinde duruluyor. Bu tür yaklaşımlar, alkol bağımlılığı tedavisinde başarı oranını artırabilir.\n\nKaynak: Neuroscience News (2023). Why Socializing Loses to Alcohol in Addiction. Erişim adresi: https://neurosciencenews.com/alcohol-bias-anterior-insula-30223/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/alcohol-bias-anterior-insula-30223/",
+            "date": "2026-03-02T19:00:47.974855",
+            "timestamp": 1772478047.974867
+        },
+        {
+            "title": "Beynin Aile Ağacı: Nöral Kendi Kendine Organizasyonun Yeni Teorisi",
+            "original_title": "Brain’s Family Tree: A New Theory of Neural Self-Organization",
+            "content": "Nörobilim alanında yapılan yeni bir araştırma, beyin gelişimi sürecine dair çığır açıcı bir teori ortaya koyuyor. Bu teoriye göre, nöronlar yerlerini bulurken uzak kimyasal sinyalleri takip etmek yerine, yakınlarındaki akrabalarıyla birlikte kalmayı tercih ediyor.\n\nGeleneksel görüş, nöronların beyin içinde doğru yerlere ulaşmak için kimyasal sinyallerin rehberliğinde hareket ettiğini öne sürer. Ancak, bu yeni teori, nöronların aslında genetik olarak ilişkili oldukları hücrelerle birlikte kalmayı tercih ederek, daha organize ve etkili bir beyin yapısı oluşturduklarını iddia ediyor.\n\nBu buluş, beynin kendi kendine organizasyon sürecine dair yeni bir bakış açısı sunmakta ve nöronların nasıl yerleştiğine dair uzun süredir kabul gören yaklaşımlara meydan okumaktadır. Araştırmacılar, bu yeni teorinin, nörogelişimsel bozukluklar da dahil olmak üzere birçok beyin rahatsızlığının anlaşılmasına ve tedavi edilmesine katkı sağlayabileceğini öne sürüyor.\n\nBeynin gelişim sürecindeki bu yeni anlayış, nörobilimdeki mevcut kuramları yeniden değerlendirmeye ve beynin karmaşık yapısının nasıl oluştuğuna dair daha derinlemesine bir kavrayışa yol açabilir.\n\nKaynak:\nNeuroscience News. (2023). Brain’s Family Tree: A New Theory of Neural Self-Organization. https://neurosciencenews.com/lineage-brain-development-theory-30222/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/lineage-brain-development-theory-30222/",
+            "date": "2026-03-02T19:01:02.658978",
+            "timestamp": 1772478062.658988
+        },
+        {
+            "title": "ChatGPT Terapist Olabilir mi? Yeni Araştırma Ciddi Etik Riskleri Ortaya Koyuyor",
+            "original_title": "ChatGPT as a therapist? New study reveals serious ethical risks",
+            "content": "Makale içeriği: Milyonlarca insan ChatGPT ve diğer yapay zeka tabanlı sohbet botlarını terapi tarzı tavsiyeler için kullanırken, Brown Üniversitesi'nden yeni bir araştırma ciddi bir uyarı veriyor: Bu sistemler, eğitimli terapistler gibi hareket etmeleri talimatı verildiğinde bile, ruh sağlığı hizmetlerinin temel etik standartlarını rutin olarak ihlal ediyorlar. Araştırmacılar, akran danışmanlar ve lisanslı psikologlarla yan yana değerlendirmelerde, kriz durumlarını yanlış ele almaktan zarar verici inançları pekiştirmeye, taraflı yanıtlar göstermeye ve gerçek anlayış olmadan bakımı taklit eden 'aldatıcı empati' sunmaya kadar 15 farklı etik risk tespit ettiler.\n\nAPA Formatında Kaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Psikoloji",
+            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
+            "date": "2026-03-02T19:01:05.852983",
+            "timestamp": 1772478065.852991
+        },
+        {
+            "title": "Bahşiş Vermenin Artan Eğilimi ve Hizmet Kalitesine Etkisi",
+            "original_title": "Why tipping keeps rising and may not improve service",
+            "content": "Neden, bir daha asla karşılaşmayacağımız birine bahşiş veriyoruz? Yeni araştırmalar, bunun sadece iyi hizmeti ödüllendirmekle ilgili olmadığını, aynı zamanda sosyal baskıyla da ilgili olduğunu öne sürüyor. Bazı insanlar içten bir takdir ifadesi olarak bahşiş verirken, diğerleri yalnızca normu takip ediyor. Ancak işin ilginç yanı: Gerçekten harika hizmete değer verenler, ortalamanın üzerinde bahşiş verme eğiliminde ve diğer herkes bu duruma uyum sağlamak için bahşiş miktarını artırıyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260302030637.htm",
+            "date": "2026-03-02T19:01:10.995059",
+            "timestamp": 1772478070.99507
+        },
+        {
+            "title": "OpenAI ve Pentagon Anlaşması: Anthropic'in Korkuları Gerçekleşiyor",
+            "original_title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
+            "content": "OpenAI, 28 Şubat'ta yaptığı açıklamada, ABD ordusunun teknolojilerini gizli ortamlarda kullanmasına olanak tanıyan bir anlaşmaya vardığını duyurdu. CEO Sam Altman, şirketin, yalnızca Pentagon'un Anthropic'e yönelik kamuoyu önünde yaptığı uyarının ardından bu müzakereleri başlattığını ve sürecin 'kesinlikle aceleye getirildiğini' belirtti. OpenAI, duyurularında bu anlaşmayı açıklarken büyük bir titizlik gösterdi. \n\nBu anlaşma, yapay zeka dünyasında önemli yankı uyandırdı ve özellikle etik ve güvenlik kaygıları nedeniyle endişelere yol açtı. Anthropic gibi şirketler, askeri uygulamalar için yapay zeka teknolojilerinin kullanılmasının potansiyel risklerine dikkat çekmişti. Ancak OpenAI'nin bu hızlı anlaşması, bu tarz endişe ve çekinceleri bir kenara bırakmış gibi görünüyor.\n\nOpenAI'nin Pentagon ile yaptığı bu anlaşma, şirketin askeri alanda yapay zeka teknolojilerinin nasıl kullanılacağına dair daha geniş bir strateji geliştirdiğine işaret ediyor. Ancak bu durum, sivil toplum kuruluşları ve etik komiteler tarafından dikkatle izlenmeye devam edecek gibi görünüyor. \n\nKaynakça: MIT Technology Review. (2023). OpenAI’s “compromise” with the Pentagon is what Anthropic feared. Erişim adresi: https://www.technologyreview.com",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+            "date": "2026-03-02T19:01:22.907643",
+            "timestamp": 1772478082.907651
+        },
         {
             "title": "Yapay Zeka Karşıtı Protestolar ve Uzayda Neler Yüzüyor?",
             "original_title": "The Download: protesting AI, and what’s floating in space",
@@ -460,56 +510,6 @@
             "link": "https://www.genengnews.com/topics/bioprocessing/autonomy-and-accountability-in-bioprocessing/",
             "date": "2026-02-25T19:17:03.183701",
             "timestamp": 1772047023.183709
-        },
-        {
-            "title": "Depresyon Tedavisinde 5 Günde Hızlı İyileşme Yöntemi",
-            "original_title": "New brain stimulation approach could treat depression in just 5 days",
-            "content": "Yeni bir beyin uyarımı yaklaşımı, depresyon tedavisinde sadece 5 gün içinde etkili olabilir. UCLA'da yapılan bir çalışmada, yüksek yoğunluklu bir TMS (Transkraniyal Manyetik Uyarım) versiyonunun, depresyon için standart altı haftalık tedavi kadar etkili olabileceği bulundu. Beş gün boyunca günde beş seans alan hastalar, geleneksel zaman çizelgesindeki hastalarla karşılaştırılabilir anlamlı semptom iyileşmesi yaşadı. İlk etapta iyileşme göstermeyen bazı hastalar, haftalar sonra güçlü kazanımlar elde etti. Bulgular, daha hızlı ve daha erişilebilir bir iyileşme yoluna işaret ediyor.\n\nKaynak: Mind & Brain News -- ScienceDaily (2023)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/02/260224023103.htm",
-            "date": "2026-02-25T16:12:34.034886",
-            "timestamp": 1772035954.034897
-        },
-        {
-            "title": "Omics Dünyası Orlando'da Buluştu: AGBT Konferansının İlk Gününden Önemli Duyurular",
-            "original_title": "Omics in Orlando: A Video Report from AGBT, Day One",
-            "content": "AGBT konferansından bildiren Julianna LeMieux, Orlando'da düzenlenen etkinliğin ilk gününde yapılan önemli duyuruları değerlendirdi. Bu duyurular arasında Ultima'nın UG 200 lansmanı, Stellaromics'in Pyxa 3D platformunun tanıtımı, Illumina'nın multiomik alanındaki genişlemesi ve Complete Genomics'in gerçekleştirdiği satın alma yer alıyor.\n\nUltima'nın UG 200'ü, genetik mühendisliği ve biyoteknoloji alanında yeni bir çağın başlangıcını temsil ediyor. Bu yeni teknoloji, genetik verilerin daha hızlı ve daha ekonomik bir şekilde analiz edilmesine olanak tanıyor. Stellaromics'in Pyxa 3D platformu ise, genetik verilerin üç boyutlu olarak görselleştirilmesine imkan tanıyacak yenilikçi bir araç olarak dikkat çekiyor.\n\nIllumina'nın multiomik çözümlerini genişletme kararı, farklı omik alanlarının entegrasyonu ile daha kapsamlı ve derinlemesine analizler sunmayı amaçlıyor. Bu, araştırmacıların genetik, epigenetik, transkriptomik ve proteomik verileri bir arada kullanarak daha bütüncül bir bakış açısı geliştirmelerine yardımcı olacak.\n\nComplete Genomics'in gerçekleştirdiği satın alma ise, firmanın pazardaki konumunu güçlendirmeye yönelik stratejik bir adım olarak değerlendiriliyor. Bu hamle, özellikle yüksek verimlilik ve düşük maliyetli genetik analizler alanında rekabeti artıracak.\n\nBu önemli gelişmeler, genetik mühendisliği ve biyoteknoloji alanlarında yenilikçi çözümler arayan bilim insanları ve endüstri profesyonelleri için büyük bir heyecan yaratıyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/omics/omics-in-orlando-a-video-report-from-agbt-day-one/)",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/omics/omics-in-orlando-a-video-report-from-agbt-day-one/",
-            "date": "2026-02-25T16:12:44.428203",
-            "timestamp": 1772035964.428212
-        },
-        {
-            "title": "Teknoloji ile Suçun Sonsuz Takibi: Crime Sayısı Tanıtımı",
-            "original_title": "The Download: introducing the Crime issue",
-            "content": "Bu, dünyadaki teknoloji dünyasında neler olup bittiğine dair günlük bir doz sağlayan hafta içi bültenimiz The Download'un bugünkü sayısıdır. Tanıtıyoruz: Crime Sayısı. Teknoloji, uzun süredir suç ve onun kovuşturulması konularında bir kedi-fare oyunu haline gelmiştir. Ancak suçu yasaların önüne geçirecek şekilde hızlandıran aynı yeni teknolojiler, aynı zamanda suçu önleme ve kovuşturma çabalarını da yeniden canlandırdı. Bu sayı, suç ve teknoloji arasındaki bu karmaşık ilişkiyi keşfetmektedir. Teknolojinin suçu nasıl dönüştürdüğünü ve aynı zamanda suçu önleme ve adaleti sağlama çabalarını nasıl etkilediğini anlamak için derin bir dalış yapıyoruz. \n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/25/1133653/the-download-introducing-the-crime-issue/",
-            "date": "2026-02-25T13:25:11.799587",
-            "timestamp": 1772025911.799598
-        },
-        {
-            "title": "Dünyanın Gizli Sesleri: Doğanın Müziğini Dinleyin",
-            "original_title": "Listen to Earth’s rumbling, secret soundtrack",
-            "content": "Bir buzulun kopuşunun gürültüsü. Bir orman yangınının çıtırdayan uğultusu. Güçlü bir fırtına cephesinin kükremesi. Bunlar yaşayan Dünyanın sesleri, bu özel kürenin müziği ve bu dramatik olayların gerçek doğasına dair ipuçlarıdır. Ancak tüm bu sesler ne kadar yüksek olursa olsun, daha fazla akustik yayarlar. MIT Technology Review'de yer alan habere göre, bu sesler ve titreşimler, bilim insanlarının Dünya'nın dinamik süreçlerini daha iyi anlamalarına yardımcı oluyor. Araştırmacılar, bu doğal olayların sesini kaydederek ve analiz ederek, hem yer kabuğunun hem de atmosferin hareketleri hakkında değerli bilgiler ediniyorlar. Bu sesler, sadece estetik bir deneyim sunmakla kalmaz, aynı zamanda dünyamızın fiziksel süreçlerini daha iyi anlamamıza olanak tanır. Örneğin, buzulların kopuşları, buz tabakalarının hareketlerini ve iklim değişikliğinin etkilerini anlamada önemli veriler sağlar. Benzer şekilde, orman yangınlarının ve fırtınaların sesi, bu olayların şiddeti ve yayılma hızları hakkında bilgi verir. Bu nedenle, dünyanın seslerini dinlemek, sadece doğanın müziğini keşfetmek değil, aynı zamanda gezegenimizin sağlığını izlemek için de kritik bir araçtır.",
-            "category": "Bilim & Teknoloji",
-            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/25/1132829/listen-earths-rumbling-secret-soundtrack/",
-            "date": "2026-02-25T13:25:20.265401",
-            "timestamp": 1772025920.265409
-        },
-        {
-            "title": "Fare Beynindeki Oligodendrositlerin ve Miyelin Yoğunluğunun Yaşam Boyu Haritalanması",
-            "original_title": "Precise Locations of Oligodendrocytes, Myelin Density Mapped Across Mouse Lifespan",
-            "content": "Araştırmacılar, fare beynindeki milyonlarca oligodendrositin ve miyelin yoğunluğunun yaşam boyu haritasını çıkardı. Çalışma, miyelin içeriğinin beyin devreleri arasında nasıl değiştiğini gösterirken, oligodendrosit kaybının insanlardaki nörodejeneratif hastalıklar, öğrenme ve hafıza bozuklukları üzerindeki etkilerine dair önemli bilgiler sunuyor.\n\nBu çalışma, farelerin beyinlerinde oligodendrositlerin ve miyelin yoğunluğunun yaşa bağlı olarak nasıl değiştiğini detaylı bir şekilde ortaya koyuyor. Oligodendrositler, sinir hücrelerinin etrafını saran ve sinir sinyallerinin hızlı iletimini sağlayan miyelin kılıfının üretiminde görev alır. Bu nedenle, oligodendrositlerin ve miyelinin dağılımı ve yoğunluğu, sinir sistemi sağlığı için kritik öneme sahiptir.\n\nAraştırma sonuçları, yaşlandıkça beyinde meydana gelen değişikliklerin daha iyi anlaşılmasına yardımcı olabilir ve bu bilgilerin, özellikle nörodejeneratif hastalıkların ve öğrenme ile hafıza bozukluklarının tedavisinde yeni yaklaşımlar geliştirilmesine katkı sağlaması bekleniyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). Precise Locations of Oligodendrocytes, Myelin Density Mapped Across Mouse Lifespan. Retrieved from https://www.genengnews.com/topics/translational-medicine/precise-locations-of-oligodendrocytes-myelin-density-mapped-across-mouse-lifespan/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/precise-locations-of-oligodendrocytes-myelin-density-mapped-across-mouse-lifespan/",
-            "date": "2026-02-25T13:25:28.894387",
-            "timestamp": 1772025928.894396
         }
     ]
 }
