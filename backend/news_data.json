@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-03-02T10:00:11.201426",
+    "last_updated": "2026-03-02T13:18:28.864299",
     "daily_news": {
-        "title": "Oyun Dünyasında Yeni Beyin Yakıtı: Maden Suyu",
-        "original_title": "Is Sparkling Water The New “Brain Fuel” for Gamers?",
-        "content": "Şekerden vazgeçin. Yeni araştırmalar, gazlı suyun basit köpüğünün beyni keskin tutabileceğini ve üç saatlik e-spor seansları sırasında \"oyun hatalarını\" azaltabileceğini gösteriyor. Araştırmalar, gazlı su tüketiminin zihinsel odaklanmayı artırabileceğini ve oyuncuların performansını olumlu yönde etkileyebileceğini ortaya koyuyor. Maden suyu, şekerli içeceklerin aksine, vücudu susuz bırakmaz ve böylece uzun süreli oyun oturumları sırasında oyuncuların daha iyi konsantre olmalarına yardımcı olabilir. Bu yeni bulgular, e-spor oyuncuları için maden suyunun potansiyel bir avantajını ortaya koyuyor ve oyuncuların maden suyunu bir beyin yakıtı olarak görmeye başlamasına yol açıyor.\n\nAPA Kaynak: Neuroscience News. (2023). Is Sparkling Water The New \"Brain Fuel\" for Gamers?. Erişim adresi: https://neurosciencenews.com/sparkling-water-esports-focus-30220/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/sparkling-water-esports-focus-30220/",
-        "date": "2026-03-01T21:31:36.843726",
-        "timestamp": 1772400696.843737
+        "title": "Londra'da Dev Anti-Yapay Zeka Protestosu: 'Fişi Çekin!'",
+        "original_title": "I checked out one of the biggest anti-AI protests ever",
+        "content": "Geçtiğimiz cumartesi günü, 28 Şubat'ta Londra'nın King's Cross teknoloji merkezinde birkaç yüz kişilik bir grup, yapay zekaya karşı büyük bir protesto düzenledi. Bu bölge, OpenAI, Meta ve Google DeepMind gibi teknoloji devlerinin Birleşik Krallık merkezlerine ev sahipliği yapıyor. Protestocular, 'Fişi çekin!' ve 'Saçmalığı durdurun!' gibi sloganlar atarak ve pankartlar sallayarak yürüdüler. Yürüyüş, yapay zekanın toplumsal ve etik etkilerine dikkat çekmek amacıyla organize edildi. Katılımcılar, yapay zekanın kontrolsüz gelişiminin insanların işlerini tehdit ettiğini ve mahremiyet ihlallerine yol açabileceğini savundu. Ayrıca, yapay zeka uygulamalarının daha şeffaf ve hesap verebilir bir şekilde geliştirilmesi gerektiğini vurguladılar. Protesto sırasında, katılımcıların çeşitli yaratıcı pankartlar taşıdığı ve konuşmalar yaptığı gözlendi. Bu etkinlik, yapay zeka karşıtı hareketin artan nüfuzunu ve toplumda giderek daha fazla insanın bu konuda endişelendiğini gösteriyor.\n\nKaynak: MIT Technology Review, (2023). 'I checked out one of the biggest anti-AI protests ever'. MIT Technology Review.",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
+        "date": "2026-03-02T13:18:28.784537",
+        "timestamp": 1772457508.784547
     },
     "news_list": [
+        {
+            "title": "Londra'da Dev Anti-Yapay Zeka Protestosu: 'Fişi Çekin!'",
+            "original_title": "I checked out one of the biggest anti-AI protests ever",
+            "content": "Geçtiğimiz cumartesi günü, 28 Şubat'ta Londra'nın King's Cross teknoloji merkezinde birkaç yüz kişilik bir grup, yapay zekaya karşı büyük bir protesto düzenledi. Bu bölge, OpenAI, Meta ve Google DeepMind gibi teknoloji devlerinin Birleşik Krallık merkezlerine ev sahipliği yapıyor. Protestocular, 'Fişi çekin!' ve 'Saçmalığı durdurun!' gibi sloganlar atarak ve pankartlar sallayarak yürüdüler. Yürüyüş, yapay zekanın toplumsal ve etik etkilerine dikkat çekmek amacıyla organize edildi. Katılımcılar, yapay zekanın kontrolsüz gelişiminin insanların işlerini tehdit ettiğini ve mahremiyet ihlallerine yol açabileceğini savundu. Ayrıca, yapay zeka uygulamalarının daha şeffaf ve hesap verebilir bir şekilde geliştirilmesi gerektiğini vurguladılar. Protesto sırasında, katılımcıların çeşitli yaratıcı pankartlar taşıdığı ve konuşmalar yaptığı gözlendi. Bu etkinlik, yapay zeka karşıtı hareketin artan nüfuzunu ve toplumda giderek daha fazla insanın bu konuda endişelendiğini gösteriyor.\n\nKaynak: MIT Technology Review, (2023). 'I checked out one of the biggest anti-AI protests ever'. MIT Technology Review.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
+            "date": "2026-03-02T13:18:28.784537",
+            "timestamp": 1772457508.784547
+        },
         {
             "title": "Oyun Dünyasında Yeni Beyin Yakıtı: Maden Suyu",
             "original_title": "Is Sparkling Water The New “Brain Fuel” for Gamers?",
@@ -500,16 +510,6 @@
             "link": "https://www.technologyreview.com/2026/02/24/1132074/just-pull-a-string-to-turn-these-tile-patterns-into-useful-3d-structures/",
             "date": "2026-02-25T02:52:03.100629",
             "timestamp": 1771987923.10064
-        },
-        {
-            "title": "Göz Tembelliği İçin Retinal Yeniden Başlatma",
-            "original_title": "A retinal reboot for amblyopia",
-            "content": "Göz tembelliği olarak da bilinen ambliyopi, hayatın erken dönemlerinde bir gözdeki görme bozukluğunun, beynin görsel sistemindeki sinir bağlantılarının diğer gözü destekleyecek şekilde değişmesine yol açmasıyla ortaya çıkar. Bu durum, orijinal bozukluk düzeltilse bile ambliyopik gözün daha az işlevsel kalmasına neden olur. Mevcut müdahaleler, bebeklik ve erken çocukluk döneminden sonra etkili değildir. Bu nedenle, ambliyopi tedavisi için yeni yaklaşımlar geliştirmek önem arz etmektedir. \n\nSon araştırmalar, retina üzerinden yapılan yenilikçi bir tedavi yöntemiyle bu rahatsızlığı ele almayı hedefliyor. Bu yeni yaklaşım, hem beyin hem de göz arasındaki bağlantıları yeniden şekillendirmeye odaklanarak, ilerleyen yaşlarda da etkili olabilecek çözümler sunmayı amaçlıyor. Bu tür bir tedavi, görme sisteminin iki göz arasında daha dengeli bir işlevsellik kazanmasına yardımcı olabilir. \n\nAraştırmalar, bu yeni yöntemin potansiyel olarak daha geniş bir yaş aralığında uygulanabilir olabileceğini ve hastaların yaşam kalitesini artırabileceğini göstermektedir. Henüz deneysel aşamada olan bu tedavi, gelecekte ambliyopi için umut verici bir çözüm sunabilir. \n\nKaynak: MIT Technology Review",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/24/1132077/a-retinal-reboot-for-amblyopia/",
-            "date": "2026-02-25T02:52:12.441391",
-            "timestamp": 1771987932.441404
         }
     ]
 }
