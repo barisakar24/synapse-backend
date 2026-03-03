@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-03-03T15:54:41.037833",
+    "last_updated": "2026-03-03T21:41:46.559620",
     "daily_news": {
-        "title": "Yıldırımları Durdurma İddiasıyla Gündemde: Yangınları Önleyebilecek Girişim",
-        "original_title": "The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal",
-        "content": "Teknoloji dünyasında neler olup bittiğine dair günlük bir doz sağlayan bültenimiz The Download'un bugünkü sayısına hoş geldiniz. Bu sayıda, yıldırım çarpmalarını durdurabileceğini ve böylece yıkıcı yangınları önleyebileceğini iddia eden bir girişimi ele alıyoruz. \n\nSkyward Wildfire adındaki bu startup, yangınları başlatan yıldırım çarpmalarını durdurarak yıkıcı yangınların önüne geçebileceğini iddia ediyor. İddialarını destekleyecek somut bir kanıt henüz kamuoyuna sunulmuş değil. Ancak bu potansiyel teknoloji, özellikle iklim değişikliğinin etkileriyle mücadelede büyük bir fark yaratabilir.\n\nSkyward Wildfire, yıldırım çarpmalarını engellemeyi hedefleyen teknolojisini henüz detaylandırmış değil. Ancak, bu tür yenilikçi yaklaşımlar, özellikle orman yangınlarının artış gösterdiği ve ciddi çevresel ve ekonomik sonuçlara yol açtığı zamanlarda büyük önem taşıyor.\n\nKaynak: MIT Technology Review (APA formatında belirtilmiştir)",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/03/03/1133900/the-download-the-startup-that-says-it-can-stop-lightning-and-inside-openais-pentagon-deal/",
-        "date": "2026-03-03T15:54:40.929098",
-        "timestamp": 1772553280.929107
+        "title": "Kronik Sırt Ağrısı Dünyayı Daha Gürültülü Hale Getiriyor",
+        "original_title": "Chronic Back Pain Makes the World Sound Harsher",
+        "content": "Yeni bir araştırma, kronik sırt ağrısının beynin sesleri daha yüksek algılamasına neden olacak şekilde yeniden yapılandığını ortaya koyuyor. Ancak, özel bir terapi yöntemi ile beynin 'ses düğmesi' yeniden ayarlanabiliyor. Bu buluş, kronik ağrı çeken bireylerin çevresel sesleri daha rahatsız edici ve yüksek algılamalarının nedenlerini anlamamıza yardımcı olabilir. Araştırmacılar, beynin işitme korteksinde meydana gelen bu değişikliklerin, kronik ağrı ile baş etmede yeni tedavi yöntemlerinin geliştirilmesine kapı aralayabileceğini belirtiyorlar. \n\nAraştırmanın detaylarına göre, kronik sırt ağrısı çeken bireylerin işitme korteksinde bir tür duyarlılık artışı gözlemleniyor. Bu durum, çevresel seslerin daha yüksek ve rahatsız edici bir şekilde algılanmasına yol açıyor. Ancak, uzmanlar bu durumu yönetmek için özel terapi yöntemlerinin kullanılabileceğini öneriyor. Bu terapi, beynin işitme hassasiyetini azaltarak bireylerin yaşam kalitesini artırmayı hedefliyor.\n\nKaynak: Neuroscience News, 2023",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/chronic-pain-sound-sensitivity-30237/",
+        "date": "2026-03-03T21:41:28.523713",
+        "timestamp": 1772574088.523724
     },
     "news_list": [
+        {
+            "title": "Kronik Sırt Ağrısı Dünyayı Daha Gürültülü Hale Getiriyor",
+            "original_title": "Chronic Back Pain Makes the World Sound Harsher",
+            "content": "Yeni bir araştırma, kronik sırt ağrısının beynin sesleri daha yüksek algılamasına neden olacak şekilde yeniden yapılandığını ortaya koyuyor. Ancak, özel bir terapi yöntemi ile beynin 'ses düğmesi' yeniden ayarlanabiliyor. Bu buluş, kronik ağrı çeken bireylerin çevresel sesleri daha rahatsız edici ve yüksek algılamalarının nedenlerini anlamamıza yardımcı olabilir. Araştırmacılar, beynin işitme korteksinde meydana gelen bu değişikliklerin, kronik ağrı ile baş etmede yeni tedavi yöntemlerinin geliştirilmesine kapı aralayabileceğini belirtiyorlar. \n\nAraştırmanın detaylarına göre, kronik sırt ağrısı çeken bireylerin işitme korteksinde bir tür duyarlılık artışı gözlemleniyor. Bu durum, çevresel seslerin daha yüksek ve rahatsız edici bir şekilde algılanmasına yol açıyor. Ancak, uzmanlar bu durumu yönetmek için özel terapi yöntemlerinin kullanılabileceğini öneriyor. Bu terapi, beynin işitme hassasiyetini azaltarak bireylerin yaşam kalitesini artırmayı hedefliyor.\n\nKaynak: Neuroscience News, 2023",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/chronic-pain-sound-sensitivity-30237/",
+            "date": "2026-03-03T21:41:28.523713",
+            "timestamp": 1772574088.523724
+        },
+        {
+            "title": "Derin Uykuda Beyin ve Nefes Neden Ayrı Yollara Gider?",
+            "original_title": "Why the Brain and Breath Part Ways During Heavy Slumber",
+            "content": "Yeni araştırmalar, en derin non-REM uykusu sırasında beyin sinir ritimlerinin nefes almadan bağımsız hale geldiğini ortaya koyuyor. Bu keşif, Parkinson hastalığı için yeni tedavi yöntemlerinin kapılarını aralayabilir. Çalışma, derin uyku sırasında beynin belirli bölgelerinin solunum ritminden nasıl bağımsız hareket ettiğine odaklanıyor. Bu bağımsızlık, beyin ve solunum arasındaki bağlantının, özellikle de Parkinson gibi nörolojik bozukluklarda nasıl etkilendiğini daha iyi anlamamıza yardımcı olabilir. Araştırmacılar, bu bulguların, beyindeki sinir devrelerinin solunum üzerindeki etkilerini inceleyerek, Parkinson hastalığı için potansiyel yeni tedavi yolları geliştirmelerine olanak tanıyabileceğini belirtiyorlar. \n\nKaynak: Neuroscience News (2023). Why the Brain and Breath Part Ways During Heavy Slumber. https://neurosciencenews.com/sleep-brain-breathing-decoupling-30236/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/sleep-brain-breathing-decoupling-30236/",
+            "date": "2026-03-03T21:41:33.599177",
+            "timestamp": 1772574093.599185
+        },
+        {
+            "title": "Zeka Beynin Tüm Ağlarının İşbirliğiyle Ortaya Çıkıyor",
+            "original_title": "Intelligence emerges when the whole brain works as one",
+            "content": "On yıllardır bilim insanları, dikkat, hafıza, dil ve mantığı ayrı beyin ağlarına haritalamışlardı. Ancak büyük bir gizem devam ediyordu: Zihin neden tek, birleşik bir sistem gibi hissediliyor? Notre Dame Üniversitesi'ndeki araştırmacılar şimdi zekanın tek bir 'zeki' beyin bölgesinde yaşamadığını öne sürüyor. Bunun yerine zeka, beynin birçok ağının ne kadar verimli ve esnek bir şekilde iletişim kurduğu ve birbirleriyle koordine olduğundan kaynaklanıyor.\n\nBu yeni araştırma, zekanın beynin farklı bölgelerinin nasıl birlikte çalıştığına dair yeni bir anlayış sunuyor. Beyindeki farklı ağlar arasında daha iyi bir koordinasyon, daha yüksek bir zeka seviyesine işaret ediyor olabilir. Bu bulgular, zeka ile ilgili geleneksel düşünceyi değiştirebilir ve zekanın nasıl geliştirilebileceği konusunda yeni yollar açabilir.\n\nNotre Dame Üniversitesi'ndeki ekip, beynin çeşitli bölgelerinin bir orkestranın farklı enstrümanları gibi uyum içinde çalıştığını ve bu uyumun zeka dediğimiz şeyi oluşturduğunu belirtiyor. Bu, beyin araştırmaları ve nörobilim alanında yeni bir paradigmaya işaret ediyor.\n\nBu bulgular, beyin fonksiyonlarının daha iyi anlaşılması ve gelecekte zekanın geliştirilmesi için yeni yaklaşımlar geliştirilmesi açısından son derece önemlidir.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260303050632.htm",
+            "date": "2026-03-03T21:41:42.479838",
+            "timestamp": 1772574102.479848
+        },
+        {
+            "title": "MIT Technology Review İçerik Paneli: Teknolojinin Geleceğine Dair İçgörüler",
+            "original_title": "MIT Technology Review Insiders Panel",
+            "content": "MIT Technology Review Insiders Panel, teknoloji dünyasının önde gelen isimlerini ve düşünce liderlerini bir araya getirerek, gelecekteki teknolojik gelişmeler ve trendler hakkında derinlemesine tartışmalar sunuyor. Bu panelde, yapay zeka, makine öğrenimi, veri analitiği ve dijital dönüşüm gibi konular ele alınıyor. Katılımcılar, bu alanlardaki en son yenilikleri ve bu yeniliklerin iş dünyası, toplum ve bireyler üzerindeki etkilerini değerlendiriyor. Panelde, teknolojinin etik boyutları, gizlilik endişeleri ve sürdürülebilirlik gibi önemli konular da gündeme getiriliyor. Etkinlik, katılımcılarına teknoloji odaklı stratejik kararlar alırken daha bilinçli olmaları için gerekli bilgi ve perspektifi sağlamayı amaçlıyor. Bu tür etkinlikler, teknoloji meraklıları ve profesyonelleri için kaçırılmayacak fırsatlar sunuyor.\n\nKaynakça: MIT Technology Review. (2023). MIT Technology Review Insiders Panel. Retrieved from www.technologyreview.com",
+            "category": "Bilim & Teknoloji",
+            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/03/1133907/mit-technology-review-insiders-panel-2/",
+            "date": "2026-03-03T21:41:46.397476",
+            "timestamp": 1772574106.397485
+        },
         {
             "title": "Yıldırımları Durdurma İddiasıyla Gündemde: Yangınları Önleyebilecek Girişim",
             "original_title": "The Download: The startup that says it can stop lightning, and inside OpenAI’s Pentagon deal",
@@ -470,46 +510,6 @@
             "link": "https://www.genengnews.com/topics/cancer/astellas-vir-biotechnology-launch-up-to-1-7b-prostate-cancer-collaboration/",
             "date": "2026-02-26T02:47:22.735383",
             "timestamp": 1772074042.735392
-        },
-        {
-            "title": "Dikkat Dağınıklığının Suçlusu: Beynin Aşırı Aktif Ritimleri",
-            "original_title": "Overactive Brain Rhythms May Be to Blame for Distractibility",
-            "content": "Bilim insanları, beynin dikkatini saniyede 10 kez \"yanıp söndüren\" bir yapıya sahip olduğunu keşfetti. Bu durum, evrimsel bir özellik olarak dikkat çekse de, modern çağın odaklanma gereksinimleri karşısında zorluk yaratıyor. Araştırmalara göre, beynin bu ritmik çalışma şekli, dikkatin kolayca dağılmasına neden olabiliyor. Beyin dalgalarının bu aşırı aktif yapısı, dikkat dağınıklığının altında yatan sebeplerden biri olarak gösteriliyor. Bu durum, günlük yaşamda dikkatinizi toplamakta neden zorlandığınızı açıklayabilir. \n\nKaynak: Neuroscience News. (2023). Overactive Brain Rhythms May Be to Blame for Distractibility. Erişim adresi: https://neurosciencenews.com/brain-rhythms-attention-distraction-30195/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/brain-rhythms-attention-distraction-30195/",
-            "date": "2026-02-25T21:42:46.494617",
-            "timestamp": 1772055766.494628
-        },
-        {
-            "title": "Rett Sendromunda Aşırı Aktif MikroRNA Beyin Sızıntısına Neden Oluyor",
-            "original_title": "Overactive MicroRNA Triggers Leaky Brain in Rett Syndrome",
-            "content": "Bilim insanları, sadece nöronların değil, aynı zamanda Rett sendromunun beynin 'tesisatını' sızdırdığını ve kan-beyin bariyerini bozarak sinirsel aktiviteyi ele geçirdiğini keşfettiler. Rett sendromu, genellikle kız çocuklarında görülen nörogelişimsel bir bozukluktur ve genellikle ciddi zihinsel ve fiziksel engellere yol açar. Son araştırmalar, bu sendromun etkilerini daha iyi anlamamıza yardımcı olacak yeni bir mekanizmayı ortaya koyuyor.\n\nAraştırmacılar, Rett sendromunda belirli bir mikroRNA'nın aşırı aktif hale gelerek kan-beyin bariyerinde sızıntılara yol açtığını buldular. Kan-beyin bariyeri, beyindeki sinir hücrelerini koruyan kritik bir yapıdır ve bu bariyerin bozulması, beyindeki nörolojik fonksiyonları olumsuz etkileyebilir. Bu durum, hem hastalığın belirtilerini ağırlaştırabilir hem de tedavi yöntemlerini zorlaştırabilir.\n\nBu bulgular, Rett sendromunun tedavisinde yeni stratejilerin geliştirilmesine olanak sağlayabilir. Özellikle mikroRNA'nın aktivitesinin düzenlenmesi, kan-beyin bariyerinin korunmasına yardımcı olabilir ve böylece hastalığın etkileri hafifletilebilir. Bu tür araştırmalar, nörogelişimsel bozuklukların altında yatan karmaşık biyolojik süreçlerin daha iyi anlaşılmasına katkıda bulunmaktadır.\n\nAraştırma, beynin yapısal ve işlevsel bütünlüğünün korunmasının, nörolojik hastalıkların tedavisinde ne kadar önemli olduğunu bir kez daha göstermiştir. Gelecekte yapılacak çalışmalar, bu mekanizmaların daha detaylı olarak incelenmesine ve potansiyel tedavi hedeflerinin belirlenmesine yardımcı olabilir.\n\nKaynak: Neuroscience News (2023). Overactive MicroRNA Triggers Leaky Brain in Rett Syndrome. https://neurosciencenews.com/rett-syndrome-leaky-brain-vascular-30194/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/rett-syndrome-leaky-brain-vascular-30194/",
-            "date": "2026-02-25T21:42:58.383830",
-            "timestamp": 1772055778.38384
-        },
-        {
-            "title": "2026'da Sodyum-İyon Piller Neden Öne Çıkacak?",
-            "original_title": "Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries",
-            "content": "Sodyum bazlı piller, lityum-iyon pillerine kıyasla daha ucuz ve daha güvenli bir alternatif olarak öne çıkıyor ve teknoloji nihayet araçlara ve şebeke üzerindeki enerji depolama sistemlerine entegre ediliyor. Sodyum-iyon piller, MIT Technology Review'un 2026'nın 10 Çığır Açan Teknolojisi listesinde yer almakta ve bu özel oturum, neden bu kadar önemli olduklarını açıklıyor. Sodyum-iyon pillerin maliyet avantajı, daha geniş bulunabilirlik ve çevresel etkiler gibi konular tartışılıyor. Ayrıca, bu pillerin elektrikli araçlar ve enerji depolama sistemlerinde nasıl kullanılabileceği ve bu alandaki son gelişmeler ele alınıyor. \n\nKaynakça: MIT Technology Review. (2023). Roundtables: Why 2026 Is the Year for Sodium-Ion Batteries. Erişim adresi: https://www.technologyreview.com/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/25/1132873/roundtables-why-2026-is-the-year-for-sodium-ion-batteries/",
-            "date": "2026-02-25T21:43:03.801245",
-            "timestamp": 1772055783.801254
-        },
-        {
-            "title": "ADMET Tahminleri Yapay Zeka Desteğiyle Gelişiyor: İlaç Sektöründe Federatif Veri Ağı Birliği",
-            "original_title": "ADMET Predictions Get AI Boost, Federated Data Network Unites Pharma",
-            "content": "Apheris'in ADMET Ağı, gizliliği koruyan bir ortamda özel veri setlerini birleştirerek yapay zeka destekli ilaç keşif modellerini hızlandırmayı hedefliyor. Kurucu büyük ilaç firmaları, ilgili verilerinin %80'ini küresel bir ADMET temel modelini eğitmek için ayırarak tüm ortakların erişimine açmaya taahhüt etti. Bu yaklaşım, ilaç geliştirme süreçlerini hızlandırmayı ve daha etkili tedavilerin bulunmasını sağlamayı amaçlıyor. \n\nApheris'in yenilikçi yaklaşımı, veri gizliliğini korurken, iş birliği yaparak ilaç keşfi sürecini daha etkin hale getirmeyi hedefliyor. Federatif veri ağı, ortakların kendi veri setlerini merkezileştirmeden, gizlilik endişelerini bertaraf ederek paylaşmalarına olanak tanıyor. Bu sayede, yapay zeka modelleri daha geniş ve çeşitli veriyle eğitilerek, ilaçların ADMET (Absorpsiyon, Dağılım, Metabolizma, Eliminasyon ve Toksisite) profillerinin daha doğru tahmin edilmesi sağlanacak. \n\nBu gelişme, ilaç keşif süreçlerinde kritik bir adım olarak değerlendiriliyor ve ilaç firmaları arasındaki iş birliğinin artmasını sağlaması bekleniyor. Apheris'in federatif veri ağı, ilaç endüstrisinde daha hızlı ve güvenli bir şekilde yenilikçi çözümler geliştirilmesine olanak tanıyacak.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). ADMET Predictions Get AI Boost, Federated Data Network Unites Pharma. URL: https://www.genengnews.com/topics/artificial-intelligence/admet-predictions-get-ai-boost-federated-data-network-unites-pharma/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/artificial-intelligence/admet-predictions-get-ai-boost-federated-data-network-unites-pharma/",
-            "date": "2026-02-25T21:43:11.967637",
-            "timestamp": 1772055791.967646
         }
     ]
 }
