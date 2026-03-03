@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-03-03T09:54:44.481367",
+    "last_updated": "2026-03-03T13:16:34.526744",
     "daily_news": {
-        "title": "Evsel İçme Suyu Parkinson Riskini Etkileyebilir",
-        "original_title": "Home Drinking Water May Impact Parkinson’s Risk",
-        "content": "Yeni araştırmalar, modern ve sığ yeraltı suyu sistemlerinden elde edilen içme suyunun, Parkinson hastalığı riskini önemli ölçüde artırdığını ortaya koyuyor. Parkinson hastalığı, merkezi sinir sistemini etkileyen ve genellikle hareket sorunları ile kendini gösteren bir nörolojik hastalıktır. Bu hastalığın nedenleri tam olarak bilinmemekle birlikte, genetik ve çevresel faktörlerin bir kombinasyonu olduğuna inanılmaktadır.\n\nÇalışmanın bulguları, özellikle modern sığ yeraltı suyu sistemlerinden sağlanan içme suyunun, Parkinson hastalığı ile ilişkili olduğunu göstermektedir. Bu tür su kaynakları, genellikle günümüzün çevresel kirleticilerine daha fazla maruz kalmakta ve bu kirleticiler suya karışarak tüketici sağlığını olumsuz etkileyebilmektedir.\n\nAraştırmacılar, Parkinson hastalığı riskini azaltmak için daha derin su kaynağı sistemlerinin kullanılmasını önermektedir. Derin yeraltı suları, kirleticilere karşı daha iyi koruma sağlayabilir ve dolayısıyla daha güvenli bir içme suyu kaynağı sunabilir.\n\nBu bulgular, içme suyu kaynaklarının değerlendirilmesi ve yönetimi konusunda yeni yaklaşımlar geliştirilmesi gerektiğini vurgulamaktadır. Suyun kalitesi, yalnızca sağlık açısından değil, aynı zamanda toplum sağlığı politikalarının şekillendirilmesi açısından da büyük önem taşımaktadır.\n\nKaynakça:\nNeuroscience News. (2023). Home Drinking Water May Impact Parkinson’s Risk. Erişim adresi: https://neurosciencenews.com/groundwater-age-parkinsons-risk-30229/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/groundwater-age-parkinsons-risk-30229/",
-        "date": "2026-03-03T02:50:56.394685",
-        "timestamp": 1772506256.394694
+        "title": "Bu Girişim, Yıldırımları Durdurup Felaket Yangınları Önleyebileceğini İddia Ediyor",
+        "original_title": "This startup claims it can stop lightning and prevent catastrophic wildfires",
+        "content": "1 Haziran 2023'te, Quebec'te kavurucu bir sıcak hava dalgası etkisini gösterirken, eyalet genelinde binlerce yıldırım çaktı ve 120'den fazla orman yangınına neden oldu. Yangınlar, kurumuş ormanlar ve kurumuş çayırlarda haftalarca sürdü ve hızla Kanada'nın kaydedilen en kötü yangın yılına dönüşen durumu daha da kötüleştirdi. Sonunda, neredeyse 7,000&#8230;\n\nKaynak: MIT Technology Review, 2023",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/",
+        "date": "2026-03-03T13:16:34.346114",
+        "timestamp": 1772543794.346123
     },
     "news_list": [
+        {
+            "title": "Bu Girişim, Yıldırımları Durdurup Felaket Yangınları Önleyebileceğini İddia Ediyor",
+            "original_title": "This startup claims it can stop lightning and prevent catastrophic wildfires",
+            "content": "1 Haziran 2023'te, Quebec'te kavurucu bir sıcak hava dalgası etkisini gösterirken, eyalet genelinde binlerce yıldırım çaktı ve 120'den fazla orman yangınına neden oldu. Yangınlar, kurumuş ormanlar ve kurumuş çayırlarda haftalarca sürdü ve hızla Kanada'nın kaydedilen en kötü yangın yılına dönüşen durumu daha da kötüleştirdi. Sonunda, neredeyse 7,000&#8230;\n\nKaynak: MIT Technology Review, 2023",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/03/1133848/this-startup-claims-it-can-stop-lightning-and-prevent-catastrophic-wildfires/",
+            "date": "2026-03-03T13:16:34.346114",
+            "timestamp": 1772543794.346123
+        },
         {
             "title": "Evsel İçme Suyu Parkinson Riskini Etkileyebilir",
             "original_title": "Home Drinking Water May Impact Parkinson’s Risk",
@@ -500,16 +510,6 @@
             "link": "https://neurosciencenews.com/covid-flu-brain-fog-inflammation-30192/",
             "date": "2026-02-25T19:16:25.794815",
             "timestamp": 1772046985.794826
-        },
-        {
-            "title": "Yapay Zekanın Zorlu Sınavı: 'İnsanlığın Son Sınavı'nda Başarısızlık",
-            "original_title": "“Humanity’s Last Exam”: The Super-Benchmark AI Is Currently Failing",
-            "content": "Yapay zeka (YZ), eski testlerini geride bırakarak daha zorlu meydan okumalar için hazırlanıyor. Bu bağlamda bilim insanları, dünyanın en iyi YZ modellerinin tek haneli puanlar aldığı son derece zorlu bir sınav olan 'İnsanlığın Son Sınavı'nı tanıttılar. Geleneksel YZ testlerinin ötesine geçerek YZ'nin sınırlarını keşfetmek amacıyla tasarlanan bu yeni benchmark, insan zekasına benzer bir düşünme yeteneği ve problem çözme becerisi gerektiriyor.\n\nBilim insanları, YZ teknolojisinin gelişimiyle birlikte mevcut testlerin artık yeterli olmadığını ve yeni bir değerlendirme standardına ihtiyaç duyulduğunu belirtiyorlar. 'İnsanlığın Son Sınavı', YZ'nin daha karmaşık ve nüanslı problemleri çözebilme kapasitesini ölçmeyi hedefliyor. Bu yeni sınav, YZ araştırmacılarına ve geliştiricilerine, modellerini daha da geliştirmeleri ve insan benzeri zekaya daha yakın bir seviyeye getirmeleri için önemli bir fırsat sunuyor.\n\nYapay zekanın bu zorlu sınavda şu anda düşük puanlar alması, teknolojiye olan güveni sarsmaktan ziyade, araştırmacıları daha ileriye taşıyan bir motivasyon olarak görülüyor. Uzmanlar, bu yeni benchmark sayesinde YZ'nin daha önce keşfedilmemiş potansiyelinin ortaya çıkabileceğini ve gelecekteki uygulamaların daha kapsamlı bir şekilde şekillendirilebileceğini umuyorlar.\n\nKaynakça:\nNeuroscience News. (2023). 'Humanity’s Last Exam': The Super-Benchmark AI Is Currently Failing. https://neurosciencenews.com/humanity-last-exam-ai-benchmark-30191/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/humanity-last-exam-ai-benchmark-30191/",
-            "date": "2026-02-25T19:16:35.842810",
-            "timestamp": 1772046995.842818
         }
     ]
 }
