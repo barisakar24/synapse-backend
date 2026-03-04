@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-03-04T13:15:50.669927",
+    "last_updated": "2026-03-04T15:53:55.326878",
     "daily_news": {
-        "title": "Alzheimer'a Karşı Beynin Gizli Savunma Sistemi Keşfedildi",
-        "original_title": "Scientists just found the brain’s hidden defense against Alzheimer’s",
-        "content": "Yeni bir çalışma, bazı beyin hücrelerinin Alzheimer hasarına neden diğerlerinden daha dirençli olduğunu ortaya çıkardı. Araştırmacılar, zararlı kümeler oluşturmadan önce toksik tau proteinini temizlemeye yardımcı olan doğal bir temizleme sistemi buldular. Çalışma ayrıca hücresel stresin, Alzheimer ile bağlantılı tehlikeli bir tau parçası üretebileceğini gösteriyor. Beynin doğal savunmalarını güçlendirmek, yeni tedavilere giden yolu açabilir. \n\nKaynak: Mind & Brain News -- ScienceDaily.",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260303145730.htm",
-        "date": "2026-03-04T02:43:31.542161",
-        "timestamp": 1772592211.542172
+        "title": "Yapay Zeka Uygulamalarında Operasyonel Boşluk Kapanıyor",
+        "original_title": "Bridging the operational AI gap",
+        "content": "Yapay zekanın (YZ) dönüştürücü potansiyeli zaten iyi bir şekilde kabul edilmiş durumda. Kurumsal kullanım senaryoları hız kazanıyor ve organizasyonlar pilot projelerden YZ'yi üretime geçirmeye doğru ilerliyor. Şirketler artık sadece YZ hakkında konuşmuyor; bütçelerini ve kaynaklarını harekete geçirmek için yönlendiriyorlar. Birçoğu, yeni seviyeler vaat eden ajanlık YZ ile deneyler yapmaya başladı. Bu, işletmelerin nasıl çalıştığını, karar aldığı süreçleri ve müşteri etkileşimlerini kökten değiştirme potansiyeline sahip. Gelişmeler, sadece YZ'nin benimsenmesiyle sınırlı kalmayıp, aynı zamanda bu teknolojilerin operasyonel süreçlere entegrasyonunu da kapsıyor. Bu, işletmelerin daha verimli, esnek ve yenilikçi olmalarına yardımcı olabilir. Ancak, YZ'nin üretime entegrasyonu, teknik zorlukların yanı sıra organizasyonel değişim gereksinimlerini de beraberinde getiriyor. Şirketler, bu yeni teknolojileri başarılı bir şekilde uygulamak için hem altyapılarını hem de çalışan becerilerini geliştirmek zorundalar. YZ'nin operasyonel süreçlere entegrasyonu, şirketlerin rekabet avantajını artırmasına ve piyasa dinamiklerine daha hızlı yanıt vermesine olanak tanıyabilir.\n\nKaynak: MIT Technology Review. (2023). Bridging the operational AI gap. https://www.technologyreview.com/",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
+        "date": "2026-03-04T15:53:41.632742",
+        "timestamp": 1772639621.632749
     },
     "news_list": [
+        {
+            "title": "Beyin Boyutu, Makak Toplumlarındaki Dostluğu Tahmin Ediyor",
+            "original_title": "Brain Size Predicts Friendliness in Macaque Societies",
+            "content": "Yeni araştırmalar, primatlarda sosyal toleransın daha büyük bir amigdala ile bağlantılı olduğunu ortaya koyuyor. Amigdala, karmaşık sosyal ağları yönetmeye yardımcı olan bir beyin bölgesidir. Bu bulgu, makak maymunlarının sosyal yapılarında daha büyük beyinlerin, özellikle de amigdalalarının, topluluk içindeki dostça etkileşimleri nasıl artırdığına dair yeni anlayışlar sunuyor. Çalışma, makakların sosyal davranışlarını ve bu davranışların beynin belirli bölgeleriyle olan ilişkisini inceleyerek, sosyal tolerans ve beyin yapısı arasındaki bağlantıyı derinlemesine araştırıyor.\n\nAraştırma, özellikle sosyal ağlarda daha fazla tolerans gösteren makakların, daha büyük amigdalalara sahip olduklarını gösteriyor. Amigdalanın, sosyal bilgi işlemeyi ve duygusal tepkileri düzenlemekte önemli bir rol oynadığı biliniyor. Bu durum, sosyal bağların sürdürülmesinde ve topluluk içindeki bireyler arasındaki ilişkilerin güçlendirilmesinde önemli bir etken olabilir.\n\nBu bulgular, sosyal yapılar ve beyin gelişimi arasındaki karmaşık ilişkileri anlamamızda yeni perspektifler sunuyor. Ayrıca, primatların sosyal davranışlarının evrimini anlamak için de önemli ipuçları sağlıyor. Araştırma, sosyal davranışların, yalnızca çevresel faktörlere değil, aynı zamanda biyolojik yapı ve işlevlere de bağlı olduğunu öne sürüyor.\n\nKaynak: Neuroscience News, \"Brain Size Predicts Friendliness in Macaque Societies\", https://neurosciencenews.com/social-tolerance-amygdala-30238/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/social-tolerance-amygdala-30238/",
+            "date": "2026-03-04T15:53:27.279093",
+            "timestamp": 1772639607.279104
+        },
+        {
+            "title": "Yapay Zeka Uygulamalarında Operasyonel Boşluk Kapanıyor",
+            "original_title": "Bridging the operational AI gap",
+            "content": "Yapay zekanın (YZ) dönüştürücü potansiyeli zaten iyi bir şekilde kabul edilmiş durumda. Kurumsal kullanım senaryoları hız kazanıyor ve organizasyonlar pilot projelerden YZ'yi üretime geçirmeye doğru ilerliyor. Şirketler artık sadece YZ hakkında konuşmuyor; bütçelerini ve kaynaklarını harekete geçirmek için yönlendiriyorlar. Birçoğu, yeni seviyeler vaat eden ajanlık YZ ile deneyler yapmaya başladı. Bu, işletmelerin nasıl çalıştığını, karar aldığı süreçleri ve müşteri etkileşimlerini kökten değiştirme potansiyeline sahip. Gelişmeler, sadece YZ'nin benimsenmesiyle sınırlı kalmayıp, aynı zamanda bu teknolojilerin operasyonel süreçlere entegrasyonunu da kapsıyor. Bu, işletmelerin daha verimli, esnek ve yenilikçi olmalarına yardımcı olabilir. Ancak, YZ'nin üretime entegrasyonu, teknik zorlukların yanı sıra organizasyonel değişim gereksinimlerini de beraberinde getiriyor. Şirketler, bu yeni teknolojileri başarılı bir şekilde uygulamak için hem altyapılarını hem de çalışan becerilerini geliştirmek zorundalar. YZ'nin operasyonel süreçlere entegrasyonu, şirketlerin rekabet avantajını artırmasına ve piyasa dinamiklerine daha hızlı yanıt vermesine olanak tanıyabilir.\n\nKaynak: MIT Technology Review. (2023). Bridging the operational AI gap. https://www.technologyreview.com/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/04/1133642/bridging-the-operational-ai-gap/",
+            "date": "2026-03-04T15:53:41.632742",
+            "timestamp": 1772639621.632749
+        },
+        {
+            "title": "Dünyanın Gizli Müziği: Doğanın Sesleri ve İran'a Yapay Zeka Destekli Saldırı Planları",
+            "original_title": "The Download: Earth’s rumblings, and AI for strikes on Iran",
+            "content": "MIT Technology Review'un günlük bülteni The Download'un bugünkü sayısında, teknolojinin dünyasında neler olduğuna dair bir günlük bilgi dozu sunuluyor. Bu sayıda, dünyanın gizli müziği olarak adlandırılan doğanın sesleri ve İran'a yönelik yapay zeka destekli saldırı planları ele alınıyor.\n\nDünyanın gizli müziği, bir buzulun kopuşuyla oluşan gürültü, bir orman yangınının çatırdayan sesi ve yaklaşan bir fırtına cephesinin kükremesi gibi doğanın seslerini kapsıyor. Bu sesler, dünyanın yaşayan bir varlık olduğuna dair bize ipuçları sunuyor. Doğanın bu sesleri, bilim insanları için önemli veriler sağlarken, aynı zamanda insanların çevreye olan duyarlılığını artırıyor.\n\nÖte yandan, yapay zeka teknolojisi, İran'a yönelik askeri stratejilerin geliştirilmesinde kilit bir rol oynuyor. Yapay zeka, hedef belirleme ve saldırı planlarını optimize etme konularında önemli bir araç haline geldi. Bu teknolojinin askeri alanda kullanımı, etik ve güvenlik kaygılarını da beraberinde getiriyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/04/1133942/the-download-earths-rumblings-and-ai-for-strikes-on-iran/",
+            "date": "2026-03-04T15:53:55.153279",
+            "timestamp": 1772639635.153287
+        },
         {
             "title": "Alzheimer'a Karşı Beynin Gizli Savunma Sistemi Keşfedildi",
             "original_title": "Scientists just found the brain’s hidden defense against Alzheimer’s",
@@ -480,36 +510,6 @@
             "link": "https://www.technologyreview.com/2026/02/26/1133722/solid-state-batteries-donut-lab/",
             "date": "2026-02-26T13:26:21.163901",
             "timestamp": 1772112381.16391
-        },
-        {
-            "title": "Sigara İçmenin Parkinson Riskini Azaltırken Ölüm Oranını Artırdığı Keşfedildi",
-            "original_title": "Smoking Linked to Lower Parkinson’s Risk but Higher Mortality",
-            "content": "Yeni bir araştırmaya göre, sigara içmenin Parkinson hastalığı riskini azaltabileceği ancak sigarayı bırakmanın genel ölüm riskini azaltmanın tek yolu olduğu bulundu. Sigara içen bireylerin Parkinson hastalığına yakalanma olasılıkları daha düşük olabilir, ancak bu durum sigara içmenin ölümcül etkilerini ortadan kaldırmıyor.\n\nAraştırmacılar, sigara içmenin bazı nörolojik faydalar sağlayabileceğini, ancak sigarayı bırakmanın uzun vadede sağlık için daha iyi bir seçenek olduğunu belirtiyorlar. Sigara içmenin çeşitli sağlık sorunlarına yol açtığı ve yaşam beklentisini kısalttığı uzun süredir bilinmektedir. Sigara içen bireylerde kanser, kalp hastalıkları ve solunum yolu hastalıkları gibi ciddi sağlık sorunları daha sık görülmektedir.\n\nParkinson hastalığı, beyin hücrelerinin dejenerasyonu sonucu ortaya çıkan ve motor becerilerde bozulmaya yol açan bir nörolojik hastalıktır. Araştırmalar, sigara içen bireylerde Parkinson hastalığı riskinin azaldığını öne sürse de, bu durum sigarayı bırakmanın önemini azaltmamaktadır.\n\nSonuç olarak, sigara içmenin bazı nörolojik koruyucu etkileri olsa da, genel sağlık ve yaşam süresi üzerindeki olumsuz etkileri göz önünde bulundurulduğunda, sigarayı bırakmak en iyi seçenektir.\n\nKaynak: Neuroscience News. (2026). Smoking Linked to Lower Parkinson’s Risk but Higher Mortality. https://neurosciencenews.com/smoking-parkinsons-mortality-30198/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/smoking-parkinsons-mortality-30198/",
-            "date": "2026-02-26T02:47:03.324019",
-            "timestamp": 1772074023.324031
-        },
-        {
-            "title": "RNA Gözetim Sistemi: Beynin Haritasını Çıkarıyor",
-            "original_title": "RNA Cleanup System Maps the Brain",
-            "content": "Bilim insanları, nöronların doğru katmanlara ulaşarak işlevsel bir beyin inşa etmelerini sağlayan bir RNA 'gözetim sistemi'ni tanımladılar. Bu sistem, nöronlar için bir tür GPS görevi görerek, beyin haritasının oluşturulmasında kritik bir rol oynuyor. RNA temizleme sisteminin beyin katmanlarının oluşumunu nasıl yönlendirdiğini ve bunun nörolojik gelişim üzerindeki etkilerini keşfetmek, beyin araştırmalarında yeni ufuklar açabilir. \n\nÖzellikle, nöronal göçün nasıl yönlendirildiğini anlamak, beyin gelişimi ile ilgili birçok sorunun cevabını bulmak için önemli bir adım olabilir. Bu bulgular, nörolojik hastalıkların daha iyi anlaşılması ve yeni tedavi yöntemlerinin geliştirilmesi için de umut vaat ediyor.\n\nKaynak: Neuroscience News (https://neurosciencenews.com/nmd-neuronal-migration-brain-layers-30197/)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/nmd-neuronal-migration-brain-layers-30197/",
-            "date": "2026-02-26T02:47:07.957576",
-            "timestamp": 1772074027.957584
-        },
-        {
-            "title": "Hastalığa Yatkınlığı ve Sağlık Özelliklerini Etkileyen Genetik Varyantlar Belirlendi",
-            "original_title": "Key Genetic Variants That Influence Disease Risk, Human Health Traits Identified",
-            "content": "Araştırmacılar, farklı hücre tiplerinde 220.000'den fazla DNA varyantını test etmek için yoğun bir paralel raporlayıcı deney kullanarak, belirli genetik değişikliklerin hücrelerde nasıl işlev gördüğünü ve bunların hastalık riskini ve insan sağlığı özelliklerini nasıl etkilediğini belirledi. Bu çalışma, genetik varyantların hücre fonksiyonlarına olan etkilerini daha iyi anlamamıza yardımcı olabilir ve potansiyel olarak kişisel sağlık stratejilerinin geliştirilmesine katkıda bulunabilir.\n\nAraştırmada kullanılan yoğun paralel raporlayıcı deney yöntemi, genetik varyantların hücresel düzeyde nasıl işlev gördüğünü hızlı ve kapsamlı bir şekilde değerlendirmemizi sağladı. Bu yöntem sayesinde, genetik değişikliklerin hastalık riskine ve sağlık özelliklerine olan etkileri daha ayrıntılı bir şekilde incelenebildi.\n\nBu araştırmanın bulguları, genetik mühendisliği ve biyoteknoloji alanında önemli bir adım olarak kabul ediliyor ve gelecekteki genetik araştırmalar için bir temel oluşturuyor. Özellikle hastalıklara yatkınlığı etkileyen genetik varyantların belirlenmesi, kişiselleştirilmiş tıp uygulamalarında kullanılabilecek yeni yollar açabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Key Genetic Variants That Influence Disease Risk, Human Health Traits Identified. https://www.genengnews.com/topics/omics/key-genetic-variants-that-influence-disease-risk-human-health-traits-identified/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/omics/key-genetic-variants-that-influence-disease-risk-human-health-traits-identified/",
-            "date": "2026-02-26T02:47:14.828288",
-            "timestamp": 1772074034.828297
         }
     ]
 }
