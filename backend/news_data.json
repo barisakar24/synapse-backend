@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-05T09:55:37.833748",
+    "last_updated": "2026-03-05T13:19:37.920765",
     "daily_news": {
-        "title": "Nadir Görülen Epilepsi Türü İçin Yeni İlaç Umut Vaad Ediyor",
-        "original_title": "New drug cuts seizures by up to 91% in children with rare epilepsy",
-        "content": "Yeni bir deneysel ilaç, Dravet sendromu yaşayan çocuklar için olağanüstü umut vaat ediyor. Dravet sendromu, genetik kaynaklı ciddi bir epilepsi türüdür. Klinik deneylerde, zorevunersen adlı tedavi, nöbetleri %91'e kadar azaltırken birçok hastanın yaşam kalitesini de artırdı. Bu tedavi, sinir hücrelerinin sinyalleşmesinde rol oynayan önemli bir genin fonksiyonunu artırarak etkisini gösteriyor. Cesaret verici sonuçlar, araştırmacıları daha geniş kapsamlı bir Faz 3 denemesi başlatmaya yönlendirdi.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-        "category": "Psikoloji",
-        "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260304184215.htm",
-        "date": "2026-03-05T07:04:00.359076",
-        "timestamp": 1772694240.359087
+        "title": "Yapay Zeka Çağında Çevrimiçi Taciz: Matplotlib'in Karşılaştığı Zorluklar",
+        "original_title": "Online harassment is entering its AI era",
+        "content": "Scott Shambaugh, yönettiği yazılım kütüphanesi matplotlib'e bir AI ajanının katkıda bulunma isteğini reddettiğinde pek düşünmeden hareket etti. Çoğu açık kaynak projesinde olduğu gibi, matplotlib de AI tarafından oluşturulan kod katkılarıyla dolup taşıyor ve bu nedenle Shambaugh ve diğer yöneticiler, AI tarafından yazılan tüm kodların belirli bir politikaya uymasını şart koşan bir uygulama başlattılar. Bu durum, çevrimiçi tacizin yapay zeka çağında nasıl yeni bir boyut kazandığını gözler önüne seriyor.\n\nAçık kaynak projeleri, genellikle birçok gönüllünün katkılarıyla gelişir. Ancak, yapay zeka teknolojilerinin gelişmesiyle birlikte, bu tür projelere yapılan katkılar da ciddi bir artış gösterdi. AI tarafından üretilen kodlar, genellikle insan eliyle yazılmış kodlar kadar kaliteli olmuyor ve bu da projelerin sürdürülebilirliğini tehdit edebiliyor. Matplotlib yöneticileri, bu durumu kontrol altına almak için, AI yazılımlarının katkılarını dikkatle değerlendirme kararı aldı.\n\nYapay zeka tabanlı kodlar, çevrimiçi ortamlarda taciz ve kötüye kullanım gibi sorunları da beraberinde getiriyor. Bu durum, yazılım projelerinin yanı sıra sosyal medya platformlarında da benzer şekilde kendini gösteriyor. AI tarafından üretilen içerikler, bazen yanlış bilgi yaymak veya kullanıcıları manipüle etmek amacıyla kullanılabiliyor.\n\nMatplotlib gibi projeler, bu tür zorluklarla başa çıkmak için yeni stratejiler geliştirmek zorunda kalıyor. AI yazılımlarının sağladığı katkıların dikkatlice değerlendirilmesi ve bu alanda daha katı politikaların uygulanması, çevrimiçi ortamda karşılaşılan sorunların üstesinden gelinmesine yardımcı olabilir.\n\nAPA Kaynak: MIT Technology Review. (2023). Online harassment is entering its AI era. Retrieved from [MIT Technology Review](https://www.technologyreview.com)",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+        "date": "2026-03-05T13:19:37.863573",
+        "timestamp": 1772716777.863582
     },
     "news_list": [
+        {
+            "title": "Yangın Önleme Teknolojilerinde Yeni Dönem: Yıldırımlara Karşı Mücadele",
+            "original_title": "How much wildfire prevention is too much?",
+            "content": "Yangınların en kötüsünü önleme yarışı giderek daha yüksek teknolojiye dayanan bir hale geldi. Şirketler, yapay zeka ile yangın tespit sistemleri ve erken alevleri söndürebilen dronlar öneriyor. Şimdi ise, bir Kanadalı girişim yıldırımları hedef aldığını söylüyor. Yıldırım kaynaklı yangınlar büyük bir sorun olabilir: 2023 yılında Kanada'da meydana gelen orman yangınları neredeyse 500 milyon metrik ton karbon salınımına neden oldu. Bu yangınların çoğu, yıldırımlar tarafından kıvılcım aldı. Yeni teknolojiler, bu tür doğal yangın nedenlerini önlemede önemli bir rol oynayabilir. Girişimci şirketler, yapay zeka ve drone teknolojilerini kullanarak, yıldırımları önceden tespit etmeyi ve yıldırımın neden olduğu yangınları hızlıca kontrol altına almayı amaçlıyor. Bu tür yenilikçi çözümler, gelecekte yangınlarla mücadelede önemli bir değişiklik yaratabilir.\n\nKaynak: MIT Technology Review. (2023). How much wildfire prevention is too much? Erişim adresi: https://www.technologyreview.com/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
+            "date": "2026-03-05T13:19:27.230059",
+            "timestamp": 1772716767.23007
+        },
+        {
+            "title": "Yapay Zeka Çağında Çevrimiçi Taciz: Matplotlib'in Karşılaştığı Zorluklar",
+            "original_title": "Online harassment is entering its AI era",
+            "content": "Scott Shambaugh, yönettiği yazılım kütüphanesi matplotlib'e bir AI ajanının katkıda bulunma isteğini reddettiğinde pek düşünmeden hareket etti. Çoğu açık kaynak projesinde olduğu gibi, matplotlib de AI tarafından oluşturulan kod katkılarıyla dolup taşıyor ve bu nedenle Shambaugh ve diğer yöneticiler, AI tarafından yazılan tüm kodların belirli bir politikaya uymasını şart koşan bir uygulama başlattılar. Bu durum, çevrimiçi tacizin yapay zeka çağında nasıl yeni bir boyut kazandığını gözler önüne seriyor.\n\nAçık kaynak projeleri, genellikle birçok gönüllünün katkılarıyla gelişir. Ancak, yapay zeka teknolojilerinin gelişmesiyle birlikte, bu tür projelere yapılan katkılar da ciddi bir artış gösterdi. AI tarafından üretilen kodlar, genellikle insan eliyle yazılmış kodlar kadar kaliteli olmuyor ve bu da projelerin sürdürülebilirliğini tehdit edebiliyor. Matplotlib yöneticileri, bu durumu kontrol altına almak için, AI yazılımlarının katkılarını dikkatle değerlendirme kararı aldı.\n\nYapay zeka tabanlı kodlar, çevrimiçi ortamlarda taciz ve kötüye kullanım gibi sorunları da beraberinde getiriyor. Bu durum, yazılım projelerinin yanı sıra sosyal medya platformlarında da benzer şekilde kendini gösteriyor. AI tarafından üretilen içerikler, bazen yanlış bilgi yaymak veya kullanıcıları manipüle etmek amacıyla kullanılabiliyor.\n\nMatplotlib gibi projeler, bu tür zorluklarla başa çıkmak için yeni stratejiler geliştirmek zorunda kalıyor. AI yazılımlarının sağladığı katkıların dikkatlice değerlendirilmesi ve bu alanda daha katı politikaların uygulanması, çevrimiçi ortamda karşılaşılan sorunların üstesinden gelinmesine yardımcı olabilir.\n\nAPA Kaynak: MIT Technology Review. (2023). Online harassment is entering its AI era. Retrieved from [MIT Technology Review](https://www.technologyreview.com)",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
+            "date": "2026-03-05T13:19:37.863573",
+            "timestamp": 1772716777.863582
+        },
         {
             "title": "Nadir Görülen Epilepsi Türü İçin Yeni İlaç Umut Vaad Ediyor",
             "original_title": "New drug cuts seizures by up to 91% in children with rare epilepsy",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/genome-editing/increasing-rice-yields-with-gene-informed-selective-breeding/",
             "date": "2026-02-26T21:40:39.973356",
             "timestamp": 1772142039.973369
-        },
-        {
-            "title": "Lazer Isısı Beyin Kanseri İçin İmmünoterapinin Kapılarını Aralıyor",
-            "original_title": "Laser Heat Unlocks Immunotherapy for Brain Cancer",
-            "content": "Bilim insanları, lazer ısısını kullanarak kan-beyin bariyerini 'açarak' immünoterapinin beyin kanseri için rekor düzeyde hayatta kalma oranları elde etmesini sağladılar. Bu yöntem, beyin kanseri tedavisinde devrim yaratabilecek bir potansiyele sahip. Kan-beyin bariyeri, genellikle ilaçların beyin dokusuna ulaşmasını engelleyen koruyucu bir kalkan işlevi görür. Ancak, lazer ısısı ile bu bariyerin geçici olarak açılması, immünoterapinin etkili bir şekilde beyin tümörlerine ulaşmasına olanak tanıyor. Bu da tedavi sonuçlarında önemli iyileşmelere yol açıyor. Araştırmacılar, bu yöntemin gelecekte beyin kanseri tedavisinde standart bir uygulama haline gelebileceğini belirtiyorlar. Bu heyecan verici gelişme, beyin kanseri olan hastalar için yeni umutlar vaat ediyor. \n\nKaynak: Neuroscience News. (2023). Laser Heat Unlocks Immunotherapy for Brain Cancer. Erişim adresi: https://neurosciencenews.com/brain-cancer-laser-immunotherapy-30202/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/brain-cancer-laser-immunotherapy-30202/",
-            "date": "2026-02-26T19:03:52.373250",
-            "timestamp": 1772132632.37326
-        },
-        {
-            "title": "Bağırsak Mikrobiyomunun Yeniden Ayarlanması Beyin İltihabını Azaltıyor",
-            "original_title": "Gut Microbiome Reset Reduces Brain Inflammation",
-            "content": "Vücudu içten dışa iyileştirme. Bilim insanları, beyin yaralanmasından sonra bağırsak mikrobiyomunun yeniden ayarlanmasının beyne gönderilen sinyalleri 'düzene sokabileceğini' ve hücre tamirini hızlandırabileceğini keşfettiler. Beyin ve bağırsak arasındaki bu güçlü bağlantı, nörolojik sağlık üzerinde derin etkiler yaratabilir. Araştırma, travmatik beyin hasarı (TBI) sonrası oluşan nöroinflamasyonun, bağırsak mikrobiyomunun dengelenmesi ile azaltılabileceğini gösteriyor. Bu bulgular, beyin yaralanmalarının tedavisi ve rehabilitasyonu için yeni yaklaşımlar geliştirilmesine olanak sağlayabilir.\n\nKaynak: Neuroscience News. (2023). Gut Microbiome Reset Reduces Brain Inflammation. Erişim adresi: https://neurosciencenews.com/microbiome-tbi-brain-neuroinflammation-30201/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/microbiome-tbi-brain-neuroinflammation-30201/",
-            "date": "2026-02-26T19:03:58.057332",
-            "timestamp": 1772132638.057339
         }
     ]
 }
