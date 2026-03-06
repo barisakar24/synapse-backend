@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-03-06T13:14:51.268419",
+    "last_updated": "2026-03-06T15:49:00.794875",
     "daily_news": {
-        "title": "Alzheimer'ı Durduran Tek Dozluk İmmünoterapi",
-        "original_title": "Single-Injection Immunotherapy That Halts Alzheimer’s",
-        "content": "Bilim insanları, sıradan beyin hücrelerini amiloid yiyen süper temizleyicilere dönüştüren tek enjeksiyonluk 'hücresel immünoterapi' tasarladı. Bu yeni tedavi yöntemi, Alzheimer hastalığının ilerlemesini durdurmayı vaat ediyor. Beyinde biriken ve hastalığın ana sebeplerinden biri olarak kabul edilen amiloid plaklarını hedef alan bu yenilikçi yaklaşım, hastalara umut ışığı oluyor. Araştırmacılar, bu terapinin uygulanmasıyla, beyindeki hücrelerin kendiliğinden temizleme süreçlerinin nasıl hızlandığını ve etkinleştirildiğini gösteriyor. Bu gelişme, Alzheimer tedavisinde devrim niteliğinde bir adım olarak kabul ediliyor. \n\nKaynak: Neuroscience News. (2023). Single-Injection Immunotherapy That Halts Alzheimer’s. https://neurosciencenews.com/car-astrocytes-alzheimers-amyloid-30255/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/car-astrocytes-alzheimers-amyloid-30255/",
-        "date": "2026-03-06T02:44:09.345008",
-        "timestamp": 1772765049.345019
+        "title": "Omik Bilimlerinde Kimyasal Maruziyet Profilini Artırmak",
+        "original_title": "Upping the Profiling of Chemical Exposures in the Omics Sciences",
+        "content": "Genomik, hastalık duyarlılığını anlamamızı dönüştürmüş olsa da, genom statiktir ve kimin hastalık geliştirdiği, ne zaman ortaya çıktığı veya nasıl ilerlediği konusundaki değişkenliğin çoğunu açıklayamaz. Kimyasal maruziyetlerin profilini çıkarmak, omik bilimlerinde önemli bir ilerleme olarak karşımıza çıkıyor. Bu yeni yaklaşım, çevresel ve kimyasal etkilerin insan sağlığı üzerindeki karmaşık etkilerini daha iyi anlamamıza olanak tanır. Böylece, maruziyetlerin zamanlaması ve yoğunluğu gibi faktörlerin hastalık gelişimi üzerindeki etkileri daha net bir şekilde ortaya konabilir. Bu bilgi, kişiselleştirilmiş tıp uygulamalarının geliştirilmesine de katkı sağlayabilir. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/omics/upping-the-profiling-of-chemical-exposures-in-the-omics-sciences/)",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/omics/upping-the-profiling-of-chemical-exposures-in-the-omics-sciences/",
+        "date": "2026-03-06T15:49:00.794826",
+        "timestamp": 1772812140.794836
     },
     "news_list": [
+        {
+            "title": "Yapay Zeka Dünyasında Öne Çıkan 10 Gelişme ve Anthropic'in Pentagon'a Dava Planı",
+            "original_title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
+            "content": "Bugünün Bülteni: Teknoloji dünyasında neler olup bittiğini günlük olarak aktaran bültenimizin bugünkü sayısına hoş geldiniz. Yakında: Şu Anda Yapay Zekada Önemli Olan 10 Şey Yıllardır, MIT Technology Review'un haber merkezi, yapay zekadaki önemli gelişmeleri takip ederek diğerlerinden bir adım önde oldu ve dikkat çeken gelişmeleri okuyucularıyla paylaştı. Bu özel sayıda, yapay zekanın şu anda üzerinde durulması gereken 10 önemli noktasını derinlemesine inceleyeceğiz. Ayrıca, yapay zeka araştırma şirketi Anthropic'in Pentagon'a karşı açmayı planladığı dava ile ilgili detayları da sizlerle paylaşacağız.\n\nAPA Kaynak: MIT Technology Review. (tarih). The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon. Erişim adresi: https://www.technologyreview.com",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
+            "date": "2026-03-06T15:48:39.066180",
+            "timestamp": 1772812119.066191
+        },
+        {
+            "title": "Biyolojik İlaç Geliştirme İçin Doğrulanmış Testler: Keşiften Üretime Kadar Entegre Çözümler",
+            "original_title": "From Discovery to Lot Release: A Validated Suite of Assays for Biologics Drug Development",
+            "content": "Monoklonal antikor (mAb) ilaç geliştirme sürecinin her aşamasında antikor Fc efektör aktivitesini izlemek için entegre bir biyoanaliz testleri dizisi, tutarlı bir iş akışı sağlar. Bu doğrulanmış testler, ilaç geliştirme sürecinin keşiften üretime kadar olan tüm aşamalarında kritik öneme sahiptir. İlaçların etkinliğini ve güvenliğini sağlamak amacıyla, antikorların biyolojik aktivitelerinin izlenmesi gerekmektedir. Bu testler, antikorların biyolojik etkilerini ve etkileşimlerini detaylı bir şekilde inceleyerek, potansiyel terapötik adayların güvenilirliğini ve etkinliğini değerlendirmeye olanak tanır. Süreç boyunca elde edilen veriler, ilaç geliştirme sürecinin daha hızlı ve etkili bir şekilde ilerlemesini sağlar. Bu entegre testler dizisi, biyolojik ilaçların kalite kontrolünden, güvenlik ve etkinlik değerlendirmelerine kadar birçok alanda kullanılmaktadır. Sonuç olarak, bu doğrulanmış biyoanaliz testleri, biyolojik ilaç geliştirme sürecinde önemli bir rol oynamakta ve ilaçların piyasaya sürülmeden önceki değerlendirmelerinde kritik bir araç olarak hizmet vermektedir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). From Discovery to Lot Release: A Validated Suite of Assays for Biologics Drug Development. Retrieved from https://www.genengnews.com/sponsored/from-discovery-to-lot-release-a-validated-suite-of-assays-for-biologics-drug-development/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/sponsored/from-discovery-to-lot-release-a-validated-suite-of-assays-for-biologics-drug-development/",
+            "date": "2026-03-06T15:48:50.854524",
+            "timestamp": 1772812130.854533
+        },
+        {
+            "title": "Omik Bilimlerinde Kimyasal Maruziyet Profilini Artırmak",
+            "original_title": "Upping the Profiling of Chemical Exposures in the Omics Sciences",
+            "content": "Genomik, hastalık duyarlılığını anlamamızı dönüştürmüş olsa da, genom statiktir ve kimin hastalık geliştirdiği, ne zaman ortaya çıktığı veya nasıl ilerlediği konusundaki değişkenliğin çoğunu açıklayamaz. Kimyasal maruziyetlerin profilini çıkarmak, omik bilimlerinde önemli bir ilerleme olarak karşımıza çıkıyor. Bu yeni yaklaşım, çevresel ve kimyasal etkilerin insan sağlığı üzerindeki karmaşık etkilerini daha iyi anlamamıza olanak tanır. Böylece, maruziyetlerin zamanlaması ve yoğunluğu gibi faktörlerin hastalık gelişimi üzerindeki etkileri daha net bir şekilde ortaya konabilir. Bu bilgi, kişiselleştirilmiş tıp uygulamalarının geliştirilmesine de katkı sağlayabilir. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/omics/upping-the-profiling-of-chemical-exposures-in-the-omics-sciences/)",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/omics/upping-the-profiling-of-chemical-exposures-in-the-omics-sciences/",
+            "date": "2026-03-06T15:49:00.794826",
+            "timestamp": 1772812140.794836
+        },
         {
             "title": "Alzheimer'ı Durduran Tek Dozluk İmmünoterapi",
             "original_title": "Single-Injection Immunotherapy That Halts Alzheimer’s",
@@ -480,36 +510,6 @@
             "link": "https://neurosciencenews.com/neuroinflammation-memory-tbi-30210/",
             "date": "2026-02-27T21:36:52.415657",
             "timestamp": 1772228212.415667
-        },
-        {
-            "title": "Beklenmedik Dopamin Sürprizi İnsan Hareketlerine Hız Kazandırıyor",
-            "original_title": "Dopamine Surprise Gives Human Movements a Measurable Speed Boost",
-            "content": "Beklenmedik ödüller, insanların sadece milisaniyeler içinde daha hızlı hareket etmelerini sağlayabilir. Yapılan araştırmalar, hareket enerjilerinin dopamin bazlı ödül tahmin sinyallerini yansıttığını ve bu durumun Parkinson hastalığı ve depresyon gibi rahatsızlıklarda beyin sağlığını izlemek için basit bir yöntem sunabileceğini gösteriyor. Dopamin, beynin ödül ve motivasyon sistemlerinde önemli bir rol oynar ve bu çalışma, dopaminin ani artışlarının fiziksel hareketler üzerinde doğrudan bir etkisi olabileceğini ortaya koymaktadır. Bu bulgular, nörolojik ve psikiyatrik hastalıkların tedavi ve teşhis süreçlerinde yeni yaklaşımlar geliştirilmesine ön ayak olabilir. Özellikle Parkinson hastalığı, dopamin eksikliği ile karakterize edilen bir durum olduğundan, bu tür araştırmalar hastalığın semptomlarının daha iyi anlaşılmasına ve yönetilmesine katkıda bulunabilir. \n\nKaynak: Neuroscience News.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/dopamine-reward-movement-30209/",
-            "date": "2026-02-27T21:36:57.617319",
-            "timestamp": 1772228217.617328
-        },
-        {
-            "title": "Sigara Dumanı Gözlerde Epigenetik Yaşlanmayı Hızlandırıyor",
-            "original_title": "Cigarette Smoke Triggers Epigenetic Age Acceleration in the Eyes",
-            "content": "Sigara dumanı sadece göz hücrelerine zarar vermekle kalmaz, aynı zamanda körlüğü ve maküler dejenerasyonu önlemek için gerekli genleri 'kilitleyen' epigenetik değişikliklere neden olur. Sigara içmenin sağlık üzerindeki olumsuz etkileri iyi bilinse de, bu yeni araştırma, sigara dumanının gözlerdeki yaşlanma sürecini hızlandırabileceğini ortaya koymaktadır.\n\nAraştırmacılar, sigara dumanına maruz kalmanın, göz hücrelerinde genetik materyalin nasıl ifade edildiğini etkileyen epigenetik değişikliklere yol açtığını bulmuşlardır. Bu değişiklikler, görme kaybı ve yaşa bağlı maküler dejenerasyon (AMD) gibi ciddi göz rahatsızlıklarına yol açabilecek genlerin işlevselliğini bozabilir. AMD, özellikle yaşlı bireylerde yaygın olarak görülen bir durumdur ve merkezi görme kaybına neden olabilir.\n\nSigara içen bireylerde, göz sağlığını korumak için gerekli olan genlerin epigenetik 'kilitlenmesi', bu kişilerin AMD ve diğer göz hastalıklarına yakalanma riskini artırabilir. Bu bulgular, sigaranın göz sağlığı üzerindeki etkilerini anlamada önemli bir adım olup, sigara kullanımının azaltılması veya bırakılması için bir başka neden sunmaktadır.\n\nUzmanlar, sigara dumanının göz sağlığı üzerindeki etkilerini daha iyi anlamak ve potansiyel tedavi yolları geliştirmek için daha fazla araştırma yapılması gerektiğini vurgulamaktadır. Bu çalışma, sigara içmenin sadece genel sağlık değil, aynı zamanda göz sağlığı üzerindeki olumsuz etkilerini de gözler önüne sermektedir.\n\nKaynak: Neuroscience News, (Erişim Tarihi: 2026).",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/smoking-eye-aging-epigenetics-30208/",
-            "date": "2026-02-27T18:57:10.145994",
-            "timestamp": 1772218630.146006
-        },
-        {
-            "title": "Egzersiz Sırasında Müzik Dinlemek Her Zaman Motivasyon Sağlamıyor",
-            "original_title": "Music May Not Boost Focus or Mood During Exercise",
-            "content": "Son yapılan bir inceleme, egzersiz sırasında müzik dinlemenin zihinsel olarak beklenen olumlu etkisinin tutarsız olduğunu ve özellikle yoğun egzersizler sırasında bu etkinin çoğunlukla kaybolduğunu ortaya koydu. Müzik dinlemenin egzersiz sırasında odaklanmayı artırdığı ve ruh halini iyileştirdiği yaygın bir inançtır. Ancak, bu yeni bulgular, müziğin her zaman bu tür bir destek sağlamadığını gösteriyor.\n\nAraştırmacılar, farklı müzik türlerinin ve ses seviyelerinin egzersiz performansı üzerindeki etkilerini incelediler. Sonuçlar, düşük ve orta yoğunlukta yapılan egzersizlerde müziğin motivasyonu artırabileceğini, ancak egzersiz yoğunluğu arttıkça bu etkinin azaldığını gösterdi. Yüksek yoğunluklu egzersizlerde müzik dinlemenin, katılımcıların odaklanma düzeyini ve ruh halini olumlu yönde etkilemediği gözlemlendi.\n\nBu bulgular, sporcular ve antrenörler için önemli ipuçları sunuyor. Egzersiz sırasında müzik dinlemenin kişisel tercihlere ve egzersizin türüne bağlı olarak değişkenlik gösterebileceği belirtiliyor. Araştırmacılar, müzik seçiminde dikkatli olunması ve kişisel motivasyon kaynaklarının göz önünde bulundurulması gerektiğini vurguluyorlar.\n\nAPA Formatında Kaynak: Neuroscience News. (2023). Music May Not Boost Focus or Mood During Exercise. Neuroscience News. https://neurosciencenews.com/music-exercise-focus-mood-30207/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/music-exercise-focus-mood-30207/",
-            "date": "2026-02-27T18:57:21.433814",
-            "timestamp": 1772218641.433823
         }
     ]
 }
