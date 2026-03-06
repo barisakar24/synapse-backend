@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-06T15:49:00.794875",
+    "last_updated": "2026-03-06T18:58:51.305471",
     "daily_news": {
-        "title": "Omik Bilimlerinde Kimyasal Maruziyet Profilini Artırmak",
-        "original_title": "Upping the Profiling of Chemical Exposures in the Omics Sciences",
-        "content": "Genomik, hastalık duyarlılığını anlamamızı dönüştürmüş olsa da, genom statiktir ve kimin hastalık geliştirdiği, ne zaman ortaya çıktığı veya nasıl ilerlediği konusundaki değişkenliğin çoğunu açıklayamaz. Kimyasal maruziyetlerin profilini çıkarmak, omik bilimlerinde önemli bir ilerleme olarak karşımıza çıkıyor. Bu yeni yaklaşım, çevresel ve kimyasal etkilerin insan sağlığı üzerindeki karmaşık etkilerini daha iyi anlamamıza olanak tanır. Böylece, maruziyetlerin zamanlaması ve yoğunluğu gibi faktörlerin hastalık gelişimi üzerindeki etkileri daha net bir şekilde ortaya konabilir. Bu bilgi, kişiselleştirilmiş tıp uygulamalarının geliştirilmesine de katkı sağlayabilir. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/omics/upping-the-profiling-of-chemical-exposures-in-the-omics-sciences/)",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/omics/upping-the-profiling-of-chemical-exposures-in-the-omics-sciences/",
-        "date": "2026-03-06T15:49:00.794826",
-        "timestamp": 1772812140.794836
+        "title": "Halüsinasyon Olmadan Şifa: Yeni Nesil Psilosibin Terapisi",
+        "original_title": "Healing Without the Hallucinations: The Next Generation of Psilocybin Therapy",
+        "content": "Bilim insanları, sihirli mantarların faydalarını zihin değiştirici yan etkileri olmadan sunan yeni bir bileşik sentezlediler. Bu gelişme, psilosibin terapilerinin geleceği için devrim niteliğinde olabilir. Geleneksel olarak, psilosibin maddesi depresyon ve anksiyete gibi ruh sağlığı sorunlarını tedavi etmek için kullanılırken, kullanıcılar genellikle halüsinasyon gibi yan etkiler yaşar. Ancak yeni geliştirilen bu bileşik, bu yan etkileri ortadan kaldırarak tedavi süreçlerini daha geniş bir kitle için erişilebilir hale getirebilir.\n\nBu yeni bileşik, psilosibinin beyindeki serotonin reseptörlerine bağlanma şeklinin değiştirilmesiyle oluşturuldu. Bilim insanları, psilosibinin terapötik etkilerini koruyarak halüsinatif etkilerini ortadan kaldırmayı başardılar. Bu durum, özellikle zihinsel sağlık tedavilerinde daha fazla kontrol ve öngörülebilirlik sağlayabilir.\n\nYeni bileşiğin klinik denemeleri, mevcut psilosibin tedavilerine nazaran daha az yan etkiye sahip olduğunu ve benzer terapötik sonuçlar sunduğunu gösterdi. Bu da, halüsinasyonlar nedeniyle psilosibin terapisinden çekinen hastaların bu tedaviye daha sıcak bakabileceği anlamına geliyor. Araştırmacılar, bu bulguların ruh sağlığı tedavilerinde önemli bir adım olduğunu ve gelecekte daha fazla araştırmaya ihtiyaç duyulduğunu belirtiyorlar.\n\nKaynakça:\nNeuroscience News. (2023). Healing Without the Hallucinations: The Next Generation of Psilocybin Therapy. https://neurosciencenews.com/non-hallucinogenic-psilocybin-30258/",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/non-hallucinogenic-psilocybin-30258/",
+        "date": "2026-03-06T18:58:50.411875",
+        "timestamp": 1772823530.41188
     },
     "news_list": [
+        {
+            "title": "Tubulin: Alzheimer ve Parkinson'a Karşı Beyin Sağlığının Koruyucusu",
+            "original_title": "Tubulin May Prevent Against Alzheimer’s and Parkinson’s",
+            "content": "Bilim insanları, tubulin adı verilen bir proteinin Alzheimer ve Parkinson gibi beyin hastalıklarına karşı koruma sağlayabileceğini keşfetti. Tubulin, beyinde sorun yaratan proteinleri, sağlıklı ve verimli rollerine geri döndürerek hastalıklardan korunmada önemli bir rol oynuyor. Bu keşif, nörodejeneratif hastalıkların önlenmesi ve tedavi edilmesi konusunda yeni umutlar vadediyor. Araştırmacılar, tubulinin bu koruyucu işlevini daha iyi anlamak ve beyin sağlığını nasıl iyileştirebileceğini keşfetmek için daha fazla çalışma yapılması gerektiğini belirtiyorlar. Bu gelişme, gelecekte Alzheimer ve Parkinson gibi hastalıkların tedavisine yönelik yeni stratejilerin geliştirilmesine olanak sağlayabilir.\n\nKaynak: Neuroscience News. (2023). Tubulin May Prevent Against Alzheimer’s and Parkinson’s. Erişim adresi: https://neurosciencenews.com/tubulin-tau-alpha-synuclein-prevention-30259/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/tubulin-tau-alpha-synuclein-prevention-30259/",
+            "date": "2026-03-06T18:58:42.499414",
+            "timestamp": 1772823522.499421
+        },
+        {
+            "title": "Halüsinasyon Olmadan Şifa: Yeni Nesil Psilosibin Terapisi",
+            "original_title": "Healing Without the Hallucinations: The Next Generation of Psilocybin Therapy",
+            "content": "Bilim insanları, sihirli mantarların faydalarını zihin değiştirici yan etkileri olmadan sunan yeni bir bileşik sentezlediler. Bu gelişme, psilosibin terapilerinin geleceği için devrim niteliğinde olabilir. Geleneksel olarak, psilosibin maddesi depresyon ve anksiyete gibi ruh sağlığı sorunlarını tedavi etmek için kullanılırken, kullanıcılar genellikle halüsinasyon gibi yan etkiler yaşar. Ancak yeni geliştirilen bu bileşik, bu yan etkileri ortadan kaldırarak tedavi süreçlerini daha geniş bir kitle için erişilebilir hale getirebilir.\n\nBu yeni bileşik, psilosibinin beyindeki serotonin reseptörlerine bağlanma şeklinin değiştirilmesiyle oluşturuldu. Bilim insanları, psilosibinin terapötik etkilerini koruyarak halüsinatif etkilerini ortadan kaldırmayı başardılar. Bu durum, özellikle zihinsel sağlık tedavilerinde daha fazla kontrol ve öngörülebilirlik sağlayabilir.\n\nYeni bileşiğin klinik denemeleri, mevcut psilosibin tedavilerine nazaran daha az yan etkiye sahip olduğunu ve benzer terapötik sonuçlar sunduğunu gösterdi. Bu da, halüsinasyonlar nedeniyle psilosibin terapisinden çekinen hastaların bu tedaviye daha sıcak bakabileceği anlamına geliyor. Araştırmacılar, bu bulguların ruh sağlığı tedavilerinde önemli bir adım olduğunu ve gelecekte daha fazla araştırmaya ihtiyaç duyulduğunu belirtiyorlar.\n\nKaynakça:\nNeuroscience News. (2023). Healing Without the Hallucinations: The Next Generation of Psilocybin Therapy. https://neurosciencenews.com/non-hallucinogenic-psilocybin-30258/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/non-hallucinogenic-psilocybin-30258/",
+            "date": "2026-03-06T18:58:50.411875",
+            "timestamp": 1772823530.41188
+        },
         {
             "title": "Yapay Zeka Dünyasında Öne Çıkan 10 Gelişme ve Anthropic'in Pentagon'a Dava Planı",
             "original_title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/ketamine-depression-treatment-30212/",
             "date": "2026-02-28T21:29:42.206512",
             "timestamp": 1772314182.206522
-        },
-        {
-            "title": "MIT Technology Review, 2026 ASME Ödüllerinde Finalist Oldu",
-            "original_title": "MIT Technology Review is a 2026 ASME finalist in reporting",
-            "content": "Amerikan Dergi Editörleri Derneği, MIT Technology Review dergisini 2026 Ulusal Dergi Ödülleri'nde raporlama kategorisinde finalist olarak belirledi. Kısa listeye giren hikaye—\"Yapay Zekanın Enerji Ayak İzi Üzerine Matematik Yaptık. İşte Duymadığınız Hikaye\"—yayının yapay zekanın enerji yükünü ele alan Power Hungry paketinin bir parçası. Yapay zeka genellikle... \n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/02/27/1133769/asme-finalist-reporting/",
-            "date": "2026-02-28T02:33:47.561724",
-            "timestamp": 1772246027.561736
-        },
-        {
-            "title": "Tekrarlayan Kafa Darbeleri ve Hafıza Kaybı Arasındaki Bağlantı",
-            "original_title": "Repeated Head Impacts, Inflammation and Memory Loss Connected",
-            "content": "Eski futbol oyuncularında yapılan araştırmalar, yüksek inflamasyon seviyelerinin hafıza ile ilişkili beyaz madde yollarında hasara yol açtığını ortaya koydu. Bu bulgular, inflamasyonun tekrarlayan kafa darbeleri ile sonraki bilişsel gerileme arasındaki biyolojik zincirin bir parçası olabileceğini öne sürüyor. Tekrarlayan kafa darbeleri, sporcular arasında yaygın bir durum olup, uzun vadede ciddi sağlık sorunlarına yol açabilir. Araştırmalar, bu darbelerin beyinde inflamasyona neden olarak, özellikle hafıza ile ilgili alanlarda kalıcı hasara yol açabileceğini gösteriyor. Bu durum, sporcularda ve özellikle futbol oyuncularında, yaşlandıkça artan bilişsel gerileme riskiyle ilişkilendiriliyor. Çalışma, bu riski azaltmak için potansiyel tedavi yöntemlerini araştırmanın ve sporcuların bu tür yaralanmalardan korunmasının önemini vurguluyor.\n\nKaynak: Neuroscience News. (2023). Repeated Head Impacts, Inflammation and Memory Loss Connected. Retrieved from https://neurosciencenews.com/neuroinflammation-memory-tbi-30210/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/neuroinflammation-memory-tbi-30210/",
-            "date": "2026-02-27T21:36:52.415657",
-            "timestamp": 1772228212.415667
         }
     ]
 }
