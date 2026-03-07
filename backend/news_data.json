@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-07T15:31:33.189838",
+    "last_updated": "2026-03-07T18:46:07.624778",
     "daily_news": {
-        "title": "Rett Sendromunda Beyin Proteinini Artırmak Umut Vaad Ediyor",
-        "original_title": "Boosting a key brain protein could help treat Rett syndrome",
-        "content": "Araştırmacılar, dünya genelinde binlerce çocuğu etkileyen nadir bir genetik bozukluk olan Rett sendromunda hasar gören önemli bir beyin proteinini artırmanın yeni bir yolunu keşfettiler. Fareler ve hasta kaynaklı hücreler üzerinde yapılan erken çalışmalar, bu yaklaşımın normal beyin hücresi fonksiyonunu yeniden sağlayabildiğini gösteriyor ve gelecekteki tedaviler için umutları artırıyor. \n\nRett sendromu, genellikle kız çocuklarında görülen ve ciddi nörolojik ve gelişimsel sorunlara yol açan bir durumdur. Bu bozukluk, çocukların normal gelişim gösterdikten sonra dil ve motor beceriler gibi kazanılmış yeteneklerini kaybetmelerine neden olur. Sorunun kaynağı, beynin düzgün çalışması için gerekli olan belirli proteinlerin seviyelerindeki düşüş olarak tanımlanmaktadır.\n\nAraştırmada, bu önemli beyin proteinlerinden birinin seviyesini artırmanın yolları araştırılmıştır. Araştırmacılar, çeşitli gen terapisi teknikleri ve ilaç tedavileri kullanarak, fare modellerinde ve laboratuvar ortamında yetiştirilen insan hücrelerinde başarılı sonuçlar elde etmişlerdir. Bu tedavi yöntemleri, protein seviyelerinin artmasına ve beyin hücrelerinin normal işlevini geri kazanmasına yardımcı olmuştur.\n\nBu bulgular, Rett sendromu için yeni tedavi yöntemlerinin kapılarını aralayabilir. Araştırmacılar, bu yeni yaklaşımın insanlarda da etkili olup olmadığını görmek için daha fazla çalışma yapmayı planlıyorlar. Eğer başarılı olursa, bu tedavi yöntemi, Rett sendromlu çocuklar ve aileleri için önemli bir umut kaynağı olabilir.\n\nKaynak: Mind & Brain News -- ScienceDaily (2023)",
+        "title": "Orak Hücre Hastalığında Beynin Oksijen Eksikliğine Karşı Kendi Kendini Yenilemesi",
+        "original_title": "How the Brain Compensates for Sickle Cell Disease",
+        "content": "Orak hücre hastalığı, kırmızı kan hücrelerinin anormal bir şekilde şekillenmesine neden olan genetik bir kan hastalığıdır. Bu durum, kan damarlarında tıkanıklıklara ve dolayısıyla dokulara yeterli oksijen taşınamamasına yol açar. Son araştırmalara göre, orak hücre hastalığına sahip bireylerde, beyin düşük oksijen seviyelerine karşı adaptif bir yanıt geliştiriyor. Beyin, yürütücü ve dikkat ağlarını yeniden yapılandırarak oksijen eksikliğini telafi ediyor.\n\nBeynin bu adaptif mekanizması, özellikle yürütücü işlevler ve dikkat gerektiren görevlerde önemli bir rol oynuyor. Orak hücre hastalığı olan bireylerde, bu ağların yeniden yapılandırılması, bilişsel işlevlerin korunmasına katkı sağlıyor. Araştırmalar, bu bireylerin beyin aktivitelerini özel nörolojik yollarla yeniden organize ettiklerini ortaya koyuyor.\n\nBu adaptasyon süreci, beynin esnekliği ve nöroplastisitesi hakkında önemli ipuçları sunuyor. Orak hücre hastalığı ile yaşayan kişilerin beyinlerinin, düşük oksijen seviyelerine rağmen bilişsel işlevlerini nasıl koruyabildiğine dair daha fazla araştırma yapılması gerekiyor. Bu tür çalışmalar, gelecekteki tedavi yöntemleri için yeni stratejiler geliştirilmesine olanak tanıyabilir.\n\nKaynak: Neuroscience News (2023)",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260306145621.htm",
-        "date": "2026-03-07T13:04:40.127054",
-        "timestamp": 1772888680.127064
+        "link": "https://neurosciencenews.com/sickle-cell-brain-rewiring-30264/",
+        "date": "2026-03-07T18:46:01.988433",
+        "timestamp": 1772909161.988441
     },
     "news_list": [
+        {
+            "title": "Orak Hücre Hastalığında Beynin Oksijen Eksikliğine Karşı Kendi Kendini Yenilemesi",
+            "original_title": "How the Brain Compensates for Sickle Cell Disease",
+            "content": "Orak hücre hastalığı, kırmızı kan hücrelerinin anormal bir şekilde şekillenmesine neden olan genetik bir kan hastalığıdır. Bu durum, kan damarlarında tıkanıklıklara ve dolayısıyla dokulara yeterli oksijen taşınamamasına yol açar. Son araştırmalara göre, orak hücre hastalığına sahip bireylerde, beyin düşük oksijen seviyelerine karşı adaptif bir yanıt geliştiriyor. Beyin, yürütücü ve dikkat ağlarını yeniden yapılandırarak oksijen eksikliğini telafi ediyor.\n\nBeynin bu adaptif mekanizması, özellikle yürütücü işlevler ve dikkat gerektiren görevlerde önemli bir rol oynuyor. Orak hücre hastalığı olan bireylerde, bu ağların yeniden yapılandırılması, bilişsel işlevlerin korunmasına katkı sağlıyor. Araştırmalar, bu bireylerin beyin aktivitelerini özel nörolojik yollarla yeniden organize ettiklerini ortaya koyuyor.\n\nBu adaptasyon süreci, beynin esnekliği ve nöroplastisitesi hakkında önemli ipuçları sunuyor. Orak hücre hastalığı ile yaşayan kişilerin beyinlerinin, düşük oksijen seviyelerine rağmen bilişsel işlevlerini nasıl koruyabildiğine dair daha fazla araştırma yapılması gerekiyor. Bu tür çalışmalar, gelecekteki tedavi yöntemleri için yeni stratejiler geliştirilmesine olanak tanıyabilir.\n\nKaynak: Neuroscience News (2023)",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/sickle-cell-brain-rewiring-30264/",
+            "date": "2026-03-07T18:46:01.988433",
+            "timestamp": 1772909161.988441
+        },
+        {
+            "title": "Öğrenme Beyin Hücrelerini Takım Haline Getiriyor",
+            "original_title": "Why Learning Makes Brain Cells Work Together, Not Apart",
+            "content": "Yeni araştırmalar, bir beceriyi ustalıkla öğrenmenin beyin hücrelerinizi bağımsız çalışanlar yerine iyi eğitilmiş bir spor takımı gibi hareket ettirdiğini ortaya koyuyor. Beyin hücreleri, öğrenme sürecinde bağımsız hareket etmek yerine koordinasyon içinde çalışıyor. Bu durum, beyin fonksiyonlarının daha efektif ve verimli hale gelmesini sağlıyor. Araştırmacılar, bu bulgunun öğrenme ve hafıza süreçlerine dair yeni anlayışlar sunduğunu belirtiyorlar. Beyinde gerçekleşen bu uyumlu hareket, öğrenmenin kalıcılığını ve etkinliğini artırıyor. Yeni bir beceri öğrenirken beyin hücreleri arasında gelişen bu işbirliği, aynı zamanda beyin sağlığı için de önemli bir rol oynuyor. Araştırmanın sonuçları, eğitim yöntemlerinin geliştirilmesi ve nörolojik hastalıkların tedavisi için yeni yaklaşımlar sunabilir.\n\nKaynak: Neuroscience News (2023). Why Learning Makes Brain Cells Work Together, Not Apart. https://neurosciencenews.com/learning-neural-coordination-30264/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/learning-neural-coordination-30264/",
+            "date": "2026-03-07T18:46:06.576905",
+            "timestamp": 1772909166.576912
+        },
         {
             "title": "Rett Sendromunda Beyin Proteinini Artırmak Umut Vaad Ediyor",
             "original_title": "Boosting a key brain protein could help treat Rett syndrome",
@@ -490,26 +510,6 @@
             "link": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
             "date": "2026-03-02T19:01:22.907643",
             "timestamp": 1772478082.907651
-        },
-        {
-            "title": "Yapay Zeka Karşıtı Protestolar ve Uzayda Neler Yüzüyor?",
-            "original_title": "The Download: protesting AI, and what’s floating in space",
-            "content": "Bugünün Teknoloji Dünyası'na dair günlük bir doz sunan bültenimiz The Download'un bu günkü sayısında, teknoloji dünyasında olup bitenleri ele alıyoruz. Bu cumartesi, 28 Şubat tarihinde düzenlenen en büyük yapay zeka karşıtı protestolardan birine yakından göz attım. Katılımcılar 'Fişi çek! Fişi çek! Saçmalığı durdur! Saçmalığı durdur!' sloganlarıyla seslerini duyurmaya çalıştılar. Protestocular, yapay zekanın kontrolsüz gelişiminin durdurulması gerektiğini vurgularken, bunun insanlık için potansiyel tehlikeler taşıdığını belirttiler. Öte yandan, uzayda nelerin dolaştığını inceleyen bir diğer haberimizde, evrenin derinliklerinde insan yapımı ve doğal nesnelerin izini sürdük.",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/",
-            "date": "2026-03-02T15:50:45.326925",
-            "timestamp": 1772466645.326936
-        },
-        {
-            "title": "Londra'da Dev Anti-Yapay Zeka Protestosu: 'Fişi Çekin!'",
-            "original_title": "I checked out one of the biggest anti-AI protests ever",
-            "content": "Geçtiğimiz cumartesi günü, 28 Şubat'ta Londra'nın King's Cross teknoloji merkezinde birkaç yüz kişilik bir grup, yapay zekaya karşı büyük bir protesto düzenledi. Bu bölge, OpenAI, Meta ve Google DeepMind gibi teknoloji devlerinin Birleşik Krallık merkezlerine ev sahipliği yapıyor. Protestocular, 'Fişi çekin!' ve 'Saçmalığı durdurun!' gibi sloganlar atarak ve pankartlar sallayarak yürüdüler. Yürüyüş, yapay zekanın toplumsal ve etik etkilerine dikkat çekmek amacıyla organize edildi. Katılımcılar, yapay zekanın kontrolsüz gelişiminin insanların işlerini tehdit ettiğini ve mahremiyet ihlallerine yol açabileceğini savundu. Ayrıca, yapay zeka uygulamalarının daha şeffaf ve hesap verebilir bir şekilde geliştirilmesi gerektiğini vurguladılar. Protesto sırasında, katılımcıların çeşitli yaratıcı pankartlar taşıdığı ve konuşmalar yaptığı gözlendi. Bu etkinlik, yapay zeka karşıtı hareketin artan nüfuzunu ve toplumda giderek daha fazla insanın bu konuda endişelendiğini gösteriyor.\n\nKaynak: MIT Technology Review, (2023). 'I checked out one of the biggest anti-AI protests ever'. MIT Technology Review.",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
-            "date": "2026-03-02T13:18:28.784537",
-            "timestamp": 1772457508.784547
         }
     ]
 }
