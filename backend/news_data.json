@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-03-07T18:46:07.624778",
+    "last_updated": "2026-03-07T21:29:39.168088",
     "daily_news": {
-        "title": "Orak Hücre Hastalığında Beynin Oksijen Eksikliğine Karşı Kendi Kendini Yenilemesi",
-        "original_title": "How the Brain Compensates for Sickle Cell Disease",
-        "content": "Orak hücre hastalığı, kırmızı kan hücrelerinin anormal bir şekilde şekillenmesine neden olan genetik bir kan hastalığıdır. Bu durum, kan damarlarında tıkanıklıklara ve dolayısıyla dokulara yeterli oksijen taşınamamasına yol açar. Son araştırmalara göre, orak hücre hastalığına sahip bireylerde, beyin düşük oksijen seviyelerine karşı adaptif bir yanıt geliştiriyor. Beyin, yürütücü ve dikkat ağlarını yeniden yapılandırarak oksijen eksikliğini telafi ediyor.\n\nBeynin bu adaptif mekanizması, özellikle yürütücü işlevler ve dikkat gerektiren görevlerde önemli bir rol oynuyor. Orak hücre hastalığı olan bireylerde, bu ağların yeniden yapılandırılması, bilişsel işlevlerin korunmasına katkı sağlıyor. Araştırmalar, bu bireylerin beyin aktivitelerini özel nörolojik yollarla yeniden organize ettiklerini ortaya koyuyor.\n\nBu adaptasyon süreci, beynin esnekliği ve nöroplastisitesi hakkında önemli ipuçları sunuyor. Orak hücre hastalığı ile yaşayan kişilerin beyinlerinin, düşük oksijen seviyelerine rağmen bilişsel işlevlerini nasıl koruyabildiğine dair daha fazla araştırma yapılması gerekiyor. Bu tür çalışmalar, gelecekteki tedavi yöntemleri için yeni stratejiler geliştirilmesine olanak tanıyabilir.\n\nKaynak: Neuroscience News (2023)",
+        "title": "ChatGPT: Ruh Sağlığında Yeni Dönem",
+        "original_title": "Why Millions Are Turning to ChatGPT for Mental Health",
+        "content": "Yeni araştırmalar, Birleşik Krallık'taki yetişkinlerin neredeyse yarısının, geleneksel ruh sağlığı hizmetlerine daha hızlı bir alternatif olarak ChatGPT'yi danışmanlık için kullanmaya hazır olduğunu gösteriyor. ChatGPT gibi yapay zeka tabanlı araçlar, kullanıcılarına anında geri bildirim ve destek sunarak, mental sağlık hizmetlerine erişimi kolaylaştırıyor ve bekleme sürelerini azaltıyor. Bununla birlikte, bu teknolojilerin geleneksel terapilerle nasıl entegre edileceği ve etik sorunların nasıl ele alınacağı konuları hala tartışılmakta. Yapay zekanın bu alandaki potansiyelini anlamak ve sınırlarını belirlemek için daha fazla araştırmaya ihtiyaç vardır.\n\nKaynak: Neuroscience News (2023, 26 Mart). Why Millions Are Turning to ChatGPT for Mental Health. https://neurosciencenews.com/ai-chatgpt-mental-health-30266/",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/sickle-cell-brain-rewiring-30264/",
-        "date": "2026-03-07T18:46:01.988433",
-        "timestamp": 1772909161.988441
+        "link": "https://neurosciencenews.com/ai-chatgpt-mental-health-30266/",
+        "date": "2026-03-07T21:29:38.494830",
+        "timestamp": 1772918978.49484
     },
     "news_list": [
+        {
+            "title": "ChatGPT: Ruh Sağlığında Yeni Dönem",
+            "original_title": "Why Millions Are Turning to ChatGPT for Mental Health",
+            "content": "Yeni araştırmalar, Birleşik Krallık'taki yetişkinlerin neredeyse yarısının, geleneksel ruh sağlığı hizmetlerine daha hızlı bir alternatif olarak ChatGPT'yi danışmanlık için kullanmaya hazır olduğunu gösteriyor. ChatGPT gibi yapay zeka tabanlı araçlar, kullanıcılarına anında geri bildirim ve destek sunarak, mental sağlık hizmetlerine erişimi kolaylaştırıyor ve bekleme sürelerini azaltıyor. Bununla birlikte, bu teknolojilerin geleneksel terapilerle nasıl entegre edileceği ve etik sorunların nasıl ele alınacağı konuları hala tartışılmakta. Yapay zekanın bu alandaki potansiyelini anlamak ve sınırlarını belirlemek için daha fazla araştırmaya ihtiyaç vardır.\n\nKaynak: Neuroscience News (2023, 26 Mart). Why Millions Are Turning to ChatGPT for Mental Health. https://neurosciencenews.com/ai-chatgpt-mental-health-30266/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/ai-chatgpt-mental-health-30266/",
+            "date": "2026-03-07T21:29:38.494830",
+            "timestamp": 1772918978.49484
+        },
         {
             "title": "Orak Hücre Hastalığında Beynin Oksijen Eksikliğine Karşı Kendi Kendini Yenilemesi",
             "original_title": "How the Brain Compensates for Sickle Cell Disease",
@@ -500,16 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/03/260302030637.htm",
             "date": "2026-03-02T19:01:10.995059",
             "timestamp": 1772478070.99507
-        },
-        {
-            "title": "OpenAI ve Pentagon Anlaşması: Anthropic'in Korkuları Gerçekleşiyor",
-            "original_title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
-            "content": "OpenAI, 28 Şubat'ta yaptığı açıklamada, ABD ordusunun teknolojilerini gizli ortamlarda kullanmasına olanak tanıyan bir anlaşmaya vardığını duyurdu. CEO Sam Altman, şirketin, yalnızca Pentagon'un Anthropic'e yönelik kamuoyu önünde yaptığı uyarının ardından bu müzakereleri başlattığını ve sürecin 'kesinlikle aceleye getirildiğini' belirtti. OpenAI, duyurularında bu anlaşmayı açıklarken büyük bir titizlik gösterdi. \n\nBu anlaşma, yapay zeka dünyasında önemli yankı uyandırdı ve özellikle etik ve güvenlik kaygıları nedeniyle endişelere yol açtı. Anthropic gibi şirketler, askeri uygulamalar için yapay zeka teknolojilerinin kullanılmasının potansiyel risklerine dikkat çekmişti. Ancak OpenAI'nin bu hızlı anlaşması, bu tarz endişe ve çekinceleri bir kenara bırakmış gibi görünüyor.\n\nOpenAI'nin Pentagon ile yaptığı bu anlaşma, şirketin askeri alanda yapay zeka teknolojilerinin nasıl kullanılacağına dair daha geniş bir strateji geliştirdiğine işaret ediyor. Ancak bu durum, sivil toplum kuruluşları ve etik komiteler tarafından dikkatle izlenmeye devam edecek gibi görünüyor. \n\nKaynakça: MIT Technology Review. (2023). OpenAI’s “compromise” with the Pentagon is what Anthropic feared. Erişim adresi: https://www.technologyreview.com",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
-            "date": "2026-03-02T19:01:22.907643",
-            "timestamp": 1772478082.907651
         }
     ]
 }
