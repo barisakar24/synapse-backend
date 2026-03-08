@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-07T21:29:39.168088",
+    "last_updated": "2026-03-08T02:50:37.243649",
     "daily_news": {
-        "title": "ChatGPT: Ruh Sağlığında Yeni Dönem",
-        "original_title": "Why Millions Are Turning to ChatGPT for Mental Health",
-        "content": "Yeni araştırmalar, Birleşik Krallık'taki yetişkinlerin neredeyse yarısının, geleneksel ruh sağlığı hizmetlerine daha hızlı bir alternatif olarak ChatGPT'yi danışmanlık için kullanmaya hazır olduğunu gösteriyor. ChatGPT gibi yapay zeka tabanlı araçlar, kullanıcılarına anında geri bildirim ve destek sunarak, mental sağlık hizmetlerine erişimi kolaylaştırıyor ve bekleme sürelerini azaltıyor. Bununla birlikte, bu teknolojilerin geleneksel terapilerle nasıl entegre edileceği ve etik sorunların nasıl ele alınacağı konuları hala tartışılmakta. Yapay zekanın bu alandaki potansiyelini anlamak ve sınırlarını belirlemek için daha fazla araştırmaya ihtiyaç vardır.\n\nKaynak: Neuroscience News (2023, 26 Mart). Why Millions Are Turning to ChatGPT for Mental Health. https://neurosciencenews.com/ai-chatgpt-mental-health-30266/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/ai-chatgpt-mental-health-30266/",
-        "date": "2026-03-07T21:29:38.494830",
-        "timestamp": 1772918978.49484
+        "title": "Golden Retriever Genleri İnsanlarda Anksiyete ve Zekayla Bağlantılı Çıktı",
+        "original_title": "Golden Retriever genes linked to anxiety, aggression, and intelligence in humans",
+        "content": "Bilim insanları, 1.300 golden retriever üzerinde yaptıkları araştırmalar sonucunda, bazı köpeklerin neden daha kaygılı, enerjik veya agresif olduklarına dair genetik ipuçları keşfettiler. İlgili çalışmada, köpek davranışlarıyla ilişkilendirilen bazı genlerin, insanlarda da anksiyete, depresyon ve zeka gibi özelliklerle bağlantılı olduğu ortaya çıktı. Bu keşif, köpekler ve insanlar arasında duygular ve davranışlar açısından biyolojik kökenlerin paylaşıldığını göstermektedir. Bu bağlantıların anlaşılması, köpek sahiplerinin evcil hayvanlarının tepkilerini daha iyi yorumlamalarını sağlayabilir ve eğitim ile veteriner bakımını iyileştirebilir.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+        "category": "Psikoloji",
+        "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260306224229.htm",
+        "date": "2026-03-08T02:50:36.422966",
+        "timestamp": 1772938236.422974
     },
     "news_list": [
+        {
+            "title": "Uykusuzluk Adaleti Tehdit Ediyor: Yorgun Zanlılar Suçsuz Yere İtiraf Ediyor",
+            "original_title": "Exhaustion Loophole: How Sleep Deprivation Compromises Justice",
+            "content": "Uykusuzluk sadece küçük bir değişken değil, gerçeği tehdit eden önemli bir faktördür. Bilim insanları, yorgun zanlıların işlemedikleri suçları itiraf etme olasılıklarının daha yüksek olduğunu belirtiyorlar. Yapılan araştırmalar, uykusuz kalan bireylerin sorgulamalar sırasında baskı altında kaldıklarında yanlış itiraflarda bulunabileceklerini gösteriyor. Bu durum, özellikle uzun süreli sorgulamalarda ve gece geç saatlerde yapılan sorgulamalarda daha da belirgin hale geliyor. \n\nAdalet sisteminde bu durum, masum insanların haksız yere suçlanmasına ve mahkûm edilmesine yol açabilir. Uykusuzluk, bireylerin bilişsel yetilerini olumsuz etkileyerek karar verme süreçlerini zayıflatıyor. Bu nedenle, sorgulama protokollerinin, zanlıların yeterli dinlenme fırsatı bulmalarını sağlayacak şekilde düzenlenmesi gerektiği vurgulanıyor. \n\nSonuç olarak, bilim insanları ve hukuk uzmanları, adaletin sağlanması için uykusuzluk faktörünün göz ardı edilmemesi gerektiğini savunuyor. Uykusuz zanlıların itiraflarının güvenilirliğinin sorgulanması ve adil yargı süreçlerinin sağlanması için gerekli önlemlerin alınması gerektiği belirtiliyor.\n\nKaynak: Neuroscience News. (2026). Exhaustion Loophole: How Sleep Deprivation Compromises Justice. https://neurosciencenews.com/sleep-deprivation-false-confessions-30267/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/sleep-deprivation-false-confessions-30267/",
+            "date": "2026-03-08T02:50:33.556910",
+            "timestamp": 1772938233.556919
+        },
+        {
+            "title": "Golden Retriever Genleri İnsanlarda Anksiyete ve Zekayla Bağlantılı Çıktı",
+            "original_title": "Golden Retriever genes linked to anxiety, aggression, and intelligence in humans",
+            "content": "Bilim insanları, 1.300 golden retriever üzerinde yaptıkları araştırmalar sonucunda, bazı köpeklerin neden daha kaygılı, enerjik veya agresif olduklarına dair genetik ipuçları keşfettiler. İlgili çalışmada, köpek davranışlarıyla ilişkilendirilen bazı genlerin, insanlarda da anksiyete, depresyon ve zeka gibi özelliklerle bağlantılı olduğu ortaya çıktı. Bu keşif, köpekler ve insanlar arasında duygular ve davranışlar açısından biyolojik kökenlerin paylaşıldığını göstermektedir. Bu bağlantıların anlaşılması, köpek sahiplerinin evcil hayvanlarının tepkilerini daha iyi yorumlamalarını sağlayabilir ve eğitim ile veteriner bakımını iyileştirebilir.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Psikoloji",
+            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260306224229.htm",
+            "date": "2026-03-08T02:50:36.422966",
+            "timestamp": 1772938236.422974
+        },
         {
             "title": "ChatGPT: Ruh Sağlığında Yeni Dönem",
             "original_title": "Why Millions Are Turning to ChatGPT for Mental Health",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/lineage-brain-development-theory-30222/",
             "date": "2026-03-02T19:01:02.658978",
             "timestamp": 1772478062.658988
-        },
-        {
-            "title": "ChatGPT Terapist Olabilir mi? Yeni Araştırma Ciddi Etik Riskleri Ortaya Koyuyor",
-            "original_title": "ChatGPT as a therapist? New study reveals serious ethical risks",
-            "content": "Makale içeriği: Milyonlarca insan ChatGPT ve diğer yapay zeka tabanlı sohbet botlarını terapi tarzı tavsiyeler için kullanırken, Brown Üniversitesi'nden yeni bir araştırma ciddi bir uyarı veriyor: Bu sistemler, eğitimli terapistler gibi hareket etmeleri talimatı verildiğinde bile, ruh sağlığı hizmetlerinin temel etik standartlarını rutin olarak ihlal ediyorlar. Araştırmacılar, akran danışmanlar ve lisanslı psikologlarla yan yana değerlendirmelerde, kriz durumlarını yanlış ele almaktan zarar verici inançları pekiştirmeye, taraflı yanıtlar göstermeye ve gerçek anlayış olmadan bakımı taklit eden 'aldatıcı empati' sunmaya kadar 15 farklı etik risk tespit ettiler.\n\nAPA Formatında Kaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Psikoloji",
-            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260302030642.htm",
-            "date": "2026-03-02T19:01:05.852983",
-            "timestamp": 1772478065.852991
-        },
-        {
-            "title": "Bahşiş Vermenin Artan Eğilimi ve Hizmet Kalitesine Etkisi",
-            "original_title": "Why tipping keeps rising and may not improve service",
-            "content": "Neden, bir daha asla karşılaşmayacağımız birine bahşiş veriyoruz? Yeni araştırmalar, bunun sadece iyi hizmeti ödüllendirmekle ilgili olmadığını, aynı zamanda sosyal baskıyla da ilgili olduğunu öne sürüyor. Bazı insanlar içten bir takdir ifadesi olarak bahşiş verirken, diğerleri yalnızca normu takip ediyor. Ancak işin ilginç yanı: Gerçekten harika hizmete değer verenler, ortalamanın üzerinde bahşiş verme eğiliminde ve diğer herkes bu duruma uyum sağlamak için bahşiş miktarını artırıyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260302030637.htm",
-            "date": "2026-03-02T19:01:10.995059",
-            "timestamp": 1772478070.99507
         }
     ]
 }
