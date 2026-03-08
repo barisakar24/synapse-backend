@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-08T15:32:16.623613",
+    "last_updated": "2026-03-08T18:47:46.316600",
     "daily_news": {
-        "title": "Otizm Araştırmalarında Heyecan Verici Keşif: Beyindeki Moleküler Zincirleme Reaksiyon",
-        "original_title": "Scientists discover a brain signal that may trigger autism’s domino effect",
-        "content": "Bilim insanları, bazı otizm türlerinde rol oynayabilecek şaşırtıcı bir moleküler zincirleme reaksiyonu beyinlerinde keşfettiler. Araştırma, normalde beyin hücreleri arasındaki iletişimi ince ayar yapmada görev alan küçük bir sinyal molekülü olan nitrik oksidin, bazen nöronlar içinde bir dizi değişikliği tetikleyebileceğini öne sürüyor. Nitrik oksit aktivitesi arttığında, TSC2 adlı koruyucu bir proteini değiştirebilir ve önemli bir hücresel frenin zayıflamasına neden olabilir. Bu durum, büyüme ve protein üretimini kontrol eden mTOR yolunun aşırı aktif hale gelmesine izin verir. \n\nKaynak: Mind & Brain News -- ScienceDaily (APA formatında kaynak belirtilecektir.)",
+        "title": "Yaşlı Yetişkinler İçin Tutku Hala Öncelikli",
+        "original_title": "Older Adults Still Prioritize Passion",
+        "content": "Yeni bir araştırma, yaşlı yetişkinler için cinselliğin, bir \"romantizm\" ile bir \"arkadaşlık\" arasındaki farkı belirleyen faktör olduğunu ortaya koyuyor. Araştırmaya göre, yaş ilerledikçe romantik ilişkilerin öncelikleri ve dinamikleri değişse de, cinsellik hala önemli bir rol oynuyor. Çalışma, yaşlı bireylerin romantik ilişkilerinde fiziksel yakınlığın ve cinselliğin önemi üzerinde duruyor. Uzmanlar, yaşlı yetişkinlerin ilişkilerinde duygusal ve fiziksel tatminin önemine dikkat çekiyor ve cinselliğin bu anlamda ayırt edici bir unsur olduğunun altını çiziyor. Bu bulgular, yaşlı bireylerin romantik ilişkilerinde cinselliğin rolünü anlamamıza ve bu alanda daha fazla araştırma yapılmasına ışık tutuyor.\n\nKaynak: Neuroscience News. (2023). Older Adults Still Prioritize Passion. Retrieved from https://neurosciencenews.com/older-adult-sexual-intimacy-dating-30268/",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260307155943.htm",
-        "date": "2026-03-08T04:49:57.845199",
-        "timestamp": 1772945397.845208
+        "link": "https://neurosciencenews.com/older-adult-sexual-intimacy-dating-30268/",
+        "date": "2026-03-08T18:47:45.439280",
+        "timestamp": 1772995665.439289
     },
     "news_list": [
+        {
+            "title": "İstilacı Güvelerin Göç Sırasında Manyetik ve Görsel İpuçlarını Kullanma Yöntemleri",
+            "original_title": "How Invasive Moths Use Magnetic and Visual Cues to Migrate",
+            "content": "Bilim insanları, son araştırmalarında sonbahar ordusu güvelerinin uzun mesafeli yolculuklar sırasında sofistike bir iç pusula kullandığını keşfettiler. Bu iç pusula, manyetik alanları ve görsel işaretleri entegre ederek güvelerin göç yollarını belirlemelerine yardımcı oluyor. Güvelerin bu yeteneği, onların başarılı bir şekilde yeni habitatlara yayılmalarını ve orada hayatta kalmalarını sağlıyor.\n\nAraştırma, güvelerin, Dünya'nın manyetik alanlarını algılama yeteneğine sahip olduklarını ve bu manyetik bilgiyi görsel ipuçlarıyla birleştirerek yönlerini bulduklarını ortaya koydu. Örneğin, gece gökyüzündeki yıldızlar veya yeryüzündeki belirgin coğrafi özellikler gibi görsel işaretler, güvelerin göç sırasında yönlerini tayin etmelerinde önemli bir rol oynuyor.\n\nBilim insanları, güvelerin bu karmaşık navigasyon sistemini anlamanın, tarım alanlarındaki istilacı türlerin kontrol edilmesine yönelik yeni stratejiler geliştirilmesine yardımcı olabileceğine inanıyor. Güvelerin göç yollarını ve davranışlarını daha iyi anlamak, bu türlerin zararlarını en aza indirmek için daha etkili yöntemler geliştirilmesini sağlayabilir.\n\nBu bulgular, güvelerin sadece zararlı böcekler olmadığını, aynı zamanda karmaşık ve etkileyici navigasyon yeteneklerine sahip canlılar olduğunu gösteriyor. Araştırmanın sonuçları, hem bilim dünyasında hem de tarım sektöründe büyük ilgi uyandırdı.\n\nKaynak:\nNeuroscience News. (2023). How Invasive Moths Use Magnetic and Visual Cues to Migrate. https://neurosciencenews.com/moth-migration-magnetic-visual-30269/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/moth-migration-magnetic-visual-30269/",
+            "date": "2026-03-08T18:47:41.979993",
+            "timestamp": 1772995661.980002
+        },
+        {
+            "title": "Yaşlı Yetişkinler İçin Tutku Hala Öncelikli",
+            "original_title": "Older Adults Still Prioritize Passion",
+            "content": "Yeni bir araştırma, yaşlı yetişkinler için cinselliğin, bir \"romantizm\" ile bir \"arkadaşlık\" arasındaki farkı belirleyen faktör olduğunu ortaya koyuyor. Araştırmaya göre, yaş ilerledikçe romantik ilişkilerin öncelikleri ve dinamikleri değişse de, cinsellik hala önemli bir rol oynuyor. Çalışma, yaşlı bireylerin romantik ilişkilerinde fiziksel yakınlığın ve cinselliğin önemi üzerinde duruyor. Uzmanlar, yaşlı yetişkinlerin ilişkilerinde duygusal ve fiziksel tatminin önemine dikkat çekiyor ve cinselliğin bu anlamda ayırt edici bir unsur olduğunun altını çiziyor. Bu bulgular, yaşlı bireylerin romantik ilişkilerinde cinselliğin rolünü anlamamıza ve bu alanda daha fazla araştırma yapılmasına ışık tutuyor.\n\nKaynak: Neuroscience News. (2023). Older Adults Still Prioritize Passion. Retrieved from https://neurosciencenews.com/older-adult-sexual-intimacy-dating-30268/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/older-adult-sexual-intimacy-dating-30268/",
+            "date": "2026-03-08T18:47:45.439280",
+            "timestamp": 1772995665.439289
+        },
         {
             "title": "Otizm Araştırmalarında Heyecan Verici Keşif: Beyindeki Moleküler Zincirleme Reaksiyon",
             "original_title": "Scientists discover a brain signal that may trigger autism’s domino effect",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/navigation-brain-structure-ai-30228/",
             "date": "2026-03-02T21:41:59.356763",
             "timestamp": 1772487719.356775
-        },
-        {
-            "title": "Uzun Süreli COVID: Tat Kaybının Moleküler Sırrı",
-            "original_title": "Why Some COVID Patients Lose Taste for Years",
-            "content": "Bilim insanları, uzun COVID hastalarında tat alma tomurcuklarında bir moleküler 'amplifikatör' kusuru keşfettiler ve bu durum bazı tatların neden kaybolduğunu, bazılarının ise kaldığını açıklıyor. Araştırma, tat kaybının uzun süreli COVID belirtilerinden biri olarak ortaya çıkmasının altında yatan mekanizmaları aydınlatıyor. Tat alma tomurcuklarındaki bu kusur, bazı tatların algılanmasını engellerken, diğerlerinin algılanmasına neden oluyor. Çalışmanın sonuçları, tat kaybı yaşayan uzun COVID hastalarına yönelik potansiyel tedavi yöntemlerinin geliştirilmesine yardımcı olabilir. \n\nAPA: Neuroscience News. (2023). Why Some COVID Patients Lose Taste for Years. https://neurosciencenews.com/covid-taste-loss-plcb2-30227/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/covid-taste-loss-plcb2-30227/",
-            "date": "2026-03-02T21:42:03.425630",
-            "timestamp": 1772487723.425638
-        },
-        {
-            "title": "Bağımlılıkta Sosyalleşmenin Alkole Yenik Düşmesinin Sırrı: Anterior İnsula'nın Rolü",
-            "original_title": "Why Socializing Loses to Alcohol in Addiction",
-            "content": "Yeni araştırmalar, anterior insula'daki aktivitenin, beynin sosyal etkileşim yerine alkolü tercih etmesine neden olduğunu ortaya koyuyor. Bu bulgu, bağımlılık tedavisi için yeni bir hedef sunuyor. Anterior insula, karar verme süreçlerinde ve bağımlılık davranışlarında kilit bir rol oynayan bir beyin bölgesidir. Yapılan çalışmalara göre, bu bölgedeki artan aktivite, kişilerin sosyal ortamlarda bile alkolü tercih etmelerine yol açıyor. \n\nBu araştırma, bağımlılıkla mücadelede yeni stratejiler geliştirilmesine olanak sağlayabilir. Alkol bağımlılığı, sosyal ilişkileri zayıflatarak bireylerin toplumdan izole olmasına neden olabilir. Anterior insula'nın etkilerini anlamak, alkol bağımlılığı tedavisinde daha etkili yöntemlerin geliştirilmesine kapı aralayabilir.\n\nAraştırmacılar, bu bulguların klinik uygulamalara nasıl yansıtılabileceği konusunda çalışmalarını sürdürüyor. Özellikle, anterior insula'nın aktivitesini azaltabilecek tedavi yöntemleri üzerinde duruluyor. Bu tür yaklaşımlar, alkol bağımlılığı tedavisinde başarı oranını artırabilir.\n\nKaynak: Neuroscience News (2023). Why Socializing Loses to Alcohol in Addiction. Erişim adresi: https://neurosciencenews.com/alcohol-bias-anterior-insula-30223/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/alcohol-bias-anterior-insula-30223/",
-            "date": "2026-03-02T19:00:47.974855",
-            "timestamp": 1772478047.974867
         }
     ]
 }
