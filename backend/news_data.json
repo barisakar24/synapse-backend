@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-03-09T16:06:04.039221",
+    "last_updated": "2026-03-09T19:04:20.293384",
     "daily_news": {
-        "title": "Tek Bir Egzersizle Beyinde 'Hafıza Dalgaları' Oluşuyor",
-        "original_title": "Single Workout Sparks Brain Ripples in Humans",
-        "content": "Bilim insanları, sadece 20 dakikalık bir egzersizin insan beyninde 'hafıza dalgaları' oluşturduğunu nihayet gözlemledi. Bu dalgalar, hafızanın güçlenmesi ve bilgilerin daha iyi işlenmesiyle ilişkilendiriliyor. Yeni araştırma, egzersizin beyin sağlığı üzerindeki olumlu etkilerini bir kez daha gözler önüne serdi. Egzersiz esnasında beyin dalgalarında meydana gelen bu değişiklikler, öğrenme kapasitesinin artmasına ve hafızanın güçlenmesine katkıda bulunuyor.\n\nAraştırmacılar, katılımcıların kısa süreli egzersizleri sonrasında beyin aktivitelerini ölçtüler ve hafıza ile ilişkili olan bu dalgaların arttığını gözlemlediler. Özellikle hipokampus bölgesinde belirginleşen bu dalgalar, yeni bilgilerin işlenmesi ve depolanması sürecinde önemli bir rol oynuyor.\n\nÇalışmanın sonuçları, egzersizin sadece fiziksel değil aynı zamanda bilişsel sağlık üzerinde de önemli etkileri olduğunu gösteriyor. Araştırmacılar, düzenli fiziksel aktivitenin hafıza ve öğrenme süreçlerine katkı sağlayabileceğini belirtiyor.\n\nAPA formatında kaynak: Neuroscience News. (2026). Single Workout Sparks Brain Ripples in Humans. https://neurosciencenews.com/exercise-brain-ripples-memory-302712/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/exercise-brain-ripples-memory-302712/",
-        "date": "2026-03-09T16:05:24.923143",
-        "timestamp": 1773072324.923155
+        "title": "In Vivo CAR T Terapisi: Geleceğin İmmünoterapisi Olabilir mi?",
+        "original_title": "In Vivo CAR T Therapy Will the Bets Pay Off?",
+        "content": "Makale içeriği: Son zamanlarda klinik verilerin ortaya çıkmaya başlamasıyla birlikte, büyük ilaç firmaları in vivo CAR (Kimerik Antijen Reseptörü) üretiminin bir sonraki immünoterapi atılımı olduğuna dair inançlarını sinyallemekte. CAR T hücre tedavisi, kanser tedavisinde çığır açan bir yöntem olarak kabul ediliyor ve şimdiye kadar laboratuvar ortamında genetik olarak modifiye edilen hücrelerin hastalara nakledilmesiyle gerçekleştiriliyordu. Ancak in vivo teknikler, bu hücrelerin doğrudan hastanın vücudunda üretilmesini ve modifiye edilmesini amaçlıyor. Bu yeni yaklaşım, tedavi sürecini kolaylaştırabilir ve daha geniş bir hasta kitlesine ulaşmayı mümkün kılabilir. Büyük ilaç şirketlerinin bu alana yatırım yapması, in vivo CAR T tedavilerinin potansiyelini gösteriyor. Ancak bu yenilikçi terapilerin klinik etkinliği ve güvenliği hala değerlendirilmekte. Bu gelişmelerin sonucunda, in vivo CAR T tedavilerinin kanserle mücadelede önemli bir rol oynayıp oynamayacağını zaman gösterecek.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/cancer/in-vivo-car-t-therapy-will-the-bets-pay-off/)",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/cancer/in-vivo-car-t-therapy-will-the-bets-pay-off/",
+        "date": "2026-03-09T19:04:13.713652",
+        "timestamp": 1773083053.713661
     },
     "news_list": [
+        {
+            "title": "Yıldız Şeklindeki Hücreler: Geç Ergenlikte Hareket Mükemmelliğinin Anahtarı",
+            "original_title": "Astrocytes Perfect Movement in Late Adolescence",
+            "content": "Bilim insanları, yıldız şeklindeki astrocytlerin, yetişkinliğe ulaştıkça daha koordineli hale gelmemizin ardındaki sır olduğunu ortaya koyuyor. Astrocytler, merkezi sinir sistemindeki en bol bulunan hücre türlerinden biri olup, sinir hücreleri arasındaki iletişimi destekleme, kan-beyin bariyerini koruma ve sinir sisteminin homeostazını sağlama gibi birçok hayati fonksiyona sahiptir. Ancak, son araştırmalar gösteriyor ki bu hücreler, motor becerilerimizin gelişiminde de büyük rol oynuyor. \n\nErgenlik döneminde sinir sistemimizde meydana gelen değişiklikler, beynin farklı bölgelerinin daha iyi bir şekilde entegre olmasını sağlar. Bu süreç, motor becerilerin ve koordinasyonun daha hassas ve etkili bir hale gelmesiyle sonuçlanır. Yapılan araştırmalarda, astrocytlerin bu süreçteki etkileri incelenmiş ve bu hücrelerin, sinir hücreleri arasındaki sinyallerin senkronizasyonunu artırarak hareketlerin daha uyumlu hale gelmesini sağladığı gözlemlenmiştir.\n\nAstrocytlerin, beyindeki sinyallerin zamanlamasını ve mekânsal düzenini optimize ederek, ergenlik döneminin sonlarına doğru motor koordinasyonunu nasıl geliştirdiği üzerine yapılan bu çalışmalar, nörolojik ve gelişimsel bozuklukların tedavisinde yeni yaklaşımlar geliştirilmesine de imkân tanıyabilir.\n\nKaynak: Neuroscience News. (2026, March 15). Astrocytes Perfect Movement in Late Adolescence. https://neurosciencenews.com/astrocytes-motor-coordination-adolescence-30275/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/astrocytes-motor-coordination-adolescence-30275/",
+            "date": "2026-03-09T19:03:58.899254",
+            "timestamp": 1773083038.899263
+        },
+        {
+            "title": "Beynimiz Deepfake Sesleri Ayırt Edebiliyor",
+            "original_title": "Deepfake Detection: Your Brain Hears the Difference Even When You Can’t",
+            "content": "Son araştırmalar, işitsel sistemimizin, yapay zeka tarafından üretilen sesleri insan seslerinden ayırt edebildiğini ortaya koyuyor. Günümüzde deepfake teknolojileri, ses ve görüntü alanında ciddi bir ilerleme kaydetti. Bu durum, birçok kişi için gerçek ve sahte olanı ayırt etmeyi zorlaştırabiliyor. Ancak, yapılan bilimsel çalışmalar gösteriyor ki, bilinç düzeyinde fark edemesek bile beynimiz bu farkı algılayabiliyor.\n\nDeepfake ses teknolojileri, özellikle ses tanıma sistemleri ve dijital asistanlar gibi alanlarda yaygın olarak kullanılıyor. Ancak, bu teknolojilerin kötüye kullanımı, yanıltıcı bilgilerin yayılmasına ve dolandırıcılıklara sebep olabiliyor. Araştırmacılar, bu tür teknolojilerin getirdiği risklerle başa çıkabilmek için insan beyninin doğal yeteneklerinden faydalanmayı öneriyor.\n\nBu araştırma, yapay zeka ve sinirbilim alanında önemli bir adım olarak değerlendiriliyor. Beynimizin derin öğrenme algoritmaları ile üretilen sesleri nasıl algıladığını anlamak, gelecekte daha güvenli teknolojiler geliştirilmesine yardımcı olabilir.\n\nKaynak: Neuroscience News",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/ai-deepfake-speech-brain-detection-30274/",
+            "date": "2026-03-09T19:04:06.009896",
+            "timestamp": 1773083046.009905
+        },
+        {
+            "title": "In Vivo CAR T Terapisi: Geleceğin İmmünoterapisi Olabilir mi?",
+            "original_title": "In Vivo CAR T Therapy Will the Bets Pay Off?",
+            "content": "Makale içeriği: Son zamanlarda klinik verilerin ortaya çıkmaya başlamasıyla birlikte, büyük ilaç firmaları in vivo CAR (Kimerik Antijen Reseptörü) üretiminin bir sonraki immünoterapi atılımı olduğuna dair inançlarını sinyallemekte. CAR T hücre tedavisi, kanser tedavisinde çığır açan bir yöntem olarak kabul ediliyor ve şimdiye kadar laboratuvar ortamında genetik olarak modifiye edilen hücrelerin hastalara nakledilmesiyle gerçekleştiriliyordu. Ancak in vivo teknikler, bu hücrelerin doğrudan hastanın vücudunda üretilmesini ve modifiye edilmesini amaçlıyor. Bu yeni yaklaşım, tedavi sürecini kolaylaştırabilir ve daha geniş bir hasta kitlesine ulaşmayı mümkün kılabilir. Büyük ilaç şirketlerinin bu alana yatırım yapması, in vivo CAR T tedavilerinin potansiyelini gösteriyor. Ancak bu yenilikçi terapilerin klinik etkinliği ve güvenliği hala değerlendirilmekte. Bu gelişmelerin sonucunda, in vivo CAR T tedavilerinin kanserle mücadelede önemli bir rol oynayıp oynamayacağını zaman gösterecek.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/cancer/in-vivo-car-t-therapy-will-the-bets-pay-off/)",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/in-vivo-car-t-therapy-will-the-bets-pay-off/",
+            "date": "2026-03-09T19:04:13.713652",
+            "timestamp": 1773083053.713661
+        },
+        {
+            "title": "Teknoloji İlerlemesi ile İlaçlanabilir Proteomun Genişletilmesi",
+            "original_title": "Expanding the Druggable Proteome with Tech Advances",
+            "content": "2026 yılında ivme kazanan ek terapötik modaliteleri keşfetmek üzere dört önde gelen uzmanla görüştük: hedeflenmiş protein yıkıcılar ve makrosikller. Hedeflenmiş protein yıkıcılar, belirli proteinlerin yıkımını sağlayarak hastalıklarla mücadelede yeni bir yöntem sunuyor. Bu yöntem, özellikle geleneksel ilaçların etki gösteremediği proteinler üzerinde etkili olabilir. Makrosikller ise büyük, halka yapısındaki moleküller olarak, zor hedeflenebilir proteinlerle etkileşime girme kapasitesine sahiptir ve böylece tedavi edilebilir hastalıkların kapsamını genişletebilir. Bu iki yaklaşım, ilaç geliştirme süreçlerinde yenilikçi çözümler sunarak proteomun daha geniş bir kısmının 'ilaçlanabilir' hale gelmesine olanak tanıyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (2026). Expanding the Druggable Proteome with Tech Advances. Erişim adresi: https://www.genengnews.com/topics/drug-discovery/expanding-the-druggable-proteome-with-tech-advances/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/drug-discovery/expanding-the-druggable-proteome-with-tech-advances/",
+            "date": "2026-03-09T19:04:20.293336",
+            "timestamp": 1773083060.293345
+        },
         {
             "title": "Tek Bir Egzersizle Beyinde 'Hafıza Dalgaları' Oluşuyor",
             "original_title": "Single Workout Sparks Brain Ripples in Humans",
@@ -470,46 +510,6 @@
             "link": "https://neurosciencenews.com/tacit-knowledge-eye-tracking-30245/",
             "date": "2026-03-04T21:42:24.401449",
             "timestamp": 1772660544.401461
-        },
-        {
-            "title": "Otizmde Beyin Frenlerini Devre Dışı Bırakan Kimyasal Süreç Keşfedildi",
-            "original_title": "Molecular Chain Reaction Behind Autism Identified",
-            "content": "Bilim insanları, nitrik oksitin beynin 'frenlerini' nasıl devre dışı bıraktığını ve buna bağlı olarak otizmle ilişkilendirilen bir büyüme yolunun aşırı hızlandığını ortaya koyan özel bir kimyasal süreci tanımladılar. \n\nAraştırma, beynin gelişiminde kritik rol oynayan mTOR yolunun, nitrik oksit tarafından nasıl etkilenebileceğini ve otizme yol açabilecek potansiyel etkilerini incelemektedir. mTOR yolu, hücrelerin büyüme, çoğalma ve hayatta kalma gibi önemli fonksiyonlarını düzenleyen bir mekanizmadır. Ancak bu yolun aşırı aktif hale gelmesi, otizm spektrum bozuklukları da dahil olmak üzere çeşitli nörogelişimsel bozukluklara yol açabilir.\n\nBilim insanlarının bulguları, nitrik oksitin, beynin normal işleyişini ve gelişimini düzenleyen fren mekanizmalarını nasıl engelleyebileceğini ortaya koymaktadır. Bu durum, mTOR yolunun kontrolsüz bir şekilde aktif hale gelmesine ve beyin hücrelerinde anormal bir büyümeye yol açabilir.\n\nBu yeni keşif, otizm gibi nörogelişimsel bozuklukların tedavisinde yeni stratejiler geliştirmek için önemli bir adım olabilir. Araştırmacılar, bu kimyasal süreci hedef alarak mTOR yolunun aktivitesini düzenleyebilecek potansiyel terapötik müdahalelerin geliştirilebileceğini öne sürmektedir.\n\nOtizm spektrum bozukluklarının karmaşık yapısı göz önüne alındığında, bu tür moleküler mekanizmaların anlaşılması, hastalığın daha etkili bir şekilde yönetilmesine olanak sağlayabilir.\n\nKaynak: Neuroscience News (2023)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/nitric-oxide-tsc2-mtor-autism-30244/",
-            "date": "2026-03-04T21:42:31.877121",
-            "timestamp": 1772660551.87713
-        },
-        {
-            "title": "Psikedelikler Myelini Yenileyerek Travma Sonrası Stres Bozukluğunu İyileştiriyor",
-            "original_title": "Psychedelics Remodel Myelin to Heal PTSD",
-            "content": "Yeni araştırmalar, psikedeliklerin sadece beyni yeniden yapılandırmakla kalmayıp, aynı zamanda uzun vadeli travma sonrası stres bozukluğu (TSSB) iyileşmesi için gerekli olan 'nöral izolasyonu' fiziksel olarak onardığını ortaya koyuyor. Psikedeliklerin, beyindeki sinir hücreleri arasında iletişimi kolaylaştıran ve aynı zamanda sinir liflerini koruyan myelin kılıfını yeniden yapılandırdığı keşfedildi. Bu buluş, TSSB gibi zihinsel sağlık bozukluklarının tedavisinde devrim niteliğinde olabilir.\n\nAraştırmacılar, psikedeliklerin beyin yapısını nasıl etkilediğini incelemek için çeşitli deneyler gerçekleştirdiler. Sonuçlar, bu maddelerin sinir hücreleri arasındaki bağlantıları güçlendirdiğini ve myelin üretimini artırdığını gösterdi. Myelin, sinir hücrelerinin verimli bir şekilde iletişim kurmasına yardımcı olan yağlı bir madde olarak bilinir. Psikedeliklerin myelin üretimini teşvik etmesi, sinir hücrelerinin daha sağlam ve dayanıklı hale gelmesini sağlar.\n\nBu yeni bulgular, TSSB tedavisindeki geleneksel yaklaşımlara kıyasla psikedeliklerin daha etkili olabileceğini düşündürmektedir. Psikedeliklerin, beyin yapısını doğrudan etkileyerek uzun vadeli ve sürdürülebilir bir iyileşme süreci sağladığı öne sürülmektedir. Bu durum, psikedeliklerin yalnızca semptomları hafifletmekle kalmayıp, aynı zamanda bozukluğun altında yatan nedenleri de ele aldığını göstermektedir.\n\nPsikedeliklerin terapötik potansiyeli üzerine yapılan bu araştırma, gelecekteki tedavi yöntemleri için umut verici bir temel oluşturuyor. Araştırmacılar, psikedeliklerin güvenli ve kontrollü bir şekilde kullanıldığı takdirde, TSSB gibi zihinsel sağlık bozukluklarının tedavisinde önemli bir rol oynayabileceğini belirtmektedirler.\n\nKaynak: Neuroscience News. (2026). Psychedelics Remodel Myelin to Heal PTSD. https://neurosciencenews.com/psychedelics-myelin-ptsd-30243/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/psychedelics-myelin-ptsd-30243/",
-            "date": "2026-03-04T19:02:40.614965",
-            "timestamp": 1772650960.614976
-        },
-        {
-            "title": "Parkinson İlişkili Protein, Kadınlarda Alzheimer'ı 20 Kat Hızlandırıyor",
-            "original_title": "Parkinson’s Protein Turbocharges Alzheimer’s in Women",
-            "content": "Parkinson ile ilişkili bir proteinin, kadınlarda Alzheimer hastalığını 20 kat hızlandırdığı tespit edildi. Bu durum, demans riskindeki büyük eşitsizliği açıklıyor. Son araştırmalar, alfa-sinüklein adı verilen bu proteinin kadın beyinlerindeki etkisinin, Alzheimer semptomlarının daha hızlı ilerlemesine neden olduğunu ortaya koyuyor. Çalışma, kadınların neden Alzheimer'a erkeklere göre daha fazla yakalandığını anlamada önemli bir adım olarak değerlendiriliyor. Araştırmacılar, bu proteinin beyindeki diğer patolojik proteinlerle nasıl etkileşime girdiğini ve bu etkileşimlerin Alzheimer hastalığına nasıl katkıda bulunduğunu daha iyi anlamak için çalışmalarına devam ediyor. Bu bulgular, cinsiyete özgü tedavi stratejilerinin geliştirilmesi için yeni kapılar açabilir. \n\nKaynak: Neuroscience News. (2023). Parkinson’s Protein Turbocharges Alzheimer’s in Women. https://neurosciencenews.com/women-alzheimers-alpha-synuclein-30241/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/women-alzheimers-alpha-synuclein-30241/",
-            "date": "2026-03-04T19:02:48.103505",
-            "timestamp": 1772650968.103516
-        },
-        {
-            "title": "Beyin Boyutu, Makak Toplumlarındaki Dostluğu Tahmin Ediyor",
-            "original_title": "Brain Size Predicts Friendliness in Macaque Societies",
-            "content": "Yeni araştırmalar, primatlarda sosyal toleransın daha büyük bir amigdala ile bağlantılı olduğunu ortaya koyuyor. Amigdala, karmaşık sosyal ağları yönetmeye yardımcı olan bir beyin bölgesidir. Bu bulgu, makak maymunlarının sosyal yapılarında daha büyük beyinlerin, özellikle de amigdalalarının, topluluk içindeki dostça etkileşimleri nasıl artırdığına dair yeni anlayışlar sunuyor. Çalışma, makakların sosyal davranışlarını ve bu davranışların beynin belirli bölgeleriyle olan ilişkisini inceleyerek, sosyal tolerans ve beyin yapısı arasındaki bağlantıyı derinlemesine araştırıyor.\n\nAraştırma, özellikle sosyal ağlarda daha fazla tolerans gösteren makakların, daha büyük amigdalalara sahip olduklarını gösteriyor. Amigdalanın, sosyal bilgi işlemeyi ve duygusal tepkileri düzenlemekte önemli bir rol oynadığı biliniyor. Bu durum, sosyal bağların sürdürülmesinde ve topluluk içindeki bireyler arasındaki ilişkilerin güçlendirilmesinde önemli bir etken olabilir.\n\nBu bulgular, sosyal yapılar ve beyin gelişimi arasındaki karmaşık ilişkileri anlamamızda yeni perspektifler sunuyor. Ayrıca, primatların sosyal davranışlarının evrimini anlamak için de önemli ipuçları sağlıyor. Araştırma, sosyal davranışların, yalnızca çevresel faktörlere değil, aynı zamanda biyolojik yapı ve işlevlere de bağlı olduğunu öne sürüyor.\n\nKaynak: Neuroscience News, \"Brain Size Predicts Friendliness in Macaque Societies\", https://neurosciencenews.com/social-tolerance-amygdala-30238/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/social-tolerance-amygdala-30238/",
-            "date": "2026-03-04T15:53:27.279093",
-            "timestamp": 1772639607.279104
         }
     ]
 }
