@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-03-10T02:43:13.047062",
+    "last_updated": "2026-03-10T04:48:39.940565",
     "daily_news": {
-        "title": "Zinde Beyinler Her Egzersizden Daha Fazla Faydalanıyor",
-        "original_title": "Fitter Brains Get a Bigger Boost from Every Workout",
-        "content": "Yeni araştırmalar, aerobik kondisyonunuzu (VO2 Max) geliştirmenin, egzersiz sonrası beyninizin nöroprotektif protein BDNF'nin daha yüksek seviyelerini üretmesi için eğittiğini öne sürüyor. Bu bulgular, fiziksel zindeliğin sadece vücut sağlığı için değil, aynı zamanda beyin sağlığı için de önemli olduğunu gösteriyor. \n\nAraştırma, fiziksel olarak daha fit olan bireylerin, egzersizden sonra BDNF seviyelerinde daha büyük bir artış yaşadıklarını ortaya koydu. BDNF, beyin hücreleri için kritik bir protein olup, hafıza ve öğrenme gibi bilişsel işlevlerin geliştirilmesinde rol oynar. Daha yüksek BDNF seviyeleri, nörodejeneratif hastalıklara karşı da koruyucu bir etkisi olduğundan, bu bulgular büyük önem taşımaktadır.\n\nÇalışmanın bulguları, fiziksel aktivitenin beyindeki nöroplastisiteyi artırarak, yaşa bağlı bilişsel gerilemeleri yavaşlatabileceğini ya da önleyebileceğini de ortaya koyuyor. Düzenli egzersiz, beynin yeni bilgiye adapte olma ve öğrenme kapasitesini artırabilir. \n\nBu sonuçlar, egzersizin hem fiziksel hem de zihinsel sağlık için önemini bir kez daha vurgulamakta olup, bireylerin fiziksel aktivitelerini artırmalarının beyin sağlığına katkıda bulunabileceğini göstermektedir.\n\nKaynak: Neuroscience News, 2023, \"Fitter Brains Get a Bigger Boost from Every Workout\". Erişim adresi: https://neurosciencenews.com/fitness-levels-bdnf-brain-boost-30279/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/fitness-levels-bdnf-brain-boost-30279/",
-        "date": "2026-03-10T02:43:03.337476",
-        "timestamp": 1773110583.337488
+        "title": "Biyomimetik Platformla Güçlendirilen CAR T Hücre Tedavisi, Dirençli Lösemide Umut Vaadediyor",
+        "original_title": "CAR T Cell Therapy Boosted by Biomimetic Platform in Refractory Leukemia",
+        "content": "Lösemi türlerinde yüksek oranda ifade edilen bir protein olan CD71, demir taşınmasında rol oynar. Bu bilgi, araştırmacıların ferritin kendiliğinden birleşmesini tanımlı çözücü ve montaj koşulları altında hassas bir şekilde kontrol ederek Ferritin Agregasyon Hücre Bağlayıcı (FACE) tasarlamalarını sağladı. Bu yenilikçi biyomimetik platform, dirençli lösemi vakalarında CAR T hücre tedavisinin etkinliğini artırmada umut vadeden bir yöntem olarak öne çıkıyor. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/cancer/car-t-cell-therapy-boosted-by-biomimetic-platform-in-refractory-leukemia/)",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/cancer/car-t-cell-therapy-boosted-by-biomimetic-platform-in-refractory-leukemia/",
+        "date": "2026-03-10T04:48:39.940519",
+        "timestamp": 1773118119.940529
     },
     "news_list": [
+        {
+            "title": "Biyomimetik Platformla Güçlendirilen CAR T Hücre Tedavisi, Dirençli Lösemide Umut Vaadediyor",
+            "original_title": "CAR T Cell Therapy Boosted by Biomimetic Platform in Refractory Leukemia",
+            "content": "Lösemi türlerinde yüksek oranda ifade edilen bir protein olan CD71, demir taşınmasında rol oynar. Bu bilgi, araştırmacıların ferritin kendiliğinden birleşmesini tanımlı çözücü ve montaj koşulları altında hassas bir şekilde kontrol ederek Ferritin Agregasyon Hücre Bağlayıcı (FACE) tasarlamalarını sağladı. Bu yenilikçi biyomimetik platform, dirençli lösemi vakalarında CAR T hücre tedavisinin etkinliğini artırmada umut vadeden bir yöntem olarak öne çıkıyor. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/cancer/car-t-cell-therapy-boosted-by-biomimetic-platform-in-refractory-leukemia/)",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/car-t-cell-therapy-boosted-by-biomimetic-platform-in-refractory-leukemia/",
+            "date": "2026-03-10T04:48:39.940519",
+            "timestamp": 1773118119.940529
+        },
         {
             "title": "Zinde Beyinler Her Egzersizden Daha Fazla Faydalanıyor",
             "original_title": "Fitter Brains Get a Bigger Boost from Every Workout",
@@ -500,16 +510,6 @@
             "link": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
             "date": "2026-03-05T15:57:32.245733",
             "timestamp": 1772726252.245743
-        },
-        {
-            "title": "Yangın Önleme Teknolojilerinde Yeni Dönem: Yıldırımlara Karşı Mücadele",
-            "original_title": "How much wildfire prevention is too much?",
-            "content": "Yangınların en kötüsünü önleme yarışı giderek daha yüksek teknolojiye dayanan bir hale geldi. Şirketler, yapay zeka ile yangın tespit sistemleri ve erken alevleri söndürebilen dronlar öneriyor. Şimdi ise, bir Kanadalı girişim yıldırımları hedef aldığını söylüyor. Yıldırım kaynaklı yangınlar büyük bir sorun olabilir: 2023 yılında Kanada'da meydana gelen orman yangınları neredeyse 500 milyon metrik ton karbon salınımına neden oldu. Bu yangınların çoğu, yıldırımlar tarafından kıvılcım aldı. Yeni teknolojiler, bu tür doğal yangın nedenlerini önlemede önemli bir rol oynayabilir. Girişimci şirketler, yapay zeka ve drone teknolojilerini kullanarak, yıldırımları önceden tespit etmeyi ve yıldırımın neden olduğu yangınları hızlıca kontrol altına almayı amaçlıyor. Bu tür yenilikçi çözümler, gelecekte yangınlarla mücadelede önemli bir değişiklik yaratabilir.\n\nKaynak: MIT Technology Review. (2023). How much wildfire prevention is too much? Erişim adresi: https://www.technologyreview.com/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/05/1133960/wildfire-prevention-limits/",
-            "date": "2026-03-05T13:19:27.230059",
-            "timestamp": 1772716767.23007
         }
     ]
 }
