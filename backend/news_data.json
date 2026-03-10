@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-03-10T13:20:51.478057",
+    "last_updated": "2026-03-10T16:07:24.021172",
     "daily_news": {
-        "title": "Loudoun County: Veri Merkezlerinin Yeni Başkenti",
-        "original_title": "Prioritizing energy intelligence for sustainable growth",
-        "content": "Loudoun County, Virginia, eskiden pastoral manzaraları ve Washington, DC'ye yakınlığı ile tanınırken, son yıllarda daha modern bir üne kavuştu: Bölge, dünya üzerindeki en yüksek veri merkezi yoğunluğuna sahip yer olarak biliniyor. On yıl önce, bu tesisler e-posta ve e-ticaretin altyapısını sağlıyordu. Bugün ise, her şeye yapay zeka entegre edilmesi talebinin meteorik yükselişi sayesinde, bu veri merkezleri çok daha fazlasını yapıyor. Yapay zekanın yaygınlaşması, enerji tüketiminde büyük bir artışa yol açtı. Bu da enerji verimliliği ve sürdürülebilir büyüme için akıllı enerji yönetimi stratejilerinin önemini artırdı. Veri merkezlerinin enerji ihtiyaçlarını daha sürdürülebilir hale getirme çabaları, dünya genelinde daha geniş enerji yönetimi ve sürdürülebilirlik stratejilerine de ışık tutuyor.\n\nKaynak: MIT Technology Review",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
-        "date": "2026-03-10T13:20:44.047002",
-        "timestamp": 1773148844.04701
+        "title": "Çiğnemenin Beyne Olan Etkisi: Neden Çiğnemek Beynimize İyi Geliyor?",
+        "original_title": "Why Chewing Feels So Good to Your Brain",
+        "content": "Yeni araştırmalar, kemirmenin sadece bir refleks olmadığını, aynı zamanda beyin tarafından ödüllendirilen bir davranış olduğunu ortaya koyuyor. Bu davranış, çeneleri hizalı tutmanın yanı sıra, beynin zevk merkezlerini de harekete geçiriyor. Çiğneme eylemi, beyin üzerinde olumlu etkiler yaratıyor ve bu da çiğnemenin neden bu kadar keyif verici olduğunu açıklıyor. \n\nAraştırmacılar, çiğnemenin beyinde dopamin gibi nörotransmitterlerin salgılanmasını tetiklediğini belirtiyor. Dopamin, beynin ödül ve zevk sisteminde kritik bir rol oynayan bir kimyasal. Çiğneme sırasında artan dopamin salınımı, bu eylemin neden rahatlatıcı ve keyif verici olduğunu açıklayabilir. \n\nBu bulgular, sadece yiyecekleri çiğnemekle sınırlı kalmıyor; aynı zamanda tırnak yemek veya sakız çiğnemek gibi diğer çiğneme davranışlarını da kapsıyor. Bu tür davranışlar, stresle başa çıkmak veya odaklanmayı artırmak gibi çeşitli nedenlerle tercih edilebiliyor.\n\nBu araştırma, çiğneme davranışının nörolojik faydalarını daha iyi anlamamıza yardımcı oluyor ve bu konuda daha fazla araştırma yapılmasının önünü açabilir. \n\nKaynakça: Neuroscience News (2023). Why Chewing Feels So Good to Your Brain. Erişim adresi: https://neurosciencenews.com/gnawing-dopamine-reward-circuit-30281/",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/gnawing-dopamine-reward-circuit-30281/",
+        "date": "2026-03-10T16:06:56.484857",
+        "timestamp": 1773158816.484867
     },
     "news_list": [
+        {
+            "title": "Çiğnemenin Beyne Olan Etkisi: Neden Çiğnemek Beynimize İyi Geliyor?",
+            "original_title": "Why Chewing Feels So Good to Your Brain",
+            "content": "Yeni araştırmalar, kemirmenin sadece bir refleks olmadığını, aynı zamanda beyin tarafından ödüllendirilen bir davranış olduğunu ortaya koyuyor. Bu davranış, çeneleri hizalı tutmanın yanı sıra, beynin zevk merkezlerini de harekete geçiriyor. Çiğneme eylemi, beyin üzerinde olumlu etkiler yaratıyor ve bu da çiğnemenin neden bu kadar keyif verici olduğunu açıklıyor. \n\nAraştırmacılar, çiğnemenin beyinde dopamin gibi nörotransmitterlerin salgılanmasını tetiklediğini belirtiyor. Dopamin, beynin ödül ve zevk sisteminde kritik bir rol oynayan bir kimyasal. Çiğneme sırasında artan dopamin salınımı, bu eylemin neden rahatlatıcı ve keyif verici olduğunu açıklayabilir. \n\nBu bulgular, sadece yiyecekleri çiğnemekle sınırlı kalmıyor; aynı zamanda tırnak yemek veya sakız çiğnemek gibi diğer çiğneme davranışlarını da kapsıyor. Bu tür davranışlar, stresle başa çıkmak veya odaklanmayı artırmak gibi çeşitli nedenlerle tercih edilebiliyor.\n\nBu araştırma, çiğneme davranışının nörolojik faydalarını daha iyi anlamamıza yardımcı oluyor ve bu konuda daha fazla araştırma yapılmasının önünü açabilir. \n\nKaynakça: Neuroscience News (2023). Why Chewing Feels So Good to Your Brain. Erişim adresi: https://neurosciencenews.com/gnawing-dopamine-reward-circuit-30281/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/gnawing-dopamine-reward-circuit-30281/",
+            "date": "2026-03-10T16:06:56.484857",
+            "timestamp": 1773158816.484867
+        },
+        {
+            "title": "Cannabis, Hafızayı Değiştirerek Yanlış Anılar Yaratıyor",
+            "original_title": "Cannabis Reshapes the Way We Recall the Truth",
+            "content": "Yeni bir araştırma, cannabisin sadece unutkanlığa yol açmadığını, aynı zamanda beyinde hiç yaşanmamış anılar 'yaratabileceğini' ortaya koyuyor. Araştırmacılar, cannabis kullanımının hafızayı nasıl etkilediğini ve bunun sonucunda kişilerin gerçekte yaşanmamış olayları hatırlama olasılığının arttığını keşfetti. Bu durum, cannabisin beyindeki bellek süreçlerini bozarak yanlış anıların oluşmasına neden olabileceğini gösteriyor.\n\nÇalışma, cannabisin hafızayı nasıl etkilediğine dair yeni anlayışlar sunuyor ve bunun, kullanıcıların gerçek olayları nasıl hatırladıklarını etkileyebileceğini öne sürüyor. Araştırmacılar, cannabisin bellek üzerindeki etkilerini daha iyi anlamak için daha fazla çalışmanın gerekli olduğunu belirtiyorlar. Bu bulgular, özellikle yasal ve tıbbi cannabis kullanımının arttığı bir dönemde, hafıza üzerindeki potansiyel etkilerinin daha iyi anlaşılmasına katkıda bulunabilir.\n\nAPA formatında kaynak: Neuroscience News. (2023). Cannabis Reshapes the Way We Recall the Truth. Retrieved from https://neurosciencenews.com/cannabis-memory-distortion-30280/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/cannabis-memory-distortion-30280/",
+            "date": "2026-03-10T16:07:03.280421",
+            "timestamp": 1773158823.28043
+        },
+        {
+            "title": "Pokémon Go ve Teslimat Robotlarının Dünyayı Tanıma Yolculuğu",
+            "original_title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
+            "content": "Pokémon Go, dünyanın ilk artırılmış gerçeklik mega hitlerinden biri olarak tarihe geçti. 2016 yılında Google'ın yan kuruluşu Niantic tarafından piyasaya sürülen bu AR eklentisi, Pokémon franchise'ının gücünü arkasına alarak kısa sürede küresel bir fenomen haline geldi. Chicago'dan Oslo'ya, Enoshima'dan dünyanın dört bir yanına, oyuncular Jigglypuff ya da Squirtle gibi Pokémon'ları yakalama umuduyla sokaklara döküldü.\n\nAncak bu fenomen yalnızca oyuncuların değil, aynı zamanda teknoloji dünyasının da ilgisini çekti. Pokémon Go'nun sunduğu artırılmış gerçeklik deneyimi, teslimat robotları gibi otonom cihazların çevrelerini daha iyi algılamaları için benzersiz bir fırsat sağladı. Oyunun geliştirilmesi sürecinde haritalandırma ve konum tespiti teknolojileri ileri seviyelere taşındı ve bu da robotların çevrelerini daha hassas bir şekilde tanımlamalarına olanak tanıdı.\n\nBu gelişmeler, özellikle teslimat robotlarının navigasyon sistemlerinde büyük bir atılım olarak kabul ediliyor. Otonom cihazlar, Pokémon Go'nun sağladığı veri ve haritalama teknolojilerini kullanarak hareket ettikleri alanları daha iyi analiz edebilme yeteneği kazandı. Bu sayede, teslimat süreçleri daha verimli hale gelirken, robotların çevrelerine duyarlılığı da arttı.\n\nPokémon Go'nun beklenmeyen bu yan etkisi, artırılmış gerçeklik teknolojilerinin farklı alanlarda nasıl dönüştürücü bir rol oynayabileceğini gösteriyor. Gelecekte, bu tür teknolojilerin daha da gelişmesi ve farklı uygulama alanlarına yayılması bekleniyor.\n\nKaynak: MIT Technology Review, APA formatında gösterilmiştir.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
+            "date": "2026-03-10T16:07:15.013784",
+            "timestamp": 1773158835.013792
+        },
+        {
+            "title": "Zoonotik Virüslerin Doğal Seçilimi: Salgınların Kökenleri Ortaya Çıkıyor",
+            "original_title": "Outbreak Origins Unveiled by Zoonotic Virus Natural Selection",
+            "content": "Çoğu zoonotik virüs, insanlarda kalıcı olarak insandan insana bulaşmayı sürdürmek için uyum sağlayıcı mutasyonlar edinmelerinin gerekli olduğunu göstermez. Bu, zoonotik virüslerin insan popülasyonları içinde yayılma kapasiteleri üzerine yapılan araştırmaların önemli bir bulgusudur. Çalışmalar, birçok zoonotik virüsün insandan insana bulaşma yeteneği kazanmak için genetik uyum sağlama ihtiyacı duymadığını ortaya koyuyor. Bu bulgu, zoonotik virüslerin yayılma dinamiklerini ve potansiyel tehditlerini anlamak için yeni bir bakış açısı sunuyor. \n\nBu yeni bilgi, gelecekteki salgın risklerini değerlendirmek ve önlemek için önemli bir adım olabilir. Araştırmacılar, zoonotik virüslerin doğal ortamlarında nasıl geliştiğini ve insanlara nasıl yayılabileceğini anlamak adına doğal seçilim süreçlerini incelemeye devam ediyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News, https://www.genengnews.com/topics/infectious-diseases/outbreak-origins-unveiled-by-zoonotic-virus-natural-selection/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/infectious-diseases/outbreak-origins-unveiled-by-zoonotic-virus-natural-selection/",
+            "date": "2026-03-10T16:07:24.021124",
+            "timestamp": 1773158844.021133
+        },
         {
             "title": "Loudoun County: Veri Merkezlerinin Yeni Başkenti",
             "original_title": "Prioritizing energy intelligence for sustainable growth",
@@ -470,46 +510,6 @@
             "link": "https://www.genengnews.com/topics/translational-medicine/degenerating-tanycytes-disrupt-tau-removal-shaping-alzheimers-progression/",
             "date": "2026-03-06T02:44:21.115838",
             "timestamp": 1772765061.115846
-        },
-        {
-            "title": "Bispesifik Antikorların Kalitesini Artırma ve Geliştirme Sürecini Hızlandırma",
-            "original_title": "Enhancing Quality and Accelerating the Development of Bispecific Antibodies",
-            "content": "Bispesifik antikorların (BsAb'ler) iki farklı molekülü hedef alabilme ve sinerjik etkiler yaratabilme yeteneği, dirençli kanserler ve otoimmün hastalıklar için yeni tedavi seçenekleri sunmakta ve birçok tıbbi ihtiyacı potansiyel olarak karşılamaktadır. BsAb'lerin bu eşsiz özellikleri, onları geleneksel tedavilere yanıt vermeyen hastalıkların tedavisinde umut verici bir seçenek haline getirmektedir. Geleneksel monospesifik antikorlardan farklı olarak, BsAb'ler aynı anda iki farklı hedefe bağlanabilmekte, böylece tedavi etkinliğini artırabilmekte ve yan etki profilini iyileştirebilmektedir. BsAb'lerin geliştirilmesi, karmaşık yapıları ve üretim süreçleri nedeniyle zorlu bir süreç olabilir. Ancak, biyoteknoloji alanındaki son gelişmeler, bu sürecin hızlandırılmasına ve kalitenin artırılmasına olanak tanımaktadır. Bu makalede, BsAb'lerin geliştirilmesindeki mevcut zorluklar ve bu süreçlerin nasıl iyileştirilebileceği üzerine odaklanılmaktadır. Araştırmalar, BsAb'lerin kanser tedavisinde ve otoimmün hastalıkların yönetiminde daha etkili ve güvenli alternatifler sunabileceğini göstermektedir. Bu nedenle, BsAb'lerin geliştirilmesinin hızlandırılması ve kalitesinin artırılması, gelecekteki tedaviler için büyük bir öneme sahiptir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). Enhancing quality and accelerating the development of bispecific antibodies. Retrieved from https://www.genengnews.com/topics/bioprocessing/enhancing-quality-and-accelerating-the-development-of-bispecific-antibodies/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/bioprocessing/enhancing-quality-and-accelerating-the-development-of-bispecific-antibodies/",
-            "date": "2026-03-06T02:44:29.704084",
-            "timestamp": 1772765069.704092
-        },
-        {
-            "title": "Gençlerdeki Saldırganlık Yaşlanmayı Hızlandırıyor",
-            "original_title": "Teen Aggression Speeds Up Aging",
-            "content": "İçten dışa yaşlanma: Bilim insanları, sık sık başkalarına saldıran gençlerin 30 yaşına geldiklerinde daha hızlı fiziksel yaşlanma belirtileri gösterdiğini buldu. Bu durum, gençlerin davranışsal problemlerinin sadece sosyal ve psikolojik etkilerle sınırlı kalmayıp, biyolojik yaşlanma süreçlerine de etki edebileceğini öne sürüyor. \n\nAraştırmalar, ergenlik dönemindeki saldırgan davranışların, bireylerin biyolojik yaşlanma hızını artırabileceğini gösteriyor. Bu bulgular, gençlik döneminde düzenli olarak öfke patlamaları yaşayan bireylerin, 30'lu yaşlarına geldiklerinde daha hızlı bir biyolojik yaşlanma süreci geçirebileceğine işaret ediyor. \n\nBu çalışmanın sonuçları, gençlerin duygusal ve davranışsal sağlıklarının, sadece sosyal ilişkileri ve ruh sağlıkları üzerinde değil, aynı zamanda fiziksel sağlıkları üzerinde de uzun vadeli etkileri olabileceğini gözler önüne seriyor. Bu nedenle, gençlerin duygusal regülasyon becerilerini geliştirmeleri ve saldırgan davranışlarını yönetmeyi öğrenmeleri, uzun vadede sağlıkları açısından büyük önem taşıyor.\n\nKaynak: Neuroscience News, 2026",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/teen-aggression-biological-aging-30254/",
-            "date": "2026-03-05T21:44:46.090837",
-            "timestamp": 1772747086.090848
-        },
-        {
-            "title": "Beyin Hücreleri Öğrenirken Takım Haline Geliyor",
-            "original_title": "Brain Cells Team Up as You Learn",
-            "content": "Yeni araştırmalar, bir beceriyi ustalaştıkça beyin hücrelerinizin izole çalışmayı bıraktığını ve son derece koordine bir takım olarak hareket etmeye başladığını ortaya koyuyor. Bu buluş, beynin öğrenme süreçlerini nasıl optimize ettiğine dair önemli ipuçları sunuyor. Beyin hücrelerinin bu şekilde organize olması, öğrenme ve hafıza süreçlerinin daha verimli hale gelmesine yardımcı oluyor.\n\nAraştırma, beyin hücrelerinin birbirleriyle nasıl etkileşime girdiği ve karmaşık görevleri nasıl çözdüğü konularında yeni bilgiler sağlıyor. Beyin, beceri öğrenme sürecinde, farklı beyin bölgelerini koordine ederek karmaşık bilgileri işleyip saklıyor. Bu süreç, beynin plastisitesi sayesinde gerçekleşiyor ve beyin hücrelerinin esnekliği, yeni görevlerle başa çıkma kapasitelerini artırıyor.\n\nBeyin hücrelerinin bu koordinasyon yeteneği, öğrenilen bilginin daha kalıcı olmasını ve gerektiğinde daha hızlı geri çağrılmasını sağlıyor. Bu, eğitim ve rehabilitasyon alanlarında daha etkili stratejilerin geliştirilmesine olanak tanıyabilir.\n\nKaynak: Neuroscience News",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/learning-neural-coordination-30252/",
-            "date": "2026-03-05T21:44:53.144384",
-            "timestamp": 1772747093.144393
-        },
-        {
-            "title": "Kronik Enflamasyon Beynin Bilişsel Merkezini Yeniden Şekillendiriyor",
-            "original_title": "Chronic Inflammation Rewires the Brain’s Cognitive Center",
-            "content": "Bilim insanları, viral enfeksiyonlar sonrası bazı bireylerde görülen beyin sisi ve hafıza kaybının nedenlerini açıklayan biyolojik 'imzaları' belirlediler. Kronik enflamasyonun, beyinde bilişsel işlevlerin gerçekleştiği bölgelerde önemli değişikliklere yol açtığı tespit edildi. Bu durum, özellikle COVID-19 gibi virüslerin uzun vadeli etkilerini anlamada önemli bir adım olarak değerlendiriliyor.\n\nAraştırmacılar, bağışıklık sisteminin uzun süreli aktivasyonunun, beyin hücrelerinin iletişim kurma biçimini değiştirdiğini ve bilişsel işlevleri etkilediğini buldular. Bu değişiklikler, viral enfeksiyonlardan sonra neden bazı insanların daha fazla zihinsel bulanıklık ve hafıza sorunları yaşadığını açıklayabilir.\n\nBulgular, kronik enflamasyonun beyindeki sinir yollarını nasıl yeniden düzenlediğine dair yeni bilgiler sunarak, nörolojik sağlık sorunlarının tedavisine yönelik potansiyel yeni yaklaşımlar geliştirilmesine katkı sağlayabilir.\n\nAPA Formatında Kaynak:\nNeuroscience News. (2023). Chronic Inflammation Rewires the Brain’s Cognitive Center. Erişim adresi: https://neurosciencenews.com/viral-infection-cognitive-decline-30250/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/viral-infection-cognitive-decline-30250/",
-            "date": "2026-03-05T19:23:12.105807",
-            "timestamp": 1772738592.105817
         }
     ]
 }
