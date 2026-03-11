@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-03-11T15:58:24.529651",
+    "last_updated": "2026-03-11T19:04:28.693472",
     "daily_news": {
-        "title": "Lonza, Transfüzyona Bağımlı Beta-Talasemi için Gen Terapisi Üretim Anlaşmasını Genişletiyor",
-        "original_title": "Lonza Expands Agreement to Manufacture Gene Therapy for Transfusion-Dependent Beta-Thalassemia",
-        "content": "Lonza, transfüzyona bağımlı beta-talasemi hastalarının tedavisi için kullanılan gen terapisi ZYNTEGLO'nun üretimi konusunda Genetix Biotherapeutics ile olan anlaşmasını genişletiyor. ZYNTEGLO, ilk türünden olan, tek seferlik <i>ex vivo</i> LVV gen ekleme terapisidir ve düzenli kırmızı kan hücresi (RBC) transfüzyonu gerektiren uygun hastalar için onaylanmıştır.\n\nBu gelişme, gen terapilerinin üretim kapasitesinin artırılması ve daha fazla hastaya ulaşabilmesi açısından önemli bir adım olarak değerlendiriliyor. Lonza’nın bu anlaşmayı genişletmesi, gen terapileri konusunda artan talebi karşılamak amacıyla üretim hatlarını ve teknolojik altyapısını güçlendirmeyi hedefliyor.\n\nGenetix Biotherapeutics'in geliştirdiği ZYNTEGLO, hastaların yaşam kalitesini artırmayı ve transfüzyona olan bağımlılıklarını azaltmayı hedefleyen yenilikçi bir tedavi seçeneği sunuyor. Bu iş birliği, gen terapilerinin daha geniş bir hasta kitlesine ulaşabilmesi için önemli bir adım olarak değerlendiriliyor.\n\nKaynakça:\nGEN – Genetic Engineering and Biotechnology News. (n.d.). Lonza Expands Agreement to Manufacture Gene Therapy for Transfusion-Dependent Beta-Thalassemia. Retrieved from https://www.genengnews.com/topics/genome-editing/lonza-expands-agreement-to-manufacture-gene-therapy-for-transfusion-dependent-beta-thalassemia/",
+        "title": "ADC Üretimindeki Karmaşıklığı Ehlileştirmek",
+        "original_title": "Taming Complexity in ADC Manufacturing",
+        "content": "<p>Antikor-ilaç konjugatları, hedefe yönelik kanser tedavisi vaat ediyor, ancak üretim, ilaç-antikor oranının kontrol altına alınmasına bağlı. Yer yönlendirmeli konjugasyon, veri odaklı reaktör optimizasyonu ve tek kullanımlık ölçek büyütme platformlarındaki gelişmeler, tutarlılığı ve ölçeklenebilirliği artırıyor.</p>\n<p>Bu yazı ilk olarak <a href=\"https://www.genengnews.com/topics/bioprocessing/taming-complexity-in-adc-manufacturing/\">ADC Üretimindeki Karmaşıklığı Ehlileştirmek</a> başlığıyla <a href=\"https://www.genengnews.com\">GEN - Genetik Mühendisliği ve Biyoteknoloji Haberleri</a> sitesinde yayınlanmıştır.</p>\n<p>Kaynak: GEN – Genetik Mühendisliği ve Biyoteknoloji Haberleri</p>\n<p>APA: GEN – Genetic Engineering and Biotechnology News. (tarih). Taming Complexity in ADC Manufacturing. GEN - Genetik Mühendisliği ve Biyoteknoloji Haberleri. URL: https://www.genengnews.com/topics/bioprocessing/taming-complexity-in-adc-manufacturing/</p>",
         "category": "Genetik",
         "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/genome-editing/lonza-expands-agreement-to-manufacture-gene-therapy-for-transfusion-dependent-beta-thalassemia/",
-        "date": "2026-03-11T15:58:24.529613",
-        "timestamp": 1773244704.529621
+        "link": "https://www.genengnews.com/topics/bioprocessing/taming-complexity-in-adc-manufacturing/",
+        "date": "2026-03-11T19:04:10.905711",
+        "timestamp": 1773255850.90572
     },
     "news_list": [
+        {
+            "title": "Yaşlanmanın Beyindeki Gizli DNA'yı Ortaya Çıkardığı Keşfedildi",
+            "original_title": "How Aging Unlocks Hidden DNA in the Brain",
+            "content": "Bilim insanları, yaşlanan beynin nasıl yeniden yapılandığını göstermek için epigenetik düzeyde 1 milyon hücreden oluşan benzersiz bir atlas oluşturdu. Bu araştırma, beynin yaşlanma sürecinde nasıl değiştiğini ve bu değişikliklerin epigenetik düzenlemelerle nasıl bağlantılı olduğunu anlamak için önemli bir adım olarak kabul ediliyor.\n\nBu atlas, yaşlanma ile birlikte beyinde meydana gelen değişiklikleri hücresel düzeyde inceleyerek, epigenetik mekanizmaların beyin fonksiyonlarını nasıl etkilediğini ortaya koyuyor. Araştırmacılar, bu düzeydeki değişikliklerin hafıza, öğrenme ve diğer bilişsel işlevler üzerinde önemli etkileri olabileceğini belirtiyorlar.\n\nAraştırmanın sonuçları, yaşlanma sürecinde beyindeki epigenetik değişikliklerin daha iyi anlaşılmasını sağlayarak, yaşlanmaya bağlı nörodejeneratif hastalıkların tedavisinde yeni stratejilerin geliştirilmesine katkıda bulunabilir.\n\nBu yeni bulgular, yaşlanmanın yalnızca fiziksel değişikliklerle sınırlı olmadığını, aynı zamanda genetik ve epigenetik düzeyde karmaşık bir yeniden yapılandırma süreci olduğunu ortaya koyuyor. Böylece, yaşlanmanın beyin üzerindeki etkilerini daha kapsamlı bir şekilde anlamak mümkün hale geliyor.\n\nKaynak: Neuroscience News (2023). How Aging Unlocks Hidden DNA in the Brain. https://neurosciencenews.com/epigenetic-brain-aging-atlas-30294/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/epigenetic-brain-aging-atlas-30294/",
+            "date": "2026-03-11T19:03:53.535570",
+            "timestamp": 1773255833.535584
+        },
+        {
+            "title": "Yetişkin Nöronlar Doğum Anlarının Moleküler İzlerini Taşıyor",
+            "original_title": "Adult Neurons Retain a Molecular Record of Their Birth",
+            "content": "Yeni araştırmalar, yetişkin beyinindeki her bir nöronun tam olarak ne zaman ve nerede doğduğunu gösteren moleküler bir kayda sahip olduğunu ortaya koyuyor. Bu buluş, beyin gelişimi ve fonksiyonları hakkında daha derin bir anlayış sağlama potansiyeline sahip. Araştırmacılar, nöronların bu moleküler izlerini kullanarak, beynin farklı bölgelerindeki nöronal gelişim süreçlerini daha iyi takip etmeyi umuyorlar. Bu bilgi, nörolojik hastalıkların daha iyi anlaşılması ve tedavi yöntemlerinin geliştirilmesi açısından büyük önem taşıyor.\n\nKaynak: Neuroscience News (2023). Adult Neurons Retain a Molecular Record of Their Birth. Erişim adresi: https://neurosciencenews.com/neural-memory-neuroscience-30294/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/neural-memory-neuroscience-30294/",
+            "date": "2026-03-11T19:04:01.581061",
+            "timestamp": 1773255841.581071
+        },
+        {
+            "title": "ADC Üretimindeki Karmaşıklığı Ehlileştirmek",
+            "original_title": "Taming Complexity in ADC Manufacturing",
+            "content": "<p>Antikor-ilaç konjugatları, hedefe yönelik kanser tedavisi vaat ediyor, ancak üretim, ilaç-antikor oranının kontrol altına alınmasına bağlı. Yer yönlendirmeli konjugasyon, veri odaklı reaktör optimizasyonu ve tek kullanımlık ölçek büyütme platformlarındaki gelişmeler, tutarlılığı ve ölçeklenebilirliği artırıyor.</p>\n<p>Bu yazı ilk olarak <a href=\"https://www.genengnews.com/topics/bioprocessing/taming-complexity-in-adc-manufacturing/\">ADC Üretimindeki Karmaşıklığı Ehlileştirmek</a> başlığıyla <a href=\"https://www.genengnews.com\">GEN - Genetik Mühendisliği ve Biyoteknoloji Haberleri</a> sitesinde yayınlanmıştır.</p>\n<p>Kaynak: GEN – Genetik Mühendisliği ve Biyoteknoloji Haberleri</p>\n<p>APA: GEN – Genetic Engineering and Biotechnology News. (tarih). Taming Complexity in ADC Manufacturing. GEN - Genetik Mühendisliği ve Biyoteknoloji Haberleri. URL: https://www.genengnews.com/topics/bioprocessing/taming-complexity-in-adc-manufacturing/</p>",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/taming-complexity-in-adc-manufacturing/",
+            "date": "2026-03-11T19:04:10.905711",
+            "timestamp": 1773255850.90572
+        },
+        {
+            "title": "Biyofarma Sektöründeki Beceri Açığına Özel Eğitim Çözümü",
+            "original_title": "Tailored Training Can Address Biopharma Skills Shortage",
+            "content": "Biyofarmasötik endüstrisinde dijital biyoproses becerileri hala yetersiz durumda. NIBRT tarafından yapılan yeni analizlere göre, bu beceri eksikliklerinin giderilmesinde yapay zeka ve otomasyona odaklanan özel, siteye özgü eğitim programlarının büyük bir rol oynayabileceği belirtiliyor. Biyofarmasötik sektöründe ileri teknolojilerin ve dijitalleşmenin hızla artmasıyla birlikte, bu alanda uzmanlaşmış personel ihtiyacı da giderek daha fazla önem kazanıyor. \n\nBiyofarma şirketleri, üretim süreçlerini daha verimli hale getirmek ve rekabet avantajı sağlamak için dijital dönüşüme yöneliyor. Ancak, bu dönüşüm sürecinde gerekli bilgi ve becerilere sahip personel bulmakta zorlanıyorlar. Özel olarak tasarlanmış eğitim programları, çalışanların dijital biyoproses teknolojilerini daha iyi anlamalarına ve uygulamalarına olanak tanıyabilir. Bu programların odak noktası, yapay zeka ve otomasyon gibi yenilikçi teknolojiler olmalıdır. \n\nNIBRT'nin analizine göre, biyofarma şirketleri bu tür eğitimlerle çalışanlarının yetkinliklerini artırabilir ve böylece sektördeki beceri açığını kapatabilir. Eğitim programlarının, şirketlerin özel ihtiyaçlarına ve operasyonel hedeflerine göre uyarlanması, eğitimin etkinliğini artıracaktır. \n\nSonuç olarak, biyofarma sektöründe dijital beceri eksikliği, özel eğitim programları ile giderilebilir ve bu da sektördeki genel verimliliği artırabilir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/bioprocessing/tailored-training-can-address-biopharma-skills-shortage/)",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/tailored-training-can-address-biopharma-skills-shortage/",
+            "date": "2026-03-11T19:04:28.693431",
+            "timestamp": 1773255868.693439
+        },
         {
             "title": "Retina Taramaları ile Nörodejeneratif Hastalıkların Ayırt Edilmesi",
             "original_title": "Retinal Scans Differentiate Between Neurodegenerative Diseases",
@@ -470,46 +510,6 @@
             "link": "https://neurosciencenews.com/ai-chatgpt-mental-health-30266/",
             "date": "2026-03-07T21:29:38.494830",
             "timestamp": 1772918978.49484
-        },
-        {
-            "title": "Orak Hücre Hastalığında Beynin Oksijen Eksikliğine Karşı Kendi Kendini Yenilemesi",
-            "original_title": "How the Brain Compensates for Sickle Cell Disease",
-            "content": "Orak hücre hastalığı, kırmızı kan hücrelerinin anormal bir şekilde şekillenmesine neden olan genetik bir kan hastalığıdır. Bu durum, kan damarlarında tıkanıklıklara ve dolayısıyla dokulara yeterli oksijen taşınamamasına yol açar. Son araştırmalara göre, orak hücre hastalığına sahip bireylerde, beyin düşük oksijen seviyelerine karşı adaptif bir yanıt geliştiriyor. Beyin, yürütücü ve dikkat ağlarını yeniden yapılandırarak oksijen eksikliğini telafi ediyor.\n\nBeynin bu adaptif mekanizması, özellikle yürütücü işlevler ve dikkat gerektiren görevlerde önemli bir rol oynuyor. Orak hücre hastalığı olan bireylerde, bu ağların yeniden yapılandırılması, bilişsel işlevlerin korunmasına katkı sağlıyor. Araştırmalar, bu bireylerin beyin aktivitelerini özel nörolojik yollarla yeniden organize ettiklerini ortaya koyuyor.\n\nBu adaptasyon süreci, beynin esnekliği ve nöroplastisitesi hakkında önemli ipuçları sunuyor. Orak hücre hastalığı ile yaşayan kişilerin beyinlerinin, düşük oksijen seviyelerine rağmen bilişsel işlevlerini nasıl koruyabildiğine dair daha fazla araştırma yapılması gerekiyor. Bu tür çalışmalar, gelecekteki tedavi yöntemleri için yeni stratejiler geliştirilmesine olanak tanıyabilir.\n\nKaynak: Neuroscience News (2023)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/sickle-cell-brain-rewiring-30264/",
-            "date": "2026-03-07T18:46:01.988433",
-            "timestamp": 1772909161.988441
-        },
-        {
-            "title": "Öğrenme Beyin Hücrelerini Takım Haline Getiriyor",
-            "original_title": "Why Learning Makes Brain Cells Work Together, Not Apart",
-            "content": "Yeni araştırmalar, bir beceriyi ustalıkla öğrenmenin beyin hücrelerinizi bağımsız çalışanlar yerine iyi eğitilmiş bir spor takımı gibi hareket ettirdiğini ortaya koyuyor. Beyin hücreleri, öğrenme sürecinde bağımsız hareket etmek yerine koordinasyon içinde çalışıyor. Bu durum, beyin fonksiyonlarının daha efektif ve verimli hale gelmesini sağlıyor. Araştırmacılar, bu bulgunun öğrenme ve hafıza süreçlerine dair yeni anlayışlar sunduğunu belirtiyorlar. Beyinde gerçekleşen bu uyumlu hareket, öğrenmenin kalıcılığını ve etkinliğini artırıyor. Yeni bir beceri öğrenirken beyin hücreleri arasında gelişen bu işbirliği, aynı zamanda beyin sağlığı için de önemli bir rol oynuyor. Araştırmanın sonuçları, eğitim yöntemlerinin geliştirilmesi ve nörolojik hastalıkların tedavisi için yeni yaklaşımlar sunabilir.\n\nKaynak: Neuroscience News (2023). Why Learning Makes Brain Cells Work Together, Not Apart. https://neurosciencenews.com/learning-neural-coordination-30264/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/learning-neural-coordination-30264/",
-            "date": "2026-03-07T18:46:06.576905",
-            "timestamp": 1772909166.576912
-        },
-        {
-            "title": "Rett Sendromunda Beyin Proteinini Artırmak Umut Vaad Ediyor",
-            "original_title": "Boosting a key brain protein could help treat Rett syndrome",
-            "content": "Araştırmacılar, dünya genelinde binlerce çocuğu etkileyen nadir bir genetik bozukluk olan Rett sendromunda hasar gören önemli bir beyin proteinini artırmanın yeni bir yolunu keşfettiler. Fareler ve hasta kaynaklı hücreler üzerinde yapılan erken çalışmalar, bu yaklaşımın normal beyin hücresi fonksiyonunu yeniden sağlayabildiğini gösteriyor ve gelecekteki tedaviler için umutları artırıyor. \n\nRett sendromu, genellikle kız çocuklarında görülen ve ciddi nörolojik ve gelişimsel sorunlara yol açan bir durumdur. Bu bozukluk, çocukların normal gelişim gösterdikten sonra dil ve motor beceriler gibi kazanılmış yeteneklerini kaybetmelerine neden olur. Sorunun kaynağı, beynin düzgün çalışması için gerekli olan belirli proteinlerin seviyelerindeki düşüş olarak tanımlanmaktadır.\n\nAraştırmada, bu önemli beyin proteinlerinden birinin seviyesini artırmanın yolları araştırılmıştır. Araştırmacılar, çeşitli gen terapisi teknikleri ve ilaç tedavileri kullanarak, fare modellerinde ve laboratuvar ortamında yetiştirilen insan hücrelerinde başarılı sonuçlar elde etmişlerdir. Bu tedavi yöntemleri, protein seviyelerinin artmasına ve beyin hücrelerinin normal işlevini geri kazanmasına yardımcı olmuştur.\n\nBu bulgular, Rett sendromu için yeni tedavi yöntemlerinin kapılarını aralayabilir. Araştırmacılar, bu yeni yaklaşımın insanlarda da etkili olup olmadığını görmek için daha fazla çalışma yapmayı planlıyorlar. Eğer başarılı olursa, bu tedavi yöntemi, Rett sendromlu çocuklar ve aileleri için önemli bir umut kaynağı olabilir.\n\nKaynak: Mind & Brain News -- ScienceDaily (2023)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260306145621.htm",
-            "date": "2026-03-07T13:04:40.127054",
-            "timestamp": 1772888680.127064
-        },
-        {
-            "title": "Günlük Yaşamın %65'i Otomatik Pilotta: Alışkanlıkların Gücü",
-            "original_title": "Scientists say most of what you do each day happens on autopilot",
-            "content": "Günlük yaşamlarımızın büyük bir kısmı, düşündüğümüzden daha az farkındalıkla gerçekleşiyor. Araştırmacılar, günlük davranışlarımızın yaklaşık %65'inin bilinçli kararlar yerine alışkanlıklarla otomatik olarak tetiklendiğini ortaya koydu. Bu alışkanlıkların birçoğu, sağlıklı rutinler gibi kişisel hedeflerimizi destekliyor. Bilim insanları, kalıcı değişimin anahtarının, kötü alışkanlıkları tetikleyen ipuçlarını bozmaya çalışırken yeni olumlu alışkanlıklar inşa etmek olduğunu belirtiyor. \n\nAlışkanlıkların, insanların yaşamlarını kolaylaştırdığı bir gerçek. Birçok insan, sabahları dişlerini fırçalamak veya kahve yapmak gibi günlük rutinlerini düşünmeden gerçekleştirir. Bu tür alışkanlıklar, zihinsel enerjiyi koruyarak daha önemli kararlar için yer açar. Ancak, aynı otomatikleşme süreci, kötü alışkanlıkların da kök salmasına neden olabilir. \n\nÖrneğin, televizyon izlerken atıştırmak gibi bir alışkanlık, sağlıksız beslenme alışkanlıklarının oluşmasına yol açabilir. Araştırmacılar, bu tür alışkanlıkları kırmanın, tetikleyici unsurları tanımlamak ve bunları olumlu davranışlarla değiştirmekle mümkün olduğunu söylüyor. \n\nSonuç olarak, alışkanlıklar, davranışlarımızı şekillendiren güçlü araçlardır. Bilinçli bir çaba ile, olumlu alışkanlıklar geliştirip kötü olanları azaltarak yaşam kalitemizi artırabiliriz.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Psikoloji",
-            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260305223226.htm",
-            "date": "2026-03-07T13:04:46.402513",
-            "timestamp": 1772888686.402522
         }
     ]
 }
