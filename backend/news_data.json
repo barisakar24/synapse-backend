@@ -1,16 +1,66 @@
 {
-    "last_updated": "2026-03-11T09:54:01.181000",
+    "last_updated": "2026-03-11T13:20:42.268022",
     "daily_news": {
-        "title": "Yapay Zeka Modelleri Gerçek Beyinlerde Yeni Görme Mekanizmalarını Tahmin Ediyor",
-        "original_title": "AI Models Predict New Vision Mechanisms in Real Brains",
-        "content": "Bilim insanları, nesneleri arka planlarından ayırmak için 'çift frekanslı' işlem kullanan yeni bir tür beyin hücresi keşfettiler. Bu keşif, görme sistemimizin nasıl çalıştığına dair önemli ipuçları sunabilir. Yapay zeka modelleri, beynin görsel korteksinde benzersiz bir şekilde işleyen bu yeni hücre tipini tahmin etti.\n\nAraştırmanın temel bulguları, beyin hücrelerinin frekans bazlı işlem yaparak görsel bilgiyi ayrıştırabileceğini ortaya koyuyor. Bu çift frekanslı işlem, nesnelerin arka planlarından ayırt edilmesini sağlayarak, daha net bir görsel algı oluşturuyor. Araştırmacılar, bu mekanizmanın görsel algının karmaşıklığını ve etkinliğini artırabileceğini öne sürüyor.\n\nYapay zeka tekniklerinin kullanılması, beynin karmaşık yapısını ve işleyişini daha iyi anlamamıza yardımcı olabilir. Bu tür çalışmalar, nörobilim ve yapay zeka arasındaki işbirliğinin gücünü gösterirken, gelecekte daha gelişmiş yapay zeka sistemlerinin geliştirilmesine de katkı sunabilir.\n\nKaynak: Neuroscience News",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/ai-visual-cortex-neurons-30288/",
-        "date": "2026-03-10T21:36:41.765603",
-        "timestamp": 1773178601.765615
+        "title": "THC, Yanlış Hatıralar Oluşturabiliyor",
+        "original_title": "Cannabis study finds THC can create false memories",
+        "content": "Bilim insanlarının gerçekleştirdiği yeni bir araştırma, THC'nin yalnızca hafızayı bulanıklaştırmakla kalmayıp, hiç yaşanmamış olayları hatırlatabilen yeni anılar yaratabileceğini ortaya koydu. Kontrollü bir deneyde, esrar kullanıcılarının, kendilerine gösterilmeyen kelimeleri hatırlama olasılıklarının çok daha yüksek olduğu ve ileriye dönük yapmaları gereken işleri hatırlamada zorluk yaşadıkları gözlemlendi. Araştırmacılar, THC'nin birden fazla hafıza sistemini bir anda bozduğunu keşfetti. İlginç bir şekilde, orta dozlar, yüksek dozlarla benzer hafıza sorunlarına yol açtı. \n\nAPA Formatında Kaynak: Mind & Brain News -- ScienceDaily (2023). Cannabis study finds THC can create false memories. ScienceDaily. Erişim Tarihi: [tarih].",
+        "category": "Bilim & Teknoloji",
+        "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260311004711.htm",
+        "date": "2026-03-11T13:20:13.082466",
+        "timestamp": 1773235213.082478
     },
     "news_list": [
+        {
+            "title": "THC, Yanlış Hatıralar Oluşturabiliyor",
+            "original_title": "Cannabis study finds THC can create false memories",
+            "content": "Bilim insanlarının gerçekleştirdiği yeni bir araştırma, THC'nin yalnızca hafızayı bulanıklaştırmakla kalmayıp, hiç yaşanmamış olayları hatırlatabilen yeni anılar yaratabileceğini ortaya koydu. Kontrollü bir deneyde, esrar kullanıcılarının, kendilerine gösterilmeyen kelimeleri hatırlama olasılıklarının çok daha yüksek olduğu ve ileriye dönük yapmaları gereken işleri hatırlamada zorluk yaşadıkları gözlemlendi. Araştırmacılar, THC'nin birden fazla hafıza sistemini bir anda bozduğunu keşfetti. İlginç bir şekilde, orta dozlar, yüksek dozlarla benzer hafıza sorunlarına yol açtı. \n\nAPA Formatında Kaynak: Mind & Brain News -- ScienceDaily (2023). Cannabis study finds THC can create false memories. ScienceDaily. Erişim Tarihi: [tarih].",
+            "category": "Bilim & Teknoloji",
+            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260311004711.htm",
+            "date": "2026-03-11T13:20:13.082466",
+            "timestamp": 1773235213.082478
+        },
+        {
+            "title": "Çin’in OpenClaw AI Çılgınlığı: Genç Girişimciler Yeni Bir Çağ Başlatıyor",
+            "original_title": "Hustlers are cashing in on China’s OpenClaw AI craze",
+            "content": "Feng Qingyang her zaman kendi şirketini kurmayı hayal etmişti, ancak bunun bu şekilde olacağını ve bu kadar hızlı bir şekilde gerçekleşeceğini hiç düşünmemişti. Pekin merkezli 27 yaşındaki yazılım mühendisi Feng, bir cihazı ele geçirip otonom olarak görevleri tamamlayabilen popüler yeni açık kaynaklı bir yapay zeka aracı olan OpenClaw ile uğraşmaya başladı. \n\nOpenClaw, kullanıcıların cihazları üzerinde tam kontrol sağlayarak, bir dizi karmaşık işlemi insan müdahalesi olmadan gerçekleştirebilme yeteneğine sahip. Feng, bu yeni teknolojiyle kendi işini kurma fırsatını gördü ve hızla harekete geçti. Bu yeni yapay zeka aracı, girişimcilere sadece teknoloji alanında değil, aynı zamanda otomasyon ve verimlilik konularında da yeni kapılar açıyor.\n\nÇin'deki birçok genç girişimci, OpenClaw gibi yeni teknolojiler aracılığıyla hızla büyüyen bir pazara adım atıyor. Feng'in hikayesi, bu tür yenilikçi araçların sağladığı fırsatların bir örneği. Geliştiriciler, OpenClaw kullanarak sadece teknik becerilerini değil, aynı zamanda iş zekalarını da geliştiriyorlar.\n\nBu tür açık kaynaklı yapay zeka araçları, girişimcilerin hızlı ve etkili bir şekilde işlerini kurmalarına olanak tanırken, aynı zamanda teknoloji dünyasında yeni bir dalga yaratıyor. Feng Qingyang gibi genç ve yenilikçi zihinler, bu dalganın ön saflarında yer alarak hem kendileri hem de sektörleri için yeni bir çağ başlatıyorlar.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+            "date": "2026-03-11T13:20:21.454446",
+            "timestamp": 1773235221.454455
+        },
+        {
+            "title": "Pokémon Go: Teslimat Robotlarına Dünyayı Tanıtıyor",
+            "original_title": "The Download: Pokémon Go to train world models, and the US-China race to find aliens",
+            "content": "Pokémon Go, 2016 yılında Niantic tarafından piyasaya sürülen ilk artırılmış gerçeklik mega hitiydi. Oyun, oyunculara artırılmış gerçeklik teknolojisi kullanarak gerçek dünyada Pokémon yakalama deneyimi sundu. Ancak, Pokémon Go'nun etkileri sadece oyuncularla sınırlı kalmadı. Artık bu teknoloji, teslimat robotlarına dünyayı tanıtmak için kullanılıyor.\n\nTeslimat robotları, şehirlerde ve kampüslerde paket teslimi yaparken çevrelerini doğru bir şekilde algılamak zorundalar. Bu nedenle, artırılmış gerçeklik ve harita verileri, robotların çevresini daha iyi anlamalarına yardımcı oluyor. Pokémon Go'nun dünya çapında büyük bir kullanıcı kitlesine sahip olması sayesinde, Niantic tarafından toplanan ayrıntılı harita verileri, robotların çevrelerini daha iyi algılaması için kullanılabiliyor.\n\nBu teknoloji, robotların engellerden kaçınmasını ve hedeflerine daha hızlı ve verimli bir şekilde ulaşmasını sağlıyor. Böylece, teslimat süreci daha güvenli ve etkili hale geliyor. Pokémon Go'nun sağladığı bu altyapı, artırılmış gerçeklik oyunlarının sadece eğlence değil, aynı zamanda teknolojik gelişmeler için de nasıl bir temel oluşturabileceğini gösteriyor.\n\nKaynakça: MIT Technology Review. (2023). The Download: Pokémon Go to train world models, and the US-China race to find aliens.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/",
+            "date": "2026-03-11T13:20:33.106581",
+            "timestamp": 1773235233.10659
+        },
+        {
+            "title": "270 Milyon Dolarlık RNA İlaç Girişimi Nadir Genetik Kardiyomiyopatileri Hedefliyor",
+            "original_title": "$270M RNA Drug Spinout Targets Rare Genetic Cardiomyopathies",
+            "content": "Atrium, iki öncü aday belirledi: ATR 1072, protein kinaz AMP-aktif olmayan katalitik alt birim Gamma 2 (PRKAG2) sendromu için bir tedavi; ve ATR 1086, fosfolamban (PLN) kardiyomiyopatisi için bir tedavi. Atrium, ATR 1072 için ilk araştırma amaçlı yeni ilaç (IND) başvurusunu bu yılın ikinci yarısında yapmayı planlıyor ve ATR 1086 için bir IND başvurusunu ise 2027'de yapmayı planlıyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News, https://www.genengnews.com/topics/translational-medicine/270m-rna-drug-spinout-targets-rare-genetic-cardiomyopathies/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/270m-rna-drug-spinout-targets-rare-genetic-cardiomyopathies/",
+            "date": "2026-03-11T13:20:37.758892",
+            "timestamp": 1773235237.758901
+        },
+        {
+            "title": "Bor Kimyası Protein Sentez Bariyerini Aşıyor, Kanser Tedavisine Umut Olabilir",
+            "original_title": "Boron Chemistry Breaks Protein Synthesis Barrier, May Aid Cancer Therapies",
+            "content": "Bilim insanları, protein sentezi sürecinde önemli bir engeli aşmayı başardı. Bu başarı, kiral, zwitteriyonik organoboron komplekslerinin geliştirilmesiyle mümkün oldu. Bu kompleksler, sentez sırasında KAT'ları 'maskelemek' için kullanılıyor ve sonrasında temiz bir şekilde açığa çıkarılabiliyor. Bu yenilikçi yaklaşım, kanser tedavilerinde yeni kapılar aralayabilir ve bu alandaki çalışmaları hızlandırabilir. Bor kimyasının bu alandaki potansiyeli, araştırmacılar tarafından büyük bir heyecanla karşılanıyor. Uzmanlar, bu gelişmenin kanser terapilerinde daha etkili ve hedefe yönelik tedavilerin geliştirilmesine yardımcı olabileceğini belirtiyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/drug-discovery/boron-chemistry-breaks-protein-synthesis-barrier-may-aid-cancer-therapies/)",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/drug-discovery/boron-chemistry-breaks-protein-synthesis-barrier-may-aid-cancer-therapies/",
+            "date": "2026-03-11T13:20:42.267978",
+            "timestamp": 1773235242.267986
+        },
         {
             "title": "Yapay Zeka Modelleri Gerçek Beyinlerde Yeni Görme Mekanizmalarını Tahmin Ediyor",
             "original_title": "AI Models Predict New Vision Mechanisms in Real Brains",
@@ -460,56 +510,6 @@
             "link": "https://neurosciencenews.com/neural-stem-cells-vision-preservation-30261/",
             "date": "2026-03-06T21:37:28.373012",
             "timestamp": 1772833048.37302
-        },
-        {
-            "title": "Pentagon'un Amerikalıları Yapay Zeka ile Gözetlemesi Yasal mı?",
-            "original_title": "Is the Pentagon allowed to surveil Americans with AI?",
-            "content": "Devam eden kamuoyu tartışması, Savunma Bakanlığı ile yapay zeka şirketi Anthropic arasında süregelen bir anlaşmazlığı ele alıyor. Bu anlaşmazlık, ABD hükümetinin Amerikalılar üzerinde kitlesel gözetim yapmasına yasanın gerçekten izin verip vermediği gibi derin ve hala yanıtlanmamış bir soruyu gündeme getiriyor. Şaşırtıcı bir şekilde, bu sorunun yanıtı net değil. Edward Snowden'ın NSA'nın toplu veri toplamasını ifşa etmesinden on yıl sonra bile, bu mesele hala kesin bir sonuca ulaşmış değil.\n\nGizlilik savunucuları ve hukuk uzmanları, mevcut yasal çerçevenin, özellikle de teknolojinin hızlı ilerlemesi karşısında, yetersiz kaldığını savunuyor. Yapay zekanın gözetim yeteneklerini genişletmesi ile birlikte, bu durum daha da karmaşık hale geliyor. Yasal düzenlemeler, teknolojik yeniliklerle uyumlu hale getirilmediği sürece, bireylerin mahremiyeti ciddi tehdit altında kalabilir.\n\nABD Anayasası'nın Dördüncü Değişikliği, vatandaşların makul olmayan arama ve el koymalara karşı korunmasını garanti ederken, hükümetin güvenlik adına hangi noktalara kadar gidebileceği konusunda net sınırlar çizilmemiş durumda. Özellikle, yapay zeka destekli gözetim yöntemleri, bu yasal belirsizlikleri daha da artırıyor.\n\nBu kapsamda, kamuoyu ve yasama organlarının, yapay zekanın gözetim amaçlı kullanımına dair açık ve kesin kurallar belirlemesi gerektiği konusunda giderek artan bir çağrı var. Yasa yapıcılar, hem ulusal güvenliği sağlamak hem de bireylerin mahremiyet haklarını korumak için dengeli bir yaklaşım geliştirmelidir.\n\nKaynak: MIT Technology Review (tarih belirtilmemiş)",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
-            "date": "2026-03-06T21:37:41.153255",
-            "timestamp": 1772833061.153263
-        },
-        {
-            "title": "Işık Yönlendirmeli Sistemle Karmaşık Protein Fonksiyonlarının Evrimi Hızlanıyor",
-            "original_title": "Light-Directed System Accelerates Evolution of Complex Protein Functions",
-            "content": "EPFL araştırmacıları, optovolution adını verdikleri yenilikçi bir yöntem kullanarak, çok durumlu davranışlar ve kural tabanlı karar verme yeteneklerine sahip proteinlerin evrimini hızlandırdı. Bu çalışma, yönlendirilmiş protein tasarımını hücrelerin gerçek işleyişine daha da yakınlaştırıyor.\n\nBu yeni yöntem, proteinlerin ışıkla yönlendirilmiş bir şekilde evrimleşmesini sağlıyor. Optovolution, proteinlerin karmaşık işlevlerini ve karar verme mekanizmalarını geliştirmek amacıyla ışık kullanarak, doğal evrim süreçlerini taklit ediyor. Bu süreç, proteinlerin daha hızlı ve etkili bir şekilde evrimleşmesine olanak tanıyor ve bu da biyoteknoloji ve genetik mühendisliği alanlarında önemli yeniliklere kapı aralıyor.\n\nAraştırmacılar, optovolution yönteminin, proteinlerin işlevlerini ve yapısal özelliklerini optimize etme sürecinde devrim yaratabileceğine inanıyor. Bu yöntem, özellikle biyomedikal uygulamalarda ve sentetik biyoloji projelerinde büyük potansiyele sahip.\n\nKaynak:\nGEN - Genetic Engineering and Biotechnology News (2023). Light-Directed System Accelerates Evolution of Complex Protein Functions. Erişim adresi: https://www.genengnews.com/topics/omics/light-directed-system-accelerates-evolution-of-complex-protein-functions/",
-            "category": "Psikoloji",
-            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/omics/light-directed-system-accelerates-evolution-of-complex-protein-functions/",
-            "date": "2026-03-06T21:37:51.819432",
-            "timestamp": 1772833071.81944
-        },
-        {
-            "title": "Alzheimer Fare Modelinde Plak Oluşumunu Önleyen CAR-Astroisit Tedavisi",
-            "original_title": "Early CAR-Astrocyte Therapy Prevents Plaque Formation in Alzheimer’s Mouse Model",
-            "content": "Araştırmacılar, Alzheimer hastalığının fare modellerinde Aβ birikimini önemli ölçüde azaltan ve plak oluşumu başlamadan önce genç farelere verildiğinde Aβ patolojisinin gelişimini önleyebilen kimerik antijen reseptörü (CAR)-astroisitler geliştirdiler. Bu tedavi yöntemi, Alzheimer hastalığına yönelik yeni bir yaklaşım sunmakta ve hastalığın erken evrelerinde önleyici bir etki sağlayabilmektedir. Araştırma sonuçları, genç fareler üzerinde yapılan deneylerde, CAR-astroisitlerin Aβ birikimini etkili bir şekilde azaltabildiğini ve plak oluşumunu engelleyebildiğini göstermektedir. Bu bulgular, Alzheimer hastalığının tedavisine yönelik umut verici bir adım olup, insan klinik denemeleri için de potansiyel taşımaktadır.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/drug-discovery/early-car-astrocyte-treatment-prevents-amyloid-plaque-formation-in-alzheimers-disease-mouse-model/)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/drug-discovery/early-car-astrocyte-treatment-prevents-amyloid-plaque-formation-in-alzheimers-disease-mouse-model/",
-            "date": "2026-03-06T21:37:57.335157",
-            "timestamp": 1772833077.335165
-        },
-        {
-            "title": "Tubulin: Alzheimer ve Parkinson'a Karşı Beyin Sağlığının Koruyucusu",
-            "original_title": "Tubulin May Prevent Against Alzheimer’s and Parkinson’s",
-            "content": "Bilim insanları, tubulin adı verilen bir proteinin Alzheimer ve Parkinson gibi beyin hastalıklarına karşı koruma sağlayabileceğini keşfetti. Tubulin, beyinde sorun yaratan proteinleri, sağlıklı ve verimli rollerine geri döndürerek hastalıklardan korunmada önemli bir rol oynuyor. Bu keşif, nörodejeneratif hastalıkların önlenmesi ve tedavi edilmesi konusunda yeni umutlar vadediyor. Araştırmacılar, tubulinin bu koruyucu işlevini daha iyi anlamak ve beyin sağlığını nasıl iyileştirebileceğini keşfetmek için daha fazla çalışma yapılması gerektiğini belirtiyorlar. Bu gelişme, gelecekte Alzheimer ve Parkinson gibi hastalıkların tedavisine yönelik yeni stratejilerin geliştirilmesine olanak sağlayabilir.\n\nKaynak: Neuroscience News. (2023). Tubulin May Prevent Against Alzheimer’s and Parkinson’s. Erişim adresi: https://neurosciencenews.com/tubulin-tau-alpha-synuclein-prevention-30259/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/tubulin-tau-alpha-synuclein-prevention-30259/",
-            "date": "2026-03-06T18:58:42.499414",
-            "timestamp": 1772823522.499421
-        },
-        {
-            "title": "Halüsinasyon Olmadan Şifa: Yeni Nesil Psilosibin Terapisi",
-            "original_title": "Healing Without the Hallucinations: The Next Generation of Psilocybin Therapy",
-            "content": "Bilim insanları, sihirli mantarların faydalarını zihin değiştirici yan etkileri olmadan sunan yeni bir bileşik sentezlediler. Bu gelişme, psilosibin terapilerinin geleceği için devrim niteliğinde olabilir. Geleneksel olarak, psilosibin maddesi depresyon ve anksiyete gibi ruh sağlığı sorunlarını tedavi etmek için kullanılırken, kullanıcılar genellikle halüsinasyon gibi yan etkiler yaşar. Ancak yeni geliştirilen bu bileşik, bu yan etkileri ortadan kaldırarak tedavi süreçlerini daha geniş bir kitle için erişilebilir hale getirebilir.\n\nBu yeni bileşik, psilosibinin beyindeki serotonin reseptörlerine bağlanma şeklinin değiştirilmesiyle oluşturuldu. Bilim insanları, psilosibinin terapötik etkilerini koruyarak halüsinatif etkilerini ortadan kaldırmayı başardılar. Bu durum, özellikle zihinsel sağlık tedavilerinde daha fazla kontrol ve öngörülebilirlik sağlayabilir.\n\nYeni bileşiğin klinik denemeleri, mevcut psilosibin tedavilerine nazaran daha az yan etkiye sahip olduğunu ve benzer terapötik sonuçlar sunduğunu gösterdi. Bu da, halüsinasyonlar nedeniyle psilosibin terapisinden çekinen hastaların bu tedaviye daha sıcak bakabileceği anlamına geliyor. Araştırmacılar, bu bulguların ruh sağlığı tedavilerinde önemli bir adım olduğunu ve gelecekte daha fazla araştırmaya ihtiyaç duyulduğunu belirtiyorlar.\n\nKaynakça:\nNeuroscience News. (2023). Healing Without the Hallucinations: The Next Generation of Psilocybin Therapy. https://neurosciencenews.com/non-hallucinogenic-psilocybin-30258/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/non-hallucinogenic-psilocybin-30258/",
-            "date": "2026-03-06T18:58:50.411875",
-            "timestamp": 1772823530.41188
         }
     ]
 }
