@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-03-12T19:05:19.575753",
+    "last_updated": "2026-03-12T21:42:25.879944",
     "daily_news": {
-        "title": "Yüksek Yağ İçeren Diyetler, Bağırsak Bakterilerinin Beyne Ulaşmasına Yol Açabilir",
-        "original_title": "High-Fat Diets May Allow Gut Bacteria to Infiltrate the Brain",
-        "content": "Yeni bir çalışma, yüksek yağ içeren bir diyetin, vagus sinirini bağırsak bakterilerinin beyne ulaşabileceği bir otoyola dönüştürebileceğini ve potansiyel olarak beyni iltihaplandırabileceğini ortaya koyuyor. Yapılan araştırmalar, bağırsak mikrobiyomunun genel sağlık üzerindeki etkisinin ne denli önemli olduğunu gözler önüne sermeye devam ediyor. Ancak, bu çalışmanın bulguları, özellikle yüksek yağlı diyetlerle beslenen bireyler için endişe verici olabilir.\n\nVagus siniri, beyin ve bağırsaklar arasında kritik bir iletişim yolu olarak bilinir. Bu sinir, bağırsak bakterilerinin beyne ulaşması için bir geçit görevi görebilir. Araştırmacılar, bu durumun beyin iltihabına neden olabileceğini ve nörolojik sağlık üzerinde olumsuz etkiler yaratabileceğini öne sürüyorlar.\n\nYüksek yağlı diyetlerin, bağırsak mikrobiyomunu nasıl etkilediği ve bu durumun beyin sağlığı üzerindeki uzun vadeli sonuçları hala araştırılmakta olan önemli konular arasında yer alıyor. Bilim insanları, bu bulguların, diyet düzenlemesinin ve sağlıklı beslenmenin önemini bir kez daha vurguladığını belirtiyor.\n\nKaynak: Neuroscience News",
+        "title": "Alzheimer'ın Çeşitlilik Gösteren Biyolojik Kökleri Ortaya Çıktı",
+        "original_title": "Diverse Biological Roots of Alzheimer’s Revealed",
+        "content": "Alzheimer hastalığı, her bireyde aynı biyolojik süreci izlemiyor ve bu durum, farklı ırksal ve etnik gruplar arasında kritik farklılıklar olduğunu ortaya koyuyor. Yapılan son araştırmalara göre, Alzheimer’ın biyolojik kökenleri her bireyde farklılık gösterebiliyor ve bu da hastalığın teşhis ve tedavisinde daha kişiselleştirilmiş yaklaşımlar geliştirilmesi gerektiğini gösteriyor. \n\nAraştırmacılar, Alzheimer’ın gelişiminde genetik, çevresel ve yaşam tarzı faktörlerinin rol oynadığını belirtirken, bu faktörlerin farklı gruplarda farklı şekillerde etkileşime girdiğine dikkat çekiyor. Özellikle genetik çeşitlilik, hastalığın belirtilerinin ve ilerleyişinin bireyden bireye değişmesine neden oluyor. \n\nBu yeni bulgular, Alzheimer’ın tedavisinde tek tip çözüm arayışlarının yetersiz kalabileceğini ve gelecekte daha kapsamlı ve çeşitliliği dikkate alan araştırmalara ihtiyaç duyulabileceğini ortaya koyuyor. Araştırmacılar, bu farklılıkların daha iyi anlaşılması için daha fazla çalışmanın gerekli olduğunu ve bu çalışmaların hastalığın daha etkili tedavi yöntemlerinin geliştirilmesine katkı sağlayabileceğini belirtiyor.\n\nKaynak: Neuroscience News (2023). Diverse Biological Roots of Alzheimer’s Revealed. Erişim adresi: https://neurosciencenews.com/alzheimers-diversity-markers-30307/",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/gut-bacteria-brain-high-fat-diet-30304/",
-        "date": "2026-03-12T19:04:52.650079",
-        "timestamp": 1773342292.650088
+        "link": "https://neurosciencenews.com/alzheimers-diversity-markers-30307/",
+        "date": "2026-03-12T21:42:05.965263",
+        "timestamp": 1773351725.965273
     },
     "news_list": [
+        {
+            "title": "Alzheimer'ın Çeşitlilik Gösteren Biyolojik Kökleri Ortaya Çıktı",
+            "original_title": "Diverse Biological Roots of Alzheimer’s Revealed",
+            "content": "Alzheimer hastalığı, her bireyde aynı biyolojik süreci izlemiyor ve bu durum, farklı ırksal ve etnik gruplar arasında kritik farklılıklar olduğunu ortaya koyuyor. Yapılan son araştırmalara göre, Alzheimer’ın biyolojik kökenleri her bireyde farklılık gösterebiliyor ve bu da hastalığın teşhis ve tedavisinde daha kişiselleştirilmiş yaklaşımlar geliştirilmesi gerektiğini gösteriyor. \n\nAraştırmacılar, Alzheimer’ın gelişiminde genetik, çevresel ve yaşam tarzı faktörlerinin rol oynadığını belirtirken, bu faktörlerin farklı gruplarda farklı şekillerde etkileşime girdiğine dikkat çekiyor. Özellikle genetik çeşitlilik, hastalığın belirtilerinin ve ilerleyişinin bireyden bireye değişmesine neden oluyor. \n\nBu yeni bulgular, Alzheimer’ın tedavisinde tek tip çözüm arayışlarının yetersiz kalabileceğini ve gelecekte daha kapsamlı ve çeşitliliği dikkate alan araştırmalara ihtiyaç duyulabileceğini ortaya koyuyor. Araştırmacılar, bu farklılıkların daha iyi anlaşılması için daha fazla çalışmanın gerekli olduğunu ve bu çalışmaların hastalığın daha etkili tedavi yöntemlerinin geliştirilmesine katkı sağlayabileceğini belirtiyor.\n\nKaynak: Neuroscience News (2023). Diverse Biological Roots of Alzheimer’s Revealed. Erişim adresi: https://neurosciencenews.com/alzheimers-diversity-markers-30307/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/alzheimers-diversity-markers-30307/",
+            "date": "2026-03-12T21:42:05.965263",
+            "timestamp": 1773351725.965273
+        },
+        {
+            "title": "Beyin Sapında Keşfedilen Gizli Yol: İnsan El Hareketlerinin Kontrolü",
+            "original_title": "Overlooked Brainstem Pathway Discovered to Control Human Hands",
+            "content": "Yeni araştırmalar, beyin sapında evrimsel olarak eski bir yolun, insanların ellerini nasıl kullandıklarının gizli anahtarı olduğunu ortaya koyuyor. Beyin sapı, sinir sistemi içerisinde merkezi bir rol oynar ve özellikle el hareketlerinin kontrolünde kritik bir öneme sahiptir. Bu çalışma, beyin sapındaki bu özel yolun, el becerilerinin gelişiminde ve günlük aktivitelerdeki rolünü daha iyi anlamamıza yardımcı olabilir.\n\nAraştırmacılar, bu keşfin nörolojik hastalıkların tedavisinde yeni yaklaşımlara kapı aralayabileceğine inanıyor. Parkinson hastalığı ve diğer motor bozukluklar gibi el hareketlerini etkileyen çeşitli durumlar için daha etkili tedavi yöntemleri geliştirilebilir.\n\nBu yeni bulgular, beyin sapının el hareketleri üzerindeki etkisinin daha önce düşünüldüğünden çok daha karmaşık ve önemli olduğunu gösteriyor. İnsanların el becerilerini daha iyi anlamak, hem tıp dünyasında hem de günlük yaşamda geniş kapsamlı etkiler yaratabilir.\n\nKaynak: Neuroscience News (2023). Overlooked Brainstem Pathway Discovered to Control Human Hands. https://neurosciencenews.com/brainstem-hand-movement-pathway-30306/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/brainstem-hand-movement-pathway-30306/",
+            "date": "2026-03-12T21:42:14.031501",
+            "timestamp": 1773351734.031509
+        },
+        {
+            "title": "Enodia Therapeutics ve Kezar Life Sciences Arasında Anlaşma: Hedefe Yönelik Protein Yıkımı",
+            "original_title": "Targeted Protein Degradation Drives Deal Between Enodia Therapeutics and Kezar Life Sciences",
+            "content": "Enodia Therapeutics'in özel platformu, hastalıkla ilişkili proteinlerin, patolojik etkiler ortaya çıkmadan önce, sentez noktalarında inhibe edilmesini sağlayan seçici Sec61 Translokon modülasyonunu mümkün kılıyor. Bu yöntem, hayati fizyolojik fonksiyonları korurken hastalığa neden olan proteinlerin etkilerini durdurmayı amaçlıyor. \n\nEnodia Therapeutics ve Kezar Life Sciences arasında imzalanan anlaşma, bu yenilikçi yaklaşımın gücünü ve potansiyelini ortaya koyuyor. Hedefe yönelik protein yıkımı, özellikle hastalıkların tedavisinde devrim yaratabilecek bir alan olarak dikkat çekiyor. Bu iş birliği, her iki şirketin de bu alandaki uzmanlıklarını birleştirerek, daha etkili tedavi yöntemleri geliştirmelerine olanak tanıyacak. \n\nKaynakça: GEN - Genetic Engineering and Biotechnology News. (n.d.). Targeted Protein Degradation Drives Deal Between Enodia Therapeutics and Kezar Life Sciences. Retrieved from https://www.genengnews.com/topics/genome-editing/targeted-protein-degradation-drives-deal-between-enodia-therapeutics-and-kezar-life-sciences/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/genome-editing/targeted-protein-degradation-drives-deal-between-enodia-therapeutics-and-kezar-life-sciences/",
+            "date": "2026-03-12T21:42:23.159142",
+            "timestamp": 1773351743.15915
+        },
+        {
+            "title": "Evotec'te Yeniden Yapılandırma: 800 İş Kaybı",
+            "original_title": "Evotec Eliminating 800 Jobs in Restructuring",
+            "content": "Evotec, Avrupa ve ABD'deki 14 lokasyonunda 800 çalışanın işten çıkarılacağını duyurdu. Gelecek iki yıl içinde, dünya genelinde dört tesisini kapatarak, giderlerini azaltmayı ve organizasyon yapısını basitleştirmeyi planlıyor. Evotec, şu anda 4.800'den fazla çalışanı olduğunu belirtti.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/drug-discovery/evotec-eliminating-800-jobs-in-restructuring/)",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/drug-discovery/evotec-eliminating-800-jobs-in-restructuring/",
+            "date": "2026-03-12T21:42:25.879908",
+            "timestamp": 1773351745.879916
+        },
         {
             "title": "Yüksek Yağ İçeren Diyetler, Bağırsak Bakterilerinin Beyne Ulaşmasına Yol Açabilir",
             "original_title": "High-Fat Diets May Allow Gut Bacteria to Infiltrate the Brain",
@@ -470,46 +510,6 @@
             "link": "https://neurosciencenews.com/ai-deepfake-speech-brain-detection-30274/",
             "date": "2026-03-09T19:04:06.009896",
             "timestamp": 1773083046.009905
-        },
-        {
-            "title": "In Vivo CAR T Terapisi: Geleceğin İmmünoterapisi Olabilir mi?",
-            "original_title": "In Vivo CAR T Therapy Will the Bets Pay Off?",
-            "content": "Makale içeriği: Son zamanlarda klinik verilerin ortaya çıkmaya başlamasıyla birlikte, büyük ilaç firmaları in vivo CAR (Kimerik Antijen Reseptörü) üretiminin bir sonraki immünoterapi atılımı olduğuna dair inançlarını sinyallemekte. CAR T hücre tedavisi, kanser tedavisinde çığır açan bir yöntem olarak kabul ediliyor ve şimdiye kadar laboratuvar ortamında genetik olarak modifiye edilen hücrelerin hastalara nakledilmesiyle gerçekleştiriliyordu. Ancak in vivo teknikler, bu hücrelerin doğrudan hastanın vücudunda üretilmesini ve modifiye edilmesini amaçlıyor. Bu yeni yaklaşım, tedavi sürecini kolaylaştırabilir ve daha geniş bir hasta kitlesine ulaşmayı mümkün kılabilir. Büyük ilaç şirketlerinin bu alana yatırım yapması, in vivo CAR T tedavilerinin potansiyelini gösteriyor. Ancak bu yenilikçi terapilerin klinik etkinliği ve güvenliği hala değerlendirilmekte. Bu gelişmelerin sonucunda, in vivo CAR T tedavilerinin kanserle mücadelede önemli bir rol oynayıp oynamayacağını zaman gösterecek.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/cancer/in-vivo-car-t-therapy-will-the-bets-pay-off/)",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/in-vivo-car-t-therapy-will-the-bets-pay-off/",
-            "date": "2026-03-09T19:04:13.713652",
-            "timestamp": 1773083053.713661
-        },
-        {
-            "title": "Teknoloji İlerlemesi ile İlaçlanabilir Proteomun Genişletilmesi",
-            "original_title": "Expanding the Druggable Proteome with Tech Advances",
-            "content": "2026 yılında ivme kazanan ek terapötik modaliteleri keşfetmek üzere dört önde gelen uzmanla görüştük: hedeflenmiş protein yıkıcılar ve makrosikller. Hedeflenmiş protein yıkıcılar, belirli proteinlerin yıkımını sağlayarak hastalıklarla mücadelede yeni bir yöntem sunuyor. Bu yöntem, özellikle geleneksel ilaçların etki gösteremediği proteinler üzerinde etkili olabilir. Makrosikller ise büyük, halka yapısındaki moleküller olarak, zor hedeflenebilir proteinlerle etkileşime girme kapasitesine sahiptir ve böylece tedavi edilebilir hastalıkların kapsamını genişletebilir. Bu iki yaklaşım, ilaç geliştirme süreçlerinde yenilikçi çözümler sunarak proteomun daha geniş bir kısmının 'ilaçlanabilir' hale gelmesine olanak tanıyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (2026). Expanding the Druggable Proteome with Tech Advances. Erişim adresi: https://www.genengnews.com/topics/drug-discovery/expanding-the-druggable-proteome-with-tech-advances/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/drug-discovery/expanding-the-druggable-proteome-with-tech-advances/",
-            "date": "2026-03-09T19:04:20.293336",
-            "timestamp": 1773083060.293345
-        },
-        {
-            "title": "Tek Bir Egzersizle Beyinde 'Hafıza Dalgaları' Oluşuyor",
-            "original_title": "Single Workout Sparks Brain Ripples in Humans",
-            "content": "Bilim insanları, sadece 20 dakikalık bir egzersizin insan beyninde 'hafıza dalgaları' oluşturduğunu nihayet gözlemledi. Bu dalgalar, hafızanın güçlenmesi ve bilgilerin daha iyi işlenmesiyle ilişkilendiriliyor. Yeni araştırma, egzersizin beyin sağlığı üzerindeki olumlu etkilerini bir kez daha gözler önüne serdi. Egzersiz esnasında beyin dalgalarında meydana gelen bu değişiklikler, öğrenme kapasitesinin artmasına ve hafızanın güçlenmesine katkıda bulunuyor.\n\nAraştırmacılar, katılımcıların kısa süreli egzersizleri sonrasında beyin aktivitelerini ölçtüler ve hafıza ile ilişkili olan bu dalgaların arttığını gözlemlediler. Özellikle hipokampus bölgesinde belirginleşen bu dalgalar, yeni bilgilerin işlenmesi ve depolanması sürecinde önemli bir rol oynuyor.\n\nÇalışmanın sonuçları, egzersizin sadece fiziksel değil aynı zamanda bilişsel sağlık üzerinde de önemli etkileri olduğunu gösteriyor. Araştırmacılar, düzenli fiziksel aktivitenin hafıza ve öğrenme süreçlerine katkı sağlayabileceğini belirtiyor.\n\nAPA formatında kaynak: Neuroscience News. (2026). Single Workout Sparks Brain Ripples in Humans. https://neurosciencenews.com/exercise-brain-ripples-memory-302712/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/exercise-brain-ripples-memory-302712/",
-            "date": "2026-03-09T16:05:24.923143",
-            "timestamp": 1773072324.923155
-        },
-        {
-            "title": "Yapay Zeka, İran Çatışmasını Tiyatroya Dönüştürüyor",
-            "original_title": "How AI is turning the Iran conflict into theater",
-            "content": "Bu hikaye ilk olarak, yapay zeka üzerine haftalık bültenimiz The Algorithm'de yayınlandı. Bu tarz hikayeleri ilk elden almak için buradan abone olabilirsiniz. \"SF'de bir araya gelip bunu 100 inçlik bir TV'de izlemek isteyen var mı?\" X platformundaki bu gönderinin yazarı, çevrimiçi bir istihbarat panosunu takip ediyordu. Yapay zeka, İran'daki çatışmaları dramatik bir gösteriye dönüştürüyor. Giderek daha fazla kişi, çatışma bölgelerindeki olayları gerçek zamanlı olarak takip edebilmek için yapay zeka destekli araçlardan faydalanıyor. Bu araçlar, karmaşık verileri analiz ederek kullanıcılara görsel ve anlaşılır raporlar sunuyor. Bu sayede, olayların gidişatını anında izlemek ve analiz etmek mümkün hale geliyor. Ancak bu tür teknolojilerin kullanımı, etik ve güvenlik konularında çeşitli tartışmalara da yol açıyor. Yapay zeka ile elde edilen verilerin doğruluğu ve bu bilgilerin nasıl kullanıldığı, üzerinde durulması gereken önemli konular arasında yer alıyor. Ayrıca, bu tür teknolojilerin çatışmaları daha da dramatize ederek kamuoyunu yanıltma potansiyeli de bulunuyor. Sonuç olarak, yapay zeka teknolojilerinin savaş alanında kullanımı, bilgiye erişim açısından yeni kapılar açarken, beraberinde bir dizi sorunu da getiriyor. \n\nKaynak: MIT Technology Review. (2023). How AI is turning the Iran conflict into theater. Erişim adresi: https://www.technologyreview.com/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
-            "date": "2026-03-09T16:05:35.887088",
-            "timestamp": 1773072335.887097
         }
     ]
 }
