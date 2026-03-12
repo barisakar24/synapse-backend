@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-12T13:20:35.299533",
+    "last_updated": "2026-03-12T16:06:31.493341",
     "daily_news": {
-        "title": "Alzheimer'ın Erken Tespiti: Kan Proteinlerindeki Şaşırtıcı Değişim",
-        "original_title": "A surprising blood protein pattern may reveal Alzheimer’s",
-        "content": "Yeni bir çalışma, Alzheimer hastalığının kanda bulunan proteinlerin ince şekil değişiklikleriyle tespit edilebileceğini öne sürüyor. Araştırmacılar, üç kan proteinindeki yapısal farklılıkların hastalığın ilerleyişini yakından izlediğini keşfetti. Bu değişiklikleri 500'den fazla kişide analiz eden ekip, sağlıklı bireyleri hafif bilişsel bozukluk veya Alzheimer olanlardan etkileyici bir doğrulukla ayırt edebildi. Bu yaklaşım, teşhisi ve tedaviyi daha erken evrelere taşıyabilir. \n\nKaynak: Mind & Brain News -- ScienceDaily.",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260312020104.htm",
-        "date": "2026-03-12T13:20:27.993707",
-        "timestamp": 1773321627.993716
+        "title": "Gerçek Dünya İçin Tasarlanan Pragmatik AI: Hayatımızdaki Etkileri",
+        "original_title": "Pragmatic by design: Engineering AI for the real world",
+        "content": "Yapay zekanın etkisi, dijital dünyanın çok ötesine geçerek günlük yaşamımıza kadar uzanıyor. Kullandığımız otomobillerden evlerimizdeki cihazlara ve hayat kurtaran tıbbi cihazlara kadar birçok alanda karşımıza çıkıyor. Ürün mühendisleri, tasarladıkları ürünlerin geliştirilmesi, doğrulanması ve daha verimli hale getirilmesi için giderek daha fazla yapay zekaya yöneliyorlar. Bu durum, yapay zekanın sadece sanal bir yenilik olmaktan ziyade, somut ve gerçek dünya uygulamalarında önemli bir rol oynadığını gösteriyor. Yapay zeka, mühendislik süreçlerini hızlandırarak ve hata payını azaltarak, tasarım sürecinin daha etkili ve verimli hale gelmesini sağlıyor. Örneğin, otonom araçlar, kendi kendine öğrenme yetenekleri sayesinde trafikte daha güvenli ve etkin bir şekilde hareket edebiliyor. Evlerimizdeki akıllı cihazlar, enerji tasarrufunu artırarak hem çevreye hem de bütçemize katkıda bulunuyor. Sağlık sektöründe ise, yapay zeka destekli tıbbi cihazlar ve uygulamalar, hastalıkların teşhis ve tedavisinde daha hızlı ve doğru sonuçlar elde edilmesine yardımcı oluyor. Bu gelişmeler, yapay zekanın gelecekte mühendislik ve tasarım süreçlerinde daha da merkezî bir rol oynayacağının habercisi.",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+        "date": "2026-03-12T16:06:31.255892",
+        "timestamp": 1773331591.255902
     },
     "news_list": [
+        {
+            "title": "Çin'in OpenClaw Çılgınlığı: Erken Benimseyenler Kazanç Sağlıyor",
+            "original_title": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
+            "content": "Bu, dünyanın dört bir yanındaki teknoloji gelişmelerine dair günlük bir doz sağlayan The Download isimli hafta içi bültenimizin bugünkü sayısıdır. Çin'in OpenClaw Yapay Zeka Çılgınlığına Erken Adapte Olanlar Kâr Ediyor\n\nOcak ayında Pekin merkezli yazılım mühendisi Feng Qingyang, bir cihazı ele geçirip görevleri otonom olarak tamamlayabilen yeni bir yapay zeka aracı olan OpenClaw ile oynamaya başladı. Bu yenilikçi araç, kullanıcıların rutin işlerini büyük ölçüde kolaylaştırarak iş süreçlerini otomatikleştirmelerine olanak tanıyor. Çin'de hızla yayılan bu teknoloji dalgası, erken benimseyen kullanıcılara önemli finansal fırsatlar sunuyor. Ancak, bu tür teknolojilerin etik ve güvenlik boyutları da tartışmalara neden oluyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
+            "date": "2026-03-12T16:06:20.961375",
+            "timestamp": 1773331580.961386
+        },
+        {
+            "title": "Gerçek Dünya İçin Tasarlanan Pragmatik AI: Hayatımızdaki Etkileri",
+            "original_title": "Pragmatic by design: Engineering AI for the real world",
+            "content": "Yapay zekanın etkisi, dijital dünyanın çok ötesine geçerek günlük yaşamımıza kadar uzanıyor. Kullandığımız otomobillerden evlerimizdeki cihazlara ve hayat kurtaran tıbbi cihazlara kadar birçok alanda karşımıza çıkıyor. Ürün mühendisleri, tasarladıkları ürünlerin geliştirilmesi, doğrulanması ve daha verimli hale getirilmesi için giderek daha fazla yapay zekaya yöneliyorlar. Bu durum, yapay zekanın sadece sanal bir yenilik olmaktan ziyade, somut ve gerçek dünya uygulamalarında önemli bir rol oynadığını gösteriyor. Yapay zeka, mühendislik süreçlerini hızlandırarak ve hata payını azaltarak, tasarım sürecinin daha etkili ve verimli hale gelmesini sağlıyor. Örneğin, otonom araçlar, kendi kendine öğrenme yetenekleri sayesinde trafikte daha güvenli ve etkin bir şekilde hareket edebiliyor. Evlerimizdeki akıllı cihazlar, enerji tasarrufunu artırarak hem çevreye hem de bütçemize katkıda bulunuyor. Sağlık sektöründe ise, yapay zeka destekli tıbbi cihazlar ve uygulamalar, hastalıkların teşhis ve tedavisinde daha hızlı ve doğru sonuçlar elde edilmesine yardımcı oluyor. Bu gelişmeler, yapay zekanın gelecekte mühendislik ve tasarım süreçlerinde daha da merkezî bir rol oynayacağının habercisi.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+            "date": "2026-03-12T16:06:31.255892",
+            "timestamp": 1773331591.255902
+        },
         {
             "title": "Depresyonun Beyin Hücrelerindeki Enerji Sorunuyla Bağlantısı Keşfedildi",
             "original_title": "Depression may start with an energy problem in brain cells",
@@ -490,26 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/03/260307213244.htm",
             "date": "2026-03-09T02:51:55.866913",
             "timestamp": 1773024715.866926
-        },
-        {
-            "title": "Ketaminin Depresyon Üzerindeki Hızlı Etkisi Beyin Tarafından Nasıl Sağlanıyor?",
-            "original_title": "Brain scans reveal how ketamine quickly lifts severe depression",
-            "content": "Yeni bir beyin görüntüleme çalışması, ketaminin tedaviye dirençli depresyonu olan kişilerde hızlı antidepresan etkilerini nasıl ürettiğini ortaya koydu. Araştırmacılar, nöronların iletişimine yardımcı olan kritik bir beyin reseptöründeki değişiklikleri takip etti ve ketaminin, mood ve ödül ile ilgili belirli beyin bölgelerindeki aktivitesini nasıl yeniden şekillendirdiğini buldu. Bu değişiklikler, hastaların semptomlarındaki iyileşmelerle güçlü bir şekilde eşleşti. Bulgular, bilim insanlarının ketamin tedavisinden kimin fayda sağlayacağını daha iyi tahmin etme yolları geliştirmesine yardımcı olabilir.\n\nKaynak: Mind & Brain News -- ScienceDaily.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260307213234.htm",
-            "date": "2026-03-09T02:51:59.514360",
-            "timestamp": 1773024719.514372
-        },
-        {
-            "title": "Gençlerin Arkadaşlık Dinamikleri: Duygular ve Görünüş Üzerine",
-            "original_title": "Teen Friendships: Besties Deal in Emotions While Popular Control Appearance",
-            "content": "Yeni araştırmalar, en iyi arkadaşların bir gencin duygularını şekillendirirken, popüler çocukların ise nasıl görülmek istendiğini etkilediğini ortaya koyuyor. Gençler arasındaki sosyal ilişkiler, kimlik gelişiminde önemli bir rol oynuyor. Bu bağlamda, en iyi arkadaşlar, derin duygusal bağlar kurarak gençlerin duygusal dünyalarını etkilerken, popüler akranlar dış görünüş ve sosyal imaj üzerinde belirleyici oluyor. \n\nEn iyi arkadaşlarla olan ilişkiler, gençlerin duygusal destek bulduğu ve kendilerini ifade edebildiği güvenli alanlar yaratıyor. Bu arkadaşlıklar, karşılıklı güven ve anlayış temelinde şekillenirken, bireylerin içsel duygusal durumlarını olumlu ya da olumsuz yönde etkileyebiliyor. \n\nÖte yandan, popüler çocuklar, sosyal kabul ve statü arayışında olan diğer gençler için bir model teşkil ediyor. Bu popüler figürler, giyim, davranış ve sosyal medya etkileşimleriyle ilgili normları belirleyerek, diğer gençlerin nasıl algılanmak istediklerini şekillendiriyor. \n\nAraştırma, gençlerin sosyal çevrelerinin hem duygusal hem de dış görünüş açısından iki farklı yoldan etkilenebileceğini gösteriyor. En iyi arkadaşlar duygusal içeriğe odaklanırken, popüler akranlar daha çok yüzeysel ve sosyal imaj odaklı bir etki yaratıyor. \n\nKaynak: Neuroscience News (https://neurosciencenews.com/teen-peer-social-behavior-30270/)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/teen-peer-social-behavior-30270/",
-            "date": "2026-03-08T21:32:17.179047",
-            "timestamp": 1773005537.179057
         }
     ]
 }
