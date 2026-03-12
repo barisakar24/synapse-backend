@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-03-12T09:54:54.345785",
+    "last_updated": "2026-03-12T13:20:35.299533",
     "daily_news": {
-        "title": "Bağımlılıkta Yeniden Dönüş Anahtarı: Bağımlılığı Tetikleyen Devre",
-        "original_title": "Unlocking the Relapse Switch: The Circuit That Drives Addiction",
-        "content": "Bilim insanları, bağımlılık nüksünü kontrol eden spesifik bir sinirsel anahtarı belirlediler ve bunun irade eksikliğinden ziyade bir devre sorunu olduğunu kanıtladılar. Araştırmalar, bağımlılığın tekrar etmesinde rol oynayan belirli bir sinir devresini ortaya koyuyor. Bu buluş, bağımlılıkla mücadelede yeni tedavi yöntemlerinin geliştirilmesine yardımcı olabilir.\n\nBağımlılık, dünya genelinde milyonlarca insanı etkileyen karmaşık bir beyinsel hastalıktır. Bağımlılık yapan maddelerin ve davranışların beyin üzerindeki etkilerini anlamak, tedavi ve önleme stratejilerinin oluşturulmasında kritik öneme sahiptir. Araştırmacılar, bağımlılığın nüks etmesinde etkili olan kilit bir sinir devresini belirleyerek, bağımlılık tedavilerine yeni bir bakış açısı kazandırmayı hedefliyor.\n\nYapılan çalışmalarda, beyinde bağımlılık davranışlarını kontrol eden belirli bir sinir devresi keşfedildi. Bu devre, bağımlılıkla ilişkili olan ödül ve haz merkezleriyle doğrudan bağlantılıdır. Araştırmacılar, bu devrenin işleyişini ve bağımlılığın nüks etmesindeki rolünü inceleyerek, nüksü önlemek için potansiyel müdahale noktalarını belirlemeye çalışıyor.\n\nBu bulgular, bağımlılık tedavilerinde yeni yaklaşımlar geliştirilmesine kapı aralayabilir. Özellikle, bağımlılıkla mücadelede irade gücünün ötesine geçerek, biyolojik ve nörolojik faktörlerin daha fazla dikkate alınması gerektiğine işaret ediyor. Bu sayede, bağımlılıkla mücadelede daha etkili ve kalıcı çözümler üretilebilir.\n\nAraştırmanın bulguları, bağımlılık hastalarının daha iyi anlaşılmasına ve daha etkili tedavi yöntemlerinin geliştirilmesine katkı sağlayabilir. Bağımlılıkla mücadelede yeni stratejiler geliştirilmesi, hastaların yaşam kalitesini artırabilir ve toplum üzerindeki olumsuz etkilerini azaltabilir.\n\nKaynak: Neuroscience News (2023, Mart). Unlocking the Relapse Switch: The Circuit That Drives Addiction. Erişim adresi: https://neurosciencenews.com/addiction-relapse-neural-circuit-30298/",
+        "title": "Alzheimer'ın Erken Tespiti: Kan Proteinlerindeki Şaşırtıcı Değişim",
+        "original_title": "A surprising blood protein pattern may reveal Alzheimer’s",
+        "content": "Yeni bir çalışma, Alzheimer hastalığının kanda bulunan proteinlerin ince şekil değişiklikleriyle tespit edilebileceğini öne sürüyor. Araştırmacılar, üç kan proteinindeki yapısal farklılıkların hastalığın ilerleyişini yakından izlediğini keşfetti. Bu değişiklikleri 500'den fazla kişide analiz eden ekip, sağlıklı bireyleri hafif bilişsel bozukluk veya Alzheimer olanlardan etkileyici bir doğrulukla ayırt edebildi. Bu yaklaşım, teşhisi ve tedaviyi daha erken evrelere taşıyabilir. \n\nKaynak: Mind & Brain News -- ScienceDaily.",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/addiction-relapse-neural-circuit-30298/",
-        "date": "2026-03-12T02:48:10.479211",
-        "timestamp": 1773283690.479225
+        "link": "https://www.sciencedaily.com/releases/2026/03/260312020104.htm",
+        "date": "2026-03-12T13:20:27.993707",
+        "timestamp": 1773321627.993716
     },
     "news_list": [
+        {
+            "title": "Depresyonun Beyin Hücrelerindeki Enerji Sorunuyla Bağlantısı Keşfedildi",
+            "original_title": "Depression may start with an energy problem in brain cells",
+            "content": "Bilim insanları, depresyonu olan kişilerde hücrelerin enerji üretim şekillerinde şaşırtıcı bir değişiklik keşfetti. Majör depresif bozukluğu olan genç yetişkinlerin beyin ve kan hücreleri, dinlenme halinde daha fazla enerji molekülü üretiyor ancak ihtiyaç duyulduğunda enerji üretimini artırmakta zorluk çekiyor. Araştırmacılar, bu dengesizliğin yorgunluk ve düşük motivasyon gibi semptomlara katkıda bulunabileceğine inanıyor. Bu bulgu, daha erken teşhis ve daha kişiselleştirilmiş tedavilere giden yolda yardımcı olabilir.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260312020107.htm",
+            "date": "2026-03-12T13:20:24.851180",
+            "timestamp": 1773321624.851195
+        },
+        {
+            "title": "Alzheimer'ın Erken Tespiti: Kan Proteinlerindeki Şaşırtıcı Değişim",
+            "original_title": "A surprising blood protein pattern may reveal Alzheimer’s",
+            "content": "Yeni bir çalışma, Alzheimer hastalığının kanda bulunan proteinlerin ince şekil değişiklikleriyle tespit edilebileceğini öne sürüyor. Araştırmacılar, üç kan proteinindeki yapısal farklılıkların hastalığın ilerleyişini yakından izlediğini keşfetti. Bu değişiklikleri 500'den fazla kişide analiz eden ekip, sağlıklı bireyleri hafif bilişsel bozukluk veya Alzheimer olanlardan etkileyici bir doğrulukla ayırt edebildi. Bu yaklaşım, teşhisi ve tedaviyi daha erken evrelere taşıyabilir. \n\nKaynak: Mind & Brain News -- ScienceDaily.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260312020104.htm",
+            "date": "2026-03-12T13:20:27.993707",
+            "timestamp": 1773321627.993716
+        },
+        {
+            "title": "ABD Batarya Endüstrisi Zor Günler Geçiriyor",
+            "original_title": "Brutal times for the US battery industry",
+            "content": "Sadece birkaç yıl önce, batarya endüstrisi oldukça popülerdi. Sonsuz gibi görünen sayıda şirket ortaya çıkıyor, parıltılı yeni kimyalar ve devasa fon toplama turları ile dikkat çekiyordu. En büyük sorunum, en heyecan verici haberleri seçmek için bu yığını elemekti. Ancak bu durum değişti ve 2026'da işler farklı bir yöne evrildi. Artık bazı şirketler hayatta kalmak için mücadele ediyor ve yatırımcılar daha temkinli davranıyor. Yatırımcıların dikkatini çekmek ve ayakta kalmak, şirketler için her zamankinden daha fazla çaba gerektiriyor.\n\nBatarya endüstrisi, yenilenebilir enerji ve elektrikli araçların yükselişi ile birlikte büyük bir ivme kazanmıştı. Ancak bu hızlı büyüme, sektörün bazı zayıflıklarını da gün yüzüne çıkardı. Kaynak sıkıntıları, üretim maliyetlerinin artışı ve teknolojik yeniliklerin beklenenden yavaş ilerlemesi, sektördeki bazı oyuncuları zora soktu. Bu durum, birçok yatırımcının daha dikkatli ve seçici hale gelmesine neden oldu.\n\nBaşlangıçta büyük umutlar vaat eden birçok şirket, şimdi ayakta kalma mücadelesi veriyor. Sektör analistleri, önümüzdeki yıllarda daha fazla konsolidasyon ve iflasın yaşanabileceğini öngörüyor. Yenilikçi teknolojilere ve sürdürülebilir iş modellerine sahip olanlar hayatta kalma şansına sahip olacakken, diğerleri piyasadan silinebilir.\n\nEndüstrinin bu zor dönemi, aynı zamanda yeni fırsatları da beraberinde getirebilir. Daha verimli ve sürdürülebilir batarya teknolojilerinin geliştirilmesi, sektörü yeniden canlandırabilir ve uzun vadeli büyüme için sağlam bir temel oluşturabilir.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/",
+            "date": "2026-03-12T13:20:35.097816",
+            "timestamp": 1773321635.097825
+        },
         {
             "title": "Bağımlılıkta Yeniden Dönüş Anahtarı: Bağımlılığı Tetikleyen Devre",
             "original_title": "Unlocking the Relapse Switch: The Circuit That Drives Addiction",
@@ -480,36 +510,6 @@
             "link": "https://neurosciencenews.com/teen-peer-social-behavior-30270/",
             "date": "2026-03-08T21:32:17.179047",
             "timestamp": 1773005537.179057
-        },
-        {
-            "title": "Halüsinasyon Olmadan Depresyon Tedavisinde Yeni Bir 'Sihirli Mantar' İlaçı Umudu",
-            "original_title": "A new “magic mushroom” drug could treat depression without psychedelic hallucinations",
-            "content": "Bilim insanları, zihni etkileyen yan etkiler olmadan psikedelik bileşiklerin tıbbi vaatlerinden yararlanmanın yeni bir yolunu araştırıyorlar. Araştırmacılar, 'sihirli mantarlar'dan elde edilen psilosibinin aktif formu olan psilosinin modifiye edilmiş versiyonlarını oluşturdular. Bu yeni bileşikler, depresyon ve diğer beyin bozukluklarıyla ilişkili önemli serotonin yollarını hedeflemeye devam ediyor ancak çok daha az psikedelik benzeri etki yaratıyor gibi görünüyor.\n\nGeleneksel olarak, 'sihirli mantarlar' olarak bilinen psilosibin içeren mantarlar, halüsinasyonlar ve diğer psikedelik deneyimler üreten etkileriyle bilinir. Ancak, bu tür etkiler her zaman istenmeyebilir, özellikle de tıbbi tedavilerde. Bu nedenle, araştırmacılar, terapötik faydalarını korurken bu bileşiklerin yan etkilerini en aza indirmeye çalışıyorlar.\n\nYeni geliştirilen psilosin türevlerinin, özellikle serotonin 5-HT2A reseptörleri üzerinde etkili olduğu belirtiliyor. Bu reseptörler, depresyonun yanı sıra anksiyete ve diğer ruh sağlığı bozukluklarıyla da ilişkilidir. Araştırmacılar, bu yeni bileşiklerin, depresyon tedavisi için daha güvenli ve daha kabul edilebilir bir seçenek sunabileceği konusunda umutlular.\n\nSonuç olarak, bu tür yenilikçi yaklaşımlar, psikedelik bileşiklerin tıbbi araştırmalarında yeni bir dönemin başlangıcını işaret edebilir. Psikedelik ilaçların potansiyel sağaltıcı etkileri, halüsinasyonlar gibi istenmeyen yan etkiler olmadan elde edilebilirse, bu tür ilaçlar ruh sağlığı tedavilerinde devrim niteliğinde bir değişiklik yaratabilir.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260307213232.htm",
-            "date": "2026-03-08T21:32:23.491491",
-            "timestamp": 1773005543.491499
-        },
-        {
-            "title": "Alzheimer’ı Durdurabilecek Gizli Beyin Hücreleri Keşfedildi",
-            "original_title": "Scientists discover hidden brain cells that may stop Alzheimer’s tau buildup",
-            "content": "Bilim insanları, Alzheimer hastalığının gelişimini etkileyebilecek az bilinen beyin hücreleri olan tanyositler için şaşırtıcı yeni bir rol keşfetti. Bu özel hücreler, beyindeki toksik tau proteinini beyin omurilik sıvısından kan dolaşımına taşıyarak temizlemeye yardımcı oluyor gibi görünüyor. Tanyositler zarar gördüğünde veya işlevlerini yitirdiğinde, tau beyinde birikebiliyor ve bu, Alzheimer’ın bir göstergesi olarak kabul ediliyor.\n\nBu yeni keşif, Alzheimer hastalığının tedavisinde devrim yaratabilir. Tau proteini, Alzheimer’ın karakteristik özelliklerinden biri olan plakların ve düğümlerin oluşumunda önemli bir rol oynuyor. Tanyositlerin bu süreci nasıl etkilediğini anlamak, yeni tedavi stratejilerinin geliştirilmesine yol açabilir.\n\nAraştırmacılar, tanyositlerin Alzheimer’ın ilerlemesini nasıl etkilediğini daha iyi anlamak için daha fazla çalışma yapılması gerektiğini belirtiyor. Ancak bu buluş, hastalığın erken aşamalarında müdahale etme potansiyeline sahip yeni yollar açabilir.\n\nAPA Kaynağı: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260307155945.htm",
-            "date": "2026-03-08T21:32:28.393221",
-            "timestamp": 1773005548.39323
-        },
-        {
-            "title": "uniQure, FDA'nın Eleştirileri Altında: Hisselerde Dalgalanma Sürüyor",
-            "original_title": "StockWatch: Under Fire from FDA, uniQure Stock Roller-Coasters",
-            "content": "uniQure hisseleri, FDA'nın sert tutumu ve şirketin Huntington hastalığı (HD) gen tedavi adayı AMT-130'a yönelik kamuoyuna yaptığı eleştirilere rağmen haftayı yalnızca %9'luk bir düşüşle kapattı. Bu durum, FDA'nın gen tedavisi konusunda yaptığı sert açıklamalar ve kamuoyuna açık eleştirilerle birlikte, yatırımcılar arasında belirsizlik ve endişe yaratmış olmasına rağmen, hisse senedi değerindeki dalgalanmanın sınırlı kalmasına neden oldu. \n\nAMT-130, Huntington hastalığı için geliştirilmiş deneysel bir gen tedavi adayıdır. Huntington hastalığı, sinir sistemi üzerinde yıkıcı etkiler yaratan genetik bir bozukluktur ve şu anda kesin bir tedavisi bulunmamaktadır. uniQure, bu tedavi adayının geliştirilmesi sürecinde önemli bir adım atmış olsa da, FDA'nın eleştirileri ve sürecin gecikmesi, şirketin hisse değerinde dalgalanmalara yol açtı. \n\nuniQure, gen terapileri alanında yenilikçi çalışmalar yürüten bir biyoteknoloji şirketidir ve AMT-130'un geliştirilmesi, şirketin bu alandaki uzun vadeli stratejilerinin önemli bir parçasıdır. Ancak, FDA'nın bu tür tedavilere karşı izlediği sıkı düzenleyici yaklaşım, şirketin karşılaştığı zorlukları artırmaktadır. \n\nBu durum, yatırımcıların dikkatini çekmiş ve şirketin gelecekteki gelişmelerine yönelik belirsizliklerin artmasına neden olmuştur. Yatırımcılar, FDA'nın nihai kararlarını ve bu kararların şirkete nasıl yansıyacağını merakla beklemektedir. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). StockWatch: Under Fire from FDA, uniQure Stock Roller-Coasters. Retrieved from https://www.genengnews.com/topics/genome-editing/stockwatch-under-fire-from-fda-uniqure-stock-roller-coasters/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/genome-editing/stockwatch-under-fire-from-fda-uniqure-stock-roller-coasters/",
-            "date": "2026-03-08T21:32:36.810950",
-            "timestamp": 1773005556.810958
         }
     ]
 }
