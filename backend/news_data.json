@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-03-12T16:06:31.493341",
+    "last_updated": "2026-03-12T19:05:19.575753",
     "daily_news": {
-        "title": "Gerçek Dünya İçin Tasarlanan Pragmatik AI: Hayatımızdaki Etkileri",
-        "original_title": "Pragmatic by design: Engineering AI for the real world",
-        "content": "Yapay zekanın etkisi, dijital dünyanın çok ötesine geçerek günlük yaşamımıza kadar uzanıyor. Kullandığımız otomobillerden evlerimizdeki cihazlara ve hayat kurtaran tıbbi cihazlara kadar birçok alanda karşımıza çıkıyor. Ürün mühendisleri, tasarladıkları ürünlerin geliştirilmesi, doğrulanması ve daha verimli hale getirilmesi için giderek daha fazla yapay zekaya yöneliyorlar. Bu durum, yapay zekanın sadece sanal bir yenilik olmaktan ziyade, somut ve gerçek dünya uygulamalarında önemli bir rol oynadığını gösteriyor. Yapay zeka, mühendislik süreçlerini hızlandırarak ve hata payını azaltarak, tasarım sürecinin daha etkili ve verimli hale gelmesini sağlıyor. Örneğin, otonom araçlar, kendi kendine öğrenme yetenekleri sayesinde trafikte daha güvenli ve etkin bir şekilde hareket edebiliyor. Evlerimizdeki akıllı cihazlar, enerji tasarrufunu artırarak hem çevreye hem de bütçemize katkıda bulunuyor. Sağlık sektöründe ise, yapay zeka destekli tıbbi cihazlar ve uygulamalar, hastalıkların teşhis ve tedavisinde daha hızlı ve doğru sonuçlar elde edilmesine yardımcı oluyor. Bu gelişmeler, yapay zekanın gelecekte mühendislik ve tasarım süreçlerinde daha da merkezî bir rol oynayacağının habercisi.",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
-        "date": "2026-03-12T16:06:31.255892",
-        "timestamp": 1773331591.255902
+        "title": "Yüksek Yağ İçeren Diyetler, Bağırsak Bakterilerinin Beyne Ulaşmasına Yol Açabilir",
+        "original_title": "High-Fat Diets May Allow Gut Bacteria to Infiltrate the Brain",
+        "content": "Yeni bir çalışma, yüksek yağ içeren bir diyetin, vagus sinirini bağırsak bakterilerinin beyne ulaşabileceği bir otoyola dönüştürebileceğini ve potansiyel olarak beyni iltihaplandırabileceğini ortaya koyuyor. Yapılan araştırmalar, bağırsak mikrobiyomunun genel sağlık üzerindeki etkisinin ne denli önemli olduğunu gözler önüne sermeye devam ediyor. Ancak, bu çalışmanın bulguları, özellikle yüksek yağlı diyetlerle beslenen bireyler için endişe verici olabilir.\n\nVagus siniri, beyin ve bağırsaklar arasında kritik bir iletişim yolu olarak bilinir. Bu sinir, bağırsak bakterilerinin beyne ulaşması için bir geçit görevi görebilir. Araştırmacılar, bu durumun beyin iltihabına neden olabileceğini ve nörolojik sağlık üzerinde olumsuz etkiler yaratabileceğini öne sürüyorlar.\n\nYüksek yağlı diyetlerin, bağırsak mikrobiyomunu nasıl etkilediği ve bu durumun beyin sağlığı üzerindeki uzun vadeli sonuçları hala araştırılmakta olan önemli konular arasında yer alıyor. Bilim insanları, bu bulguların, diyet düzenlemesinin ve sağlıklı beslenmenin önemini bir kez daha vurguladığını belirtiyor.\n\nKaynak: Neuroscience News",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/gut-bacteria-brain-high-fat-diet-30304/",
+        "date": "2026-03-12T19:04:52.650079",
+        "timestamp": 1773342292.650088
     },
     "news_list": [
+        {
+            "title": "Yüksek Yağ İçeren Diyetler, Bağırsak Bakterilerinin Beyne Ulaşmasına Yol Açabilir",
+            "original_title": "High-Fat Diets May Allow Gut Bacteria to Infiltrate the Brain",
+            "content": "Yeni bir çalışma, yüksek yağ içeren bir diyetin, vagus sinirini bağırsak bakterilerinin beyne ulaşabileceği bir otoyola dönüştürebileceğini ve potansiyel olarak beyni iltihaplandırabileceğini ortaya koyuyor. Yapılan araştırmalar, bağırsak mikrobiyomunun genel sağlık üzerindeki etkisinin ne denli önemli olduğunu gözler önüne sermeye devam ediyor. Ancak, bu çalışmanın bulguları, özellikle yüksek yağlı diyetlerle beslenen bireyler için endişe verici olabilir.\n\nVagus siniri, beyin ve bağırsaklar arasında kritik bir iletişim yolu olarak bilinir. Bu sinir, bağırsak bakterilerinin beyne ulaşması için bir geçit görevi görebilir. Araştırmacılar, bu durumun beyin iltihabına neden olabileceğini ve nörolojik sağlık üzerinde olumsuz etkiler yaratabileceğini öne sürüyorlar.\n\nYüksek yağlı diyetlerin, bağırsak mikrobiyomunu nasıl etkilediği ve bu durumun beyin sağlığı üzerindeki uzun vadeli sonuçları hala araştırılmakta olan önemli konular arasında yer alıyor. Bilim insanları, bu bulguların, diyet düzenlemesinin ve sağlıklı beslenmenin önemini bir kez daha vurguladığını belirtiyor.\n\nKaynak: Neuroscience News",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/gut-bacteria-brain-high-fat-diet-30304/",
+            "date": "2026-03-12T19:04:52.650079",
+            "timestamp": 1773342292.650088
+        },
+        {
+            "title": "DEHB'li Ergenlerde Anksiyete ve Depresyon Riski Artıyor",
+            "original_title": "Teens with ADHD Face Higher Risks of Anxiety and Depression",
+            "content": "Yeni araştırmalar, dikkat eksikliği hiperaktivite bozukluğunun (DEHB) milyonlarca ergen için anksiyete ve depresyona dönüşmesine neden olan spesifik yaşam faktörlerini belirlemektedir. DEHB, genellikle çocuklukta teşhis edilen bir nörogelişimsel bozukluktur ve bu bozuklukla yaşayan gençler, günlük yaşamlarında çeşitli zorluklarla karşılaşmaktadır. Bu zorluklar sıklıkla akademik başarısızlık, sosyal ilişkilerde sorunlar ve düşük benlik saygısı gibi sonuçlar doğurabilmektedir. Araştırma, DEHB'li ergenlerin, bu zorlukların etkisiyle anksiyete ve depresyon gibi ek mental sağlık sorunları geliştirme riskinin daha yüksek olduğunu ortaya koymaktadır. Çalışma, bu risk faktörlerini yönetmek için erken müdahale ve destekleyici stratejilerin önemine dikkat çekmektedir. Erken teşhis ve bütüncül tedavi yaklaşımları, DEHB'li gençlerin yaşam kalitesini artırmada kritik rol oynamaktadır.\n\nKaynak: Neuroscience News (2023). Teens with ADHD Face Higher Risks of Anxiety and Depression. https://neurosciencenews.com/adhd-teens-anxiety-depression-30303/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/adhd-teens-anxiety-depression-30303/",
+            "date": "2026-03-12T19:05:04.196857",
+            "timestamp": 1773342304.196866
+        },
+        {
+            "title": "Beyni Yeni Bir Işıkta Görmek: Beyin Dokularını Görselleştirme Tekniği",
+            "original_title": "Seeing the Brain in a Different Light",
+            "content": "Kyushu Üniversitesi'ndeki bir araştırma ekibi, beyin dokularını görsel olarak temizleyen ve bunu yaparken normal beyin dinamiklerini koruyan bir teknik geliştirme üzerinde çalışıyor. Bu yenilikçi yöntem, beyin dokularının daha iyi incelenmesine ve anlaşılmasına olanak tanıyor. Araştırma ekibi, beyin dokularını daha net bir şekilde görüntülemek için ışığın etkisini kullanarak, bilim dünyasına yeni bir bakış açısı kazandırmayı hedefliyor. Bu teknik, beyin araştırmalarında yeni ufuklar açabilir ve nörolojik hastalıkların daha iyi anlaşılmasına katkı sağlayabilir. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (tarih). Seeing the Brain in a Different Light. https://www.genengnews.com/topics/translational-medicine/seeing-the-brain-in-a-different-light/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/seeing-the-brain-in-a-different-light/",
+            "date": "2026-03-12T19:05:13.631184",
+            "timestamp": 1773342313.631193
+        },
+        {
+            "title": "Fare Beyninde Yaşlanmayla İlişkili Epigenetik Değişiklikler Haritalandı",
+            "original_title": "Brain Atlas Maps Epigenetic Changes Associated with Aging in Mice",
+            "content": "Yaşlanmanın nörodejenerasyon üzerindeki rolünü daha iyi anlamak için Salk araştırmacıları ve işbirlikçileri, yaşlanan fare beyninin bir atlasını oluşturdular. Bu çalışma, DNA metilasyonu, genom organizasyonu ve gen aktivitesindeki bölgeye ve hücre tipine özgü değişiklikleri ortaya koymaktadır.\n\nAraştırmada, yaşlanmanın beyin üzerindeki etkileri incelenerek, belirli beyin bölgelerinde ve hücre tiplerinde meydana gelen epigenetik değişiklikler detaylandırılmıştır. DNA metilasyonunun, gen ekspresyonunun ve genomun genel yapısının yaşla birlikte nasıl değiştiği, bu atlas sayesinde daha iyi anlaşılabilir hale gelmiştir.\n\nBu tür araştırmalar, yaşlanmanın moleküler düzeydeki etkilerini anlamak için kritik öneme sahiptir ve nörodejeneratif hastalıkların mekanizmalarına dair yeni bilgiler sunabilir. Sonuç olarak, yaşlanmanın fare beynindeki epigenetik izleri, gelecekteki çalışmalar için önemli bir kaynak oluşturabilir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (tarih). Brain Atlas Maps Epigenetic Changes Associated with Aging in Mice. https://www.genengnews.com/topics/omics/brain-atlas-maps-epigenetic-changes-associated-with-aging-in-mice/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/omics/brain-atlas-maps-epigenetic-changes-associated-with-aging-in-mice/",
+            "date": "2026-03-12T19:05:19.575712",
+            "timestamp": 1773342319.575721
+        },
         {
             "title": "Çin'in OpenClaw Çılgınlığı: Erken Benimseyenler Kazanç Sağlıyor",
             "original_title": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
@@ -470,46 +510,6 @@
             "link": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
             "date": "2026-03-09T16:05:35.887088",
             "timestamp": 1773072335.887097
-        },
-        {
-            "title": "Dijital Varlık Cihazlarının Güvenliği İçin Kullanılabilirlik Zorunluluğu",
-            "original_title": "The usability imperative for securing digital asset devices",
-            "content": "Tony Fadell, iPod üzerinde çalışmaya başladığında, kullanılabilirlik genellikle güvenliğin önüne geçiyordu. Bunun sonucu olarak, geliştirme süreci yinelenen bir hal aldı. Her seferinde birisi cihazın güvenlik açığını veya bir şekilde hacklenme yolunu bulduğunda, geliştirme ekibi yeni önlemler ekleyip sorunları çözmek için yinelemeler yapıyordu. Yine de, sıklıkla yeni açıklar bulunuyor ve güvenli tasarım sürekli olarak test ediliyordu. Bu durum, teknoloji dünyasında cihaz güvenliği ve kullanılabilirlik arasında denge kurmanın zorluğunu bir kez daha gözler önüne seriyor. Geliştiricilerin, kullanıcı deneyimini bozmadan cihazları güvenli hale getirme çabası, sürekli bir mücadele gerektiriyor. Bu bağlamda, cihazların kullanılabilirliği ve güvenliği arasındaki ilişki, dijital varlıkların korunmasında kritik bir rol oynuyor.\n\nKaynak: MIT Technology Review",
-            "category": "Bilim & Teknoloji",
-            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
-            "date": "2026-03-09T16:05:43.180235",
-            "timestamp": 1773072343.180246
-        },
-        {
-            "title": "GLP-1 İlaçları MED14 Fosforilasyonu ile Gen İfadesini Düzenliyor",
-            "original_title": "GLP-1 Drugs Modulate Gene Expression via MED14 Phosphorylation",
-            "content": "Salk Enstitüsü araştırmacıları, GLP-1 ilaçlarının pankreatik beta hücrelerinde nasıl yaşam sürdürülebilirliği ve stres direncini artırdığını ortaya çıkardı. Konservatif Transkripsiyonun Mediator kompleksinin iskele alt birimi olan Med14, pankreatik sağlık yararlarına yol açan gen ekspresyonu değişikliklerine olanak tanır. Bu bulgular, GLP-1 ilaçlarının pankreatik beta hücreleri üzerindeki olumlu etkilerini moleküler düzeyde anlamamıza yardımcı oluyor. Med14'ün fosforilasyonu, bu ilaçların gen ifadelerini nasıl modüle ettiğini ve dolayısıyla hücrelerin stres koşullarına daha dayanıklı hale geldiğini açıklıyor. Araştırmacılar, bu mekanizmanın daha iyi anlaşılmasının, diyabet tedavilerinde önemli bir ilerlemeye yol açabileceğini belirtiyorlar. Araştırma sonuçları, GLP-1 ilaçlarının sadece kan şekeri seviyelerini kontrol etmediğini, aynı zamanda hücresel düzeyde önemli genetik değişikliklere de neden olabileceğini gösteriyor. Bu, diyabet tedavisinde GLP-1 ilaçlarının potansiyel uygulamalarını genişletebilir. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/drug-discovery/glp-1-drugs-modulate-gene-expression-via-med14-phosphorylation/)",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/drug-discovery/glp-1-drugs-modulate-gene-expression-via-med14-phosphorylation/",
-            "date": "2026-03-09T16:05:52.344871",
-            "timestamp": 1773072352.344881
-        },
-        {
-            "title": "CHO Hücresi Dışındaki Ekspresyon Sistemlerinde Öne Çıkanlar",
-            "original_title": "Standouts among Non-CHO Cell Expression Systems",
-            "content": "<p>Biyolojik ürünlerin üretiminde daha hızlı ve esnek alternatifler olarak öne çıkan Non-CHO (Çin Hamster Yumurtalık) hücre ekspresyon sistemleri giderek daha fazla ilgi görüyor.</p><p>Biyoproseslerde kullanılan geleneksel CHO hücreleri, uzun süredir endüstri standardı olarak kabul edilse de, Non-CHO sistemleri, sağladıkları avantajlarla dikkat çekmeye başladı. Bu sistemler, daha kısa üretim süreleri ve özelleştirilebilir yapıları sayesinde, biyoteknoloji şirketleri için cazip bir seçenek haline geliyor.</p><p>Non-CHO hücre sistemleri arasında, bakteriyel, maya, bitki, böcek ve insan hücre hatları gibi farklı türler bulunuyor. Her bir sistemin kendine özgü avantajları ve zorlukları mevcut. Örneğin, bakteriyel sistemler hızlı büyüme ve kolay genetik manipülasyon imkanı sunarken, maya sistemleri post-translasyonel modifikasyonlar için uygunluk sağlıyor. Bitki ve böcek hücreleri ise daha karmaşık proteinlerin üretiminde kullanılabiliyor.</p><p>Bu alternatif sistemlerin artan popülaritesi, üretim süreçlerinin daha verimli ve maliyet etkin hale gelmesine katkı sağlıyor. Ayrıca, bazı biyofarmasötiklerin üretimi için gerekli olan özel modifikasyonların yapılabilmesine olanak tanıyor.</p><p>Non-CHO hücre ekspresyon sistemleri, biyoteknoloji alanında yenilikçi çözümler sunmaya devam ederken, gelecekte daha geniş bir uygulama alanı bulması bekleniyor. Bu sistemlerin gelişimi, biyolojik ürünlerin daha hızlı ve etkili bir şekilde pazara sunulmasını mümkün kılabilir.</p><p>Kaynak: GEN – Genetic Engineering and Biotechnology News. (Tarih). Standouts among Non-CHO Cell Expression Systems. https://www.genengnews.com/topics/bioprocessing/standouts-among-non-cho-cell-expression-systems/</p>",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/bioprocessing/standouts-among-non-cho-cell-expression-systems/",
-            "date": "2026-03-09T16:06:04.039168",
-            "timestamp": 1773072364.039179
-        },
-        {
-            "title": "Demans Hastalarında Risperidon Kullanımı Felç Riskini Artırıyor",
-            "original_title": "165,000 dementia patients reveal hidden stroke risk from common drug",
-            "content": "Birleşik Krallık'ta 165,000'den fazla demans hastası üzerinde yapılan kapsamlı bir çalışma, yaygın olarak kullanılan risperidon adlı ilacın felç riskini artırdığına dair endişe verici yeni kanıtlar ortaya çıkardı. Araştırmacılar, antipsikotik ilacın, kalp hastalığı veya felç geçmişi olmayan demans hastalarında bile felç riskini artırdığını buldu. Bu durum, bazı hastaların diğerlerine göre daha güvenli adaylar olabileceğine dair uzun süredir devam eden inancı sorguluyor. Risperidon, demans için lisanslı tek ilaç olduğundan, doktorlar genellikle zorlayıcı semptomlar kontrol edilemez hale geldiğinde son çare olarak bu ilacı kullanıyorlar.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260307213244.htm",
-            "date": "2026-03-09T02:51:55.866913",
-            "timestamp": 1773024715.866926
         }
     ]
 }
