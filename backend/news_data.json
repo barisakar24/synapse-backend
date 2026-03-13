@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-03-13T18:55:40.560131",
+    "last_updated": "2026-03-13T21:41:54.023948",
     "daily_news": {
-        "title": "Hiperuyarılma Spektrumu: Yedi Farklı Gerginlik Türü Belirlendi",
-        "original_title": "Spectrum of Hyperarousal: Seven Distinct Types of Tension Identified",
-        "content": "Bilim insanları, zihinsel bozuklukların altında yatan gerginliklerin tedavisi için yeni bir yol haritası oluşturarak, yedi belirli hiperuyarılma türünü tanımladılar. Araştırma, zihinsel sağlık sorunlarının farklı gerginlik türleriyle nasıl bağlantılı olabileceğine dair yeni anlayışlar sunuyor.\n\nHiperuyarılma, genellikle anksiyete, stres ve diğer zihinsel sağlık problemleriyle ilişkilendirilen bir durumdur. Bu yeni çalışmada, bilim insanları hiperuyarılmanın sadece tek bir durum olmadığını, aksine farklı nedenlerle ortaya çıkabilen çeşitli alt türleri olduğunu keşfettiler. Bu keşif, her bir türün farklı tedavi yaklaşımları gerektirebileceğini öne sürüyor.\n\nAraştırmacılar, bu yedi farklı hiperuyarılma türünü belirleyerek, hangi durumların hangi tür gerginlikle ilişkili olduğunu daha iyi anlamayı hedefliyorlar. Bu yeni sınıflandırma, hem tanı süreçlerinde hem de tedavi planlamalarında daha kişiselleştirilmiş yaklaşımlar geliştirilmesine olanak tanıyabilir.\n\nBu çalışma, zihinsel sağlık alanında devrim niteliğinde bir adım olarak değerlendiriliyor. Gerginlik türlerinin daha iyi anlaşılması, hem klinik tedavi süreçlerinde hem de bireylerin kendi sağlıklarını yönetmelerinde büyük faydalar sağlayabilir.\n\nAPA Kaynağı: Neuroscience News. (2023). Spectrum of Hyperarousal: Seven Distinct Types of Tension Identified. https://neurosciencenews.com/seven-types-hyperarousal-30314/",
+        "title": "Köpeklerden İlham Alan Robot: Jestlerle 'Getir' Komutunu Öğrenen Yapay Zeka",
+        "original_title": "Dog-Inspired Robot: How Gestures Help AI Master the Art of “Fetch”",
+        "content": "Brown Üniversitesi bilim insanları, köpeklerin insan jestlerini okuma biçimini modelleyerek, dağınık odalarda nesneleri neredeyse %90 doğrulukla bulabilen bir robot geliştirdi. Bu gelişme, robotların yeni beceriler öğrenmesini sağlamada önemli bir adım olarak öne çıkıyor. \n\nRobotlar, insanlar için günlük işleri kolaylaştırmak amacıyla sürekli olarak geliştirilmektedir. Bu bağlamda, köpeklerin doğal yeteneklerinden esinlenen araştırmacılar, robotların nesneleri bulma kabiliyetini artırmayı başardı. İnsanların jest ve mimiklerinden yola çıkarak, robotun karmaşık bir ortamda bile belirli bir nesneyi bulması sağlandı. \n\nAraştırmanın odak noktası, köpeklerin sahiplerinin komutlarını ve işaretlerini nasıl algıladığını anlamak ve bunu robotik sisteme entegre etmek oldu. Yapay zeka algoritmaları ile desteklenen bu sistem, robotun daha esnek ve özerk bir şekilde hareket etmesine olanak tanıyor. \n\nBu yenilikçi yaklaşım, gelecekte robotların evlerde, ofislerde ve diğer yaşam alanlarında daha etkin bir şekilde kullanılabileceğinin sinyallerini veriyor. İnsan-robot etkileşiminde önemli bir adım olan bu çalışma, yapay zekanın çok daha geniş bir yelpazede uygulanabileceğini gösteriyor.\n\nKaynak: Neuroscience News",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/seven-types-hyperarousal-30314/",
-        "date": "2026-03-13T18:55:22.279717",
-        "timestamp": 1773428122.279729
+        "link": "https://neurosciencenews.com/dog-inspired-robot-gesture-30316/",
+        "date": "2026-03-13T21:41:45.377813",
+        "timestamp": 1773438105.377825
     },
     "news_list": [
+        {
+            "title": "Köpeklerden İlham Alan Robot: Jestlerle 'Getir' Komutunu Öğrenen Yapay Zeka",
+            "original_title": "Dog-Inspired Robot: How Gestures Help AI Master the Art of “Fetch”",
+            "content": "Brown Üniversitesi bilim insanları, köpeklerin insan jestlerini okuma biçimini modelleyerek, dağınık odalarda nesneleri neredeyse %90 doğrulukla bulabilen bir robot geliştirdi. Bu gelişme, robotların yeni beceriler öğrenmesini sağlamada önemli bir adım olarak öne çıkıyor. \n\nRobotlar, insanlar için günlük işleri kolaylaştırmak amacıyla sürekli olarak geliştirilmektedir. Bu bağlamda, köpeklerin doğal yeteneklerinden esinlenen araştırmacılar, robotların nesneleri bulma kabiliyetini artırmayı başardı. İnsanların jest ve mimiklerinden yola çıkarak, robotun karmaşık bir ortamda bile belirli bir nesneyi bulması sağlandı. \n\nAraştırmanın odak noktası, köpeklerin sahiplerinin komutlarını ve işaretlerini nasıl algıladığını anlamak ve bunu robotik sisteme entegre etmek oldu. Yapay zeka algoritmaları ile desteklenen bu sistem, robotun daha esnek ve özerk bir şekilde hareket etmesine olanak tanıyor. \n\nBu yenilikçi yaklaşım, gelecekte robotların evlerde, ofislerde ve diğer yaşam alanlarında daha etkin bir şekilde kullanılabileceğinin sinyallerini veriyor. İnsan-robot etkileşiminde önemli bir adım olan bu çalışma, yapay zekanın çok daha geniş bir yelpazede uygulanabileceğini gösteriyor.\n\nKaynak: Neuroscience News",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/dog-inspired-robot-gesture-30316/",
+            "date": "2026-03-13T21:41:45.377813",
+            "timestamp": 1773438105.377825
+        },
+        {
+            "title": "CAR T Hücre Tedavileri, Çoklu Sitokin Mühendislik Stratejisiyle Daha Uzun Süre Etkili Olabilir",
+            "original_title": "Multi-Cytokine Engineering Strategy May Help CAR T Cell Therapies Last Longer",
+            "content": "Kanser ve HIV, daha uzun süre kalıcı olacak şekilde tasarlanmış CAR T hücreleri kullanılarak daha iyi kontrol edilebilir. Yeni bir çalışma, farelerde sonuçları iyileştiren bir üretim stratejisini tanımlıyor. Bu strateji, CAR T hücre tedavilerinin etkinliğini artırarak tedavi sürecini uzatmayı hedefliyor. Çalışmanın bulguları, çoklu sitokin mühendisliği stratejisinin, CAR T hücrelerinin dayanıklılığını ve etkinliğini artırabileceğini gösteriyor. Bu yaklaşım, hücrelerin bağışıklık sisteminde daha uzun süre aktif kalmasını sağlayarak, kanser ve HIV gibi hastalıkların kontrol altına alınmasına yardımcı olabilir. Araştırma, bu yenilikçi stratejinin potansiyel klinik uygulamalarını ve gelecekteki tedavi yöntemleri üzerindeki etkilerini incelemektedir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/translational-medicine/multi-cytokine-engineering-strategy-may-help-car-t-cell-therapies-last-longer/)",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/multi-cytokine-engineering-strategy-may-help-car-t-cell-therapies-last-longer/",
+            "date": "2026-03-13T21:41:50.942059",
+            "timestamp": 1773438110.942067
+        },
+        {
+            "title": "Hastalık İlerlemesini Anlamak İçin Akciğer, Karaciğer ve Böbreklerin Bilgisayar Modelleri Oluşturuluyor",
+            "original_title": "Creating Computer Models of Lungs, Liver, and Kidneys to Better Understand Disease Progression",
+            "content": "Bilim insanları, tedavi tepkilerini simüle etmek, dozaj stratejilerini optimize etmek ve <i>in silico</i> klinik deneyler tasarlamak için dijital ikizler ve sanal hastalar kullanacak. Ayrıca, tekrarlanabilirlik için açık kaynaklı araçlar ve standartlar da geliştirecekler. Bu çalışmalar, hastalıkların ilerleyişini daha iyi anlamak ve tedavi yöntemlerini geliştirmek için önemli bir adım olarak görülüyor. Yeni geliştirilen bilgisayar modelleri, akciğer, karaciğer ve böbrek gibi hayati organların hastalık süreçlerini daha iyi analiz etmeye olanak tanıyacak. Bu sayede, kişiselleştirilmiş tıp uygulamaları ve daha etkili tedavi yöntemleri geliştirmek mümkün olacak. Bilim insanlarının bu çabaları, gelecekte sağlık sektöründe devrim niteliğinde gelişmelere yol açabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News.",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/drug-discovery/creating-computer-models-of-lungs-liver-and-kidneys-to-better-understand-disease-progression/",
+            "date": "2026-03-13T21:41:54.023904",
+            "timestamp": 1773438114.023912
+        },
         {
             "title": "Hiperuyarılma Spektrumu: Yedi Farklı Gerginlik Türü Belirlendi",
             "original_title": "Spectrum of Hyperarousal: Seven Distinct Types of Tension Identified",
@@ -480,36 +510,6 @@
             "link": "https://www.genengnews.com/topics/bioprocessing/cdmo-neuland-labs-expects-commercial-production-facility-to-be-operational-by-summer/",
             "date": "2026-03-10T21:36:58.232433",
             "timestamp": 1773178618.232442
-        },
-        {
-            "title": "Tek Hücreden Mekansal Multiomikse: Genomik Araştırmalarda Biyolojik Bağlamın Genişletilmesi",
-            "original_title": "From Single-Cell to Spatial Multiomics: Expanding Biological Context in Genomic Research",
-            "content": "Bu GEN Öğrenme Laboratuvarı'nda, uzman panelistlerimiz Linda Orzolek, MS, MB, Xuhuai Ji, MD, PhD, ve Christina Chang, PhD, mekansal genomik için görüntüleme ve yeni nesil dizileme tabanlı yaklaşımların mevcut durumunu tartışacak. **GEN - Genetic Engineering and Biotechnology News**'da yayınlanan bu yazı, tek hücreden başlayarak biyolojik araştırmalarda mekansal multiomikse geçişin önemini ve bu alandaki yenilikleri ele alıyor. \n\nAPA Formatında Kaynak:\nGEN – Genetic Engineering and Biotechnology News. (tarih). From Single-Cell to Spatial Multiomics: Expanding Biological Context in Genomic Research. https://www.genengnews.com/multimedia/from-single-cell-to-spatial-multiomics-expanding-biological-context-in-genomic-research/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/multimedia/from-single-cell-to-spatial-multiomics-expanding-biological-context-in-genomic-research/",
-            "date": "2026-03-10T21:37:01.651129",
-            "timestamp": 1773178621.651138
-        },
-        {
-            "title": "GLP-1 İlaçlarının Erkek ve Kadın Beynindeki Farklı Etkileri",
-            "original_title": "Why GLP-1 Drugs Affect Men and Women Differently",
-            "content": "Araştırmacılar, son dönemde popüler olan kilo kaybı ilaçlarının bel kemiği olan GLP-1'in, erkek ve kadın beyinlerinde farklı şekillerde haritalandığını ortaya koyan yeni bir atlas geliştirdi. Bu buluş, GLP-1 ilaçlarının cinsiyete özgü etkilerini anlamamıza yardımcı olabilir.\n\nGLP-1 (Glukagon Benzeri Peptid-1), vücutta doğal olarak bulunan ve insülin salgılanmasını artırarak kan şekerini düzenlemeye yardımcı olan bir hormondur. Ayrıca iştahı baskılaması ve enerji harcamasını artırması nedeniyle kilo kaybı tedavilerinde de kullanılmaktadır.\n\nAncak, son araştırmalar GLP-1'in beyinde erkekler ve kadınlar arasında farklı şekilde etkileşimde bulunduğunu göstermektedir. Bu farklılıklar, ilaçların cinsiyete özgü yan etkilerini ve etkinliğini etkileyebilir.\n\nBu yeni atlas, GLP-1'in beyindeki dağılımını ve işlevini daha iyi anlamamıza olanak tanıyacak. Araştırmacılar, bu bilgilerin gelecekte daha kişiselleştirilmiş tedavi yöntemlerinin geliştirilmesine katkı sağlayacağını ummaktadır.\n\nKaynak: Neuroscience News, 2026, Mart. \"Why GLP-1 Drugs Affect Men and Women Differently.\" Erişim: https://neurosciencenews.com/sex-specific-glp1-brain-80284/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/sex-specific-glp1-brain-80284/",
-            "date": "2026-03-10T19:01:39.715720",
-            "timestamp": 1773169299.71573
-        },
-        {
-            "title": "Yapay Zeka ile Çocukların Dil Becerisi Gelişimini Haritalamak",
-            "original_title": "Using AI to Map a Child’s Path to Language Mastery",
-            "content": "Bilim insanları, yapay zeka destekli beyin modelleri ve müzik ile okuma arasındaki ortak genetik yapıyı kullanarak beynin en karmaşık sistemini çözmeye yaklaşıyorlar. Araştırmalar, çocukların dil becerilerinin nasıl geliştiğini anlamak için yeni yöntemler sunuyor. Yapay zeka, beyin aktivitelerini analiz ederek, bireylerin dil becerilerinin hangi aşamalardan geçtiğini haritalandırabiliyor. Bu çalışmalar, çocukların dil öğrenme süreçlerine yönelik kişiselleştirilmiş eğitim yöntemlerinin geliştirilmesine katkı sağlayabilir. Bu yenilikçi yaklaşımla, dil öğrenme süreçlerinin daha iyi anlaşılması ve eğitim sistemlerinin bu doğrultuda evrilmesi hedefleniyor.\n\nKaynak: Neuroscience News (2023). Using AI to Map a Child’s Path to Language Mastery. Erişim adresi: https://neurosciencenews.com/ai-genetics-language-neuroscience-30283/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/ai-genetics-language-neuroscience-30283/",
-            "date": "2026-03-10T19:01:44.933827",
-            "timestamp": 1773169304.933837
         }
     ]
 }
