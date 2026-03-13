@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-03-13T07:05:44.570301",
+    "last_updated": "2026-03-13T09:51:08.597721",
     "daily_news": {
-        "title": "Beyindeki Bağışıklık Hücreleri Ergenlik ve Üremeyi Kontrol Ediyor",
-        "original_title": "Immune Cells in the Brain Discovered to Control Puberty and Reproduction",
-        "content": "Bilim insanları, beynin savunma hücrelerinin doğurganlığı kontrol ettiğini keşfederek, insan kısırlığına yeni bir genetik bağlantı tanımladı. Beyindeki mikroglia adı verilen bağışıklık hücrelerinin, ergenlik ve üreme süreçlerinde önemli bir rol oynadığı anlaşıldı. Mikroglia, merkezi sinir sistemi içinde bulunan ve bağışıklık tepkilerini düzenleyen özel hücrelerdir. Bu hücrelerin, hormonların ve üreme ile ilgili diğer biyolojik süreçlerin düzenlenmesinde doğrudan etkili olduğu ortaya çıktı. Araştırma, özellikle ergenlik döneminin başlaması ve üreme kapasitelerinin belirlenmesinde mikrogliaların rolünü vurguluyor. Bilim insanları, bu bulguların, insanlarda kısırlık sorunlarının anlaşılmasında ve potansiyel tedavi yöntemlerinin geliştirilmesinde önemli bir adım olabileceğini belirtiyorlar. Bu yeni keşif, üreme sağlığı alanında gelecekteki araştırmalar için de umut verici bir yol açabilir. \n\nKaynak: Neuroscience News (2023). Immune Cells in the Brain Discovered to Control Puberty and Reproduction. Erişim adresi: https://neurosciencenews.com/microglia-fertility-rank-protein-30309/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/microglia-fertility-rank-protein-30309/",
-        "date": "2026-03-13T02:45:56.689143",
-        "timestamp": 1773369956.689153
+        "title": "Cam Üzerine İnşa Edilen Geleceğin AI Çipleri",
+        "original_title": "Future AI chips could be built on glass",
+        "content": "İnsan yapımı cam binlerce yıllık bir geçmişe sahip. Ancak şimdi, dünyanın en yeni ve en büyük veri merkezlerinde kullanılan AI çiplerine girmeye hazırlanıyor. Bu yıl, Güney Koreli bir şirket olan Absolics, yeni nesil bilgisayar donanımını daha güçlü hale getirmek için tasarlanmış özel cam panellerin ticari üretimine başlamayı planlıyor. Bu gelişme, camın elektronik ve bilgi işlem alanında devrim yaratabileceğini gösteriyor. Geleneksel silikon tabanlı çiplerin sınırlarına yaklaşmasıyla birlikte, cam tabanlı çipler daha yüksek performans ve enerji verimliliği sunabilir. Absolics'in geliştirdiği bu teknolojinin, yapay zeka uygulamalarının ve veri işleme kapasitelerinin artırılmasında önemli bir rol oynayabileceği düşünülüyor. Camın optik özellikleri sayesinde, bilgi akışını daha hızlı ve verimli bir şekilde yönetmek mümkün olabilir. Bu da, veri merkezlerinin enerji tüketimini ve maliyetlerini azaltabilir. Gelecekte, bu tür yeniliklerin diğer teknoloji şirketleri tarafından da benimsenmesi bekleniyor. Absolics'in vizyonu, cam tabanlı çiplerin yalnızca performansı arttırmakla kalmayıp, aynı zamanda çevresel etkileri de azaltarak teknoloji dünyasına sürdürülebilir bir katkıda bulunmasıdır. \n\nKaynak: MIT Technology Review. (2023). Future AI chips could be built on glass. Erişim adresi: https://www.technologyreview.com/",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
+        "date": "2026-03-13T09:51:08.406764",
+        "timestamp": 1773395468.406777
     },
     "news_list": [
+        {
+            "title": "Cam Üzerine İnşa Edilen Geleceğin AI Çipleri",
+            "original_title": "Future AI chips could be built on glass",
+            "content": "İnsan yapımı cam binlerce yıllık bir geçmişe sahip. Ancak şimdi, dünyanın en yeni ve en büyük veri merkezlerinde kullanılan AI çiplerine girmeye hazırlanıyor. Bu yıl, Güney Koreli bir şirket olan Absolics, yeni nesil bilgisayar donanımını daha güçlü hale getirmek için tasarlanmış özel cam panellerin ticari üretimine başlamayı planlıyor. Bu gelişme, camın elektronik ve bilgi işlem alanında devrim yaratabileceğini gösteriyor. Geleneksel silikon tabanlı çiplerin sınırlarına yaklaşmasıyla birlikte, cam tabanlı çipler daha yüksek performans ve enerji verimliliği sunabilir. Absolics'in geliştirdiği bu teknolojinin, yapay zeka uygulamalarının ve veri işleme kapasitelerinin artırılmasında önemli bir rol oynayabileceği düşünülüyor. Camın optik özellikleri sayesinde, bilgi akışını daha hızlı ve verimli bir şekilde yönetmek mümkün olabilir. Bu da, veri merkezlerinin enerji tüketimini ve maliyetlerini azaltabilir. Gelecekte, bu tür yeniliklerin diğer teknoloji şirketleri tarafından da benimsenmesi bekleniyor. Absolics'in vizyonu, cam tabanlı çiplerin yalnızca performansı arttırmakla kalmayıp, aynı zamanda çevresel etkileri de azaltarak teknoloji dünyasına sürdürülebilir bir katkıda bulunmasıdır. \n\nKaynak: MIT Technology Review. (2023). Future AI chips could be built on glass. Erişim adresi: https://www.technologyreview.com/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
+            "date": "2026-03-13T09:51:08.406764",
+            "timestamp": 1773395468.406777
+        },
         {
             "title": "Beyindeki Bağışıklık Hücreleri Ergenlik ve Üremeyi Kontrol Ediyor",
             "original_title": "Immune Cells in the Brain Discovered to Control Puberty and Reproduction",
@@ -500,16 +510,6 @@
             "link": "https://www.genengnews.com/topics/cancer/car-t-cell-therapy-boosted-by-biomimetic-platform-in-refractory-leukemia/",
             "date": "2026-03-10T04:48:39.940519",
             "timestamp": 1773118119.940529
-        },
-        {
-            "title": "Zinde Beyinler Her Egzersizden Daha Fazla Faydalanıyor",
-            "original_title": "Fitter Brains Get a Bigger Boost from Every Workout",
-            "content": "Yeni araştırmalar, aerobik kondisyonunuzu (VO2 Max) geliştirmenin, egzersiz sonrası beyninizin nöroprotektif protein BDNF'nin daha yüksek seviyelerini üretmesi için eğittiğini öne sürüyor. Bu bulgular, fiziksel zindeliğin sadece vücut sağlığı için değil, aynı zamanda beyin sağlığı için de önemli olduğunu gösteriyor. \n\nAraştırma, fiziksel olarak daha fit olan bireylerin, egzersizden sonra BDNF seviyelerinde daha büyük bir artış yaşadıklarını ortaya koydu. BDNF, beyin hücreleri için kritik bir protein olup, hafıza ve öğrenme gibi bilişsel işlevlerin geliştirilmesinde rol oynar. Daha yüksek BDNF seviyeleri, nörodejeneratif hastalıklara karşı da koruyucu bir etkisi olduğundan, bu bulgular büyük önem taşımaktadır.\n\nÇalışmanın bulguları, fiziksel aktivitenin beyindeki nöroplastisiteyi artırarak, yaşa bağlı bilişsel gerilemeleri yavaşlatabileceğini ya da önleyebileceğini de ortaya koyuyor. Düzenli egzersiz, beynin yeni bilgiye adapte olma ve öğrenme kapasitesini artırabilir. \n\nBu sonuçlar, egzersizin hem fiziksel hem de zihinsel sağlık için önemini bir kez daha vurgulamakta olup, bireylerin fiziksel aktivitelerini artırmalarının beyin sağlığına katkıda bulunabileceğini göstermektedir.\n\nKaynak: Neuroscience News, 2023, \"Fitter Brains Get a Bigger Boost from Every Workout\". Erişim adresi: https://neurosciencenews.com/fitness-levels-bdnf-brain-boost-30279/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/fitness-levels-bdnf-brain-boost-30279/",
-            "date": "2026-03-10T02:43:03.337476",
-            "timestamp": 1773110583.337488
         }
     ]
 }
