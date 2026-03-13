@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-03-13T09:51:08.597721",
+    "last_updated": "2026-03-13T13:18:19.424713",
     "daily_news": {
-        "title": "Cam Üzerine İnşa Edilen Geleceğin AI Çipleri",
-        "original_title": "Future AI chips could be built on glass",
-        "content": "İnsan yapımı cam binlerce yıllık bir geçmişe sahip. Ancak şimdi, dünyanın en yeni ve en büyük veri merkezlerinde kullanılan AI çiplerine girmeye hazırlanıyor. Bu yıl, Güney Koreli bir şirket olan Absolics, yeni nesil bilgisayar donanımını daha güçlü hale getirmek için tasarlanmış özel cam panellerin ticari üretimine başlamayı planlıyor. Bu gelişme, camın elektronik ve bilgi işlem alanında devrim yaratabileceğini gösteriyor. Geleneksel silikon tabanlı çiplerin sınırlarına yaklaşmasıyla birlikte, cam tabanlı çipler daha yüksek performans ve enerji verimliliği sunabilir. Absolics'in geliştirdiği bu teknolojinin, yapay zeka uygulamalarının ve veri işleme kapasitelerinin artırılmasında önemli bir rol oynayabileceği düşünülüyor. Camın optik özellikleri sayesinde, bilgi akışını daha hızlı ve verimli bir şekilde yönetmek mümkün olabilir. Bu da, veri merkezlerinin enerji tüketimini ve maliyetlerini azaltabilir. Gelecekte, bu tür yeniliklerin diğer teknoloji şirketleri tarafından da benimsenmesi bekleniyor. Absolics'in vizyonu, cam tabanlı çiplerin yalnızca performansı arttırmakla kalmayıp, aynı zamanda çevresel etkileri de azaltarak teknoloji dünyasına sürdürülebilir bir katkıda bulunmasıdır. \n\nKaynak: MIT Technology Review. (2023). Future AI chips could be built on glass. Erişim adresi: https://www.technologyreview.com/",
+        "title": "Askeri Hedefleme için Yapay Zeka Kullanımı ve Pentagon'un Claude'a Karşı Savaşı",
+        "original_title": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
+        "content": "Bu, teknolojinin dünyasında neler olup bittiğine dair günlük bir doz sağlayan hafta içi bültenimiz The Download'un bugünkü sayısıdır. Savunma yetkilisi, yapay zeka sohbet botlarının hedefleme kararlarında nasıl kullanılabileceğini açıkladı. ABD ordusu, hedefleri sıralamak ve hangilerine öncelikli olarak saldırılacağını önermek için üretken yapay zeka sistemlerini kullanabilir. \n\nABD Savunma Bakanlığı'ndan bir yetkili, yapay zeka tabanlı sohbet botlarının askeri hedefleme süreçlerinde nasıl kullanılabileceğine dair bazı detaylar verdi. Buna göre, askeri operasyonlar sırasında hangi hedeflerin öncelikli olarak vurulması gerektiğine karar verme aşamasında yapay zeka sistemlerinin devreye sokulabileceği belirtiliyor. Bu tür sistemlerin, büyük veri setlerini analiz ederek en stratejik hedeflerin belirlenmesine yardımcı olabileceği öne sürülüyor.\n\nSavunma alanında yapay zekanın kullanımı, karar verme süreçlerini hızlandırabilir ve daha etkili stratejilerin geliştirilmesine katkıda bulunabilir. Ancak, yapay zekanın askeri operasyonlarda kullanılmasının etik ve güvenlik açısından bazı tartışmalara yol açabileceği de göz önünde bulundurulmalıdır. Yapay zeka sistemlerinin önyargılardan arındırılmış ve güvenilir sonuçlar üretebilmesi için dikkatli bir şekilde tasarlanması gerektiği vurgulanıyor.\n\nKaynak: MIT Technology Review, Ekim 2023.",
         "category": "Yapay Zeka",
         "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
-        "date": "2026-03-13T09:51:08.406764",
-        "timestamp": 1773395468.406777
+        "link": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
+        "date": "2026-03-13T13:18:19.161566",
+        "timestamp": 1773407899.161577
     },
     "news_list": [
+        {
+            "title": "Askeri Hedefleme için Yapay Zeka Kullanımı ve Pentagon'un Claude'a Karşı Savaşı",
+            "original_title": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
+            "content": "Bu, teknolojinin dünyasında neler olup bittiğine dair günlük bir doz sağlayan hafta içi bültenimiz The Download'un bugünkü sayısıdır. Savunma yetkilisi, yapay zeka sohbet botlarının hedefleme kararlarında nasıl kullanılabileceğini açıkladı. ABD ordusu, hedefleri sıralamak ve hangilerine öncelikli olarak saldırılacağını önermek için üretken yapay zeka sistemlerini kullanabilir. \n\nABD Savunma Bakanlığı'ndan bir yetkili, yapay zeka tabanlı sohbet botlarının askeri hedefleme süreçlerinde nasıl kullanılabileceğine dair bazı detaylar verdi. Buna göre, askeri operasyonlar sırasında hangi hedeflerin öncelikli olarak vurulması gerektiğine karar verme aşamasında yapay zeka sistemlerinin devreye sokulabileceği belirtiliyor. Bu tür sistemlerin, büyük veri setlerini analiz ederek en stratejik hedeflerin belirlenmesine yardımcı olabileceği öne sürülüyor.\n\nSavunma alanında yapay zekanın kullanımı, karar verme süreçlerini hızlandırabilir ve daha etkili stratejilerin geliştirilmesine katkıda bulunabilir. Ancak, yapay zekanın askeri operasyonlarda kullanılmasının etik ve güvenlik açısından bazı tartışmalara yol açabileceği de göz önünde bulundurulmalıdır. Yapay zeka sistemlerinin önyargılardan arındırılmış ve güvenilir sonuçlar üretebilmesi için dikkatli bir şekilde tasarlanması gerektiği vurgulanıyor.\n\nKaynak: MIT Technology Review, Ekim 2023.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
+            "date": "2026-03-13T13:18:19.161566",
+            "timestamp": 1773407899.161577
+        },
         {
             "title": "Cam Üzerine İnşa Edilen Geleceğin AI Çipleri",
             "original_title": "Future AI chips could be built on glass",
@@ -500,16 +510,6 @@
             "link": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
             "date": "2026-03-10T13:20:51.126033",
             "timestamp": 1773148851.126039
-        },
-        {
-            "title": "Biyomimetik Platformla Güçlendirilen CAR T Hücre Tedavisi, Dirençli Lösemide Umut Vaadediyor",
-            "original_title": "CAR T Cell Therapy Boosted by Biomimetic Platform in Refractory Leukemia",
-            "content": "Lösemi türlerinde yüksek oranda ifade edilen bir protein olan CD71, demir taşınmasında rol oynar. Bu bilgi, araştırmacıların ferritin kendiliğinden birleşmesini tanımlı çözücü ve montaj koşulları altında hassas bir şekilde kontrol ederek Ferritin Agregasyon Hücre Bağlayıcı (FACE) tasarlamalarını sağladı. Bu yenilikçi biyomimetik platform, dirençli lösemi vakalarında CAR T hücre tedavisinin etkinliğini artırmada umut vadeden bir yöntem olarak öne çıkıyor. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/cancer/car-t-cell-therapy-boosted-by-biomimetic-platform-in-refractory-leukemia/)",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/car-t-cell-therapy-boosted-by-biomimetic-platform-in-refractory-leukemia/",
-            "date": "2026-03-10T04:48:39.940519",
-            "timestamp": 1773118119.940529
         }
     ]
 }
