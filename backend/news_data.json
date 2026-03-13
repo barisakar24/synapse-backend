@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-03-13T13:18:19.424713",
+    "last_updated": "2026-03-13T15:53:07.671964",
     "daily_news": {
-        "title": "Askeri Hedefleme için Yapay Zeka Kullanımı ve Pentagon'un Claude'a Karşı Savaşı",
-        "original_title": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
-        "content": "Bu, teknolojinin dünyasında neler olup bittiğine dair günlük bir doz sağlayan hafta içi bültenimiz The Download'un bugünkü sayısıdır. Savunma yetkilisi, yapay zeka sohbet botlarının hedefleme kararlarında nasıl kullanılabileceğini açıkladı. ABD ordusu, hedefleri sıralamak ve hangilerine öncelikli olarak saldırılacağını önermek için üretken yapay zeka sistemlerini kullanabilir. \n\nABD Savunma Bakanlığı'ndan bir yetkili, yapay zeka tabanlı sohbet botlarının askeri hedefleme süreçlerinde nasıl kullanılabileceğine dair bazı detaylar verdi. Buna göre, askeri operasyonlar sırasında hangi hedeflerin öncelikli olarak vurulması gerektiğine karar verme aşamasında yapay zeka sistemlerinin devreye sokulabileceği belirtiliyor. Bu tür sistemlerin, büyük veri setlerini analiz ederek en stratejik hedeflerin belirlenmesine yardımcı olabileceği öne sürülüyor.\n\nSavunma alanında yapay zekanın kullanımı, karar verme süreçlerini hızlandırabilir ve daha etkili stratejilerin geliştirilmesine katkıda bulunabilir. Ancak, yapay zekanın askeri operasyonlarda kullanılmasının etik ve güvenlik açısından bazı tartışmalara yol açabileceği de göz önünde bulundurulmalıdır. Yapay zeka sistemlerinin önyargılardan arındırılmış ve güvenilir sonuçlar üretebilmesi için dikkatli bir şekilde tasarlanması gerektiği vurgulanıyor.\n\nKaynak: MIT Technology Review, Ekim 2023.",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
-        "date": "2026-03-13T13:18:19.161566",
-        "timestamp": 1773407899.161577
+        "title": "Kortizol, Beynin İç Navigasyon Haritasını Bulandırıyor",
+        "original_title": "Cortisol Blurs the Brain’s Internal Navigation Map",
+        "content": "Yeni araştırmalar, stres hormonlarının beynin iç koordinat sistemini 'bulanıklaştırdığını' ortaya koyuyor. Bu bulgu, kortizolün Alzheimer'ın ilk etkilediği bölgeleri nasıl istikrarsızlaştırdığını gösteriyor. Kortizol, stres anlarında vücut tarafından salgılanan bir hormondur ve yüksek seviyelerde bu hormon, beynin hipokampus bölgesinde yer alan ve navigasyon becerilerinde önemli rol oynayan grid hücrelerini etkileyebilir. Grid hücreleri, beynin iç navigasyon sisteminde yer alan ve çevresel konumlandırmayı sağlayan bir hücre türüdür. Bu hücrelerin işlevi bozulduğunda, bireylerin yön bulma yeteneklerinde azalma ve mekansal bellek sorunları ortaya çıkabilir. Araştırmacılar, kortizolün etkisini anlamanın, Alzheimer gibi nörodejeneratif hastalıkların erken teşhis ve tedavisinde önemli bir adım olabileceğini belirtiyorlar. Bu buluş, stres yönetiminin ve kortizol seviyelerinin düzenli kontrolünün, beyin sağlığı açısından ne denli önemli olduğunu bir kez daha gözler önüne seriyor. \n\nKaynak: Neuroscience News (2023). Cortisol Blurs the Brain’s Internal Navigation Map. Erişim adresi: https://neurosciencenews.com/cortisol-navigation-grid-cells-30311/",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/cortisol-navigation-grid-cells-30311/",
+        "date": "2026-03-13T15:52:35.910615",
+        "timestamp": 1773417155.910629
     },
     "news_list": [
+        {
+            "title": "Kortizol, Beynin İç Navigasyon Haritasını Bulandırıyor",
+            "original_title": "Cortisol Blurs the Brain’s Internal Navigation Map",
+            "content": "Yeni araştırmalar, stres hormonlarının beynin iç koordinat sistemini 'bulanıklaştırdığını' ortaya koyuyor. Bu bulgu, kortizolün Alzheimer'ın ilk etkilediği bölgeleri nasıl istikrarsızlaştırdığını gösteriyor. Kortizol, stres anlarında vücut tarafından salgılanan bir hormondur ve yüksek seviyelerde bu hormon, beynin hipokampus bölgesinde yer alan ve navigasyon becerilerinde önemli rol oynayan grid hücrelerini etkileyebilir. Grid hücreleri, beynin iç navigasyon sisteminde yer alan ve çevresel konumlandırmayı sağlayan bir hücre türüdür. Bu hücrelerin işlevi bozulduğunda, bireylerin yön bulma yeteneklerinde azalma ve mekansal bellek sorunları ortaya çıkabilir. Araştırmacılar, kortizolün etkisini anlamanın, Alzheimer gibi nörodejeneratif hastalıkların erken teşhis ve tedavisinde önemli bir adım olabileceğini belirtiyorlar. Bu buluş, stres yönetiminin ve kortizol seviyelerinin düzenli kontrolünün, beyin sağlığı açısından ne denli önemli olduğunu bir kez daha gözler önüne seriyor. \n\nKaynak: Neuroscience News (2023). Cortisol Blurs the Brain’s Internal Navigation Map. Erişim adresi: https://neurosciencenews.com/cortisol-navigation-grid-cells-30311/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/cortisol-navigation-grid-cells-30311/",
+            "date": "2026-03-13T15:52:35.910615",
+            "timestamp": 1773417155.910629
+        },
+        {
+            "title": "Kemoterapi Sürecinde Beyni Koruyan 10 Dakikalık Egzersiz",
+            "original_title": "10-Minutes of Exercise Shield the Brain During Chemo",
+            "content": "Yapılan ulusal bir çalışma, evde uygulanabilecek basit bir egzersiz reçetesinin kemoterapi gören hastalar için hafıza ve zihinsel keskinliği koruyabileceğini kanıtladı. Bu çalışma, kemoterapi sırasında beyin sağlığını korumanın yollarını arayan birçok hasta için umut verici bir çözüm sunuyor.\n\nKemoterapi, kanser tedavisinde yaygın olarak kullanılan bir yöntemdir ancak bu tedavi sırasında birçok hasta 'kemoterapi beyni' olarak bilinen bir durumdan muzdarip olabilir. Bu durum, hafıza zayıflığı, konsantrasyon bozukluğu ve genel zihinsel bulanıklık gibi semptomlarla karakterize edilir. Araştırmacılar, bu yan etkilerin hafifletilmesinde fiziksel aktivitenin rolünü incelemek üzere bir çalışma başlattı.\n\nÇalışmada, katılımcıların evde yapabileceği basit egzersizler önerildi. Bu egzersizler, günde sadece 10 dakika yürüyüş veya hafif fiziksel aktiviteyi içeriyordu. Sonuçlar, düzenli olarak bu tür egzersizleri yapan hastaların hafıza ve zihinsel işlevlerinin, yapmayanlara kıyasla daha iyi korunduğunu ortaya koydu.\n\nAraştırmanın lideri, 'Egzersizin beyin sağlığı üzerindeki olumlu etkileri uzun süredir bilinmektedir, ancak bu çalışma, kemoterapi sırasında zihinsel sağlığı korumada ne kadar etkili olabileceğini göstermesi açısından önemlidir' şeklinde konuştu. Ayrıca, bu tür basit egzersizlerin herhangi bir yan etkisi olmadığını ve hastalar tarafından kolayca uygulanabileceğini de ekledi.\n\nSonuç olarak, kemoterapi sürecinde olan hastaların günlük rutinlerine sadece 10 dakikalık bir egzersiz eklemeleri, zihinsel sağlıklarını korumalarına yardımcı olabilir. Bu basit yaklaşım, tedavi sürecinin zorluklarını hafifletmek için etkili bir araç olarak kullanılabilir.\n\nKaynak: Neuroscience News. (2023). 10-Minutes of Exercise Shield the Brain During Chemo. https://neurosciencenews.com/exercise-chemo-brain-prevention-30310/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/exercise-chemo-brain-prevention-30310/",
+            "date": "2026-03-13T15:53:01.053700",
+            "timestamp": 1773417181.053709
+        },
+        {
+            "title": "Fiziksel Yapay Zeka: Üretimde Yeni Avantaj",
+            "original_title": "Why physical AI is becoming manufacturing’s next advantage",
+            "content": "On yıllardır, üreticiler verimliliği artırmak, maliyetleri düşürmek ve operasyonları istikrara kavuşturmak için otomasyonun peşinden koşuyorlar. Bu yaklaşım anlamlı kazanımlar sağladı, ancak artık yeterli değil. Günümüzün üretim liderleri, iş gücü kısıtlamaları, artan karmaşıklık ve güvenlik, kalite veya güveni feda etmeden daha hızlı yenilik yapma baskısı gibi farklı bir zorlukla karşı karşıya. Üretimde bir sonraki aşama, fiziksel yapay zekanın getirdiği yeniliklerle şekilleniyor. Fiziksel yapay zeka, sadece robotik süreç otomasyonunu değil, aynı zamanda insan-makine iş birliğini de kapsayarak, üretim süreçlerini daha esnek ve adaptif hale getiriyor. Üreticiler, bu teknolojiyi benimseyerek sadece verimliliklerini artırmakla kalmıyor, aynı zamanda değişen piyasa koşullarına daha hızlı yanıt verebiliyorlar. Bu yeni paradigma, üretim tesislerinde daha akıllı ve güvenli bir çalışma ortamı yaratırken, aynı zamanda iş gücünün yeniden eğitilmesine ve daha nitelikli işlerin ortaya çıkmasına olanak tanıyor. Bu sayede, üreticiler hem rekabetçi kalabilir hem de sürdürülebilir bir büyümeyi garanti altına alabilirler.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+            "date": "2026-03-13T15:53:07.480493",
+            "timestamp": 1773417187.480501
+        },
         {
             "title": "Askeri Hedefleme için Yapay Zeka Kullanımı ve Pentagon'un Claude'a Karşı Savaşı",
             "original_title": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
@@ -480,36 +510,6 @@
             "link": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
             "date": "2026-03-10T16:07:15.013784",
             "timestamp": 1773158835.013792
-        },
-        {
-            "title": "Zoonotik Virüslerin Doğal Seçilimi: Salgınların Kökenleri Ortaya Çıkıyor",
-            "original_title": "Outbreak Origins Unveiled by Zoonotic Virus Natural Selection",
-            "content": "Çoğu zoonotik virüs, insanlarda kalıcı olarak insandan insana bulaşmayı sürdürmek için uyum sağlayıcı mutasyonlar edinmelerinin gerekli olduğunu göstermez. Bu, zoonotik virüslerin insan popülasyonları içinde yayılma kapasiteleri üzerine yapılan araştırmaların önemli bir bulgusudur. Çalışmalar, birçok zoonotik virüsün insandan insana bulaşma yeteneği kazanmak için genetik uyum sağlama ihtiyacı duymadığını ortaya koyuyor. Bu bulgu, zoonotik virüslerin yayılma dinamiklerini ve potansiyel tehditlerini anlamak için yeni bir bakış açısı sunuyor. \n\nBu yeni bilgi, gelecekteki salgın risklerini değerlendirmek ve önlemek için önemli bir adım olabilir. Araştırmacılar, zoonotik virüslerin doğal ortamlarında nasıl geliştiğini ve insanlara nasıl yayılabileceğini anlamak adına doğal seçilim süreçlerini incelemeye devam ediyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News, https://www.genengnews.com/topics/infectious-diseases/outbreak-origins-unveiled-by-zoonotic-virus-natural-selection/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/infectious-diseases/outbreak-origins-unveiled-by-zoonotic-virus-natural-selection/",
-            "date": "2026-03-10T16:07:24.021124",
-            "timestamp": 1773158844.021133
-        },
-        {
-            "title": "Loudoun County: Veri Merkezlerinin Yeni Başkenti",
-            "original_title": "Prioritizing energy intelligence for sustainable growth",
-            "content": "Loudoun County, Virginia, eskiden pastoral manzaraları ve Washington, DC'ye yakınlığı ile tanınırken, son yıllarda daha modern bir üne kavuştu: Bölge, dünya üzerindeki en yüksek veri merkezi yoğunluğuna sahip yer olarak biliniyor. On yıl önce, bu tesisler e-posta ve e-ticaretin altyapısını sağlıyordu. Bugün ise, her şeye yapay zeka entegre edilmesi talebinin meteorik yükselişi sayesinde, bu veri merkezleri çok daha fazlasını yapıyor. Yapay zekanın yaygınlaşması, enerji tüketiminde büyük bir artışa yol açtı. Bu da enerji verimliliği ve sürdürülebilir büyüme için akıllı enerji yönetimi stratejilerinin önemini artırdı. Veri merkezlerinin enerji ihtiyaçlarını daha sürdürülebilir hale getirme çabaları, dünya genelinde daha geniş enerji yönetimi ve sürdürülebilirlik stratejilerine de ışık tutuyor.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
-            "date": "2026-03-10T13:20:44.047002",
-            "timestamp": 1773148844.04701
-        },
-        {
-            "title": "Yapay Zeka, İran Savaşı'nı Nasıl Tiyatroya Dönüştürüyor?",
-            "original_title": "The Download: AI’s role in the Iran war, and an escalating legal fight",
-            "content": "Günümüz teknolojisi, dünya çapında birçok alanda olduğu gibi, savaş stratejilerinde de önemli bir rol oynamaktadır. Son zamanlarda, yapay zekanın İran çatışmasındaki rolü üzerine odaklanılmıştır. Özellikle Claude gibi modellerin, ABD askeri güçlerinin karar alma süreçlerinde nasıl yardımcı oldukları üzerinde durulmaktadır. Yapay zekanın bu tür çatışma bölgelerinde kullanılması, savaşın geleneksel dinamiklerini değiştirerek, savaş ortamlarını adeta bir tiyatro sahnesine dönüştürmektedir. \n\nYapay zeka teknolojileri, savaş alanlarında daha stratejik ve etkili kararlar alınmasına olanak tanırken, aynı zamanda etik ve insani boyutları da beraberinde getirmektedir. Bu teknolojilerin, savaşın seyrini nasıl değiştirdiği ve gelecekte ne gibi sonuçlar doğurabileceği, uluslararası toplumun dikkatle takip ettiği konular arasında yer almaktadır. \n\nKaynak: MIT Technology Review (2023). The Download: AI’s role in the Iran war, and an escalating legal fight. Erişim adresi: [MIT Technology Review](https://www.technologyreview.com/)",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
-            "date": "2026-03-10T13:20:51.126033",
-            "timestamp": 1773148851.126039
         }
     ]
 }
