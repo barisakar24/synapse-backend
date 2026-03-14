@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-03-13T21:41:54.023948",
+    "last_updated": "2026-03-14T02:44:30.818249",
     "daily_news": {
-        "title": "Köpeklerden İlham Alan Robot: Jestlerle 'Getir' Komutunu Öğrenen Yapay Zeka",
-        "original_title": "Dog-Inspired Robot: How Gestures Help AI Master the Art of “Fetch”",
-        "content": "Brown Üniversitesi bilim insanları, köpeklerin insan jestlerini okuma biçimini modelleyerek, dağınık odalarda nesneleri neredeyse %90 doğrulukla bulabilen bir robot geliştirdi. Bu gelişme, robotların yeni beceriler öğrenmesini sağlamada önemli bir adım olarak öne çıkıyor. \n\nRobotlar, insanlar için günlük işleri kolaylaştırmak amacıyla sürekli olarak geliştirilmektedir. Bu bağlamda, köpeklerin doğal yeteneklerinden esinlenen araştırmacılar, robotların nesneleri bulma kabiliyetini artırmayı başardı. İnsanların jest ve mimiklerinden yola çıkarak, robotun karmaşık bir ortamda bile belirli bir nesneyi bulması sağlandı. \n\nAraştırmanın odak noktası, köpeklerin sahiplerinin komutlarını ve işaretlerini nasıl algıladığını anlamak ve bunu robotik sisteme entegre etmek oldu. Yapay zeka algoritmaları ile desteklenen bu sistem, robotun daha esnek ve özerk bir şekilde hareket etmesine olanak tanıyor. \n\nBu yenilikçi yaklaşım, gelecekte robotların evlerde, ofislerde ve diğer yaşam alanlarında daha etkin bir şekilde kullanılabileceğinin sinyallerini veriyor. İnsan-robot etkileşiminde önemli bir adım olan bu çalışma, yapay zekanın çok daha geniş bir yelpazede uygulanabileceğini gösteriyor.\n\nKaynak: Neuroscience News",
+        "title": "Mikroplastikler Beyin Sağlığını Tehdit Ediyor: Alzheimer ve Parkinson'a Yol Açabilir",
+        "original_title": "Microplastics may be quietly damaging your brain and fueling Alzheimer’s and Parkinson’s",
+        "content": "Mikroplastiklerin beyin sağlığını sessizce tehdit ediyor olabileceği ortaya çıktı. Yeni araştırmalar, artık yiyeceklerde, sularda ve hatta ev tozlarında yaygın olarak bulunan mikroplastiklerin, çeşitli biyolojik yollarla beyinde iltihaplanma ve hasara yol açabileceğini öne sürüyor. Bilim insanları yetişkinlerin her yıl yaklaşık 250 gram bu parçacıkları tüketebileceğini tahmin ediyor ve bazıları beynin de dahil olduğu organlarda birikebiliyor. \n\nMikroplastikler, 5 milimetreden daha küçük olan plastik parçacıklar olarak tanımlanır ve günlük yaşamımızda giderek daha fazla yer kaplamaktadır. Plastik ürünlerin geniş çapta kullanımı ve atık yönetimindeki yetersizlikler, bu parçacıkların çevreye yayılmasına yol açmaktadır. İnsanlar bu mikroplastikleri yiyecekler, içecekler ve solunum yoluyla vücutlarına alabilir. \n\nAraştırmalar, mikroplastiklerin beyinde birikerek nörolojik rahatsızlıklara zemin hazırlayabileceğini göstermektedir. Beyindeki bu birikim inflamasyona neden olabilir ve Alzheimer veya Parkinson gibi nörodejeneratif hastalıkların gelişimine katkıda bulunabilir. Mikroplastiklerin beyine nasıl ulaştığı ve burada nasıl etki gösterdiği hala tam olarak bilinmemekle birlikte, bu konudaki çalışmalar devam etmektedir.\n\nBilim insanları, mikroplastiklerin olası sağlık etkileri konusunda daha fazla araştırma yapılmasını önermekte ve bu plastiklerin çevreye salınımını azaltacak önlemlerin alınması gerektiğini vurgulamaktadır. \n\nKaynak: Mind & Brain News -- ScienceDaily",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/dog-inspired-robot-gesture-30316/",
-        "date": "2026-03-13T21:41:45.377813",
-        "timestamp": 1773438105.377825
+        "link": "https://www.sciencedaily.com/releases/2026/03/260313002637.htm",
+        "date": "2026-03-14T02:44:29.951768",
+        "timestamp": 1773456269.951781
     },
     "news_list": [
+        {
+            "title": "Mikroplastikler Beyin Sağlığını Tehdit Ediyor: Alzheimer ve Parkinson'a Yol Açabilir",
+            "original_title": "Microplastics may be quietly damaging your brain and fueling Alzheimer’s and Parkinson’s",
+            "content": "Mikroplastiklerin beyin sağlığını sessizce tehdit ediyor olabileceği ortaya çıktı. Yeni araştırmalar, artık yiyeceklerde, sularda ve hatta ev tozlarında yaygın olarak bulunan mikroplastiklerin, çeşitli biyolojik yollarla beyinde iltihaplanma ve hasara yol açabileceğini öne sürüyor. Bilim insanları yetişkinlerin her yıl yaklaşık 250 gram bu parçacıkları tüketebileceğini tahmin ediyor ve bazıları beynin de dahil olduğu organlarda birikebiliyor. \n\nMikroplastikler, 5 milimetreden daha küçük olan plastik parçacıklar olarak tanımlanır ve günlük yaşamımızda giderek daha fazla yer kaplamaktadır. Plastik ürünlerin geniş çapta kullanımı ve atık yönetimindeki yetersizlikler, bu parçacıkların çevreye yayılmasına yol açmaktadır. İnsanlar bu mikroplastikleri yiyecekler, içecekler ve solunum yoluyla vücutlarına alabilir. \n\nAraştırmalar, mikroplastiklerin beyinde birikerek nörolojik rahatsızlıklara zemin hazırlayabileceğini göstermektedir. Beyindeki bu birikim inflamasyona neden olabilir ve Alzheimer veya Parkinson gibi nörodejeneratif hastalıkların gelişimine katkıda bulunabilir. Mikroplastiklerin beyine nasıl ulaştığı ve burada nasıl etki gösterdiği hala tam olarak bilinmemekle birlikte, bu konudaki çalışmalar devam etmektedir.\n\nBilim insanları, mikroplastiklerin olası sağlık etkileri konusunda daha fazla araştırma yapılmasını önermekte ve bu plastiklerin çevreye salınımını azaltacak önlemlerin alınması gerektiğini vurgulamaktadır. \n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260313002637.htm",
+            "date": "2026-03-14T02:44:29.951768",
+            "timestamp": 1773456269.951781
+        },
         {
             "title": "Köpeklerden İlham Alan Robot: Jestlerle 'Getir' Komutunu Öğrenen Yapay Zeka",
             "original_title": "Dog-Inspired Robot: How Gestures Help AI Master the Art of “Fetch”",
@@ -500,16 +510,6 @@
             "link": "https://neurosciencenews.com/emotional-mapping-hippocampus-30286/",
             "date": "2026-03-10T21:36:50.590841",
             "timestamp": 1773178610.590851
-        },
-        {
-            "title": "Neuland Labs, Yeni Üretim Tesisini Yaz Aylarında Faaliyete Geçirmeyi Planlıyor",
-            "original_title": "CDMO Neuland Labs Expects Commercial Production Facility to Be Operational by Summer",
-            "content": "Neuland Labs, dünya çapında artan peptid üretim kapasitesi talebi doğrultusunda yeni bir ticari üretim tesisi açmayı planlıyor. GLP-1 üretimi, global peptid kapasitesinin giderek daha büyük bir kısmını tüketirken, Neuland, yenilikçi ve gelişmekte olan biyoteknoloji programlarına odaklanarak klinik ve ticari üretim tesislerine erişimde yaşanan kısıtlamalarla karşılaşan şirketlere destek olmayı hedefliyor. Bu yeni tesisin yaz aylarında faaliyete geçmesi bekleniyor. Yeni tesis, Neuland'ın üretim kapasitesini artırarak daha fazla müşteriye hizmet vermesini sağlayacak ve biyoteknoloji sektöründeki önemli bir ihtiyacı karşılayacak.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023, Ekim). CDMO Neuland Labs Expects Commercial Production Facility to Be Operational by Summer. GEN - Genetic Engineering and Biotechnology News. https://www.genengnews.com/topics/bioprocessing/cdmo-neuland-labs-expects-commercial-production-facility-to-be-operational-by-summer/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/bioprocessing/cdmo-neuland-labs-expects-commercial-production-facility-to-be-operational-by-summer/",
-            "date": "2026-03-10T21:36:58.232433",
-            "timestamp": 1773178618.232442
         }
     ]
 }
