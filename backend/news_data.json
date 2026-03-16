@@ -1,16 +1,66 @@
 {
-    "last_updated": "2026-03-16T16:11:49.138673",
+    "last_updated": "2026-03-16T19:16:50.712139",
     "daily_news": {
-        "title": "Çocuk Gelişiminde Annelik ve Babaların Karşılaştığı Korkular: Yürümekten Konuşmaya",
-        "original_title": "Nurturing agentic AI beyond the toddler stage",
-        "content": "Ebeveynler, küçük çocuklarının gelişimsel kilometre taşlarıyla ilgili birçok korkuyla karşı karşıya kalırlar; bu süreç bebeklikten yetişkinliğe kadar devam eder. Bir bebeğin konuşmayı veya yürümeyi öğrenmesi için geçen ay sayısı genellikle sağlık durumu için bir ölçüt olarak kullanılır ya da potansiyel bir sağlık durumunu doğru bir şekilde teşhis etmek için ek testler gerektiğini gösterir. Bir ebeveyn, çocuğunun bu önemli dönüm noktalarını başarılı bir şekilde aşmasıyla birlikte büyük bir sevinç yaşar. Bu gelişmeler, çocuğun fiziksel ve zihinsel sağlığının bir göstergesi olarak kabul edilir ve ebeveynlerin içini rahatlatır. Ancak bu sürecin her zaman pürüzsüz ilerlememesi, ebeveynlerde endişeye yol açabilir. Çocuğun gelişiminde herhangi bir gecikme ya da normalden sapma, ebeveynlerin dikkatini çeker ve çoğu zaman bir uzmana danışmayı gerektirir. Bu makalede, çocuk gelişiminde ebeveynlerin karşılaştığı bu korkuların ve endişelerin nasıl yönetilebileceği üzerine detaylı bir analiz sunulmaktadır. Ayrıca, yapay zekanın çocuk gelişimindeki etkisi ve bu teknolojilerin ebeveynlerin yaşamını nasıl kolaylaştırabileceği de ele alınmaktadır. Çocuk gelişimi alanında yapılan araştırmaların, ebeveynlere rehberlik etmesi ve çocuklarının sağlıklı bir gelişim süreci geçirmelerine yardımcı olması amaçlanmaktadır. Bu kapsamda, ebeveynlerin çocuklarının gelişim süreçlerine yönelik farkındalıklarını artıracak önerilere ve bilimsel bulgulara yer verilmiştir. \n\nKaynak: MIT Technology Review, 2023",
-        "category": "Psikoloji",
-        "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
-        "date": "2026-03-16T13:46:01.096805",
-        "timestamp": 1773668761.096817
+        "title": "Dikkat Dağınıklığının Gizli Sebebi: 'Yerel Uyku'",
+        "original_title": "The Awake “Sleep” Loop: Why Attention Lapses Occur in ADHD",
+        "content": "Yeni araştırmalar, yetişkinlerde dikkat eksikliği ve hiperaktivite bozukluğu (ADHD) olan bireylerde dikkat dağınıklığı ve daha yavaş tepki sürelerine neden olan gizli beyin mekanizmasını 'yerel uyku' olarak tanımlıyor. Bu durum, beynin bazı bölgelerinin uyanıkken bile uyku haline geçmesi anlamına geliyor. ADHD'li bireylerde bu yerel uyku döngüleri, dikkat toplamada zorluk ve bilgi işleme hızında yavaşlama gibi belirtilere yol açabiliyor. Araştırmalar, bu döngülerin beyindeki belirli bölgelerde meydana geldiğini ve bu bölgelerin dikkat ve uyanıklık düzenlemesinde önemli rol oynadığını gösteriyor. Bu bulgular, ADHD'nin tedavi ve yönetiminde yeni stratejiler geliştirilmesine olanak sağlayabilir. Araştırmayı yürüten bilim insanları, ADHD'li bireylerde yerel uykunun nasıl daha iyi yönetilebileceği ve dikkat dağınıklığının nasıl azaltılabileceği konusunda daha fazla çalışma yapılması gerektiğini belirtiyor.\n\nKaynak: Neuroscience News (2023, 24 Ekim). The Awake “Sleep” Loop: Why Attention Lapses Occur in ADHD. Erişim adresi: https://neurosciencenews.com/adhd-attention-sleep-activity-30324/",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/adhd-attention-sleep-activity-30324/",
+        "date": "2026-03-16T19:16:28.194495",
+        "timestamp": 1773688588.194504
     },
     "news_list": [
+        {
+            "title": "Beyin İmplantı İle Felçli Bireylere Yüksek Hızlı İletişim İmkanı",
+            "original_title": "Investigational Brain Implant Restores High-Speed Communication",
+            "content": "Yeni bir beyin-bilgisayar arayüzü, denenen parmak hareketlerini metne çevirerek felçli bireylerin neredeyse insan doğruluğunda yazı yazmalarına olanak tanıyor. Bu yenilikçi teknoloji, hareket kabiliyeti sınırlı olan bireylerin iletişim yeteneklerini önemli ölçüde artırmayı vaat ediyor. Çalışmanın sonuçları, bu tür beyin implantlarının, iletişimdeki hız ve doğruluk açısından önemli bir ilerleme sağlayabileceğini gösteriyor. Bu teknoloji, kullanıcıların zihinsel olarak düşündüğü parmak hareketlerini algılayarak, bunları dijital bir metin haline getiriyor. Araştırmacılar, bu gelişmenin, felçli bireylerin günlük yaşamda daha bağımsız olmalarına yardımcı olabileceğini belirtiyor. \n\nKaynak: Neuroscience News",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/brain-computer-interface-typing-paralysis-30325/",
+            "date": "2026-03-16T19:16:11.680110",
+            "timestamp": 1773688571.68012
+        },
+        {
+            "title": "Dikkat Dağınıklığının Gizli Sebebi: 'Yerel Uyku'",
+            "original_title": "The Awake “Sleep” Loop: Why Attention Lapses Occur in ADHD",
+            "content": "Yeni araştırmalar, yetişkinlerde dikkat eksikliği ve hiperaktivite bozukluğu (ADHD) olan bireylerde dikkat dağınıklığı ve daha yavaş tepki sürelerine neden olan gizli beyin mekanizmasını 'yerel uyku' olarak tanımlıyor. Bu durum, beynin bazı bölgelerinin uyanıkken bile uyku haline geçmesi anlamına geliyor. ADHD'li bireylerde bu yerel uyku döngüleri, dikkat toplamada zorluk ve bilgi işleme hızında yavaşlama gibi belirtilere yol açabiliyor. Araştırmalar, bu döngülerin beyindeki belirli bölgelerde meydana geldiğini ve bu bölgelerin dikkat ve uyanıklık düzenlemesinde önemli rol oynadığını gösteriyor. Bu bulgular, ADHD'nin tedavi ve yönetiminde yeni stratejiler geliştirilmesine olanak sağlayabilir. Araştırmayı yürüten bilim insanları, ADHD'li bireylerde yerel uykunun nasıl daha iyi yönetilebileceği ve dikkat dağınıklığının nasıl azaltılabileceği konusunda daha fazla çalışma yapılması gerektiğini belirtiyor.\n\nKaynak: Neuroscience News (2023, 24 Ekim). The Awake “Sleep” Loop: Why Attention Lapses Occur in ADHD. Erişim adresi: https://neurosciencenews.com/adhd-attention-sleep-activity-30324/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/adhd-attention-sleep-activity-30324/",
+            "date": "2026-03-16T19:16:28.194495",
+            "timestamp": 1773688588.194504
+        },
+        {
+            "title": "OpenAI Teknolojisi İran'da Nerelerde Kullanılabilir?",
+            "original_title": "Where OpenAI’s technology could show up in Iran",
+            "content": "Bu hikaye, haftalık yapay zeka bültenimiz The Algorithm'de ilk olarak yayınlandı. Bu ve benzeri hikayeleri ilk olarak e-posta kutunuzda görmek için buradan abone olabilirsiniz. OpenAI'nin, AI teknolojisini gizli ortamlarda kullanmak üzere Pentagon ile tartışmalı bir anlaşmaya varmasının üzerinden iki haftadan biraz fazla zaman geçti. OpenAI'nin bu teknolojisinin tam olarak nerelerde kullanılacağı konusunda hala önemli sorular var. İran'da bu teknolojinin nasıl ve nerelerde uygulanabileceği konusunda çeşitli spekülasyonlar yapılmakta. Ülkede AI kullanımının potansiyel alanları ve olası etkileri üzerine tartışmalar sürüyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
+            "date": "2026-03-16T19:16:32.574545",
+            "timestamp": 1773688592.574554
+        },
+        {
+            "title": "Trenchant BioSystems ve Invetech, Tam Otomatik CGT Üretim Platformunu Hedefliyor",
+            "original_title": "Fully-Automated CGT Manufacturing Platform Jointly Being Targeted by Trenchant BioSystems and Invetech",
+            "content": "Ocak ayında duyurulan test verileri, Trenchant'ın Autocell platformunun, belirli <i>ex vivo</i> genişleme adımlarını azaltma veya ortadan kaldırma potansiyeline sahip üretim iş akışlarını destekleyebileceğini göstermiştir. Bu gelişme, genetik mühendisliği ve biyoteknoloji alanında önemli bir adım olarak değerlendirilmektedir.\n\nTrenchant BioSystems ve Invetech, bu tam otomatik CGT (hücre ve gen terapisi) üretim platformunu birlikte hedeflemektedir. Autocell platformu, üretim süreçlerinde otomasyonu artırarak zaman ve maliyet tasarrufu sağlamayı amaçlamaktadır. Böylece, terapötik hücrelerin ve genlerin üretim süreçlerinde daha verimli ve güvenli sonuçlar elde edilmesi beklenmektedir.\n\nBu yenilikçi yaklaşım, genetik mühendisliği ve biyoteknoloji endüstrisinde devrim yaratabilecek nitelikte görülmektedir. Özellikle, hücre ve gen terapilerinin daha geniş kapsamda uygulanabilirliği ve erişilebilirliği açısından büyük bir potansiyel taşımaktadır.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/genome-editing/fully-automated-cgt-manufacturing-platform-jointly-being-targeted-by-trenchant-biosystems-and-invetech/",
+            "date": "2026-03-16T19:16:40.892353",
+            "timestamp": 1773688600.892362
+        },
+        {
+            "title": "Poligenik Risk Skoru, Obezite ve Diyabeti Anlamada Daha Etkili",
+            "original_title": "Polygenic Risk Score Better Predicts Obesity and Diabetes Across Ancestries",
+            "content": "<p>Dünyanın en büyük biyobankalarından elde edilen genetik verileri entegre eden araştırmacılar, obezite ve Tip 2 Diyabet (T2D) tahmininde kullanılan bir metabolik Poligenik Risk Skoru (MetPRS) geliştirdiler. Bu yeni model, mevcut hastalık tahmin modellerini geride bırakarak, hastalık sonrası morbiditeyi ve klinik müdahaleleri daha başarılı bir şekilde öngördü.</p>\n<p>Araştırmacılar, farklı atalara sahip bireylerde obezite ve T2D gibi metabolik hastalıkların daha doğru tahmin edilmesi amacıyla genetik verileri analiz etti. Bu süreçte, dünya çapında geniş kapsamlı biyobankalardan elde edilen genetik bilgiler kullanıldı. Sonuç olarak, geliştirilen MetPRS modeli, mevcut modellere kıyasla daha yüksek doğruluk sağladı.</p>\n<p>Yeni MetPRS modeli, genetik varyasyonların daha iyi anlaşılmasını sağlayarak, kişiselleştirilmiş sağlık müdahaleleri ve hastalık öncesi önlemler için önemli bir araç olarak öne çıkıyor. Bu, özellikle farklı genetik geçmişlere sahip bireyler için daha etkili bir sağlık yönetimi sunuyor.</p>\n<p>Bu çalışma, genetik mühendislik ve biyoteknoloji alanında önemli bir adım olarak değerlendiriliyor ve gelecekteki araştırmalar için bir temel oluşturuyor.</p>\n<p>Haberin orijinal kaynağı için: <a href=\"https://www.genengnews.com/topics/translational-medicine/polygenic-risk-score-better-predicts-obesity-and-diabetes-across-ancestries/\">Polygenic Risk Score Better Predicts Obesity and Diabetes Across Ancestries</a></p>\n<p>Kaynak: GEN – Genetic Engineering and Biotechnology News</p>\n<p>APA: GEN - Genetic Engineering and Biotechnology News. (tarih). Polygenic Risk Score Better Predicts Obesity and Diabetes Across Ancestries. https://www.genengnews.com/topics/translational-medicine/polygenic-risk-score-better-predicts-obesity-and-diabetes-across-ancestries/</p>",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/polygenic-risk-score-better-predicts-obesity-and-diabetes-across-ancestries/",
+            "date": "2026-03-16T19:16:50.712095",
+            "timestamp": 1773688610.712103
+        },
         {
             "title": "Çocuk Gelişiminde Annelik ve Babaların Karşılaştığı Korkular: Yürümekten Konuşmaya",
             "original_title": "Nurturing agentic AI beyond the toddler stage",
@@ -460,56 +510,6 @@
             "link": "https://neurosciencenews.com/epigenetic-brain-aging-atlas-30294/",
             "date": "2026-03-11T19:03:53.535570",
             "timestamp": 1773255833.535584
-        },
-        {
-            "title": "Yetişkin Nöronlar Doğum Anlarının Moleküler İzlerini Taşıyor",
-            "original_title": "Adult Neurons Retain a Molecular Record of Their Birth",
-            "content": "Yeni araştırmalar, yetişkin beyinindeki her bir nöronun tam olarak ne zaman ve nerede doğduğunu gösteren moleküler bir kayda sahip olduğunu ortaya koyuyor. Bu buluş, beyin gelişimi ve fonksiyonları hakkında daha derin bir anlayış sağlama potansiyeline sahip. Araştırmacılar, nöronların bu moleküler izlerini kullanarak, beynin farklı bölgelerindeki nöronal gelişim süreçlerini daha iyi takip etmeyi umuyorlar. Bu bilgi, nörolojik hastalıkların daha iyi anlaşılması ve tedavi yöntemlerinin geliştirilmesi açısından büyük önem taşıyor.\n\nKaynak: Neuroscience News (2023). Adult Neurons Retain a Molecular Record of Their Birth. Erişim adresi: https://neurosciencenews.com/neural-memory-neuroscience-30294/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/neural-memory-neuroscience-30294/",
-            "date": "2026-03-11T19:04:01.581061",
-            "timestamp": 1773255841.581071
-        },
-        {
-            "title": "ADC Üretimindeki Karmaşıklığı Ehlileştirmek",
-            "original_title": "Taming Complexity in ADC Manufacturing",
-            "content": "<p>Antikor-ilaç konjugatları, hedefe yönelik kanser tedavisi vaat ediyor, ancak üretim, ilaç-antikor oranının kontrol altına alınmasına bağlı. Yer yönlendirmeli konjugasyon, veri odaklı reaktör optimizasyonu ve tek kullanımlık ölçek büyütme platformlarındaki gelişmeler, tutarlılığı ve ölçeklenebilirliği artırıyor.</p>\n<p>Bu yazı ilk olarak <a href=\"https://www.genengnews.com/topics/bioprocessing/taming-complexity-in-adc-manufacturing/\">ADC Üretimindeki Karmaşıklığı Ehlileştirmek</a> başlığıyla <a href=\"https://www.genengnews.com\">GEN - Genetik Mühendisliği ve Biyoteknoloji Haberleri</a> sitesinde yayınlanmıştır.</p>\n<p>Kaynak: GEN – Genetik Mühendisliği ve Biyoteknoloji Haberleri</p>\n<p>APA: GEN – Genetic Engineering and Biotechnology News. (tarih). Taming Complexity in ADC Manufacturing. GEN - Genetik Mühendisliği ve Biyoteknoloji Haberleri. URL: https://www.genengnews.com/topics/bioprocessing/taming-complexity-in-adc-manufacturing/</p>",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/bioprocessing/taming-complexity-in-adc-manufacturing/",
-            "date": "2026-03-11T19:04:10.905711",
-            "timestamp": 1773255850.90572
-        },
-        {
-            "title": "Biyofarma Sektöründeki Beceri Açığına Özel Eğitim Çözümü",
-            "original_title": "Tailored Training Can Address Biopharma Skills Shortage",
-            "content": "Biyofarmasötik endüstrisinde dijital biyoproses becerileri hala yetersiz durumda. NIBRT tarafından yapılan yeni analizlere göre, bu beceri eksikliklerinin giderilmesinde yapay zeka ve otomasyona odaklanan özel, siteye özgü eğitim programlarının büyük bir rol oynayabileceği belirtiliyor. Biyofarmasötik sektöründe ileri teknolojilerin ve dijitalleşmenin hızla artmasıyla birlikte, bu alanda uzmanlaşmış personel ihtiyacı da giderek daha fazla önem kazanıyor. \n\nBiyofarma şirketleri, üretim süreçlerini daha verimli hale getirmek ve rekabet avantajı sağlamak için dijital dönüşüme yöneliyor. Ancak, bu dönüşüm sürecinde gerekli bilgi ve becerilere sahip personel bulmakta zorlanıyorlar. Özel olarak tasarlanmış eğitim programları, çalışanların dijital biyoproses teknolojilerini daha iyi anlamalarına ve uygulamalarına olanak tanıyabilir. Bu programların odak noktası, yapay zeka ve otomasyon gibi yenilikçi teknolojiler olmalıdır. \n\nNIBRT'nin analizine göre, biyofarma şirketleri bu tür eğitimlerle çalışanlarının yetkinliklerini artırabilir ve böylece sektördeki beceri açığını kapatabilir. Eğitim programlarının, şirketlerin özel ihtiyaçlarına ve operasyonel hedeflerine göre uyarlanması, eğitimin etkinliğini artıracaktır. \n\nSonuç olarak, biyofarma sektöründe dijital beceri eksikliği, özel eğitim programları ile giderilebilir ve bu da sektördeki genel verimliliği artırabilir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/bioprocessing/tailored-training-can-address-biopharma-skills-shortage/)",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/bioprocessing/tailored-training-can-address-biopharma-skills-shortage/",
-            "date": "2026-03-11T19:04:28.693431",
-            "timestamp": 1773255868.693439
-        },
-        {
-            "title": "Retina Taramaları ile Nörodejeneratif Hastalıkların Ayırt Edilmesi",
-            "original_title": "Retinal Scans Differentiate Between Neurodegenerative Diseases",
-            "content": "Yeni geliştirilmiş polarize ışık teknolojisi, basit bir retina taraması ile ALS ve Alzheimer gibi nörodejeneratif hastalıkları %96 doğrulukla ayırt etmeyi mümkün kılıyor. Bu yenilikçi yöntem, sinir bilimciler ve klinisyenler için önemli bir araç olarak öne çıkıyor. Retina taramaları, hastalıkların erken teşhisine ve doğru tedavi stratejilerinin geliştirilmesine katkı sağlıyor. Bu teknoloji sayesinde, nörodejeneratif hastalıklar arasındaki ince farklar artık daha net bir şekilde gözlemlenebiliyor. Bu gelişme, hem hasta bakımında hem de araştırma alanında önemli bir adım olarak kabul ediliyor.\n\nKaynak: Neuroscience News (2026)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/retinal-imaging-als-alzheimers-30291/",
-            "date": "2026-03-11T15:58:08.330169",
-            "timestamp": 1773244688.330181
-        },
-        {
-            "title": "Alzheimer Teşhisinde Devrim: Yeni Kan Testi Yüzde 90 Üzerinde Doğruluk Sağlıyor",
-            "original_title": "New Blood Test for Alzheimer’s",
-            "content": "Yeni araştırmalar, kan proteinlerinin şekillerini izleyerek Alzheimer ve Hafif Bilişsel Bozukluk (MCI) hastalıklarını yüzde 90'ın üzerinde bir doğrulukla tespit edebileceğini gösteriyor. Bu buluş, Alzheimer’ın erken teşhisine yönelik önemli bir adım olarak değerlendiriliyor. \n\nAraştırmacılar, Alzheimer hastalığına bağlı olarak kan proteinlerinin yapısında meydana gelen değişiklikleri inceleyerek bu hastalığı erken evrelerinde tespit etmenin mümkün olduğunu belirtiyor. Geleneksel teşhis yöntemlerine göre daha az invaziv olan bu kan testi, hastalığın ilerlemesini yavaşlatacak erken müdahalelere olanak tanıyabilir.\n\nBu yeni test, proteinlerin üç boyutlu yapısını analiz eden gelişmiş bir teknoloji kullanıyor. Araştırma, bu yöntemin Alzheimer ve MCI teşhisinde diğer testlere kıyasla daha etkili ve daha az maliyetli olduğunu ortaya koyuyor.\n\nBu gelişme, dünya genelindeki Alzheimer hastaları ve onların aileleri için umut verici bir yenilik olarak değerlendiriliyor. Erken teşhis, hastaların yaşam kalitesini artırabilir ve hastalığın seyrini yavaşlatabilir.\n\nKaynak: Neuroscience News, 2023, \"New Blood Test for Alzheimer’s\", https://neurosciencenews.com/protein-shape-alzheimers-blood-test-30290/.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/protein-shape-alzheimers-blood-test-30290/",
-            "date": "2026-03-11T15:58:15.979389",
-            "timestamp": 1773244695.979396
         }
     ]
 }
