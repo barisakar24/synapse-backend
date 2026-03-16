@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-16T10:11:13.965065",
+    "last_updated": "2026-03-16T13:46:08.545844",
     "daily_news": {
-        "title": "Kanser Tedavisinde Yeni Hedef: B2 Vitamini Yolu",
-        "original_title": "Vitamin B2 Pathway Identified as Potential Target for Cancer Therapy",
-        "content": "Kanser hücrelerinin ferroptoz adı verilen programlı hücre ölümüne karşı direnç göstermesine yardımcı olan B2 vitamini metabolizması, yeni tedavi yöntemleri için potansiyel bir hedef olarak öne çıkıyor. Riboflavin ile ilgili yolları, roseoflavin gibi bileşiklerle hedef almak, tümör savunmalarını zayıflatabilir ve yeni kanser tedavilerinin önünü açabilir.\n\nFerroptoz, demir bağımlı bir hücre ölüm şekli olup, özellikle kanser hücrelerinin kontrol altına alınmasında önemli bir rol oynayabilir. Ancak, kanser hücreleri bu sürece direnç kazanarak hayatta kalma yeteneklerini artırabilirler. Araştırmacılar, B2 vitamini yollarını hedef alarak bu direnci kırmayı hedefliyor. Bu kapsamda, riboflavin metabolizmasının inhibe edilmesi, kanser hücrelerinin ferroptoz sürecine daha duyarlı hale getirilmesi için umut vadediyor.\n\nYeni tedavi yaklaşımları arasında roseoflavin gibi riboflavin analogu bileşiklerin kullanılması planlanıyor. Bu tür bileşikler, B2 vitamini metabolizmasını bozguna uğratarak, kanser hücrelerinin savunma mekanizmalarını zayıflatabilir ve tedaviye daha açık hale getirebilir.\n\nAraştırmacılar, bu yaklaşımın klinik denemelerde nasıl sonuçlar vereceğini görmek için çalışmalarına devam ediyorlar. Eğer başarılı olunursa, bu strateji kanser tedavisi için önemli bir adım olabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/cancer/vitamin-b2-pathway-identified-as-potential-target-for-cancer-therapy/)",
-        "category": "Genetik",
-        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/cancer/vitamin-b2-pathway-identified-as-potential-target-for-cancer-therapy/",
-        "date": "2026-03-16T03:25:48.059736",
-        "timestamp": 1773631548.059747
+        "title": "Çocuk Gelişiminde Annelik ve Babaların Karşılaştığı Korkular: Yürümekten Konuşmaya",
+        "original_title": "Nurturing agentic AI beyond the toddler stage",
+        "content": "Ebeveynler, küçük çocuklarının gelişimsel kilometre taşlarıyla ilgili birçok korkuyla karşı karşıya kalırlar; bu süreç bebeklikten yetişkinliğe kadar devam eder. Bir bebeğin konuşmayı veya yürümeyi öğrenmesi için geçen ay sayısı genellikle sağlık durumu için bir ölçüt olarak kullanılır ya da potansiyel bir sağlık durumunu doğru bir şekilde teşhis etmek için ek testler gerektiğini gösterir. Bir ebeveyn, çocuğunun bu önemli dönüm noktalarını başarılı bir şekilde aşmasıyla birlikte büyük bir sevinç yaşar. Bu gelişmeler, çocuğun fiziksel ve zihinsel sağlığının bir göstergesi olarak kabul edilir ve ebeveynlerin içini rahatlatır. Ancak bu sürecin her zaman pürüzsüz ilerlememesi, ebeveynlerde endişeye yol açabilir. Çocuğun gelişiminde herhangi bir gecikme ya da normalden sapma, ebeveynlerin dikkatini çeker ve çoğu zaman bir uzmana danışmayı gerektirir. Bu makalede, çocuk gelişiminde ebeveynlerin karşılaştığı bu korkuların ve endişelerin nasıl yönetilebileceği üzerine detaylı bir analiz sunulmaktadır. Ayrıca, yapay zekanın çocuk gelişimindeki etkisi ve bu teknolojilerin ebeveynlerin yaşamını nasıl kolaylaştırabileceği de ele alınmaktadır. Çocuk gelişimi alanında yapılan araştırmaların, ebeveynlere rehberlik etmesi ve çocuklarının sağlıklı bir gelişim süreci geçirmelerine yardımcı olması amaçlanmaktadır. Bu kapsamda, ebeveynlerin çocuklarının gelişim süreçlerine yönelik farkındalıklarını artıracak önerilere ve bilimsel bulgulara yer verilmiştir. \n\nKaynak: MIT Technology Review, 2023",
+        "category": "Psikoloji",
+        "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+        "date": "2026-03-16T13:46:01.096805",
+        "timestamp": 1773668761.096817
     },
     "news_list": [
+        {
+            "title": "Çocuk Gelişiminde Annelik ve Babaların Karşılaştığı Korkular: Yürümekten Konuşmaya",
+            "original_title": "Nurturing agentic AI beyond the toddler stage",
+            "content": "Ebeveynler, küçük çocuklarının gelişimsel kilometre taşlarıyla ilgili birçok korkuyla karşı karşıya kalırlar; bu süreç bebeklikten yetişkinliğe kadar devam eder. Bir bebeğin konuşmayı veya yürümeyi öğrenmesi için geçen ay sayısı genellikle sağlık durumu için bir ölçüt olarak kullanılır ya da potansiyel bir sağlık durumunu doğru bir şekilde teşhis etmek için ek testler gerektiğini gösterir. Bir ebeveyn, çocuğunun bu önemli dönüm noktalarını başarılı bir şekilde aşmasıyla birlikte büyük bir sevinç yaşar. Bu gelişmeler, çocuğun fiziksel ve zihinsel sağlığının bir göstergesi olarak kabul edilir ve ebeveynlerin içini rahatlatır. Ancak bu sürecin her zaman pürüzsüz ilerlememesi, ebeveynlerde endişeye yol açabilir. Çocuğun gelişiminde herhangi bir gecikme ya da normalden sapma, ebeveynlerin dikkatini çeker ve çoğu zaman bir uzmana danışmayı gerektirir. Bu makalede, çocuk gelişiminde ebeveynlerin karşılaştığı bu korkuların ve endişelerin nasıl yönetilebileceği üzerine detaylı bir analiz sunulmaktadır. Ayrıca, yapay zekanın çocuk gelişimindeki etkisi ve bu teknolojilerin ebeveynlerin yaşamını nasıl kolaylaştırabileceği de ele alınmaktadır. Çocuk gelişimi alanında yapılan araştırmaların, ebeveynlere rehberlik etmesi ve çocuklarının sağlıklı bir gelişim süreci geçirmelerine yardımcı olması amaçlanmaktadır. Bu kapsamda, ebeveynlerin çocuklarının gelişim süreçlerine yönelik farkındalıklarını artıracak önerilere ve bilimsel bulgulara yer verilmiştir. \n\nKaynak: MIT Technology Review, 2023",
+            "category": "Psikoloji",
+            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
+            "date": "2026-03-16T13:46:01.096805",
+            "timestamp": 1773668761.096817
+        },
+        {
+            "title": "Geleceğin Yapay Zeka Çipleri Cam Üzerine İnşa Edilebilir",
+            "original_title": "The Download: glass chips and “AI-free” logos",
+            "content": "İnsan yapımı cam binlerce yıllık bir geçmişe sahip. Ancak günümüzde, dünyadaki en yeni yapay zeka çiplerinde kullanılmak üzere camın yeni bir rol üstlenmeye hazır olduğu görülüyor. Bu yenilik, camın yapısal özelliklerinin ve iletkenlik kapasitesinin, yapay zeka çiplerinin performansını artırma potansiyeline sahip olmasından kaynaklanıyor.\n\nGeleneksel yarı iletken malzemeler yerine cam kullanımı, çiplerin daha hızlı ve verimli çalışmasını sağlayabilir. Camın optik özellikleri, veri aktarım hızını artırırken enerji tüketimini azaltabilir. Bu, özellikle veri merkezleri ve büyük ölçekli yapay zeka uygulamaları için önemli bir avantaj sağlayabilir.\n\nAraştırmacılar, cam tabanlı çiplerin üretim maliyetlerini ve ölçeklenebilirliğini değerlendiriyor. Bu tür yenilikler, teknolojinin daha sürdürülebilir ve çevreye duyarlı hale gelmesine katkıda bulunabilir.\n\nKaynak:\nMIT Technology Review. (2023). The Download: glass chips and “AI-free” logos. https://www.technologyreview.com",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
+            "date": "2026-03-16T13:46:08.279133",
+            "timestamp": 1773668768.279141
+        },
         {
             "title": "Kanser Tedavisinde Yeni Hedef: B2 Vitamini Yolu",
             "original_title": "Vitamin B2 Pathway Identified as Potential Target for Cancer Therapy",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/protein-shape-alzheimers-blood-test-30290/",
             "date": "2026-03-11T15:58:15.979389",
             "timestamp": 1773244695.979396
-        },
-        {
-            "title": "Lonza, Transfüzyona Bağımlı Beta-Talasemi için Gen Terapisi Üretim Anlaşmasını Genişletiyor",
-            "original_title": "Lonza Expands Agreement to Manufacture Gene Therapy for Transfusion-Dependent Beta-Thalassemia",
-            "content": "Lonza, transfüzyona bağımlı beta-talasemi hastalarının tedavisi için kullanılan gen terapisi ZYNTEGLO'nun üretimi konusunda Genetix Biotherapeutics ile olan anlaşmasını genişletiyor. ZYNTEGLO, ilk türünden olan, tek seferlik <i>ex vivo</i> LVV gen ekleme terapisidir ve düzenli kırmızı kan hücresi (RBC) transfüzyonu gerektiren uygun hastalar için onaylanmıştır.\n\nBu gelişme, gen terapilerinin üretim kapasitesinin artırılması ve daha fazla hastaya ulaşabilmesi açısından önemli bir adım olarak değerlendiriliyor. Lonza’nın bu anlaşmayı genişletmesi, gen terapileri konusunda artan talebi karşılamak amacıyla üretim hatlarını ve teknolojik altyapısını güçlendirmeyi hedefliyor.\n\nGenetix Biotherapeutics'in geliştirdiği ZYNTEGLO, hastaların yaşam kalitesini artırmayı ve transfüzyona olan bağımlılıklarını azaltmayı hedefleyen yenilikçi bir tedavi seçeneği sunuyor. Bu iş birliği, gen terapilerinin daha geniş bir hasta kitlesine ulaşabilmesi için önemli bir adım olarak değerlendiriliyor.\n\nKaynakça:\nGEN – Genetic Engineering and Biotechnology News. (n.d.). Lonza Expands Agreement to Manufacture Gene Therapy for Transfusion-Dependent Beta-Thalassemia. Retrieved from https://www.genengnews.com/topics/genome-editing/lonza-expands-agreement-to-manufacture-gene-therapy-for-transfusion-dependent-beta-thalassemia/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/genome-editing/lonza-expands-agreement-to-manufacture-gene-therapy-for-transfusion-dependent-beta-thalassemia/",
-            "date": "2026-03-11T15:58:24.529613",
-            "timestamp": 1773244704.529621
-        },
-        {
-            "title": "THC, Yanlış Hatıralar Oluşturabiliyor",
-            "original_title": "Cannabis study finds THC can create false memories",
-            "content": "Bilim insanlarının gerçekleştirdiği yeni bir araştırma, THC'nin yalnızca hafızayı bulanıklaştırmakla kalmayıp, hiç yaşanmamış olayları hatırlatabilen yeni anılar yaratabileceğini ortaya koydu. Kontrollü bir deneyde, esrar kullanıcılarının, kendilerine gösterilmeyen kelimeleri hatırlama olasılıklarının çok daha yüksek olduğu ve ileriye dönük yapmaları gereken işleri hatırlamada zorluk yaşadıkları gözlemlendi. Araştırmacılar, THC'nin birden fazla hafıza sistemini bir anda bozduğunu keşfetti. İlginç bir şekilde, orta dozlar, yüksek dozlarla benzer hafıza sorunlarına yol açtı. \n\nAPA Formatında Kaynak: Mind & Brain News -- ScienceDaily (2023). Cannabis study finds THC can create false memories. ScienceDaily. Erişim Tarihi: [tarih].",
-            "category": "Bilim & Teknoloji",
-            "image": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260311004711.htm",
-            "date": "2026-03-11T13:20:13.082466",
-            "timestamp": 1773235213.082478
         }
     ]
 }
