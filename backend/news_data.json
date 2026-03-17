@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-17T19:14:47.371579",
+    "last_updated": "2026-03-17T21:48:53.448669",
     "daily_news": {
-        "title": "Çalışma Belleğinin Kısa Dönemli Plastisitesinin Haritalandırılması",
-        "original_title": "Mapping the Short-Term Plasticity of Working Memory",
-        "content": "Yeni araştırmalar, sinapsların aktivite sırasında 'güçlenmesini' sağlayan kilit protein olarak Munc13-1'i tanımlıyor. Bu süreç, günlük bilgilerin tutulması için hayati öneme sahiptir. Çalışma belleği, beynin kısa süreli bilgi depolama ve işleme kapasitesini ifade eder. Sinaptik plastisite ise sinapsların işlevselliğini aktiviteye bağlı olarak değiştirme yeteneğidir. Araştırmacılar Munc13-1 proteininin, sinaptik plastisitenin sağlanmasında kritik bir rol oynadığını keşfettiler. Bu proteinin varlığı, sinapsların bilgi depolama kapasitesini artırarak çalışma belleğinin etkinliğini geliştirmektedir. Araştırmanın bulguları, çalışma belleği ile ilişkili bozuklukların tedavisinde yeni hedefler sunabilir. Bu keşif, sinaptik mekanizmaların daha iyi anlaşılması ve nörolojik hastalıkların tedavisinde potansiyel yaklaşımlar geliştirilmesi açısından önemli bir adımdır.\n\nKaynak: Neuroscience News (2023)",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/munc13-working-memory-synapse-30331/",
-        "date": "2026-03-17T19:14:41.539475",
-        "timestamp": 1773774881.539483
+        "title": "Astellas ve CytomX'in 1,7 Milyar Dolarlık Kanser İmmünoterapisi İş Birliği Sona Erdi",
+        "original_title": "Astellas Scraps Up-to-$1.7B CytomX Cancer Immunotherapy Collaboration",
+        "content": "Astellas ve CytomX arasında 1,7 milyar dolara kadar değer biçilen kanser immünoterapisi iş birliği sona erdi. İş birliğinin ilk kamuya açık sorun işareti, 2025'in ilk çeyreğinde ortaya çıktı. Bu dönemde Astellas, şirketlerin ilk iş birliği hedefi için başlattığı IND (Investigational New Drug) hazırlık faaliyetlerine devam etmeme kararı aldı. Bunun yerine, ikinci iş birliği hedefini önceliklendirmeyi seçerek molekül için GLP (Good Laboratory Practices) toksikoloji çalışmalarını başlattı.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/cancer/astellas-scraps-up-to-1-7b-cytomx-cancer-immunotherapy-collaboration/)",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/cancer/astellas-scraps-up-to-1-7b-cytomx-cancer-immunotherapy-collaboration/",
+        "date": "2026-03-17T21:48:53.448625",
+        "timestamp": 1773784133.448634
     },
     "news_list": [
+        {
+            "title": "Metapipeline-DNA: Genom Dizileme Analizinde Yeni Dönem",
+            "original_title": "Metapipeline-DNA Automates and Standardizes Genome Sequencing Analysis",
+            "content": "Araştırmacılar, ham dizileme okumalarını genetik özellikler ve evrimsel özelliklere dönüştürebilen, otomatikleştirilmiş, yüksek derecede özelleştirilebilir ve hesaplama açısından bağımsız, ölçeklenebilir bulut uyumlu bir DNA dizileme analiz hattı geliştirdiler. Metapipeline-DNA adı verilen bu sistem, büyük ve karmaşık dizileme veri kümelerinin üstesinden gelebilme kapasitesine sahip. Bu yenilik, araştırmacıların dizileme verilerini daha hızlı ve etkili bir şekilde analiz etmelerini sağlayarak genetik mühendisliği ve biyoteknoloji alanlarında önemli ilerlemelere kapı aralayacak.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Metapipeline-DNA Automates and Standardizes Genome Sequencing Analysis. https://www.genengnews.com/topics/artificial-intelligence/metapipeline-dna-automates-and-standardizes-genome-sequencing-analysis/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/artificial-intelligence/metapipeline-dna-automates-and-standardizes-genome-sequencing-analysis/",
+            "date": "2026-03-17T21:48:48.725573",
+            "timestamp": 1773784128.725584
+        },
+        {
+            "title": "Astellas ve CytomX'in 1,7 Milyar Dolarlık Kanser İmmünoterapisi İş Birliği Sona Erdi",
+            "original_title": "Astellas Scraps Up-to-$1.7B CytomX Cancer Immunotherapy Collaboration",
+            "content": "Astellas ve CytomX arasında 1,7 milyar dolara kadar değer biçilen kanser immünoterapisi iş birliği sona erdi. İş birliğinin ilk kamuya açık sorun işareti, 2025'in ilk çeyreğinde ortaya çıktı. Bu dönemde Astellas, şirketlerin ilk iş birliği hedefi için başlattığı IND (Investigational New Drug) hazırlık faaliyetlerine devam etmeme kararı aldı. Bunun yerine, ikinci iş birliği hedefini önceliklendirmeyi seçerek molekül için GLP (Good Laboratory Practices) toksikoloji çalışmalarını başlattı.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/cancer/astellas-scraps-up-to-1-7b-cytomx-cancer-immunotherapy-collaboration/)",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/astellas-scraps-up-to-1-7b-cytomx-cancer-immunotherapy-collaboration/",
+            "date": "2026-03-17T21:48:53.448625",
+            "timestamp": 1773784133.448634
+        },
         {
             "title": "Çalışma Belleğinin Kısa Dönemli Plastisitesinin Haritalandırılması",
             "original_title": "Mapping the Short-Term Plasticity of Working Memory",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/gut-bacteria-brain-high-fat-diet-30304/",
             "date": "2026-03-12T19:04:52.650079",
             "timestamp": 1773342292.650088
-        },
-        {
-            "title": "DEHB'li Ergenlerde Anksiyete ve Depresyon Riski Artıyor",
-            "original_title": "Teens with ADHD Face Higher Risks of Anxiety and Depression",
-            "content": "Yeni araştırmalar, dikkat eksikliği hiperaktivite bozukluğunun (DEHB) milyonlarca ergen için anksiyete ve depresyona dönüşmesine neden olan spesifik yaşam faktörlerini belirlemektedir. DEHB, genellikle çocuklukta teşhis edilen bir nörogelişimsel bozukluktur ve bu bozuklukla yaşayan gençler, günlük yaşamlarında çeşitli zorluklarla karşılaşmaktadır. Bu zorluklar sıklıkla akademik başarısızlık, sosyal ilişkilerde sorunlar ve düşük benlik saygısı gibi sonuçlar doğurabilmektedir. Araştırma, DEHB'li ergenlerin, bu zorlukların etkisiyle anksiyete ve depresyon gibi ek mental sağlık sorunları geliştirme riskinin daha yüksek olduğunu ortaya koymaktadır. Çalışma, bu risk faktörlerini yönetmek için erken müdahale ve destekleyici stratejilerin önemine dikkat çekmektedir. Erken teşhis ve bütüncül tedavi yaklaşımları, DEHB'li gençlerin yaşam kalitesini artırmada kritik rol oynamaktadır.\n\nKaynak: Neuroscience News (2023). Teens with ADHD Face Higher Risks of Anxiety and Depression. https://neurosciencenews.com/adhd-teens-anxiety-depression-30303/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/adhd-teens-anxiety-depression-30303/",
-            "date": "2026-03-12T19:05:04.196857",
-            "timestamp": 1773342304.196866
-        },
-        {
-            "title": "Beyni Yeni Bir Işıkta Görmek: Beyin Dokularını Görselleştirme Tekniği",
-            "original_title": "Seeing the Brain in a Different Light",
-            "content": "Kyushu Üniversitesi'ndeki bir araştırma ekibi, beyin dokularını görsel olarak temizleyen ve bunu yaparken normal beyin dinamiklerini koruyan bir teknik geliştirme üzerinde çalışıyor. Bu yenilikçi yöntem, beyin dokularının daha iyi incelenmesine ve anlaşılmasına olanak tanıyor. Araştırma ekibi, beyin dokularını daha net bir şekilde görüntülemek için ışığın etkisini kullanarak, bilim dünyasına yeni bir bakış açısı kazandırmayı hedefliyor. Bu teknik, beyin araştırmalarında yeni ufuklar açabilir ve nörolojik hastalıkların daha iyi anlaşılmasına katkı sağlayabilir. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (tarih). Seeing the Brain in a Different Light. https://www.genengnews.com/topics/translational-medicine/seeing-the-brain-in-a-different-light/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/seeing-the-brain-in-a-different-light/",
-            "date": "2026-03-12T19:05:13.631184",
-            "timestamp": 1773342313.631193
         }
     ]
 }
