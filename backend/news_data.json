@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-03-16T21:50:24.572621",
+    "last_updated": "2026-03-17T02:48:34.013263",
     "daily_news": {
-        "title": "Korkunun Sesi: Beyinde 'Korkutucu' Sesler İçin Doğrudan Kısayol Keşfedildi",
-        "original_title": "Sound of Fear: A Direct Brain Shortcut for “Scary” Noises",
-        "content": "Yeni bir çalışma, insan beyninin 'korkutucu' sesleri işleyip yanıtlamasını sağlayan işitsel bir kısayolu ortaya koyuyor. Bu kısayol sayesinde, bu tür sesleri duyduğumuzun farkına varmadan önce beyinde bir tepki oluşuyor.\n\nAraştırmacılar, bu işitsel kısayolun, tehlikeli veya tehdit edici seslere hızlı bir şekilde tepki verebilmemiz için evrimsel bir avantaj sağladığını belirtiyor. Bu süreç, beynin belirli bölgeleri arasında hızlı ve doğrudan bir bağlantı kurarak işliyor. Özellikle amigdala adı verilen bölgenin bu süreçte kritik bir rol oynadığı keşfedildi.\n\nAmigdala, duygusal tepkilerin ve korku yanıtlarının düzenlenmesinde önemli bir beyin bölgesidir. Bu araştırma, amigdalanın korkutucu sesleri algıladıktan sonra beynin diğer bölgelerine sinyal göndererek vücudu potansiyel bir tehdide karşı hazırladığını gösteriyor.\n\nBu bulgular, özellikle anksiyete bozuklukları gibi durumların tedavisinde yeni yaklaşımlar geliştirilmesine katkı sağlayabilir. Araştırmacılar, bu tür seslerin beyinde nasıl işlendiğini daha iyi anlayarak, bu süreçleri hedef alan terapötik müdahaleler geliştirmeyi amaçlıyor.\n\nKaynakça:\nAPA: Neuroscience News. (2023). Sound of Fear: A Direct Brain Shortcut for “Scary” Noises. Erişim adresi: https://neurosciencenews.com/auditory-fear-pathway-human-brain-30326/",
+        "title": "Parkinson Riskini İkiye Katlayan Pestisit!",
+        "original_title": "Common pesticide may more than double Parkinson’s disease risk",
+        "content": "Yeni bir UCLA Sağlık çalışması, pestisit klorpirifos'a uzun süreli maruz kalmanın Parkinson hastalığı riskini önemli ölçüde artırabileceğini öne sürüyor. Araştırmacılar, bu kimyasala sürekli maruz kalan bölgelerde yaşayan kişilerin, Parkinson hastalığı geliştirme olasılığının 2,5 kat daha fazla olduğunu buldular. Laboratuvar deneyleri de bu bulguyu güçlendirdi: Kimyasala maruz kalan hayvanlar hareket sorunları geliştirdi, dopamin üreten nöronlarını kaybetti ve Parkinson hastalarında görülen aynı toksik protein birikimini gösterdi.\n\nKaynak: Mind & Brain News -- ScienceDaily",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/auditory-fear-pathway-human-brain-30326/",
-        "date": "2026-03-16T21:50:23.503261",
-        "timestamp": 1773697823.503271
+        "link": "https://www.sciencedaily.com/releases/2026/03/260315225125.htm",
+        "date": "2026-03-17T02:48:33.416774",
+        "timestamp": 1773715713.416785
     },
     "news_list": [
+        {
+            "title": "Parkinson Riskini İkiye Katlayan Pestisit!",
+            "original_title": "Common pesticide may more than double Parkinson’s disease risk",
+            "content": "Yeni bir UCLA Sağlık çalışması, pestisit klorpirifos'a uzun süreli maruz kalmanın Parkinson hastalığı riskini önemli ölçüde artırabileceğini öne sürüyor. Araştırmacılar, bu kimyasala sürekli maruz kalan bölgelerde yaşayan kişilerin, Parkinson hastalığı geliştirme olasılığının 2,5 kat daha fazla olduğunu buldular. Laboratuvar deneyleri de bu bulguyu güçlendirdi: Kimyasala maruz kalan hayvanlar hareket sorunları geliştirdi, dopamin üreten nöronlarını kaybetti ve Parkinson hastalarında görülen aynı toksik protein birikimini gösterdi.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260315225125.htm",
+            "date": "2026-03-17T02:48:33.416774",
+            "timestamp": 1773715713.416785
+        },
         {
             "title": "Kalabalıkta Sesleri Ayırt Etmenin Anahtarı: Beynin Güçlü Ses Konumlandırma Yeteneği",
             "original_title": "Cocktail Party Problem Decoded: Sound Location Is Key to Hearing in a Crowd",
@@ -500,16 +510,6 @@
             "link": "https://neurosciencenews.com/depression-atp-cellular-fatigue-30296/",
             "date": "2026-03-11T21:41:17.835698",
             "timestamp": 1773265277.835708
-        },
-        {
-            "title": "Bellek Kaybını Tersine Çevirmek: Vagus Siniri ile Beyin Yaşlanmasına Çözüm",
-            "original_title": "Reversing Memory Loss via the Vagus Nerve",
-            "content": "Bilim insanları, beyin yaşlanmasının bağırsaktaki sinyaller tarafından tetiklendiğini ve bu sürecin basit bir sinir 'sıfırlaması' ile tersine çevrilebileceğini kanıtladılar. Araştırmalar, bağırsak ve beyin arasındaki vagus siniri bağlantısının, hafıza kaybı gibi yaşa bağlı bilişsel bozuklukların önlenmesi ve hatta geri çevrilmesinde kilit rol oynayabileceğini gösteriyor.\n\nBeyin yaşlanması, genellikle yaşa bağlı bilişsel bozukluklar ve hafıza kaybı ile ilişkilendirilir. Ancak bu yeni bulgular, beyin sağlığının bağırsak mikrobiotu ve vagus siniri bağlantısı ile doğrudan ilişkili olabileceğini öne sürüyor. Vagus siniri, beyin ve bağırsak arasında iki yönlü bir iletişim hattı gibi işlev görerek, bağırsaktan beyne gönderilen sinyallerin düzenlenmesinde kritik bir rol oynuyor.\n\nAraştırmacılar, bu sinirin stimulasyonu yoluyla bağırsak-beyin ekseninde olumlu etkiler yaratılabileceğini ve bu sayede hafıza kaybı gibi sorunların önlenebileceğini belirtiyor. Bu bulgular, gelecekte beyin yaşlanması ve buna bağlı bilişsel bozuklukların tedavisinde yeni bir yaklaşım sunabilir.\n\nBu çığır açıcı çalışmanın sonuçları, bağırsak sağlığının genel zihinsel sağlık üzerindeki etkisini daha iyi anlamamıza yardımcı olabilir ve yeni tedavi stratejilerinin geliştirilmesine olanak sağlayabilir.\n\nKaynak: Neuroscience News",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/gut-vagus-nerve-memory-reversal-30295/",
-            "date": "2026-03-11T21:41:31.110864",
-            "timestamp": 1773265291.110873
         }
     ]
 }
