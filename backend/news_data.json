@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-03-17T13:43:30.253224",
+    "last_updated": "2026-03-17T16:12:21.272803",
     "daily_news": {
-        "title": "OpenAI ve ABD Ordusu İşbirliği: Yapay Zeka Teknolojisi Hangi Alanlarda Kullanılacak?",
-        "original_title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
-        "content": "MIT Technology Review tarafından yayımlanan haberde, OpenAI'nin Pentagon ile yaptığı işbirliğinin detayları ele alınıyor. Bu anlaşma, OpenAI'nin yapay zeka teknolojilerini ABD Savunma Bakanlığı'na sunmasını içeriyor. Anlaşmanın detayları ve bu teknolojinin hangi alanlarda kullanılabileceği üzerine çeşitli spekülasyonlar yapılmakta.\n\nOpenAI'nin bu kararı, etik ve güvenlik endişelerine yol açtı. Teknolojinin, askeri alanda nasıl kullanılacağı ya da hangi operasyonlarda yer alacağı henüz net değil. Ancak, askeri strateji, lojistik ve istihbarat gibi çeşitli alanlarda yapay zekanın entegrasyonunun olası olduğu düşünülüyor.\n\nDiğer yandan, Grok adlı bir şirketin çocuklara yönelik cinsel istismar materyallerine (CSAM) karşı açtığı dava da gündemde. Bu dava, teknoloji şirketlerinin kullanıcı güvenliği ve veri koruma konularındaki sorumluluklarını tekrar tartışmaya açıyor.\n\nBu gelişmeler, teknoloji dünyasının askeri ve sosyal boyutlarının ne denli iç içe geçtiğini gösteriyor. OpenAI'nin kararı, yapay zekanın etik kullanımı konusundaki tartışmaları yeniden alevlendirirken, Grok'un davası ise dijital güvenlik ve sorumluluk konularını gündeme taşıyor.\n\nKaynak: MIT Technology Review (2023). The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit. MIT Technology Review. https://www.technologyreview.com",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
-        "date": "2026-03-17T13:43:17.527400",
-        "timestamp": 1773754997.527405
+        "title": "Canlı İnsan Beyninde Gen Aktivitesinin Haritalanması",
+        "original_title": "Mapping Gene Activity in the Living Human Brain",
+        "content": "Yeni araştırmalar, canlı insanlarda gerçek zamanlı nörotransmisyonu yönlendiren spesifik 'genetik yazılımı' tanımlayarak psikiyatrik tedavi için yeni bir ufuk sunuyor. Beyin üzerinde yapılan bu araştırmalar, genlerin nasıl çalıştığını ve beynin fonksiyonlarını nasıl etkilediğini anlama konusunda önemli adımlar atıyor. Bu, özellikle nörotransmitterlerin nasıl düzenlendiğini ve beyin hücreleri arasındaki iletişimi nasıl etkilediğini anlamak için kritik öneme sahip. Gelecekte, bu genetik yazılımın manipülasyonu ile ruhsal bozuklukların tedavisinde daha etkili yöntemler geliştirilmesi mümkün olabilir. Bu, gen ekspresyonunun nörotransmisyon üzerindeki etkileri hakkındaki bilgi boşluklarını doldurabilir ve nörobilim alanında devrim yaratabilir.\n\nKaynak: Neuroscience News (2023). Mapping Gene Activity in the Living Human Brain. https://neurosciencenews.com/gene-expression-neurotransmission-30329/",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/gene-expression-neurotransmission-30329/",
+        "date": "2026-03-17T16:12:05.767275",
+        "timestamp": 1773763925.767285
     },
     "news_list": [
+        {
+            "title": "Canlı İnsan Beyninde Gen Aktivitesinin Haritalanması",
+            "original_title": "Mapping Gene Activity in the Living Human Brain",
+            "content": "Yeni araştırmalar, canlı insanlarda gerçek zamanlı nörotransmisyonu yönlendiren spesifik 'genetik yazılımı' tanımlayarak psikiyatrik tedavi için yeni bir ufuk sunuyor. Beyin üzerinde yapılan bu araştırmalar, genlerin nasıl çalıştığını ve beynin fonksiyonlarını nasıl etkilediğini anlama konusunda önemli adımlar atıyor. Bu, özellikle nörotransmitterlerin nasıl düzenlendiğini ve beyin hücreleri arasındaki iletişimi nasıl etkilediğini anlamak için kritik öneme sahip. Gelecekte, bu genetik yazılımın manipülasyonu ile ruhsal bozuklukların tedavisinde daha etkili yöntemler geliştirilmesi mümkün olabilir. Bu, gen ekspresyonunun nörotransmisyon üzerindeki etkileri hakkındaki bilgi boşluklarını doldurabilir ve nörobilim alanında devrim yaratabilir.\n\nKaynak: Neuroscience News (2023). Mapping Gene Activity in the Living Human Brain. https://neurosciencenews.com/gene-expression-neurotransmission-30329/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/gene-expression-neurotransmission-30329/",
+            "date": "2026-03-17T16:12:05.767275",
+            "timestamp": 1773763925.767285
+        },
+        {
+            "title": "Beyninizin Tıkanmış Boruları: Halüsinasyonların Şaşırtıcı Yeni Bağlantısı",
+            "original_title": "Brain’s Clogged Pipes: A Surprising New Link to Hallucinations",
+            "content": "Yeni araştırmalar, çocukluk döneminde bozulan beyin drenaj sisteminin, erken yetişkinlikte şizofreninin başlaması için gizli bir tetikleyici olabileceğini ortaya koyuyor. Beynin glifatik sisteminin işleyişindeki aksaklıklar, beyin atıklarının etkili bir şekilde temizlenmesini engelleyerek nörolojik bozukluklara zemin hazırlayabilir. Bu durum, özellikle halüsinasyonlar gibi psikoz belirtilerinin gelişimine katkıda bulunabilir. Araştırmacılar, çocuklukta bu sistemin işlevselliğinin izlenmesinin, gelecekte şizofreni gibi rahatsızlıkların erken teşhisi ve önlenmesi için önemli olabileceğine dikkat çekiyor. Glifatik sistemin etkinliğini artırmak için potansiyel tedavi yöntemleri üzerinde çalışmalar devam etmektedir. Bu yeni bulgular, beyin sağlığı ve psikiyatrik bozukluklar arasındaki karmaşık ilişkiyi daha iyi anlamamıza yardımcı olabilir.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/glymphatic-system-psychosis-schizophrenia-30328/",
+            "date": "2026-03-17T16:12:13.790998",
+            "timestamp": 1773763933.791004
+        },
+        {
+            "title": "Farklı Anesteziklerde Ortak Sinir Bozukluğu Ortaya Çıkarıldı",
+            "original_title": "Computational Model Reveals Shared Neural Disruption Across Different Anesthetics",
+            "content": "Bu çalışma, hayvanlarda üç farklı anestezik kullanılarak yapılan sinirsel kayıtlar üzerinde uygulanan bir çerçeveye dayanıyor. Her üç anestezik, farklı reseptör sistemleri üzerinde etkili olmalarına rağmen aynı dengesizlik imzasını üretti.\n\nBu bulgu, anesteziklerin beyindeki etkilerini anlamada önemli bir adım olarak görülüyor. Araştırmacılar, bu ortak sinirsel bozukluğun, anesteziklerin beyindeki işleyiş mekanizmalarının daha iyi anlaşılmasını sağlayabileceğini belirtiyorlar. Bu tür bir anlayış, daha güvenli ve etkili anesteziklerin geliştirilmesine katkıda bulunabilir.\n\nÇalışma, anesteziklerin beyinde oluşturduğu etkilerin, farklı kimyasal etki mekanizmalarına rağmen benzer nörolojik sonuçlar doğurabileceğini gösteriyor. Bu da, sinir sisteminin anesteziklere karşı nasıl tepki verdiği konusunda yeni sorular ortaya çıkarıyor ve gelecekte yapılacak araştırmalar için önemli bir temel oluşturuyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (2023). Computational Model Reveals Shared Neural Disruption Across Different Anesthetics. GEN - Genetic Engineering and Biotechnology News. https://www.genengnews.com/topics/translational-medicine/computational-model-reveals-shared-neural-disruption-across-different-anesthetics/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/computational-model-reveals-shared-neural-disruption-across-different-anesthetics/",
+            "date": "2026-03-17T16:12:21.272761",
+            "timestamp": 1773763941.272768
+        },
         {
             "title": "Alzheimer İlacının Sırrı Ortaya Çıktı: Beyin İmmün Hücrelerini Aktive Ediyor",
             "original_title": "Scientists finally reveal how this Alzheimer’s drug really works",
@@ -480,36 +510,6 @@
             "link": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
             "date": "2026-03-12T16:06:20.961375",
             "timestamp": 1773331580.961386
-        },
-        {
-            "title": "Gerçek Dünya İçin Tasarlanan Pragmatik AI: Hayatımızdaki Etkileri",
-            "original_title": "Pragmatic by design: Engineering AI for the real world",
-            "content": "Yapay zekanın etkisi, dijital dünyanın çok ötesine geçerek günlük yaşamımıza kadar uzanıyor. Kullandığımız otomobillerden evlerimizdeki cihazlara ve hayat kurtaran tıbbi cihazlara kadar birçok alanda karşımıza çıkıyor. Ürün mühendisleri, tasarladıkları ürünlerin geliştirilmesi, doğrulanması ve daha verimli hale getirilmesi için giderek daha fazla yapay zekaya yöneliyorlar. Bu durum, yapay zekanın sadece sanal bir yenilik olmaktan ziyade, somut ve gerçek dünya uygulamalarında önemli bir rol oynadığını gösteriyor. Yapay zeka, mühendislik süreçlerini hızlandırarak ve hata payını azaltarak, tasarım sürecinin daha etkili ve verimli hale gelmesini sağlıyor. Örneğin, otonom araçlar, kendi kendine öğrenme yetenekleri sayesinde trafikte daha güvenli ve etkin bir şekilde hareket edebiliyor. Evlerimizdeki akıllı cihazlar, enerji tasarrufunu artırarak hem çevreye hem de bütçemize katkıda bulunuyor. Sağlık sektöründe ise, yapay zeka destekli tıbbi cihazlar ve uygulamalar, hastalıkların teşhis ve tedavisinde daha hızlı ve doğru sonuçlar elde edilmesine yardımcı oluyor. Bu gelişmeler, yapay zekanın gelecekte mühendislik ve tasarım süreçlerinde daha da merkezî bir rol oynayacağının habercisi.",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
-            "date": "2026-03-12T16:06:31.255892",
-            "timestamp": 1773331591.255902
-        },
-        {
-            "title": "Depresyonun Beyin Hücrelerindeki Enerji Sorunuyla Bağlantısı Keşfedildi",
-            "original_title": "Depression may start with an energy problem in brain cells",
-            "content": "Bilim insanları, depresyonu olan kişilerde hücrelerin enerji üretim şekillerinde şaşırtıcı bir değişiklik keşfetti. Majör depresif bozukluğu olan genç yetişkinlerin beyin ve kan hücreleri, dinlenme halinde daha fazla enerji molekülü üretiyor ancak ihtiyaç duyulduğunda enerji üretimini artırmakta zorluk çekiyor. Araştırmacılar, bu dengesizliğin yorgunluk ve düşük motivasyon gibi semptomlara katkıda bulunabileceğine inanıyor. Bu bulgu, daha erken teşhis ve daha kişiselleştirilmiş tedavilere giden yolda yardımcı olabilir.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260312020107.htm",
-            "date": "2026-03-12T13:20:24.851180",
-            "timestamp": 1773321624.851195
-        },
-        {
-            "title": "Alzheimer'ın Erken Tespiti: Kan Proteinlerindeki Şaşırtıcı Değişim",
-            "original_title": "A surprising blood protein pattern may reveal Alzheimer’s",
-            "content": "Yeni bir çalışma, Alzheimer hastalığının kanda bulunan proteinlerin ince şekil değişiklikleriyle tespit edilebileceğini öne sürüyor. Araştırmacılar, üç kan proteinindeki yapısal farklılıkların hastalığın ilerleyişini yakından izlediğini keşfetti. Bu değişiklikleri 500'den fazla kişide analiz eden ekip, sağlıklı bireyleri hafif bilişsel bozukluk veya Alzheimer olanlardan etkileyici bir doğrulukla ayırt edebildi. Bu yaklaşım, teşhisi ve tedaviyi daha erken evrelere taşıyabilir. \n\nKaynak: Mind & Brain News -- ScienceDaily.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260312020104.htm",
-            "date": "2026-03-12T13:20:27.993707",
-            "timestamp": 1773321627.993716
         }
     ]
 }
