@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-17T16:12:21.272803",
+    "last_updated": "2026-03-17T19:14:47.371579",
     "daily_news": {
-        "title": "Canlı İnsan Beyninde Gen Aktivitesinin Haritalanması",
-        "original_title": "Mapping Gene Activity in the Living Human Brain",
-        "content": "Yeni araştırmalar, canlı insanlarda gerçek zamanlı nörotransmisyonu yönlendiren spesifik 'genetik yazılımı' tanımlayarak psikiyatrik tedavi için yeni bir ufuk sunuyor. Beyin üzerinde yapılan bu araştırmalar, genlerin nasıl çalıştığını ve beynin fonksiyonlarını nasıl etkilediğini anlama konusunda önemli adımlar atıyor. Bu, özellikle nörotransmitterlerin nasıl düzenlendiğini ve beyin hücreleri arasındaki iletişimi nasıl etkilediğini anlamak için kritik öneme sahip. Gelecekte, bu genetik yazılımın manipülasyonu ile ruhsal bozuklukların tedavisinde daha etkili yöntemler geliştirilmesi mümkün olabilir. Bu, gen ekspresyonunun nörotransmisyon üzerindeki etkileri hakkındaki bilgi boşluklarını doldurabilir ve nörobilim alanında devrim yaratabilir.\n\nKaynak: Neuroscience News (2023). Mapping Gene Activity in the Living Human Brain. https://neurosciencenews.com/gene-expression-neurotransmission-30329/",
+        "title": "Çalışma Belleğinin Kısa Dönemli Plastisitesinin Haritalandırılması",
+        "original_title": "Mapping the Short-Term Plasticity of Working Memory",
+        "content": "Yeni araştırmalar, sinapsların aktivite sırasında 'güçlenmesini' sağlayan kilit protein olarak Munc13-1'i tanımlıyor. Bu süreç, günlük bilgilerin tutulması için hayati öneme sahiptir. Çalışma belleği, beynin kısa süreli bilgi depolama ve işleme kapasitesini ifade eder. Sinaptik plastisite ise sinapsların işlevselliğini aktiviteye bağlı olarak değiştirme yeteneğidir. Araştırmacılar Munc13-1 proteininin, sinaptik plastisitenin sağlanmasında kritik bir rol oynadığını keşfettiler. Bu proteinin varlığı, sinapsların bilgi depolama kapasitesini artırarak çalışma belleğinin etkinliğini geliştirmektedir. Araştırmanın bulguları, çalışma belleği ile ilişkili bozuklukların tedavisinde yeni hedefler sunabilir. Bu keşif, sinaptik mekanizmaların daha iyi anlaşılması ve nörolojik hastalıkların tedavisinde potansiyel yaklaşımlar geliştirilmesi açısından önemli bir adımdır.\n\nKaynak: Neuroscience News (2023)",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/gene-expression-neurotransmission-30329/",
-        "date": "2026-03-17T16:12:05.767275",
-        "timestamp": 1773763925.767285
+        "link": "https://neurosciencenews.com/munc13-working-memory-synapse-30331/",
+        "date": "2026-03-17T19:14:41.539475",
+        "timestamp": 1773774881.539483
     },
     "news_list": [
+        {
+            "title": "Çalışma Belleğinin Kısa Dönemli Plastisitesinin Haritalandırılması",
+            "original_title": "Mapping the Short-Term Plasticity of Working Memory",
+            "content": "Yeni araştırmalar, sinapsların aktivite sırasında 'güçlenmesini' sağlayan kilit protein olarak Munc13-1'i tanımlıyor. Bu süreç, günlük bilgilerin tutulması için hayati öneme sahiptir. Çalışma belleği, beynin kısa süreli bilgi depolama ve işleme kapasitesini ifade eder. Sinaptik plastisite ise sinapsların işlevselliğini aktiviteye bağlı olarak değiştirme yeteneğidir. Araştırmacılar Munc13-1 proteininin, sinaptik plastisitenin sağlanmasında kritik bir rol oynadığını keşfettiler. Bu proteinin varlığı, sinapsların bilgi depolama kapasitesini artırarak çalışma belleğinin etkinliğini geliştirmektedir. Araştırmanın bulguları, çalışma belleği ile ilişkili bozuklukların tedavisinde yeni hedefler sunabilir. Bu keşif, sinaptik mekanizmaların daha iyi anlaşılması ve nörolojik hastalıkların tedavisinde potansiyel yaklaşımlar geliştirilmesi açısından önemli bir adımdır.\n\nKaynak: Neuroscience News (2023)",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/munc13-working-memory-synapse-30331/",
+            "date": "2026-03-17T19:14:41.539475",
+            "timestamp": 1773774881.539483
+        },
+        {
+            "title": "Gözlerinizi Kapamak, Duyma Yetinizi Azaltabilir",
+            "original_title": "Closing Your Eyes Could Muffle Your Hearing",
+            "content": "Yeni araştırmalar, gürültülü bir odada gözlerinizi kapatmanın, aslında duymaya çalıştığınız sesleri filtreleyen bir beyin durumu tetiklediğini ortaya koyuyor. Bu çalışmaya göre, görsel dikkatini azaltarak işitsel dikkatini artırmak isteyen kişilerin, gözlerini kapatmanın işitme üzerinde beklenmedik bir etkisi olabileceğini bilmesi önemli.\n\nAraştırmacılar, gözlerin kapanmasının beyindeki işitsel işlemeyi nasıl etkilediğini incelemek için bir dizi deney gerçekleştirdi. Denekler, farklı seslerin çalındığı bir odada otururken gözlerini açık ve kapalı tutmaları istendi. Bulgular, gözler kapalıyken beynin, dış sesleri daha az etkin bir şekilde işlediğini gösterdi.\n\nBu sonuçlar, beyin kaynaklarının sınırlı olduğunu ve bir duyusal kanalın (görsel) devre dışı bırakılmasının, diğer bir kanalın (işitsel) işlenmesini her zaman kolaylaştırmadığını öne sürüyor. Araştırma, özellikle çoklu görev yapma veya karmaşık dinleme ortamlarında bulunma durumunda olan kişiler için önemli olabilir.\n\nBu bulgular ışığında, insanların odaklanmak için gözlerini kapattıklarında, aslında işitsel bilgi işlemelerini olumsuz etkileyebilecekleri öneriliyor.\n\nKaynak: Neuroscience News. (2026, March). Closing Your Eyes Could Muffle Your Hearing. Retrieved from https://neurosciencenews.com/eye-closure-hearing-noise-30330/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/eye-closure-hearing-noise-30330/",
+            "date": "2026-03-17T19:14:46.396914",
+            "timestamp": 1773774886.396923
+        },
         {
             "title": "Canlı İnsan Beyninde Gen Aktivitesinin Haritalanması",
             "original_title": "Mapping Gene Activity in the Living Human Brain",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/translational-medicine/seeing-the-brain-in-a-different-light/",
             "date": "2026-03-12T19:05:13.631184",
             "timestamp": 1773342313.631193
-        },
-        {
-            "title": "Fare Beyninde Yaşlanmayla İlişkili Epigenetik Değişiklikler Haritalandı",
-            "original_title": "Brain Atlas Maps Epigenetic Changes Associated with Aging in Mice",
-            "content": "Yaşlanmanın nörodejenerasyon üzerindeki rolünü daha iyi anlamak için Salk araştırmacıları ve işbirlikçileri, yaşlanan fare beyninin bir atlasını oluşturdular. Bu çalışma, DNA metilasyonu, genom organizasyonu ve gen aktivitesindeki bölgeye ve hücre tipine özgü değişiklikleri ortaya koymaktadır.\n\nAraştırmada, yaşlanmanın beyin üzerindeki etkileri incelenerek, belirli beyin bölgelerinde ve hücre tiplerinde meydana gelen epigenetik değişiklikler detaylandırılmıştır. DNA metilasyonunun, gen ekspresyonunun ve genomun genel yapısının yaşla birlikte nasıl değiştiği, bu atlas sayesinde daha iyi anlaşılabilir hale gelmiştir.\n\nBu tür araştırmalar, yaşlanmanın moleküler düzeydeki etkilerini anlamak için kritik öneme sahiptir ve nörodejeneratif hastalıkların mekanizmalarına dair yeni bilgiler sunabilir. Sonuç olarak, yaşlanmanın fare beynindeki epigenetik izleri, gelecekteki çalışmalar için önemli bir kaynak oluşturabilir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (tarih). Brain Atlas Maps Epigenetic Changes Associated with Aging in Mice. https://www.genengnews.com/topics/omics/brain-atlas-maps-epigenetic-changes-associated-with-aging-in-mice/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/omics/brain-atlas-maps-epigenetic-changes-associated-with-aging-in-mice/",
-            "date": "2026-03-12T19:05:19.575712",
-            "timestamp": 1773342319.575721
-        },
-        {
-            "title": "Çin'in OpenClaw Çılgınlığı: Erken Benimseyenler Kazanç Sağlıyor",
-            "original_title": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
-            "content": "Bu, dünyanın dört bir yanındaki teknoloji gelişmelerine dair günlük bir doz sağlayan The Download isimli hafta içi bültenimizin bugünkü sayısıdır. Çin'in OpenClaw Yapay Zeka Çılgınlığına Erken Adapte Olanlar Kâr Ediyor\n\nOcak ayında Pekin merkezli yazılım mühendisi Feng Qingyang, bir cihazı ele geçirip görevleri otonom olarak tamamlayabilen yeni bir yapay zeka aracı olan OpenClaw ile oynamaya başladı. Bu yenilikçi araç, kullanıcıların rutin işlerini büyük ölçüde kolaylaştırarak iş süreçlerini otomatikleştirmelerine olanak tanıyor. Çin'de hızla yayılan bu teknoloji dalgası, erken benimseyen kullanıcılara önemli finansal fırsatlar sunuyor. Ancak, bu tür teknolojilerin etik ve güvenlik boyutları da tartışmalara neden oluyor.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
-            "date": "2026-03-12T16:06:20.961375",
-            "timestamp": 1773331580.961386
         }
     ]
 }
