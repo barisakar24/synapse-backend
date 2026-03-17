@@ -1,16 +1,66 @@
 {
-    "last_updated": "2026-03-17T10:01:00.349192",
+    "last_updated": "2026-03-17T13:43:30.253224",
     "daily_news": {
-        "title": "Parkinson Riskini İkiye Katlayan Pestisit!",
-        "original_title": "Common pesticide may more than double Parkinson’s disease risk",
-        "content": "Yeni bir UCLA Sağlık çalışması, pestisit klorpirifos'a uzun süreli maruz kalmanın Parkinson hastalığı riskini önemli ölçüde artırabileceğini öne sürüyor. Araştırmacılar, bu kimyasala sürekli maruz kalan bölgelerde yaşayan kişilerin, Parkinson hastalığı geliştirme olasılığının 2,5 kat daha fazla olduğunu buldular. Laboratuvar deneyleri de bu bulguyu güçlendirdi: Kimyasala maruz kalan hayvanlar hareket sorunları geliştirdi, dopamin üreten nöronlarını kaybetti ve Parkinson hastalarında görülen aynı toksik protein birikimini gösterdi.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260315225125.htm",
-        "date": "2026-03-17T02:48:33.416774",
-        "timestamp": 1773715713.416785
+        "title": "OpenAI ve ABD Ordusu İşbirliği: Yapay Zeka Teknolojisi Hangi Alanlarda Kullanılacak?",
+        "original_title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+        "content": "MIT Technology Review tarafından yayımlanan haberde, OpenAI'nin Pentagon ile yaptığı işbirliğinin detayları ele alınıyor. Bu anlaşma, OpenAI'nin yapay zeka teknolojilerini ABD Savunma Bakanlığı'na sunmasını içeriyor. Anlaşmanın detayları ve bu teknolojinin hangi alanlarda kullanılabileceği üzerine çeşitli spekülasyonlar yapılmakta.\n\nOpenAI'nin bu kararı, etik ve güvenlik endişelerine yol açtı. Teknolojinin, askeri alanda nasıl kullanılacağı ya da hangi operasyonlarda yer alacağı henüz net değil. Ancak, askeri strateji, lojistik ve istihbarat gibi çeşitli alanlarda yapay zekanın entegrasyonunun olası olduğu düşünülüyor.\n\nDiğer yandan, Grok adlı bir şirketin çocuklara yönelik cinsel istismar materyallerine (CSAM) karşı açtığı dava da gündemde. Bu dava, teknoloji şirketlerinin kullanıcı güvenliği ve veri koruma konularındaki sorumluluklarını tekrar tartışmaya açıyor.\n\nBu gelişmeler, teknoloji dünyasının askeri ve sosyal boyutlarının ne denli iç içe geçtiğini gösteriyor. OpenAI'nin kararı, yapay zekanın etik kullanımı konusundaki tartışmaları yeniden alevlendirirken, Grok'un davası ise dijital güvenlik ve sorumluluk konularını gündeme taşıyor.\n\nKaynak: MIT Technology Review (2023). The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit. MIT Technology Review. https://www.technologyreview.com",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
+        "date": "2026-03-17T13:43:17.527400",
+        "timestamp": 1773754997.527405
     },
     "news_list": [
+        {
+            "title": "Alzheimer İlacının Sırrı Ortaya Çıktı: Beyin İmmün Hücrelerini Aktive Ediyor",
+            "original_title": "Scientists finally reveal how this Alzheimer’s drug really works",
+            "content": "Bilim insanları, Alzheimer hastalığına karşı geliştirilen önemli bir ilacın sırrını nihayet ortaya çıkardı. Yapılan araştırmalar, lecanemab adlı ilacın, beynin bağışıklık hücrelerini aktive ederek çalıştığını gösterdi. Ancak bu aktivasyon, yalnızca antikorun Fc parçası adı verilen özel bir kısmı aracılığıyla gerçekleşiyor. Bu bölüm, bir tetikleyici gibi hareket ederek mikroglia hücrelerini zararlı amiloid plaklarını temizlemeye yönlendiriyor. Bu buluş, gelecekteki Alzheimer tedavilerinin tasarımında devrim yaratabilir.\n\nKaynak: Mind & Brain News -- ScienceDaily. (tarih yok). Scientists finally reveal how this Alzheimer’s drug really works. ScienceDaily. Erişim adresi: https://www.sciencedaily.com/releases/2023/10/231010090909.htm",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260317064457.htm",
+            "date": "2026-03-17T13:43:07.664768",
+            "timestamp": 1773754987.664775
+        },
+        {
+            "title": "ADHD Beyinleri: Uyanıkken Bile Uyku Benzeri Aktivite Gösteriyor",
+            "original_title": "ADHD brains show sleep-like activity even while awake",
+            "content": "Araştırmacılar, ADHD'li kişilerin neden sıklıkla odaklanmakta zorlandıklarını açıklamaya yardımcı olabilecek şaşırtıcı bir beyin deseni tanımladılar. Uyanık oldukları sırada bile, beyinleri talepkâr görevler sırasında 'uyku benzeri' aktiviteye kısa süreliğine kayabilir. Bu anlar, daha fazla hata, yavaşlayan tepki süreleri ve dikkat dağınıklığı ile ilişkilidir. ADHD'li bireylerde bu tür beyin aktivitelerinin görülmesi, onların günlük yaşamda karşılaştıkları zorlukları daha iyi anlamamıza yardımcı olabilir. Bu keşif, ADHD'nin nörolojik temellerine dair yeni bir pencere açarken, tedavi ve yönetim stratejilerinin geliştirilmesine de katkı sağlayabilir.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260317015928.htm",
+            "date": "2026-03-17T13:43:11.710642",
+            "timestamp": 1773754991.710647
+        },
+        {
+            "title": "OpenAI ve ABD Ordusu İşbirliği: Yapay Zeka Teknolojisi Hangi Alanlarda Kullanılacak?",
+            "original_title": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+            "content": "MIT Technology Review tarafından yayımlanan haberde, OpenAI'nin Pentagon ile yaptığı işbirliğinin detayları ele alınıyor. Bu anlaşma, OpenAI'nin yapay zeka teknolojilerini ABD Savunma Bakanlığı'na sunmasını içeriyor. Anlaşmanın detayları ve bu teknolojinin hangi alanlarda kullanılabileceği üzerine çeşitli spekülasyonlar yapılmakta.\n\nOpenAI'nin bu kararı, etik ve güvenlik endişelerine yol açtı. Teknolojinin, askeri alanda nasıl kullanılacağı ya da hangi operasyonlarda yer alacağı henüz net değil. Ancak, askeri strateji, lojistik ve istihbarat gibi çeşitli alanlarda yapay zekanın entegrasyonunun olası olduğu düşünülüyor.\n\nDiğer yandan, Grok adlı bir şirketin çocuklara yönelik cinsel istismar materyallerine (CSAM) karşı açtığı dava da gündemde. Bu dava, teknoloji şirketlerinin kullanıcı güvenliği ve veri koruma konularındaki sorumluluklarını tekrar tartışmaya açıyor.\n\nBu gelişmeler, teknoloji dünyasının askeri ve sosyal boyutlarının ne denli iç içe geçtiğini gösteriyor. OpenAI'nin kararı, yapay zekanın etik kullanımı konusundaki tartışmaları yeniden alevlendirirken, Grok'un davası ise dijital güvenlik ve sorumluluk konularını gündeme taşıyor.\n\nKaynak: MIT Technology Review (2023). The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit. MIT Technology Review. https://www.technologyreview.com",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/",
+            "date": "2026-03-17T13:43:17.527400",
+            "timestamp": 1773754997.527405
+        },
+        {
+            "title": "Entegre Uzamsal Multiomiklerle Biyolojik Karmaşıklığın Haritalanması",
+            "original_title": "Mapping Biological Complexity with Integrated Spatial Multiomics",
+            "content": "Bu GEN webinarında, Bruker'ın baş bilim sorumlusu ve kıdemli araştırma ve geliştirme başkan yardımcısı Joe Beechem, PhD ve Bruker'ın ürün yönetimi kıdemli direktörü Oliver Braubach, PhD, entegre uzamsal platformların birden fazla yüksek doğrulukta ölçümü birleştirerek kapsamlı bir biyolojik tablo sunduğunu tartışacaklar. \n\nBu tartışma, biyolojik sistemlerin karmaşıklığını anlamak için yeni bir yaklaşımı temsil ediyor. Entegre uzamsal multiomik teknolojileri, hücresel ve doku düzeyinde daha derinlemesine içgörüler elde etmeye olanak tanıyor. Bu tür platformlar, biyologların çoklu veri katmanlarını birleştirerek daha eksiksiz ve bütüncül bir bakış açısı geliştirmelerine yardımcı oluyor.\n\nBu tür yenilikçi yaklaşımlar, genetik mühendisliği ve biyoteknoloji alanında önemli bir etki yaratabilir. Araştırmacılar, biyolojik süreçlerin daha iyi anlaşılması ve hastalıkların daha etkili bir şekilde hedeflenmesi için bu teknolojileri kullanarak daha derinlemesine analizler yapabilirler.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (https://www.genengnews.com/multimedia/webinars/mapping-biological-complexity-with-integrated-spatial-multiomics/)",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/multimedia/webinars/mapping-biological-complexity-with-integrated-spatial-multiomics/",
+            "date": "2026-03-17T13:43:23.178096",
+            "timestamp": 1773755003.178102
+        },
+        {
+            "title": "Geliştirilmiş LNP'ler ile mRNA Aşılarının Etkinliği Artırılıyor, Yan Etkiler Azaltılıyor",
+            "original_title": "Engineered LNPs Enhance mRNA Vaccine Efficacy, Reduce Side Effects",
+            "content": "Lipit nanopartiküller (LNP'ler), çapraz bağlı iyonize lipitlerle mühendislik edilerek mRNA aşılarının etkinliğini artırmakta ve yan etkilerini azaltmaktadır. Araştırmalar, bu yenilikçi LNP'lerin dendritik hücre metabolizmasını güçlendirdiğini, mRNA aşılarının lenf düğümlerine daha etkili bir şekilde teslimatını sağladığını ve insan hücreleri ile fare modellerinde sistemik inflamasyonu ve yan etkileri azalttığını göstermektedir.\n\nmRNA aşıları, bağışıklık sistemine virüs proteinlerini kodlayan genetik talimatlar sağlayarak çalışır. Ancak, bu genetik materyalin hücrelere etkili bir şekilde iletilmesi ve yan etkilerin en aza indirilmesi için uygun taşıyıcı sistemlere ihtiyaç vardır. Bu noktada, lipid nanopartiküller kritik bir rol oynar.\n\nAraştırmacılar, çapraz bağlı iyonize lipitlerle geliştirilmiş LNP'lerin, mRNA'nın hücrelere daha etkili bir şekilde girişini sağladığını ve bağışıklık tepkisini artırarak aşı etkinliğini yükselttiğini belirtmektedir. Ayrıca, bu yeni tasarımın sistemik inflamasyonu azaltarak yan etki profilini iyileştirdiği gözlemlenmiştir.\n\nBu yenilikçi yaklaşım, gelecekteki mRNA bazlı terapötik uygulamaların daha güvenli ve etkili olmasına önemli katkılar sağlayabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/drug-discovery/engineered-lnps-enhance-mrna-vaccine-efficacy-reduce-side-effects/)",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/drug-discovery/engineered-lnps-enhance-mrna-vaccine-efficacy-reduce-side-effects/",
+            "date": "2026-03-17T13:43:30.253186",
+            "timestamp": 1773755010.253192
+        },
         {
             "title": "Parkinson Riskini İkiye Katlayan Pestisit!",
             "original_title": "Common pesticide may more than double Parkinson’s disease risk",
@@ -460,56 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/03/260312020104.htm",
             "date": "2026-03-12T13:20:27.993707",
             "timestamp": 1773321627.993716
-        },
-        {
-            "title": "ABD Batarya Endüstrisi Zor Günler Geçiriyor",
-            "original_title": "Brutal times for the US battery industry",
-            "content": "Sadece birkaç yıl önce, batarya endüstrisi oldukça popülerdi. Sonsuz gibi görünen sayıda şirket ortaya çıkıyor, parıltılı yeni kimyalar ve devasa fon toplama turları ile dikkat çekiyordu. En büyük sorunum, en heyecan verici haberleri seçmek için bu yığını elemekti. Ancak bu durum değişti ve 2026'da işler farklı bir yöne evrildi. Artık bazı şirketler hayatta kalmak için mücadele ediyor ve yatırımcılar daha temkinli davranıyor. Yatırımcıların dikkatini çekmek ve ayakta kalmak, şirketler için her zamankinden daha fazla çaba gerektiriyor.\n\nBatarya endüstrisi, yenilenebilir enerji ve elektrikli araçların yükselişi ile birlikte büyük bir ivme kazanmıştı. Ancak bu hızlı büyüme, sektörün bazı zayıflıklarını da gün yüzüne çıkardı. Kaynak sıkıntıları, üretim maliyetlerinin artışı ve teknolojik yeniliklerin beklenenden yavaş ilerlemesi, sektördeki bazı oyuncuları zora soktu. Bu durum, birçok yatırımcının daha dikkatli ve seçici hale gelmesine neden oldu.\n\nBaşlangıçta büyük umutlar vaat eden birçok şirket, şimdi ayakta kalma mücadelesi veriyor. Sektör analistleri, önümüzdeki yıllarda daha fazla konsolidasyon ve iflasın yaşanabileceğini öngörüyor. Yenilikçi teknolojilere ve sürdürülebilir iş modellerine sahip olanlar hayatta kalma şansına sahip olacakken, diğerleri piyasadan silinebilir.\n\nEndüstrinin bu zor dönemi, aynı zamanda yeni fırsatları da beraberinde getirebilir. Daha verimli ve sürdürülebilir batarya teknolojilerinin geliştirilmesi, sektörü yeniden canlandırabilir ve uzun vadeli büyüme için sağlam bir temel oluşturabilir.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/",
-            "date": "2026-03-12T13:20:35.097816",
-            "timestamp": 1773321635.097825
-        },
-        {
-            "title": "Bağımlılıkta Yeniden Dönüş Anahtarı: Bağımlılığı Tetikleyen Devre",
-            "original_title": "Unlocking the Relapse Switch: The Circuit That Drives Addiction",
-            "content": "Bilim insanları, bağımlılık nüksünü kontrol eden spesifik bir sinirsel anahtarı belirlediler ve bunun irade eksikliğinden ziyade bir devre sorunu olduğunu kanıtladılar. Araştırmalar, bağımlılığın tekrar etmesinde rol oynayan belirli bir sinir devresini ortaya koyuyor. Bu buluş, bağımlılıkla mücadelede yeni tedavi yöntemlerinin geliştirilmesine yardımcı olabilir.\n\nBağımlılık, dünya genelinde milyonlarca insanı etkileyen karmaşık bir beyinsel hastalıktır. Bağımlılık yapan maddelerin ve davranışların beyin üzerindeki etkilerini anlamak, tedavi ve önleme stratejilerinin oluşturulmasında kritik öneme sahiptir. Araştırmacılar, bağımlılığın nüks etmesinde etkili olan kilit bir sinir devresini belirleyerek, bağımlılık tedavilerine yeni bir bakış açısı kazandırmayı hedefliyor.\n\nYapılan çalışmalarda, beyinde bağımlılık davranışlarını kontrol eden belirli bir sinir devresi keşfedildi. Bu devre, bağımlılıkla ilişkili olan ödül ve haz merkezleriyle doğrudan bağlantılıdır. Araştırmacılar, bu devrenin işleyişini ve bağımlılığın nüks etmesindeki rolünü inceleyerek, nüksü önlemek için potansiyel müdahale noktalarını belirlemeye çalışıyor.\n\nBu bulgular, bağımlılık tedavilerinde yeni yaklaşımlar geliştirilmesine kapı aralayabilir. Özellikle, bağımlılıkla mücadelede irade gücünün ötesine geçerek, biyolojik ve nörolojik faktörlerin daha fazla dikkate alınması gerektiğine işaret ediyor. Bu sayede, bağımlılıkla mücadelede daha etkili ve kalıcı çözümler üretilebilir.\n\nAraştırmanın bulguları, bağımlılık hastalarının daha iyi anlaşılmasına ve daha etkili tedavi yöntemlerinin geliştirilmesine katkı sağlayabilir. Bağımlılıkla mücadelede yeni stratejiler geliştirilmesi, hastaların yaşam kalitesini artırabilir ve toplum üzerindeki olumsuz etkilerini azaltabilir.\n\nKaynak: Neuroscience News (2023, Mart). Unlocking the Relapse Switch: The Circuit That Drives Addiction. Erişim adresi: https://neurosciencenews.com/addiction-relapse-neural-circuit-30298/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/addiction-relapse-neural-circuit-30298/",
-            "date": "2026-03-12T02:48:10.479211",
-            "timestamp": 1773283690.479225
-        },
-        {
-            "title": "Yapay Zeka Tamamlama Araçları Fikirlerimizi Sessizce Değiştiriyor",
-            "original_title": "AI Autocomplete Covertly Shifts Human Opinions",
-            "content": "Araştırmacılar, önyargılı yapay zeka tamamlama araçlarının kullanıcıların sosyal konular hakkındaki görüşlerini gizlice değiştirdiğini ortaya çıkardı. Bu etkinin, kullanıcılara yapılan önyargı uyarılarına rağmen durdurulamadığı belirtildi. Araştırma, bu tür araçların, fark edilmeden kullanıcıların düşüncelerine etki edebileceğini gösteriyor. Kullanıcılar, sosyal medya ve diğer çevrimiçi platformlarda bu tür yapay zeka destekli araçlarla karşılaştıklarında, farkında olmadan görüşlerini değiştirme riskiyle karşı karşıya kalabiliyorlar. Çalışma, yapay zeka teknolojilerinin insan algısı üzerindeki potansiyel etkilerini anlamak için önemli bir adım olarak değerlendiriliyor. Önyargılı önerilerin, kullanıcıların kendi görüşlerini sorgulamalarına ve değiştirmelerine yol açabileceği vurgulanıyor. Bu durum, yapay zeka teknolojilerinin sorumlu bir şekilde tasarlanmasının ve kullanıcılara daha fazla şeffaflık sağlanmasının önemini bir kez daha gözler önüne seriyor.\n\nKaynak: Neuroscience News (2023)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/biased-ai-writing-assistant-opinion-30297/",
-            "date": "2026-03-12T02:48:15.181863",
-            "timestamp": 1773283695.181871
-        },
-        {
-            "title": "Nanopartiküller ile Vücutta CAR T Hücre Üretimi: B Hücrelerini Yok Etme Yöntemi",
-            "original_title": "Nanoparticles Trigger In Vivo CAR T Cell Generation to Eliminate B Cells",
-            "content": "Araştırmacılar, bağışıklık sistemindeki belirli hücreleri hedef alarak ve \"eğiterek\" vücut genelinde hastalığa neden olan hücreleri bulup yok edebilen basitleştirilmiş bir biyolojik olarak parçalanabilen nanopartikül versiyonu geliştirdiklerini açıkladılar. Bu teknoloji, CAR T hücre terapilerini daha erişilebilir ve uygulanabilir hale getirmeyi amaçlıyor. Nanopartiküller, vücut içinde doğrudan CAR T hücrelerinin üretilmesini tetikleyerek özellikle B hücrelerini hedef alıyor. Bu yenilikçi yaklaşım, mevcut tedavilere göre daha az maliyetli ve daha az yan etkiye sahip bir alternatif sunmayı hedefliyor. Araştırmanın sonuçları, genetik mühendisliği ve biyoteknoloji alanında önemli bir adım olarak değerlendiriliyor. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/cancer/nanoparticles-trigger-in-vivo-car-t-cell-generation-to-eliminate-b-cells/)",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/nanoparticles-trigger-in-vivo-car-t-cell-generation-to-eliminate-b-cells/",
-            "date": "2026-03-12T02:48:20.369723",
-            "timestamp": 1773283700.369731
-        },
-        {
-            "title": "Depresyonda 'Enerji Krizi': Yorgunluk Hücresel Düzeyde Başlıyor",
-            "original_title": "Depression’s “Energy Crisis”: Fatigue Starts at the Cellular Level",
-            "content": "Yeni araştırmalar, depresyonla ilişkili yorgunluğun, hücrelerin dinlenme halinde aşırı çalışması ancak hayat stresli hale geldiğinde \"duraksaması\" nedeniyle ortaya çıktığını ortaya koyuyor. Depresyon, birçok kişi tarafından sadece zihinsel bir hastalık olarak görülse de, aslında fiziksel belirtiler de gösterebilir. Yorgunluk, bu belirtilerden biri ve genellikle göz ardı edilen bir semptomdur. \n\nAraştırmacılar, depresyonun hücresel düzeyde bir enerji krizi yarattığını ve bunun da bireylerin kendilerini sürekli yorgun hissetmelerine neden olduğunu belirtiyorlar. Hücreler, normalde enerji üretmek için çalışırken, stres altında bu işlevlerini yerine getiremiyorlar. Bu durum, hücresel enerji üretiminde bir duraklama yaratarak bireyde yoğun bir yorgunluk hissine neden oluyor. \n\nBu yeni bulgular, depresyon tedavisine yönelik yeni yaklaşımlar geliştirilmesine yardımcı olabilir. Özellikle, bu yorgunluğun hücresel düzeyde ele alınması, tedavi planlarının daha etkili hale gelmesine katkıda bulunabilir. \n\nSonuç olarak, depresyonun sadece psikolojik bir durum olmadığı, aynı zamanda fiziksel belirtiler de gösterdiği ve bu belirtiler arasında yorgunluğun önemli bir yer tuttuğu vurgulanıyor. \n\nKaynak: Neuroscience News. (2023). Depression's \"Energy Crisis\": Fatigue Starts at the Cellular Level. https://neurosciencenews.com/depression-atp-cellular-fatigue-30296/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/depression-atp-cellular-fatigue-30296/",
-            "date": "2026-03-11T21:41:17.835698",
-            "timestamp": 1773265277.835708
         }
     ]
 }
