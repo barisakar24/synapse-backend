@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-03-17T21:48:53.448669",
+    "last_updated": "2026-03-18T02:54:59.901570",
     "daily_news": {
-        "title": "Astellas ve CytomX'in 1,7 Milyar Dolarlık Kanser İmmünoterapisi İş Birliği Sona Erdi",
-        "original_title": "Astellas Scraps Up-to-$1.7B CytomX Cancer Immunotherapy Collaboration",
-        "content": "Astellas ve CytomX arasında 1,7 milyar dolara kadar değer biçilen kanser immünoterapisi iş birliği sona erdi. İş birliğinin ilk kamuya açık sorun işareti, 2025'in ilk çeyreğinde ortaya çıktı. Bu dönemde Astellas, şirketlerin ilk iş birliği hedefi için başlattığı IND (Investigational New Drug) hazırlık faaliyetlerine devam etmeme kararı aldı. Bunun yerine, ikinci iş birliği hedefini önceliklendirmeyi seçerek molekül için GLP (Good Laboratory Practices) toksikoloji çalışmalarını başlattı.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/cancer/astellas-scraps-up-to-1-7b-cytomx-cancer-immunotherapy-collaboration/)",
+        "title": "Axplora, İtalya'daki Farmabios Tesislerini Genişletiyor",
+        "original_title": "Axplora Expands Manufacturing Facilities at Its Italian Farmabios Site",
+        "content": "Axplora, İtalya'daki Farmabios tesislerinde üretim kapasitesini artırıyor. Bu yatırım, Axplora ağındaki son genişlemelerin bir parçası olarak dikkat çekiyor. Şirket, Fransa'nın Le Mans şehrinde yer alan ve ADC ve sitotoksik ilaçların üretimiyle uğraşan tesisinde, çok milyon euroluk liyofilizasyon genişlemesi gerçekleştirmişti. Bu yeni genişleme ile Axplora, küresel biyoteknoloji ve genetik mühendisliği alanında önemli bir adım daha atmış oluyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). Axplora expands manufacturing facilities at its Italian Farmabios site. Retrieved from https://www.genengnews.com/topics/bioprocessing/axplora-expands-manufacturing-facilities-at-its-italian-farmabios-site/",
         "category": "Genetik",
         "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/cancer/astellas-scraps-up-to-1-7b-cytomx-cancer-immunotherapy-collaboration/",
-        "date": "2026-03-17T21:48:53.448625",
-        "timestamp": 1773784133.448634
+        "link": "https://www.genengnews.com/topics/bioprocessing/axplora-expands-manufacturing-facilities-at-its-italian-farmabios-site/",
+        "date": "2026-03-18T02:54:59.901522",
+        "timestamp": 1773802499.901531
     },
     "news_list": [
+        {
+            "title": "Çocukluk Stresi, Ömür Boyu Sindirim Sorunlarına Yol Açabilir",
+            "original_title": "Scientists link childhood stress to lifelong digestive issues",
+            "content": "Erken yaşta yaşanan stresin, bağırsak-beyin bağlantısını bozarak uzun vadeli sindirim sorunlarına zemin hazırlayabileceği ortaya çıktı. Hem fareler üzerinde hem de binlerce çocuk üzerinde yapılan araştırmalar, stresin ağrı, kabızlık ve irritabl bağırsak sendromu (IBS) gibi semptomlarla bağlantılı olduğunu buldu. Bilim insanları, farklı biyolojik yolların farklı bağırsak sorunlarını kontrol ettiğini keşfederek gelecekte daha kişiselleştirilmiş tedavilere işaret etti. Araştırma ayrıca, bir çocuğun erken dönem çevresinin sadece duygusal değil, aynı zamanda kalıcı fiziksel etkiler de bırakabileceğini vurguluyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260317064444.htm",
+            "date": "2026-03-18T02:54:49.764268",
+            "timestamp": 1773802489.764278
+        },
+        {
+            "title": "Pentagon, Yapay Zekanın Gizli Verilerle Eğitilmesi İçin Plan Yapıyor",
+            "original_title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
+            "content": "Pentagon, generatif yapay zeka şirketlerinin askeriye özelinde geliştirdikleri modellerini gizli veriler üzerinde eğitebilmeleri için güvenli ortamlar oluşturmayı planlıyor. MIT Technology Review'un öğrendiğine göre, bu planlar henüz tartışma aşamasında. Anthropic'in Claude gibi yapay zeka modelleri, halihazırda gizli ortamlarda soru cevaplamak için kullanılıyor; bu uygulamalar arasında İran'daki hedeflerin analiz edilmesi de yer alıyor. Ancak modellerin bu tür veriler üzerinde eğitilmesine izin verilmesi, daha önce görülmemiş bir adım olacak.\n\nBu tür bir eğitimin, yapay zekanın askeri operasyonlardaki etkinliğini artırabileceği düşünülüyor. Ancak, gizli verilerin güvenliği ve yapay zeka modellerinin nasıl kontrol edileceği konusunda önemli endişeler de mevcut. Pentagon, bu sürecin güvenli ve verimli bir şekilde yönetilebilmesi için çeşitli stratejiler geliştirmeyi hedefliyor. Bu tür bir girişim, yapay zeka teknolojilerinin askeri kullanımı için yeni bir dönemin başlangıcı olabilir.\n\nKaynak:\nMIT Technology Review. (2023). The Pentagon is planning for AI companies to train on classified data, defense official says. MIT Technology Review. ",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
+            "date": "2026-03-18T02:54:55.273530",
+            "timestamp": 1773802495.273538
+        },
+        {
+            "title": "Axplora, İtalya'daki Farmabios Tesislerini Genişletiyor",
+            "original_title": "Axplora Expands Manufacturing Facilities at Its Italian Farmabios Site",
+            "content": "Axplora, İtalya'daki Farmabios tesislerinde üretim kapasitesini artırıyor. Bu yatırım, Axplora ağındaki son genişlemelerin bir parçası olarak dikkat çekiyor. Şirket, Fransa'nın Le Mans şehrinde yer alan ve ADC ve sitotoksik ilaçların üretimiyle uğraşan tesisinde, çok milyon euroluk liyofilizasyon genişlemesi gerçekleştirmişti. Bu yeni genişleme ile Axplora, küresel biyoteknoloji ve genetik mühendisliği alanında önemli bir adım daha atmış oluyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). Axplora expands manufacturing facilities at its Italian Farmabios site. Retrieved from https://www.genengnews.com/topics/bioprocessing/axplora-expands-manufacturing-facilities-at-its-italian-farmabios-site/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/axplora-expands-manufacturing-facilities-at-its-italian-farmabios-site/",
+            "date": "2026-03-18T02:54:59.901522",
+            "timestamp": 1773802499.901531
+        },
         {
             "title": "Metapipeline-DNA: Genom Dizileme Analizinde Yeni Dönem",
             "original_title": "Metapipeline-DNA Automates and Standardizes Genome Sequencing Analysis",
@@ -480,36 +510,6 @@
             "link": "https://neurosciencenews.com/brainstem-hand-movement-pathway-30306/",
             "date": "2026-03-12T21:42:14.031501",
             "timestamp": 1773351734.031509
-        },
-        {
-            "title": "Enodia Therapeutics ve Kezar Life Sciences Arasında Anlaşma: Hedefe Yönelik Protein Yıkımı",
-            "original_title": "Targeted Protein Degradation Drives Deal Between Enodia Therapeutics and Kezar Life Sciences",
-            "content": "Enodia Therapeutics'in özel platformu, hastalıkla ilişkili proteinlerin, patolojik etkiler ortaya çıkmadan önce, sentez noktalarında inhibe edilmesini sağlayan seçici Sec61 Translokon modülasyonunu mümkün kılıyor. Bu yöntem, hayati fizyolojik fonksiyonları korurken hastalığa neden olan proteinlerin etkilerini durdurmayı amaçlıyor. \n\nEnodia Therapeutics ve Kezar Life Sciences arasında imzalanan anlaşma, bu yenilikçi yaklaşımın gücünü ve potansiyelini ortaya koyuyor. Hedefe yönelik protein yıkımı, özellikle hastalıkların tedavisinde devrim yaratabilecek bir alan olarak dikkat çekiyor. Bu iş birliği, her iki şirketin de bu alandaki uzmanlıklarını birleştirerek, daha etkili tedavi yöntemleri geliştirmelerine olanak tanıyacak. \n\nKaynakça: GEN - Genetic Engineering and Biotechnology News. (n.d.). Targeted Protein Degradation Drives Deal Between Enodia Therapeutics and Kezar Life Sciences. Retrieved from https://www.genengnews.com/topics/genome-editing/targeted-protein-degradation-drives-deal-between-enodia-therapeutics-and-kezar-life-sciences/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/genome-editing/targeted-protein-degradation-drives-deal-between-enodia-therapeutics-and-kezar-life-sciences/",
-            "date": "2026-03-12T21:42:23.159142",
-            "timestamp": 1773351743.15915
-        },
-        {
-            "title": "Evotec'te Yeniden Yapılandırma: 800 İş Kaybı",
-            "original_title": "Evotec Eliminating 800 Jobs in Restructuring",
-            "content": "Evotec, Avrupa ve ABD'deki 14 lokasyonunda 800 çalışanın işten çıkarılacağını duyurdu. Gelecek iki yıl içinde, dünya genelinde dört tesisini kapatarak, giderlerini azaltmayı ve organizasyon yapısını basitleştirmeyi planlıyor. Evotec, şu anda 4.800'den fazla çalışanı olduğunu belirtti.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/drug-discovery/evotec-eliminating-800-jobs-in-restructuring/)",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/drug-discovery/evotec-eliminating-800-jobs-in-restructuring/",
-            "date": "2026-03-12T21:42:25.879908",
-            "timestamp": 1773351745.879916
-        },
-        {
-            "title": "Yüksek Yağ İçeren Diyetler, Bağırsak Bakterilerinin Beyne Ulaşmasına Yol Açabilir",
-            "original_title": "High-Fat Diets May Allow Gut Bacteria to Infiltrate the Brain",
-            "content": "Yeni bir çalışma, yüksek yağ içeren bir diyetin, vagus sinirini bağırsak bakterilerinin beyne ulaşabileceği bir otoyola dönüştürebileceğini ve potansiyel olarak beyni iltihaplandırabileceğini ortaya koyuyor. Yapılan araştırmalar, bağırsak mikrobiyomunun genel sağlık üzerindeki etkisinin ne denli önemli olduğunu gözler önüne sermeye devam ediyor. Ancak, bu çalışmanın bulguları, özellikle yüksek yağlı diyetlerle beslenen bireyler için endişe verici olabilir.\n\nVagus siniri, beyin ve bağırsaklar arasında kritik bir iletişim yolu olarak bilinir. Bu sinir, bağırsak bakterilerinin beyne ulaşması için bir geçit görevi görebilir. Araştırmacılar, bu durumun beyin iltihabına neden olabileceğini ve nörolojik sağlık üzerinde olumsuz etkiler yaratabileceğini öne sürüyorlar.\n\nYüksek yağlı diyetlerin, bağırsak mikrobiyomunu nasıl etkilediği ve bu durumun beyin sağlığı üzerindeki uzun vadeli sonuçları hala araştırılmakta olan önemli konular arasında yer alıyor. Bilim insanları, bu bulguların, diyet düzenlemesinin ve sağlıklı beslenmenin önemini bir kez daha vurguladığını belirtiyor.\n\nKaynak: Neuroscience News",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/gut-bacteria-brain-high-fat-diet-30304/",
-            "date": "2026-03-12T19:04:52.650079",
-            "timestamp": 1773342292.650088
         }
     ]
 }
