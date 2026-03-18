@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-03-18T16:13:19.158790",
+    "last_updated": "2026-03-18T19:14:33.038106",
     "daily_news": {
-        "title": "HDX-MS ve Hesaplamalı Yöntemlerle Protein-Protein Etkileşimlerinin Yeni İncelenmesi",
-        "original_title": "HDX-MS Plus Computational Methods Provide Novel Approach to Study of Protein-Protein Interactions",
-        "content": "Protein-protein etkileşimlerinin anlaşılması, özellikle ilaç geliştirme süreçlerinde önemli bir rol oynar. Geleneksel yöntemler bu etkileşimlerin incelenmesinde belirli sınırlamalara sahip olabilir. Ancak yeni bir yaklaşım, bu sınırlamaları aşmak için umut vaat ediyor. Hidrojen-Deuterium Değişim Kütle Spektrometrisi (HDX-MS) ile yapay zeka gibi hesaplamalı yöntemlerin birleşimi, protein-protein etkileşimlerinin daha derinlemesine incelenmesine olanak sağlayabilir.\n\nSandviç ELISA gibi geleneksel yöntemler genellikle protein etkileşimlerini analiz etmek için kullanılırken, HDX-MS teknolojisi ve hesaplamalı yöntemlerin entegrasyonu, özellikle preklinik ilaç geliştirme aşamalarında etkileşimlerin daha iyi anlaşılmasını sağlayabilir. Bu entegrasyon, proteinlerin dinamik yapılarını ve etkileşim mekanizmalarını daha ayrıntılı bir şekilde ortaya koyabilir.\n\nBu yeni yaklaşımın, ilaç geliştirme süreçlerinde önemli bir yenilik getirmesi ve daha etkili terapötik stratejilerin geliştirilmesine katkı sağlaması beklenmektedir. Özellikle yapay zeka destekli analizlerin, karmaşık protein ağlarını çözümleme ve etkileşim noktalarını belirleme konularında büyük fayda sağlayabileceği öngörülmektedir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/bioprocessing/researchers-develop-new-technique-for-studying-protein-protein-interaction/)",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/bioprocessing/researchers-develop-new-technique-for-studying-protein-protein-interaction/",
-        "date": "2026-03-18T16:13:19.158736",
-        "timestamp": 1773850399.158746
+        "title": "Fiziksel Aktivite Travma Geçirmiş Beyni Yeniden Yapılandırıyor",
+        "original_title": "Physical Activity Rewires the Traumatized Brain",
+        "content": "Yeni bir araştırma, haftalık 150–390 dakika egzersizin, çocuklukta zorluk yaşamış bireylerin sinir yollarını yeniden yapılandırabileceğini ortaya koyuyor. Yapılan araştırmalar, fiziksel aktivitenin sadece vücut sağlığını korumakla kalmayıp aynı zamanda beyin üzerinde de olumlu etkileri olduğunu gösteriyor. Özellikle çocuklukta travma yaşamış bireylerde görülen psikolojik ve nörolojik etkilerin, düzenli egzersizle hafifletilebileceği belirtiliyor.\n\nAraştırmanın bulguları, egzersizin beyin plastisitesine katkı sağladığını ve stresle başa çıkma becerilerini artırdığını gösteriyor. Egzersiz, beyindeki nörotransmitterlerin salınımını artırarak duygusal iyileşmeye katkıda bulunuyor ve bu da travmanın uzun vadeli etkilerini azaltabiliyor. Araştırmacılar, bu sürecin beyindeki yeni nöral bağlantıların oluşumunu destekleyerek, bireylerin daha dirençli hale gelmelerine yardımcı olduğunu belirtiyor.\n\nEgzersizin, beyindeki hipokampus bölgesini olumlu yönde etkileyerek hafıza ve öğrenme süreçlerini geliştirdiği de vurgulanıyor. Bu nedenle, fiziksel aktivite, hem fiziksel sağlığı iyileştirmek hem de zihinsel esnekliği artırmak için güçlü bir araç olarak görülüyor.\n\nBu çalışma, egzersizin travma sonrası stres bozukluğu (TSSB) gibi durumların tedavisinde tamamlayıcı bir rol oynayabileceği yönünde önemli ipuçları sunuyor. Araştırmacılar, bireylerin egzersizi yaşam tarzı haline getirerek, beyin sağlığını koruma ve geliştirme potansiyelinin altını çiziyor.\n\nKaynak: Neuroscience News APA: Neuroscience News. (2023). Physical Activity Rewires the Traumatized Brain. Retrieved from https://neurosciencenews.com/physical-activity-trauma-resilience-30335/",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/physical-activity-trauma-resilience-30335/",
+        "date": "2026-03-18T19:14:21.789752",
+        "timestamp": 1773861261.789762
     },
     "news_list": [
+        {
+            "title": "Fiziksel Aktivite Travma Geçirmiş Beyni Yeniden Yapılandırıyor",
+            "original_title": "Physical Activity Rewires the Traumatized Brain",
+            "content": "Yeni bir araştırma, haftalık 150–390 dakika egzersizin, çocuklukta zorluk yaşamış bireylerin sinir yollarını yeniden yapılandırabileceğini ortaya koyuyor. Yapılan araştırmalar, fiziksel aktivitenin sadece vücut sağlığını korumakla kalmayıp aynı zamanda beyin üzerinde de olumlu etkileri olduğunu gösteriyor. Özellikle çocuklukta travma yaşamış bireylerde görülen psikolojik ve nörolojik etkilerin, düzenli egzersizle hafifletilebileceği belirtiliyor.\n\nAraştırmanın bulguları, egzersizin beyin plastisitesine katkı sağladığını ve stresle başa çıkma becerilerini artırdığını gösteriyor. Egzersiz, beyindeki nörotransmitterlerin salınımını artırarak duygusal iyileşmeye katkıda bulunuyor ve bu da travmanın uzun vadeli etkilerini azaltabiliyor. Araştırmacılar, bu sürecin beyindeki yeni nöral bağlantıların oluşumunu destekleyerek, bireylerin daha dirençli hale gelmelerine yardımcı olduğunu belirtiyor.\n\nEgzersizin, beyindeki hipokampus bölgesini olumlu yönde etkileyerek hafıza ve öğrenme süreçlerini geliştirdiği de vurgulanıyor. Bu nedenle, fiziksel aktivite, hem fiziksel sağlığı iyileştirmek hem de zihinsel esnekliği artırmak için güçlü bir araç olarak görülüyor.\n\nBu çalışma, egzersizin travma sonrası stres bozukluğu (TSSB) gibi durumların tedavisinde tamamlayıcı bir rol oynayabileceği yönünde önemli ipuçları sunuyor. Araştırmacılar, bireylerin egzersizi yaşam tarzı haline getirerek, beyin sağlığını koruma ve geliştirme potansiyelinin altını çiziyor.\n\nKaynak: Neuroscience News APA: Neuroscience News. (2023). Physical Activity Rewires the Traumatized Brain. Retrieved from https://neurosciencenews.com/physical-activity-trauma-resilience-30335/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/physical-activity-trauma-resilience-30335/",
+            "date": "2026-03-18T19:14:21.789752",
+            "timestamp": 1773861261.789762
+        },
+        {
+            "title": "Şizofreni ve Karar Verme Arasındaki Bağlantı: Yeni Gen Keşfi",
+            "original_title": "Gene Linking Schizophrenia to Decision-Making Found",
+            "content": "Bilim insanları, beynin kendi gerçeklik versiyonunu güncellemesini engelleyen genetik mutasyonu tespit etti. Bu keşif, şizofreni tedavisi için yeni bir hedef sunuyor. Yapılan araştırmalar, GRIN2A adı verilen bu genin, beynin gerçekliği değerlendirme ve karar verme süreçlerinde önemli bir rol oynadığını ortaya koyuyor. GRIN2A genindeki mutasyonlar, bireylerin çevresel değişikliklere uyum sağlamasını ve doğru kararlar almasını zorlaştırıyor. Bu genetik varyantın tespiti, şizofreni için daha etkili tedavi yöntemlerinin geliştirilmesi adına umut vadediyor. Araştırmacılar, bu genin işleyişini ve etkilerini derinlemesine inceleyerek, şizofreni hastalarının yaşam kalitesini artırmayı hedefliyor. \n\nAPA Kaynağı: Neuroscience News. (2023). Gene Linking Schizophrenia to Decision-Making Found. Erişim adresi: https://neurosciencenews.com/grin2a-schizophrenia-reality-circuit-30334/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/grin2a-schizophrenia-reality-circuit-30334/",
+            "date": "2026-03-18T19:14:26.607094",
+            "timestamp": 1773861266.607104
+        },
+        {
+            "title": "eXoZymes'in Hücresiz Biyoproses Platformu Cayman Chemical'dan Olumlu Geri Bildirim Aldı",
+            "original_title": "eXoZymes’ Cell-Free Biomanufacturing Platform Gets Positive Feedback from Cayman Chemical",
+            "content": "eXoZymes, Cayman Chemical ile gerçekleştirdiği pilot çalışmayı, hücresiz platformunun önemli bir doğrulaması olarak görüyor. Bu çalışma, platformun ölçeklenebilirlikte güvenilir bir şekilde performans gösterdiğini ve dış bir ortak tarafından kullanıldığında güçlü sonuçlar verdiğini kanıtlıyor. Bu gelişme, eXoZymes'in biyoproses alanında yenilikçi çözümler sunma hedefinin bir parçası olarak büyük önem taşıyor. \n\nCayman Chemical, biyokimya araştırmaları için çeşitli kimyasallar ve biyolojik malzemeler sağlayan bir şirkettir. eXoZymes'in hücresiz biyoproses platformu, hücre tabanlı sistemlere alternatif olarak yüksek verimlilik ve esneklik sunar. Bu teknolojinin, farklı biyomoleküllerin üretiminde, özellikle de karmaşık bileşiklerin sentezinde önemli avantajlar sağladığı belirtilmektedir. \n\nPilot çalışma sırasında, eXoZymes, platformlarının verimliliğini ve güvenilirliğini, Cayman Chemical'in tesislerinde başarılı bir şekilde sergilemiştir. Bu sonuçlar, eXoZymes'in biyoproses endüstrisindeki konumunu güçlendirmekte ve gelecekteki iş birlikleri için kapı aralamaktadır. \n\nKaynakça:\nGEN - Genetic Engineering and Biotechnology News. (tarih). eXoZymes’ Cell-Free Biomanufacturing Platform Gets Positive Feedback from Cayman Chemical. Erişim adresi: https://www.genengnews.com/topics/bioprocessing/exozymes-cell-free-biomanufacturing-platform-gets-positive-feedback-from-cayman-chemical/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/exozymes-cell-free-biomanufacturing-platform-gets-positive-feedback-from-cayman-chemical/",
+            "date": "2026-03-18T19:14:33.038069",
+            "timestamp": 1773861273.038077
+        },
         {
             "title": "Elektrorehoimaging ile Damla Viskozitesini Gerçek Zamanlı Yönetme",
             "original_title": "Electrorheoimaging Helps Manage Droplet Viscosity in Real-time",
@@ -480,36 +510,6 @@
             "link": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
             "date": "2026-03-13T13:18:19.161566",
             "timestamp": 1773407899.161577
-        },
-        {
-            "title": "Cam Üzerine İnşa Edilen Geleceğin AI Çipleri",
-            "original_title": "Future AI chips could be built on glass",
-            "content": "İnsan yapımı cam binlerce yıllık bir geçmişe sahip. Ancak şimdi, dünyanın en yeni ve en büyük veri merkezlerinde kullanılan AI çiplerine girmeye hazırlanıyor. Bu yıl, Güney Koreli bir şirket olan Absolics, yeni nesil bilgisayar donanımını daha güçlü hale getirmek için tasarlanmış özel cam panellerin ticari üretimine başlamayı planlıyor. Bu gelişme, camın elektronik ve bilgi işlem alanında devrim yaratabileceğini gösteriyor. Geleneksel silikon tabanlı çiplerin sınırlarına yaklaşmasıyla birlikte, cam tabanlı çipler daha yüksek performans ve enerji verimliliği sunabilir. Absolics'in geliştirdiği bu teknolojinin, yapay zeka uygulamalarının ve veri işleme kapasitelerinin artırılmasında önemli bir rol oynayabileceği düşünülüyor. Camın optik özellikleri sayesinde, bilgi akışını daha hızlı ve verimli bir şekilde yönetmek mümkün olabilir. Bu da, veri merkezlerinin enerji tüketimini ve maliyetlerini azaltabilir. Gelecekte, bu tür yeniliklerin diğer teknoloji şirketleri tarafından da benimsenmesi bekleniyor. Absolics'in vizyonu, cam tabanlı çiplerin yalnızca performansı arttırmakla kalmayıp, aynı zamanda çevresel etkileri de azaltarak teknoloji dünyasına sürdürülebilir bir katkıda bulunmasıdır. \n\nKaynak: MIT Technology Review. (2023). Future AI chips could be built on glass. Erişim adresi: https://www.technologyreview.com/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
-            "date": "2026-03-13T09:51:08.406764",
-            "timestamp": 1773395468.406777
-        },
-        {
-            "title": "Beyindeki Bağışıklık Hücreleri Ergenlik ve Üremeyi Kontrol Ediyor",
-            "original_title": "Immune Cells in the Brain Discovered to Control Puberty and Reproduction",
-            "content": "Bilim insanları, beynin savunma hücrelerinin doğurganlığı kontrol ettiğini keşfederek, insan kısırlığına yeni bir genetik bağlantı tanımladı. Beyindeki mikroglia adı verilen bağışıklık hücrelerinin, ergenlik ve üreme süreçlerinde önemli bir rol oynadığı anlaşıldı. Mikroglia, merkezi sinir sistemi içinde bulunan ve bağışıklık tepkilerini düzenleyen özel hücrelerdir. Bu hücrelerin, hormonların ve üreme ile ilgili diğer biyolojik süreçlerin düzenlenmesinde doğrudan etkili olduğu ortaya çıktı. Araştırma, özellikle ergenlik döneminin başlaması ve üreme kapasitelerinin belirlenmesinde mikrogliaların rolünü vurguluyor. Bilim insanları, bu bulguların, insanlarda kısırlık sorunlarının anlaşılmasında ve potansiyel tedavi yöntemlerinin geliştirilmesinde önemli bir adım olabileceğini belirtiyorlar. Bu yeni keşif, üreme sağlığı alanında gelecekteki araştırmalar için de umut verici bir yol açabilir. \n\nKaynak: Neuroscience News (2023). Immune Cells in the Brain Discovered to Control Puberty and Reproduction. Erişim adresi: https://neurosciencenews.com/microglia-fertility-rank-protein-30309/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/microglia-fertility-rank-protein-30309/",
-            "date": "2026-03-13T02:45:56.689143",
-            "timestamp": 1773369956.689153
-        },
-        {
-            "title": "Hareket Kalıpları ve Ömür: Orta Yaşta Yapılan Hareketler Geleceği Belirliyor",
-            "original_title": "Lifelong Motion Patterns Predict Lifespan",
-            "content": "Son yapılan bir araştırma, yaşlanma sürecinin ani patlamalar halinde gerçekleştiğini ortaya koydu. Killifish balıkları üzerinde yapılan bu uzun soluklu çalışma, orta yaş dönemindeki hareket kalıplarının, bireylerin gelecekteki yaşam sürelerini tahmin edebileceğini gösteriyor. \n\nKillifish, kısa ömürleri ve hızlı gelişimleri nedeniyle yaşlanma araştırmaları için ideal bir model olarak kabul ediliyor. Bilim insanları, bu balıkların yaşamları boyunca sergiledikleri hareketlerin, ömürleri hakkında önemli ipuçları sunduğunu keşfetti. Araştırma sonuçları, belirli bir yaş dönemindeki hareket 'heceleri'nin, balıkların kalan yaşam sürelerini belirlemede önemli bir faktör olduğunu ortaya koyuyor.\n\nAraştırmanın bulguları, insanların da benzer şekilde hareket kalıpları üzerinden ömür tahmini yapılabileceği fikrini destekliyor. Orta yaşta yapılan hareketlerin düzeni ve yoğunluğu, bireylerin sağlık durumlarının ve yaşam sürelerinin bir göstergesi olabilir. Bu bulgular, sağlık ve yaşlanma ile ilgili gelecekteki araştırmalar için yeni yollar açabilir.\n\nKaynak: Neuroscience News (2023). Lifelong Motion Patterns Predict Lifespan.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/staged-aging-killifish-behavior-30308/",
-            "date": "2026-03-13T02:46:04.157128",
-            "timestamp": 1773369964.157137
         }
     ]
 }
