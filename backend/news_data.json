@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-18T13:45:23.176857",
+    "last_updated": "2026-03-18T16:13:19.158790",
     "daily_news": {
-        "title": "Pentagon'un Yeni Yapay Zeka Planları ve Gelecek Nesil Nükleer Reaktörler",
-        "original_title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
-        "content": "Pentagon, askeriye için özel yapay zeka versiyonları oluşturmak amacıyla, gizli veriler üzerinde eğitim yapabilecek güvenli ortamlar kurmayı planlıyor. Savunma yetkilileri, bu girişimle birlikte generatif yapay zeka şirketlerinin askeriye ile daha yakın çalışarak, savunma alanında yenilikçi çözümler geliştirmesini hedefliyor. Bu adım, yapay zeka teknolojilerinin askeri operasyonları nasıl dönüştürebileceğinin bir göstergesi olarak değerlendiriliyor.\n\nPentagon'un bu planları, yapay zekanın giderek daha fazla alanda kullanılmaya başlanmasıyla birlikte, savunma sektöründeki potansiyel uygulamalarına da dikkat çekiyor. Askeri operasyonların daha etkili ve verimli bir şekilde gerçekleştirilebilmesi için yapay zekanın sunduğu imkanlardan faydalanmak, savunma stratejilerinin önemli bir parçası haline gelmiş durumda.\n\nBu gelişmeler, sadece savunma alanında değil, aynı zamanda enerji sektöründe de yenilikçi teknolojilerin hayata geçirilmesine olanak tanıyor. Gelecek nesil nükleer reaktörler, enerji üretiminde daha güvenli ve sürdürülebilir çözümler sunarken, yapay zekanın bu süreçlere nasıl entegre edileceği de merakla bekleniyor.\n\nBu bağlamda, Pentagon'un yapay zeka konusundaki yeni hamleleri ve nükleer enerji alanındaki gelişmeler, teknoloji dünyasının gündeminde önemli bir yer tutuyor. Bu gelişmelerin, gelecekteki savunma ve enerji stratejilerini nasıl şekillendireceği ise zamanla daha net bir şekilde ortaya çıkacak.\n\nKaynak: MIT Technology Review",
+        "title": "HDX-MS ve Hesaplamalı Yöntemlerle Protein-Protein Etkileşimlerinin Yeni İncelenmesi",
+        "original_title": "HDX-MS Plus Computational Methods Provide Novel Approach to Study of Protein-Protein Interactions",
+        "content": "Protein-protein etkileşimlerinin anlaşılması, özellikle ilaç geliştirme süreçlerinde önemli bir rol oynar. Geleneksel yöntemler bu etkileşimlerin incelenmesinde belirli sınırlamalara sahip olabilir. Ancak yeni bir yaklaşım, bu sınırlamaları aşmak için umut vaat ediyor. Hidrojen-Deuterium Değişim Kütle Spektrometrisi (HDX-MS) ile yapay zeka gibi hesaplamalı yöntemlerin birleşimi, protein-protein etkileşimlerinin daha derinlemesine incelenmesine olanak sağlayabilir.\n\nSandviç ELISA gibi geleneksel yöntemler genellikle protein etkileşimlerini analiz etmek için kullanılırken, HDX-MS teknolojisi ve hesaplamalı yöntemlerin entegrasyonu, özellikle preklinik ilaç geliştirme aşamalarında etkileşimlerin daha iyi anlaşılmasını sağlayabilir. Bu entegrasyon, proteinlerin dinamik yapılarını ve etkileşim mekanizmalarını daha ayrıntılı bir şekilde ortaya koyabilir.\n\nBu yeni yaklaşımın, ilaç geliştirme süreçlerinde önemli bir yenilik getirmesi ve daha etkili terapötik stratejilerin geliştirilmesine katkı sağlaması beklenmektedir. Özellikle yapay zeka destekli analizlerin, karmaşık protein ağlarını çözümleme ve etkileşim noktalarını belirleme konularında büyük fayda sağlayabileceği öngörülmektedir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/bioprocessing/researchers-develop-new-technique-for-studying-protein-protein-interaction/)",
         "category": "Yapay Zeka",
         "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
-        "date": "2026-03-18T13:45:22.815395",
-        "timestamp": 1773841522.815405
+        "link": "https://www.genengnews.com/topics/bioprocessing/researchers-develop-new-technique-for-studying-protein-protein-interaction/",
+        "date": "2026-03-18T16:13:19.158736",
+        "timestamp": 1773850399.158746
     },
     "news_list": [
+        {
+            "title": "Elektrorehoimaging ile Damla Viskozitesini Gerçek Zamanlı Yönetme",
+            "original_title": "Electrorheoimaging Helps Manage Droplet Viscosity in Real-time",
+            "content": "Yeni bir reolojik teknik, görüntüleme ve sürekli faz malzeme tasarımını birleştirerek, elektrik alanı kullanarak damla faz hacimlerinde ayarlanabilir, geri dönüşümlü viskozite oluşturur ve akışlarını yönetir. Bu teknik, damlacıkların viskozitesini gerçek zamanlı olarak kontrol etmeyi sağlar, bu da özellikle biyoproses uygulamalarında önemli avantajlar sunar. Elektrorehoimaging, elektrik alanlarının kullanılmasıyla damlacıkların iç yapısının değiştirilmesine olanak tanır. Böylece, istenilen viskozite değerlerine ulaşmak mümkün hale gelir. Bu yöntem, biyoteknoloji ve genetik mühendisliği alanında, özellikle ilaç geliştirme ve üretim süreçlerinde devrim niteliğinde bir yenilik olarak görülmektedir. Sürekli faz malzemelerinin tasarımı, damlacıkların iç dinamiklerini optimize eder, bu da daha kontrollü ve verimli bir üretim süreci sağlar. Elektrorehoimaging teknolojisinin, endüstriyel uygulamalarda geniş bir kullanım alanı bulması beklenmektedir.\n\nKaynakça: GEN – Genetic Engineering and Biotechnology News. (tarih). Electrorheoimaging Helps Manage Droplet Viscosity in Real-time. GEN - Genetic Engineering and Biotechnology News web sitesi: https://www.genengnews.com/topics/bioprocessing/electrorheoimaging-helps-manage-droplet-viscosity-in-real-time/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/electrorheoimaging-helps-manage-droplet-viscosity-in-real-time/",
+            "date": "2026-03-18T16:13:02.214505",
+            "timestamp": 1773850382.214521
+        },
+        {
+            "title": "HDX-MS ve Hesaplamalı Yöntemlerle Protein-Protein Etkileşimlerinin Yeni İncelenmesi",
+            "original_title": "HDX-MS Plus Computational Methods Provide Novel Approach to Study of Protein-Protein Interactions",
+            "content": "Protein-protein etkileşimlerinin anlaşılması, özellikle ilaç geliştirme süreçlerinde önemli bir rol oynar. Geleneksel yöntemler bu etkileşimlerin incelenmesinde belirli sınırlamalara sahip olabilir. Ancak yeni bir yaklaşım, bu sınırlamaları aşmak için umut vaat ediyor. Hidrojen-Deuterium Değişim Kütle Spektrometrisi (HDX-MS) ile yapay zeka gibi hesaplamalı yöntemlerin birleşimi, protein-protein etkileşimlerinin daha derinlemesine incelenmesine olanak sağlayabilir.\n\nSandviç ELISA gibi geleneksel yöntemler genellikle protein etkileşimlerini analiz etmek için kullanılırken, HDX-MS teknolojisi ve hesaplamalı yöntemlerin entegrasyonu, özellikle preklinik ilaç geliştirme aşamalarında etkileşimlerin daha iyi anlaşılmasını sağlayabilir. Bu entegrasyon, proteinlerin dinamik yapılarını ve etkileşim mekanizmalarını daha ayrıntılı bir şekilde ortaya koyabilir.\n\nBu yeni yaklaşımın, ilaç geliştirme süreçlerinde önemli bir yenilik getirmesi ve daha etkili terapötik stratejilerin geliştirilmesine katkı sağlaması beklenmektedir. Özellikle yapay zeka destekli analizlerin, karmaşık protein ağlarını çözümleme ve etkileşim noktalarını belirleme konularında büyük fayda sağlayabileceği öngörülmektedir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/bioprocessing/researchers-develop-new-technique-for-studying-protein-protein-interaction/)",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/researchers-develop-new-technique-for-studying-protein-protein-interaction/",
+            "date": "2026-03-18T16:13:19.158736",
+            "timestamp": 1773850399.158746
+        },
         {
             "title": "Kahvenin Beyin Sağlığına Faydaları: 43 Yıllık Çalışmanın Bulguları",
             "original_title": "Your daily coffee may be protecting your brain, 43-year study finds",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/staged-aging-killifish-behavior-30308/",
             "date": "2026-03-13T02:46:04.157128",
             "timestamp": 1773369964.157137
-        },
-        {
-            "title": "ABD Ordusu Yapay Zeka Sohbet Botlarını Hedef Belirleme Kararlarında Kullanabilir",
-            "original_title": "A defense official reveals how AI chatbots could be used for targeting decisions",
-            "content": "ABD ordusu, hedef listelerini sıralamak ve hangi hedefin öncelikli olarak vurulacağına dair önerilerde bulunmak için üretken yapay zeka sistemlerini kullanabilir. Bu öneriler, konuyla ilgili bilgi sahibi bir Savunma Bakanlığı yetkilisine göre insan denetiminden geçirilecek. Yapay zeka sohbet botlarının nasıl kullanılabileceğine dair bu açıklama, Pentagon'un bir saldırı nedeniyle inceleme altında olduğu bir dönemde geldi. Yapay zeka temelli bu yaklaşım, askeri operasyonlarda etkinlik ve hız kazandırmayı amaçlıyor. Ancak, bu tür teknolojilerin kullanımı, etik ve güvenlik konularında tartışmalara yol açabilir. Yapay zeka sistemlerinin askeri kullanımı, insan karar verme süreçlerini desteklerken, nihai kararların insan gözetiminde verilmesi gerektiği vurgulanıyor. Pentagon, bu tür teknolojilerin etik ve güvenli bir şekilde entegrasyonu için kapsamlı değerlendirmeler yapmayı planlıyor.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
-            "date": "2026-03-13T02:46:08.591194",
-            "timestamp": 1773369968.591203
-        },
-        {
-            "title": "Amino Asit Kokteyli, mRNA ve CRISPR Tedavileri için LNP Taşınmasını Hızlandırıyor",
-            "original_title": "Amino Acid Cocktail Supercharges LNP Delivery for mRNA and CRISPR Therapies",
-            "content": "Amino asit kokteyli, mRNA ve CRISPR tedavilerinde kullanılan lipid nanopartiküllerin (LNP) hücreler tarafından alınma verimliliğini artıran yenilikçi bir yaklaşım olarak öne çıkıyor. Mekanistik çalışmalar, bu kokteylin, klatrin-bağımsız ve taşıyıcı aracılı bir endositoz yolunu geliştirerek hücrelerin LNP'leri daha etkin bir şekilde içselleştirmesine olanak tanıdığını gösteriyor. Bu gelişme, gen tedavileri ve mRNA bazlı aşılar gibi biyoteknolojik uygulamaların etkinliğini önemli ölçüde artırabilir. LNP'lerin hücre içerisine daha hızlı ve etkili bir şekilde taşınması, tedavi süreçlerinin hızlanmasına ve başarı oranlarının artmasına katkıda bulunabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (tarih). Amino Acid Cocktail Supercharges LNP Delivery for mRNA and CRISPR Therapies. Erişim adresi: https://www.genengnews.com/topics/drug-discovery/amino-acid-cocktail-supercharges-lnp-delivery-for-mrna-and-crispr-therapies/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/drug-discovery/amino-acid-cocktail-supercharges-lnp-delivery-for-mrna-and-crispr-therapies/",
-            "date": "2026-03-13T02:46:13.720075",
-            "timestamp": 1773369973.720083
         }
     ]
 }
