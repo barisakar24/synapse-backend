@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-18T10:03:09.122932",
+    "last_updated": "2026-03-18T13:45:23.176857",
     "daily_news": {
-        "title": "Yeni Nükleer Reaktörler Atık Sorununu Nasıl Etkileyecek?",
-        "original_title": "What do new nuclear reactors mean for waste?",
-        "content": "MIT Technology Review, teknoloji dünyasının karmaşık ve kaotik yapısını çözümleyerek gelecekte bizi nelerin beklediğini anlamanızı sağlıyor. Serinin diğer yazılarını buradan okuyabilirsiniz. Dünya, şu anda nükleer atıklarla başa çıkmak için son derece yaratıcı ve çeşitli yöntemler kullanıyor: Atıkları su havuzlarına batırmak, çelikle kaplamak, gömmek ve daha fazlası. Ancak yeni nükleer reaktörlerin devreye girmesiyle birlikte bu yöntemler yeterli olmayabilir. Yeni reaktörlerin tasarımı, enerji üretiminde daha verimli olabilirken, atık yönetimi konusunda da yeni zorluklar ve fırsatlar sunuyor. Bu reaktörler, daha az atık üretmek veya mevcut atıkları daha iyi işlemek için tasarlanmış olabilir. Ancak bu, atıkların nihai çözümü değil. Her ne kadar yeni teknolojiler umut verici görünse de, nükleer atıkların güvenli bir şekilde depolanması ve yönetimi hala büyük bir sorun olarak karşımızda duruyor. Gelecekteki enerji ihtiyaçlarımızı karşılamak için nükleer enerjiyi kullanmaya devam edeceksek, bu atıklarla başa çıkmanın daha sürdürülebilir yollarını bulmamız gerekecek.\n\nKaynak: MIT Technology Review",
+        "title": "Pentagon'un Yeni Yapay Zeka Planları ve Gelecek Nesil Nükleer Reaktörler",
+        "original_title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+        "content": "Pentagon, askeriye için özel yapay zeka versiyonları oluşturmak amacıyla, gizli veriler üzerinde eğitim yapabilecek güvenli ortamlar kurmayı planlıyor. Savunma yetkilileri, bu girişimle birlikte generatif yapay zeka şirketlerinin askeriye ile daha yakın çalışarak, savunma alanında yenilikçi çözümler geliştirmesini hedefliyor. Bu adım, yapay zeka teknolojilerinin askeri operasyonları nasıl dönüştürebileceğinin bir göstergesi olarak değerlendiriliyor.\n\nPentagon'un bu planları, yapay zekanın giderek daha fazla alanda kullanılmaya başlanmasıyla birlikte, savunma sektöründeki potansiyel uygulamalarına da dikkat çekiyor. Askeri operasyonların daha etkili ve verimli bir şekilde gerçekleştirilebilmesi için yapay zekanın sunduğu imkanlardan faydalanmak, savunma stratejilerinin önemli bir parçası haline gelmiş durumda.\n\nBu gelişmeler, sadece savunma alanında değil, aynı zamanda enerji sektöründe de yenilikçi teknolojilerin hayata geçirilmesine olanak tanıyor. Gelecek nesil nükleer reaktörler, enerji üretiminde daha güvenli ve sürdürülebilir çözümler sunarken, yapay zekanın bu süreçlere nasıl entegre edileceği de merakla bekleniyor.\n\nBu bağlamda, Pentagon'un yapay zeka konusundaki yeni hamleleri ve nükleer enerji alanındaki gelişmeler, teknoloji dünyasının gündeminde önemli bir yer tutuyor. Bu gelişmelerin, gelecekteki savunma ve enerji stratejilerini nasıl şekillendireceği ise zamanla daha net bir şekilde ortaya çıkacak.\n\nKaynak: MIT Technology Review",
         "category": "Yapay Zeka",
         "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
-        "date": "2026-03-18T10:03:08.913872",
-        "timestamp": 1773828188.913883
+        "link": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
+        "date": "2026-03-18T13:45:22.815395",
+        "timestamp": 1773841522.815405
     },
     "news_list": [
+        {
+            "title": "Kahvenin Beyin Sağlığına Faydaları: 43 Yıllık Çalışmanın Bulguları",
+            "original_title": "Your daily coffee may be protecting your brain, 43-year study finds",
+            "content": "Günlük kahve veya çay keyfiniz, beyin sağlığınızı sessizce destekliyor olabilir. Uzun süreli bir çalışma, orta düzeyde kafeinli kahve veya çay tüketiminin demans riskini %18 oranında azalttığını ve zamanla daha iyi bilişsel performans ile ilişkilendirildiğini buldu. Bu faydalar, günlük 2-3 fincan kahve veya 1-2 fincan çay tüketiminde en güçlü şekilde gözlemlendi ve hatta demansa genetik yatkınlığı olan kişiler için bile geçerliydi.\n\nKaynak: Mind & Brain News -- ScienceDaily. (tarih eklenmeli). Your daily coffee may be protecting your brain, 43-year study finds. Erişim adresi: link verilmeli.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260318033138.htm",
+            "date": "2026-03-18T13:45:13.799764",
+            "timestamp": 1773841513.799776
+        },
+        {
+            "title": "Pentagon'un Yeni Yapay Zeka Planları ve Gelecek Nesil Nükleer Reaktörler",
+            "original_title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+            "content": "Pentagon, askeriye için özel yapay zeka versiyonları oluşturmak amacıyla, gizli veriler üzerinde eğitim yapabilecek güvenli ortamlar kurmayı planlıyor. Savunma yetkilileri, bu girişimle birlikte generatif yapay zeka şirketlerinin askeriye ile daha yakın çalışarak, savunma alanında yenilikçi çözümler geliştirmesini hedefliyor. Bu adım, yapay zeka teknolojilerinin askeri operasyonları nasıl dönüştürebileceğinin bir göstergesi olarak değerlendiriliyor.\n\nPentagon'un bu planları, yapay zekanın giderek daha fazla alanda kullanılmaya başlanmasıyla birlikte, savunma sektöründeki potansiyel uygulamalarına da dikkat çekiyor. Askeri operasyonların daha etkili ve verimli bir şekilde gerçekleştirilebilmesi için yapay zekanın sunduğu imkanlardan faydalanmak, savunma stratejilerinin önemli bir parçası haline gelmiş durumda.\n\nBu gelişmeler, sadece savunma alanında değil, aynı zamanda enerji sektöründe de yenilikçi teknolojilerin hayata geçirilmesine olanak tanıyor. Gelecek nesil nükleer reaktörler, enerji üretiminde daha güvenli ve sürdürülebilir çözümler sunarken, yapay zekanın bu süreçlere nasıl entegre edileceği de merakla bekleniyor.\n\nBu bağlamda, Pentagon'un yapay zeka konusundaki yeni hamleleri ve nükleer enerji alanındaki gelişmeler, teknoloji dünyasının gündeminde önemli bir yer tutuyor. Bu gelişmelerin, gelecekteki savunma ve enerji stratejilerini nasıl şekillendireceği ise zamanla daha net bir şekilde ortaya çıkacak.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
+            "date": "2026-03-18T13:45:22.815395",
+            "timestamp": 1773841522.815405
+        },
         {
             "title": "Yeni Nükleer Reaktörler Atık Sorununu Nasıl Etkileyecek?",
             "original_title": "What do new nuclear reactors mean for waste?",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/drug-discovery/amino-acid-cocktail-supercharges-lnp-delivery-for-mrna-and-crispr-therapies/",
             "date": "2026-03-13T02:46:13.720075",
             "timestamp": 1773369973.720083
-        },
-        {
-            "title": "Kanser Tedavisi İçin Antikor Hedefi: Hücre Yüzeyindeki 'Bayrak'",
-            "original_title": "Cell Surface “Flag” Identified as Potential Cancer Target for Antibody Therapeutics",
-            "content": "Araştırmacılar, daha önce yalnızca hücrelerin içinde olduğu varsayılan kanser yapıcı enzimi Src'nin, mesane, kolorektal, meme ve pankreas tümör hücrelerinin yüzeyinde de bulunduğunu keşfettiler. Bu bulgu, Src'nin potansiyel terapiler, özellikle de antikorlar tarafından hedef alınabilir hale geldiğini gösteriyor. Src enzimi, kanser hücrelerinin hızlı bir şekilde büyümesine ve yayılmasına katkıda bulunan bir proteindir. Genellikle hücre içi bir protein olarak kabul edilen Src'nin hücre yüzeyinde de bulunması, bu enzimi hedef alan yeni tedavi yaklaşımlarının önünü açabilir. Bu keşif, kanser tedavisinde antikorların kullanımını genişletme ve daha etkili tedaviler geliştirme potansiyeline sahiptir. Bilim insanları, Src'nin yüzeydeki varlığının nasıl kullanılabileceğini ve bu bilgiyle hangi tür antikor terapilerinin geliştirilebileceğini araştırmaya devam ediyorlar. Bu gelişme, özellikle tümör hücrelerinin yüzeyindeki Src'yi hedef alarak, kanser tedavisinde yeni bir çığır açabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/cell-surface-flag-identified-as-potential-cancer-target-for-antibody-therapeutics/",
-            "date": "2026-03-13T02:46:18.782028",
-            "timestamp": 1773369978.782034
-        },
-        {
-            "title": "Alzheimer'ın Çeşitlilik Gösteren Biyolojik Kökleri Ortaya Çıktı",
-            "original_title": "Diverse Biological Roots of Alzheimer’s Revealed",
-            "content": "Alzheimer hastalığı, her bireyde aynı biyolojik süreci izlemiyor ve bu durum, farklı ırksal ve etnik gruplar arasında kritik farklılıklar olduğunu ortaya koyuyor. Yapılan son araştırmalara göre, Alzheimer’ın biyolojik kökenleri her bireyde farklılık gösterebiliyor ve bu da hastalığın teşhis ve tedavisinde daha kişiselleştirilmiş yaklaşımlar geliştirilmesi gerektiğini gösteriyor. \n\nAraştırmacılar, Alzheimer’ın gelişiminde genetik, çevresel ve yaşam tarzı faktörlerinin rol oynadığını belirtirken, bu faktörlerin farklı gruplarda farklı şekillerde etkileşime girdiğine dikkat çekiyor. Özellikle genetik çeşitlilik, hastalığın belirtilerinin ve ilerleyişinin bireyden bireye değişmesine neden oluyor. \n\nBu yeni bulgular, Alzheimer’ın tedavisinde tek tip çözüm arayışlarının yetersiz kalabileceğini ve gelecekte daha kapsamlı ve çeşitliliği dikkate alan araştırmalara ihtiyaç duyulabileceğini ortaya koyuyor. Araştırmacılar, bu farklılıkların daha iyi anlaşılması için daha fazla çalışmanın gerekli olduğunu ve bu çalışmaların hastalığın daha etkili tedavi yöntemlerinin geliştirilmesine katkı sağlayabileceğini belirtiyor.\n\nKaynak: Neuroscience News (2023). Diverse Biological Roots of Alzheimer’s Revealed. Erişim adresi: https://neurosciencenews.com/alzheimers-diversity-markers-30307/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/alzheimers-diversity-markers-30307/",
-            "date": "2026-03-12T21:42:05.965263",
-            "timestamp": 1773351725.965273
         }
     ]
 }
