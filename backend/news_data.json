@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-03-18T07:13:52.449647",
+    "last_updated": "2026-03-18T10:03:09.122932",
     "daily_news": {
-        "title": "Çocukluk Stresi, Ömür Boyu Sindirim Sorunlarına Yol Açabilir",
-        "original_title": "Scientists link childhood stress to lifelong digestive issues",
-        "content": "Erken yaşta yaşanan stresin, bağırsak-beyin bağlantısını bozarak uzun vadeli sindirim sorunlarına zemin hazırlayabileceği ortaya çıktı. Hem fareler üzerinde hem de binlerce çocuk üzerinde yapılan araştırmalar, stresin ağrı, kabızlık ve irritabl bağırsak sendromu (IBS) gibi semptomlarla bağlantılı olduğunu buldu. Bilim insanları, farklı biyolojik yolların farklı bağırsak sorunlarını kontrol ettiğini keşfederek gelecekte daha kişiselleştirilmiş tedavilere işaret etti. Araştırma ayrıca, bir çocuğun erken dönem çevresinin sadece duygusal değil, aynı zamanda kalıcı fiziksel etkiler de bırakabileceğini vurguluyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260317064444.htm",
-        "date": "2026-03-18T02:54:49.764268",
-        "timestamp": 1773802489.764278
+        "title": "Yeni Nükleer Reaktörler Atık Sorununu Nasıl Etkileyecek?",
+        "original_title": "What do new nuclear reactors mean for waste?",
+        "content": "MIT Technology Review, teknoloji dünyasının karmaşık ve kaotik yapısını çözümleyerek gelecekte bizi nelerin beklediğini anlamanızı sağlıyor. Serinin diğer yazılarını buradan okuyabilirsiniz. Dünya, şu anda nükleer atıklarla başa çıkmak için son derece yaratıcı ve çeşitli yöntemler kullanıyor: Atıkları su havuzlarına batırmak, çelikle kaplamak, gömmek ve daha fazlası. Ancak yeni nükleer reaktörlerin devreye girmesiyle birlikte bu yöntemler yeterli olmayabilir. Yeni reaktörlerin tasarımı, enerji üretiminde daha verimli olabilirken, atık yönetimi konusunda da yeni zorluklar ve fırsatlar sunuyor. Bu reaktörler, daha az atık üretmek veya mevcut atıkları daha iyi işlemek için tasarlanmış olabilir. Ancak bu, atıkların nihai çözümü değil. Her ne kadar yeni teknolojiler umut verici görünse de, nükleer atıkların güvenli bir şekilde depolanması ve yönetimi hala büyük bir sorun olarak karşımızda duruyor. Gelecekteki enerji ihtiyaçlarımızı karşılamak için nükleer enerjiyi kullanmaya devam edeceksek, bu atıklarla başa çıkmanın daha sürdürülebilir yollarını bulmamız gerekecek.\n\nKaynak: MIT Technology Review",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
+        "date": "2026-03-18T10:03:08.913872",
+        "timestamp": 1773828188.913883
     },
     "news_list": [
+        {
+            "title": "Yeni Nükleer Reaktörler Atık Sorununu Nasıl Etkileyecek?",
+            "original_title": "What do new nuclear reactors mean for waste?",
+            "content": "MIT Technology Review, teknoloji dünyasının karmaşık ve kaotik yapısını çözümleyerek gelecekte bizi nelerin beklediğini anlamanızı sağlıyor. Serinin diğer yazılarını buradan okuyabilirsiniz. Dünya, şu anda nükleer atıklarla başa çıkmak için son derece yaratıcı ve çeşitli yöntemler kullanıyor: Atıkları su havuzlarına batırmak, çelikle kaplamak, gömmek ve daha fazlası. Ancak yeni nükleer reaktörlerin devreye girmesiyle birlikte bu yöntemler yeterli olmayabilir. Yeni reaktörlerin tasarımı, enerji üretiminde daha verimli olabilirken, atık yönetimi konusunda da yeni zorluklar ve fırsatlar sunuyor. Bu reaktörler, daha az atık üretmek veya mevcut atıkları daha iyi işlemek için tasarlanmış olabilir. Ancak bu, atıkların nihai çözümü değil. Her ne kadar yeni teknolojiler umut verici görünse de, nükleer atıkların güvenli bir şekilde depolanması ve yönetimi hala büyük bir sorun olarak karşımızda duruyor. Gelecekteki enerji ihtiyaçlarımızı karşılamak için nükleer enerjiyi kullanmaya devam edeceksek, bu atıklarla başa çıkmanın daha sürdürülebilir yollarını bulmamız gerekecek.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
+            "date": "2026-03-18T10:03:08.913872",
+            "timestamp": 1773828188.913883
+        },
         {
             "title": "Çocukluk Stresi, Ömür Boyu Sindirim Sorunlarına Yol Açabilir",
             "original_title": "Scientists link childhood stress to lifelong digestive issues",
@@ -500,16 +510,6 @@
             "link": "https://neurosciencenews.com/alzheimers-diversity-markers-30307/",
             "date": "2026-03-12T21:42:05.965263",
             "timestamp": 1773351725.965273
-        },
-        {
-            "title": "Beyin Sapında Keşfedilen Gizli Yol: İnsan El Hareketlerinin Kontrolü",
-            "original_title": "Overlooked Brainstem Pathway Discovered to Control Human Hands",
-            "content": "Yeni araştırmalar, beyin sapında evrimsel olarak eski bir yolun, insanların ellerini nasıl kullandıklarının gizli anahtarı olduğunu ortaya koyuyor. Beyin sapı, sinir sistemi içerisinde merkezi bir rol oynar ve özellikle el hareketlerinin kontrolünde kritik bir öneme sahiptir. Bu çalışma, beyin sapındaki bu özel yolun, el becerilerinin gelişiminde ve günlük aktivitelerdeki rolünü daha iyi anlamamıza yardımcı olabilir.\n\nAraştırmacılar, bu keşfin nörolojik hastalıkların tedavisinde yeni yaklaşımlara kapı aralayabileceğine inanıyor. Parkinson hastalığı ve diğer motor bozukluklar gibi el hareketlerini etkileyen çeşitli durumlar için daha etkili tedavi yöntemleri geliştirilebilir.\n\nBu yeni bulgular, beyin sapının el hareketleri üzerindeki etkisinin daha önce düşünüldüğünden çok daha karmaşık ve önemli olduğunu gösteriyor. İnsanların el becerilerini daha iyi anlamak, hem tıp dünyasında hem de günlük yaşamda geniş kapsamlı etkiler yaratabilir.\n\nKaynak: Neuroscience News (2023). Overlooked Brainstem Pathway Discovered to Control Human Hands. https://neurosciencenews.com/brainstem-hand-movement-pathway-30306/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/brainstem-hand-movement-pathway-30306/",
-            "date": "2026-03-12T21:42:14.031501",
-            "timestamp": 1773351734.031509
         }
     ]
 }
