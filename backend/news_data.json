@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-19T09:55:59.037844",
+    "last_updated": "2026-03-19T13:25:25.126407",
     "daily_news": {
-        "title": "Gençlerde Esrar Kullanımı ve Şizofreni Riski: Yüzde 52 Artış",
-        "original_title": "Teenage Cannabis Use Linked to 52% Higher Schizophrenia Risk",
-        "content": "Yeni araştırmalar, gelişmekte olan beyin için kritik bir 'hassasiyet penceresi' olduğunu ortaya koyuyor. Esrar kullanım bozukluğu, gençlerde şizofreni ve depresyon riskini önemli ölçüde artırırken, bu eğilim yetişkinlerde dikkat çekici bir şekilde tersine dönüyor. Bu durum, yoğun esrar kullanımının ergenlik dönemindeki sinirsel olgunlaşmayı benzersiz bir şekilde bozabileceğini gösteriyor. Araştırma, gençlerin beyin gelişimi üzerinde esrar kullanımının potansiyel zararlarını vurgularken, yetişkinlerdeki etkilerin farklı olabileceği üzerinde duruyor.\n\nKaynak: Neuroscience News",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/cannabis-disorder-adolescent-psychosis-30337/",
-        "date": "2026-03-18T21:42:52.665567",
-        "timestamp": 1773870172.665577
+        "title": "Sağlık Alanında Çözüm Sunabilecek Kuantum Bilgisayarlara 5 Milyon Dolarlık Ödül",
+        "original_title": "A $5 million prize awaits proof that quantum computers can solve health care problems",
+        "content": "Birleşik Krallık'ın Oxford kentinin kıyısındaki Ulusal Kuantum Bilgi İşlem Merkezi'nde, atomlar ve ışıkla inşa edilmiş bir kuantum bilgisayarının önünde duruyorum. Bir laboratuvar masasının üzerinde, karmaşık bir ayna ve lens matrisi, dikkatle manipüle edilmiş bir Rubik Küpü büyüklüğündeki hücrede 100 sezyum atomunu kafes formasyonunda askıya alıyor. Bu tür kuantum bilgisayarlar, sağlık alanında mevcut problemlere yenilikçi çözümler getirme potansiyeline sahip olabilir. Bu nedenle, kuantum bilgisayarların sağlık sorunlarını çözme kabiliyetini kanıtlayabilen girişimler için 5 milyon dolarlık bir ödül sunuluyor. Bilim insanları ve araştırmacılar, bu teknoloji ile sağlık sektöründe devrim yaratabilecek yeni uygulamalar geliştirme fırsatına sahip olabilirler. Kuantum bilgisayarların, karmaşık biyolojik sistemleri simüle etme ve kişiselleştirilmiş tedavi yöntemleri geliştirme potansiyeli, sağlık alanında çığır açabilir. Bu yarışma, hem kuantum hesaplama alanındaki ilerlemeleri teşvik etmeyi hem de bu teknolojilerin sağlık sektöründeki uygulamalarını hızlandırmayı amaçlıyor.\n\nKaynak: MIT Technology Review",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
+        "date": "2026-03-19T13:25:24.837650",
+        "timestamp": 1773926724.837659
     },
     "news_list": [
+        {
+            "title": "Sağlıkta Kuantum Bilgisayarlarının Geleceği ve Nükleer Atık Geri Dönüşümündeki Engeller",
+            "original_title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
+            "content": "Bugünün teknoloji dünyasında dikkate değer bir gelişme, sağlık sorunlarının çözümünde kuantum bilgisayarların potansiyel kullanımına yönelik yarışmadır. Oxford'un dışında bir laboratuvarda, atomlar ve ışıkla inşa edilmiş bir kuantum bilgisayar, sağlık hizmetleri problemlerine çözüm bulabilme potansiyelini kanıtlamak için bekliyor. Bu alandaki çalışmaların teşvik edilmesi amacıyla 5 milyon dolarlık bir ödül ortaya konulmuş durumda. Kuantum bilgisayarların, sağlık hizmetlerinde devrim yaratabilecek kapasitede olduğu düşünülüyor. Ancak, bu teknolojilerin pratikte uygulanabilirliğini kanıtlamak büyük önem taşıyor.\n\nBunun yanı sıra, dünyadaki nükleer atıkların geri dönüştürülmesi konusundaki eksiklikler de dikkat çekiyor. Nükleer atıkların geri dönüşümü, hem çevresel hem de ekonomik açıdan önemli bir konu olmasına rağmen, bu alanda yeterince ilerleme kaydedilememiş durumda. Bu durumun ardında yatan nedenler arasında, teknolojik zorluklar, yüksek maliyetler ve politik engeller bulunuyor. Etkili bir geri dönüşüm süreci oluşturulması, bu engellerin aşılmasına bağlı.\n\nKaynak:\nMIT Technology Review, (2023). The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste. Erişim adresi: https://www.technologyreview.com/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
+            "date": "2026-03-19T13:25:18.952636",
+            "timestamp": 1773926718.952647
+        },
+        {
+            "title": "Sağlık Alanında Çözüm Sunabilecek Kuantum Bilgisayarlara 5 Milyon Dolarlık Ödül",
+            "original_title": "A $5 million prize awaits proof that quantum computers can solve health care problems",
+            "content": "Birleşik Krallık'ın Oxford kentinin kıyısındaki Ulusal Kuantum Bilgi İşlem Merkezi'nde, atomlar ve ışıkla inşa edilmiş bir kuantum bilgisayarının önünde duruyorum. Bir laboratuvar masasının üzerinde, karmaşık bir ayna ve lens matrisi, dikkatle manipüle edilmiş bir Rubik Küpü büyüklüğündeki hücrede 100 sezyum atomunu kafes formasyonunda askıya alıyor. Bu tür kuantum bilgisayarlar, sağlık alanında mevcut problemlere yenilikçi çözümler getirme potansiyeline sahip olabilir. Bu nedenle, kuantum bilgisayarların sağlık sorunlarını çözme kabiliyetini kanıtlayabilen girişimler için 5 milyon dolarlık bir ödül sunuluyor. Bilim insanları ve araştırmacılar, bu teknoloji ile sağlık sektöründe devrim yaratabilecek yeni uygulamalar geliştirme fırsatına sahip olabilirler. Kuantum bilgisayarların, karmaşık biyolojik sistemleri simüle etme ve kişiselleştirilmiş tedavi yöntemleri geliştirme potansiyeli, sağlık alanında çığır açabilir. Bu yarışma, hem kuantum hesaplama alanındaki ilerlemeleri teşvik etmeyi hem de bu teknolojilerin sağlık sektöründeki uygulamalarını hızlandırmayı amaçlıyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/19/1134409/a-5-million-prize-awaits-proof-that-quantum-computers-can-solve-health-care-problems/",
+            "date": "2026-03-19T13:25:24.837650",
+            "timestamp": 1773926724.837659
+        },
         {
             "title": "Gençlerde Esrar Kullanımı ve Şizofreni Riski: Yüzde 52 Artış",
             "original_title": "Teenage Cannabis Use Linked to 52% Higher Schizophrenia Risk",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/social-information-pain-expectations-30313/",
             "date": "2026-03-13T18:55:31.019559",
             "timestamp": 1773428131.019567
-        },
-        {
-            "title": "Bakteri 4D Simülasyonu ve Güvenli Gen Eklemeleri: Yeni Gelişmeler",
-            "original_title": "Bacteria 4D Simulation, Safer Large Gene Insertion, uniQure Roller Coaster",
-            "content": "Bu bölümde, <i>GEN</i>'in <i>Touching Base</i> programında editörler, bakterilerin modellenmesi, genom içine gen boyutunda DNA eklemek için yeni bir teknik, demans için kan biyomarkerları ve uniQure ile Moderna'dan gelen önemli haberleri tartışıyorlar.\n\nBu tartışmalardan ilki, bakterilerin dört boyutlu simülasyonları üzerine odaklanıyor. Bu tür simülasyonlar, araştırmacılara bakterilerin zaman içindeki davranışlarını ve çevresel değişimlere nasıl tepki verdiklerini inceleme fırsatı sunuyor. Bu teknoloji, özellikle mikrobiyal davranışların daha derinlemesine anlaşılması ve biyoteknoloji uygulamalarında kullanılabilecek yeni yaklaşımlar geliştirilmesi açısından büyük önem taşıyor.\n\nBir diğer önemli gelişme olarak, genom içine daha güvenli bir şekilde büyük gen boyutunda DNA eklenmesini sağlayan yeni bir teknik tanıtıldı. Bu yöntem, genetik mühendislik alanında daha hassas ve güvenli uygulamalar yapılmasına olanak tanıyor. Genom düzenleme tekniklerinde bu tür iyileştirmeler, tedavi süreçlerini daha etkili ve güvenli hale getirebilir.\n\nAyrıca, demans için kan biyomarkerları üzerine yapılan araştırmalar da tartışıldı. Bu biomarkerlar, demansın erken teşhisi ve tedavisinde devrim yaratabilecek potansiyele sahip. Erken teşhis sayesinde, hastalığın ilerlemesi yavaşlatılabilir ve hasta yaşam kalitesi önemli ölçüde artırılabilir.\n\nSon olarak, uniQure ve Moderna'dan gelen büyük haberler de değerlendirildi. Bu iki biyoteknoloji devi, gen terapisi ve mRNA teknolojilerinde kaydedilen ilerlemelerle dikkat çekiyor. Bu gelişmeler, gelecekteki tedavi yöntemlerinde köklü değişiklikler yapabilir ve sağlık alanında çığır açıcı sonuçlar doğurabilir.\n\nKaynak:\nGEN - Genetic Engineering and Biotechnology News. (tarih). Bacteria 4D Simulation, Safer Large Gene Insertion, uniQure Roller Coaster. https://www.genengnews.com/topics/genome-editing/bacteria-4d-simulation-safer-large-gene-insertion-uniqure-roller-coaster/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/genome-editing/bacteria-4d-simulation-safer-large-gene-insertion-uniqure-roller-coaster/",
-            "date": "2026-03-13T18:55:40.560091",
-            "timestamp": 1773428140.5601
-        },
-        {
-            "title": "Kortizol, Beynin İç Navigasyon Haritasını Bulandırıyor",
-            "original_title": "Cortisol Blurs the Brain’s Internal Navigation Map",
-            "content": "Yeni araştırmalar, stres hormonlarının beynin iç koordinat sistemini 'bulanıklaştırdığını' ortaya koyuyor. Bu bulgu, kortizolün Alzheimer'ın ilk etkilediği bölgeleri nasıl istikrarsızlaştırdığını gösteriyor. Kortizol, stres anlarında vücut tarafından salgılanan bir hormondur ve yüksek seviyelerde bu hormon, beynin hipokampus bölgesinde yer alan ve navigasyon becerilerinde önemli rol oynayan grid hücrelerini etkileyebilir. Grid hücreleri, beynin iç navigasyon sisteminde yer alan ve çevresel konumlandırmayı sağlayan bir hücre türüdür. Bu hücrelerin işlevi bozulduğunda, bireylerin yön bulma yeteneklerinde azalma ve mekansal bellek sorunları ortaya çıkabilir. Araştırmacılar, kortizolün etkisini anlamanın, Alzheimer gibi nörodejeneratif hastalıkların erken teşhis ve tedavisinde önemli bir adım olabileceğini belirtiyorlar. Bu buluş, stres yönetiminin ve kortizol seviyelerinin düzenli kontrolünün, beyin sağlığı açısından ne denli önemli olduğunu bir kez daha gözler önüne seriyor. \n\nKaynak: Neuroscience News (2023). Cortisol Blurs the Brain’s Internal Navigation Map. Erişim adresi: https://neurosciencenews.com/cortisol-navigation-grid-cells-30311/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/cortisol-navigation-grid-cells-30311/",
-            "date": "2026-03-13T15:52:35.910615",
-            "timestamp": 1773417155.910629
         }
     ]
 }
