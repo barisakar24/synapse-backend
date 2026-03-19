@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-19T16:02:19.325834",
+    "last_updated": "2026-03-19T19:10:17.973798",
     "daily_news": {
-        "title": "Sağlıkta Kuantum Bilgisayarlarının Geleceği ve Nükleer Atık Geri Dönüşümündeki Engeller",
-        "original_title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
-        "content": "Bugünün teknoloji dünyasında dikkate değer bir gelişme, sağlık sorunlarının çözümünde kuantum bilgisayarların potansiyel kullanımına yönelik yarışmadır. Oxford'un dışında bir laboratuvarda, atomlar ve ışıkla inşa edilmiş bir kuantum bilgisayar, sağlık hizmetleri problemlerine çözüm bulabilme potansiyelini kanıtlamak için bekliyor. Bu alandaki çalışmaların teşvik edilmesi amacıyla 5 milyon dolarlık bir ödül ortaya konulmuş durumda. Kuantum bilgisayarların, sağlık hizmetlerinde devrim yaratabilecek kapasitede olduğu düşünülüyor. Ancak, bu teknolojilerin pratikte uygulanabilirliğini kanıtlamak büyük önem taşıyor.\n\nBunun yanı sıra, dünyadaki nükleer atıkların geri dönüştürülmesi konusundaki eksiklikler de dikkat çekiyor. Nükleer atıkların geri dönüşümü, hem çevresel hem de ekonomik açıdan önemli bir konu olmasına rağmen, bu alanda yeterince ilerleme kaydedilememiş durumda. Bu durumun ardında yatan nedenler arasında, teknolojik zorluklar, yüksek maliyetler ve politik engeller bulunuyor. Etkili bir geri dönüşüm süreci oluşturulması, bu engellerin aşılmasına bağlı.\n\nKaynak:\nMIT Technology Review, (2023). The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste. Erişim adresi: https://www.technologyreview.com/",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
-        "date": "2026-03-19T13:25:18.952636",
-        "timestamp": 1773926718.952647
+        "title": "Kronik Ağrı ve Depresyon Arasındaki Bağ: Hippokampüsün Rolü",
+        "original_title": "Why Chronic Pain Leads to Depression",
+        "content": "Yeni araştırmalar, hippokampüsün kronik ağrı için bir kontrol merkezi olarak görev yaptığını ve belirli bir 'enflamatuar anahtar'ın kimin depresyon geliştireceğini belirlediğini ortaya koyuyor. Kronik ağrı çeken bireyler, sadece fiziksel rahatsızlıkla değil, aynı zamanda duygusal sıkıntılarla da mücadele etmek zorunda kalabilirler. Araştırmacılar, kronik ağrının beyindeki bazı bölgelerde iltihaplanmaya yol açabileceğini ve bunun da depresyona yol açabileceğini belirtiyor. Bu çalışma, depresyon geliştirme riskini azaltmak için potansiyel yeni tedavi yöntemlerinin geliştirilmesine kapı aralayabilir.\n\nKaynak: Neuroscience News. (2023). Why Chronic Pain Leads to Depression. Erişim adresi: https://neurosciencenews.com/chronic-pain-depression-hippocampus-30343/",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/chronic-pain-depression-hippocampus-30343/",
+        "date": "2026-03-19T19:10:09.203677",
+        "timestamp": 1773947409.203685
     },
     "news_list": [
+        {
+            "title": "Kronik Ağrı ve Depresyon Arasındaki Bağ: Hippokampüsün Rolü",
+            "original_title": "Why Chronic Pain Leads to Depression",
+            "content": "Yeni araştırmalar, hippokampüsün kronik ağrı için bir kontrol merkezi olarak görev yaptığını ve belirli bir 'enflamatuar anahtar'ın kimin depresyon geliştireceğini belirlediğini ortaya koyuyor. Kronik ağrı çeken bireyler, sadece fiziksel rahatsızlıkla değil, aynı zamanda duygusal sıkıntılarla da mücadele etmek zorunda kalabilirler. Araştırmacılar, kronik ağrının beyindeki bazı bölgelerde iltihaplanmaya yol açabileceğini ve bunun da depresyona yol açabileceğini belirtiyor. Bu çalışma, depresyon geliştirme riskini azaltmak için potansiyel yeni tedavi yöntemlerinin geliştirilmesine kapı aralayabilir.\n\nKaynak: Neuroscience News. (2023). Why Chronic Pain Leads to Depression. Erişim adresi: https://neurosciencenews.com/chronic-pain-depression-hippocampus-30343/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/chronic-pain-depression-hippocampus-30343/",
+            "date": "2026-03-19T19:10:09.203677",
+            "timestamp": 1773947409.203685
+        },
+        {
+            "title": "Beyin ve Cilt Arasındaki Bağlantı: Stres Egzamayı Nasıl Tetikliyor?",
+            "original_title": "Stress-Skin Axis: How the Brain Triggers Eczema Flares",
+            "content": "Bilim insanları, psikolojik stresin fiziksel cilt iltihabına nasıl dönüştüğünü gösteren özel sinir hücrelerini keşfetti. Bu buluş, egzama tedavisi için yeni bir hedef sunuyor. Egzama, ciltte kızarıklık, kaşıntı ve iltihaplanmaya neden olan yaygın bir cilt rahatsızlığıdır. Stresin bu durumu nasıl kötüleştirdiği uzun zamandır bilinmesine rağmen, bu bağlantının sinirsel yolları tam olarak anlaşılamamıştı.\n\nYapılan son araştırmalarda, belirli sinir hücrelerinin psikolojik stres sinyallerini alarak ciltteki bağışıklık hücrelerini harekete geçirdiği saptandı. Bu süreç, ciltte iltihaplanmaya ve egzama belirtilerinin kötüleşmesine neden oluyor. Bu buluş, bilim insanlarına stres kaynaklı cilt rahatsızlıklarının tedavisinde yeni stratejiler geliştirme fırsatı sunuyor.\n\nAraştırma, stres yönetiminin ve psikolojik sağlığın cilt sağlığı üzerindeki etkilerini daha iyi anlama yolunda önemli bir adım olarak değerlendiriliyor. Gelecekte, bu tür araştırmaların, stresin neden olduğu cilt rahatsızlıkları için daha etkili tedavi yöntemlerine yol açabileceği umuluyor.\n\nKaynak: Neuroscience News",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/stress-eczema-neural-pathway-30342/",
+            "date": "2026-03-19T19:10:16.941615",
+            "timestamp": 1773947416.94162
+        },
         {
             "title": "Sağlıkta Kuantum Bilgisayarlarının Geleceği ve Nükleer Atık Geri Dönüşümündeki Engeller",
             "original_title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/drug-discovery/creating-computer-models-of-lungs-liver-and-kidneys-to-better-understand-disease-progression/",
             "date": "2026-03-13T21:41:54.023904",
             "timestamp": 1773438114.023912
-        },
-        {
-            "title": "Hiperuyarılma Spektrumu: Yedi Farklı Gerginlik Türü Belirlendi",
-            "original_title": "Spectrum of Hyperarousal: Seven Distinct Types of Tension Identified",
-            "content": "Bilim insanları, zihinsel bozuklukların altında yatan gerginliklerin tedavisi için yeni bir yol haritası oluşturarak, yedi belirli hiperuyarılma türünü tanımladılar. Araştırma, zihinsel sağlık sorunlarının farklı gerginlik türleriyle nasıl bağlantılı olabileceğine dair yeni anlayışlar sunuyor.\n\nHiperuyarılma, genellikle anksiyete, stres ve diğer zihinsel sağlık problemleriyle ilişkilendirilen bir durumdur. Bu yeni çalışmada, bilim insanları hiperuyarılmanın sadece tek bir durum olmadığını, aksine farklı nedenlerle ortaya çıkabilen çeşitli alt türleri olduğunu keşfettiler. Bu keşif, her bir türün farklı tedavi yaklaşımları gerektirebileceğini öne sürüyor.\n\nAraştırmacılar, bu yedi farklı hiperuyarılma türünü belirleyerek, hangi durumların hangi tür gerginlikle ilişkili olduğunu daha iyi anlamayı hedefliyorlar. Bu yeni sınıflandırma, hem tanı süreçlerinde hem de tedavi planlamalarında daha kişiselleştirilmiş yaklaşımlar geliştirilmesine olanak tanıyabilir.\n\nBu çalışma, zihinsel sağlık alanında devrim niteliğinde bir adım olarak değerlendiriliyor. Gerginlik türlerinin daha iyi anlaşılması, hem klinik tedavi süreçlerinde hem de bireylerin kendi sağlıklarını yönetmelerinde büyük faydalar sağlayabilir.\n\nAPA Kaynağı: Neuroscience News. (2023). Spectrum of Hyperarousal: Seven Distinct Types of Tension Identified. https://neurosciencenews.com/seven-types-hyperarousal-30314/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/seven-types-hyperarousal-30314/",
-            "date": "2026-03-13T18:55:22.279717",
-            "timestamp": 1773428122.279729
-        },
-        {
-            "title": "Başkalarının Görüşleri Fiziksel Acınızı Nasıl Şekillendirir?",
-            "original_title": "How Others’ Opinions Sculpt Your Physical Pain",
-            "content": "Yeni bir çalışma, sosyal 'önerilerin' acı için bir ses düğmesi gibi nasıl hareket ettiğini ve olumsuz deneyimlerin kalıcı hale gelmesine neden olan geri bildirim döngüleri yarattığını ortaya koyuyor. \n\nAraştırmacılar, sosyal çevremizden gelen bilgilerin fiziksel acı deneyimlerimizi nasıl etkilediğini inceledi. Çalışma, başkalarının acı seviyeleri hakkındaki yorumlarının bizim kendi acı algımızı nasıl değiştirebileceğini gösteriyor. Örneğin, bir kişi belirli bir yaralanma veya hastalık hakkında daha fazla acı çektiğini belirttiğinde, çevresindeki kişilerin de aynı durumu daha acı verici olarak algılayabileceği bulunmuştur.\n\nBu fenomen, sosyal ve psikolojik etmenlerin fiziksel acı üzerindeki etkisini anlamak adına önemli bir adım olarak değerlendiriliyor. Araştırmacılar, sosyal etkileşimlerin ve bilginin, acı algımızı şekillendirmede oynadığı rolü daha iyi anlamak için daha fazla çalışma yapılması gerektiğini öneriyorlar.\n\nAPA formatında kaynak:\nNeuroscience News. (2023). How Others’ Opinions Sculpt Your Physical Pain. Erişim adresi: https://neurosciencenews.com/social-information-pain-expectations-30313/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/social-information-pain-expectations-30313/",
-            "date": "2026-03-13T18:55:31.019559",
-            "timestamp": 1773428131.019567
         }
     ]
 }
