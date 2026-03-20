@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-03-20T19:02:02.608951",
+    "last_updated": "2026-03-20T21:38:34.576725",
     "daily_news": {
-        "title": "Ohio'da Yeni Hayat Bilimleri Eğitim Merkezi New Albany'de Kurulacak",
-        "original_title": "Ohio Life Science Training Center to Be Based in New Albany International Business Park",
-        "content": "Ohio Hayat Bilimleri Eğitim Merkezi, giriş seviyesindeki istihdamla uyumlu programlara odaklanacak ve mevcut İyi Üretim Uygulamaları (cGMP), bağlamsal üretim temelleri ve laboratuvar becerilerini içerecektir. Bu merkez, New Albany Uluslararası İş Parkı'nda kurulacak ve biyoproses alanında kariyer yapmak isteyenler için önemli bir fırsat sunacaktır. \n\nEğitim merkezi, öğrencilere biyoteknoloji ve ilaç endüstrilerinde başarı için gerekli olan temel becerileri kazandırmayı hedeflemektedir. cGMP eğitimi, ürünlerin güvenli ve etkili bir şekilde üretilmesini sağlamak için gerekli olan standartları öğretirken, üretim temelleri ve laboratuvar becerileri, katılımcıların üretim sürecine ve laboratuvar ortamlarına daha iyi uyum sağlamalarına yardımcı olacaktır.\n\nBu merkez, Ohio'daki bilim ve teknoloji eğitiminde önemli bir adım olarak görülüyor ve bölgedeki iş gücü gelişimine katkıda bulunması bekleniyor. Eğitim programları, katılımcılara pratik deneyimler sunarak onların sektördeki rekabet edebilirliklerini artırmayı amaçlamaktadır.\n\nKaynakça: GEN - Genetic Engineering and Biotechnology News. (tarih yok). Ohio Life Science Training Center to Be Based in New Albany International Business Park. Erişim adresi: https://www.genengnews.com/topics/bioprocessing/ohio-life-science-training-center-to-be-based-in-new-albany-international-business-park/",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/bioprocessing/ohio-life-science-training-center-to-be-based-in-new-albany-international-business-park/",
-        "date": "2026-03-20T19:02:02.608913",
-        "timestamp": 1774033322.608921
+        "title": "LazySlide: Bütün Slayt ve Moleküler Verileri Entegre Etmek İçin Açık Çerçeve",
+        "original_title": "LazySlide: Open Framework for Integrating Whole-Slide and Molecular Data",
+        "content": "LazySlide, tüm slayt görüntü analizini daha erişilebilir hale getirmek ve modern genomik süreçleri yönlendiren mevcut hesaplamalı iş akışlarına entegre edilebilir hale getirmek için tasarlanmış açık kaynaklı bir Python paketidir. Bu araç, biyoinformatik alanında çalışan araştırmacılar ve bilim insanları için büyük bir yenilik sunuyor. \n\nLazySlide, genomik verilerle bütün slayt görüntülerini birleştirerek, biyolojik araştırmaların doğruluğunu ve etkinliğini artırmayı hedefliyor. Bu entegrasyon, araştırmacıların hem moleküler hem de görsel verileri bir arada analiz etmelerine olanak tanıyor. \n\nPython tabanlı bu paket, kullanıcı dostu bir arayüz sunarak karmaşık veri setleriyle çalışmayı kolaylaştırıyor ve biyoinformatik projelerinde daha derinlemesine analiz imkanı tanıyor. LazySlide ile bilim insanları, görüntü verilerini genomik verilerle bir araya getirerek daha kapsamlı ve detaylı sonuçlar elde edebilirler.\n\nBu yenilikçi araç, özellikle patoloji ve kanser araştırmaları gibi alanlarda büyük potansiyel taşıyor. Araştırmacılar, LazySlide sayesinde tüm slayt görüntülerini ve moleküler verileri entegre ederek daha anlamlı biyolojik sonuçlar elde edebilirler. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/artificial-intelligence/lazyslide-open-framework-for-integrating-whole-slide-and-molecular-data/",
+        "date": "2026-03-20T21:38:34.576678",
+        "timestamp": 1774042714.576687
     },
     "news_list": [
+        {
+            "title": "Mali Çöküş Beyin Yaşlanmasını Hızlandırıyor",
+            "original_title": "Financial Decline Accelerates Brain Aging",
+            "content": "Araştırmacılar, ciddi mali gerileme yaşayan yetişkinlerin her yıl fazladan beş aylık yaşlanmaya eşdeğer hafıza kaybı yaşadıklarını buldular. Bu çalışma, mali durumdaki ani ve olumsuz değişikliklerin, bireylerin bilişsel sağlıkları üzerinde önemli etkileri olabileceğini gösteriyor. \n\nAraştırmanın bulgularına göre, finansal zorluklar bireylerin zihinsel işlevlerinde hızlanmış bir yaşlanma sürecine neden olabilir. Bu durum, ekonomik sıkıntıların sadece maddi değil, aynı zamanda bilişsel sağlık üzerinde de ciddi etkiler yaratabileceğini ortaya koyuyor. \n\nBulgular, mali istikrarsızlık yaşayan kişilerin, yaşlanma sürecinde normalde beklenenden daha hızlı bir şekilde bilişsel gerileme yaşayabileceğini belirtiyor. Araştırmanın sonuçları, mali durumdaki dalgalanmaların uzun vadeli sağlık üzerinde nasıl etkiler yaratabileceğine dair önemli ipuçları sunuyor.\n\nAPA Kaynağı: Neuroscience News. (2023). Financial Decline Accelerates Brain Aging. https://neurosciencenews.com/financial-decline-cognitive-aging-30358/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/financial-decline-cognitive-aging-30358/",
+            "date": "2026-03-20T21:38:18.399188",
+            "timestamp": 1774042698.399202
+        },
+        {
+            "title": "Köpek Melezlemesi ve Anksiyete Arasındaki Bağ Keşfedildi",
+            "original_title": "New Study Links Crossbreeding to Dog Anxiety",
+            "content": "Yeni bir araştırma, Cockapoo, Cavapoo ve Labradoodle gibi melez köpeklerin, onları oluşturan safkan köpeklere kıyasla daha fazla saldırganlık, korku ve heyecan gösterdiğini ortaya koydu. Araştırma, 9.000'den fazla köpek üzerinde yapılan gözlemler sonucunda, melez köpeklerin davranışsal sorunlar yaşama eğiliminde olduğunu belirtti. Uzmanlar, bu durumun genetik faktörler ve yetiştirme yöntemleriyle ilgili olabileceğini düşünüyor. Melez köpek sahipleri için, köpeklerin eğitim ve sosyalleşme süreçlerine dikkat edilmesi gerektiği vurgulandı. Bu bulgular, köpek sahiplerini ve yetiştiricileri melez köpeklerin psikolojik sağlıklarına daha fazla önem vermeye teşvik ediyor.\n\nKaynak: Neuroscience News. (2023). New Study Links Crossbreeding to Dog Anxiety. Erişim adresi: https://neurosciencenews.com/dog-crossbreed-anxiety-30357/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/dog-crossbreed-anxiety-30357/",
+            "date": "2026-03-20T21:38:22.416024",
+            "timestamp": 1774042702.416032
+        },
+        {
+            "title": "Mühendislik Ürünü Yemek Borusu: Domuz Modellerinde Kayıp Organ Segmentini Yeniden İnşa Ediyor",
+            "original_title": "Engineered Esophagus Rebuilds Missing Organ Segment in Pig Models",
+            "content": "Donör domuzlardan laboratuvar ortamında geliştirilen bir yemek borusu, hayvan modellerinde eksik bir segmenti başarıyla değiştirerek yutkunmayı yeniden sağladı. Bu durum, uzun boşluklu yemek borusu atrezisi ile doğan çocuklara nasıl yardımcı olabileceğini gösteren erken kanıtlar sunuyor. \n\nGenetik Mühendislik ve Biyoteknoloji Haberleri'nde yayımlanan bu araştırma, rejeneratif tıbbın potansiyelini ortaya koyuyor. Yemek borusu atrezisi, yemek borusunun bir kısmının eksik olduğu doğumsal bir durum olup, ciddi sağlık sorunlarına yol açabiliyor. Geleneksel cerrahi yöntemler, bu eksik segmenti onarmak için yeterli olmayabilirken, mühendislik ürünü bu yeni yaklaşım, doğal işlevin geri kazanılmasına olanak tanıyor.\n\nAraştırma ekibi, yemek borusu dokusunu laboratuvar ortamında geliştirip, domuz modellerine naklederek bu yenilikçi yöntemi test etti. Sonuçlar, nakledilen dokunun başarılı bir şekilde entegre olduğunu ve yutkunma fonksiyonunu geri kazandırdığını gösterdi. Bu gelişme, gelecekte insan uygulamaları için umut vadeden bir adım olarak değerlendiriliyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (2023). Engineered Esophagus Rebuilds Missing Organ Segment in Pig Models. https://www.genengnews.com/topics/translational-medicine/engineered-esophagus-rebuilds-missing-organ-segment-in-pig-models/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/engineered-esophagus-rebuilds-missing-organ-segment-in-pig-models/",
+            "date": "2026-03-20T21:38:29.152373",
+            "timestamp": 1774042709.152382
+        },
+        {
+            "title": "LazySlide: Bütün Slayt ve Moleküler Verileri Entegre Etmek İçin Açık Çerçeve",
+            "original_title": "LazySlide: Open Framework for Integrating Whole-Slide and Molecular Data",
+            "content": "LazySlide, tüm slayt görüntü analizini daha erişilebilir hale getirmek ve modern genomik süreçleri yönlendiren mevcut hesaplamalı iş akışlarına entegre edilebilir hale getirmek için tasarlanmış açık kaynaklı bir Python paketidir. Bu araç, biyoinformatik alanında çalışan araştırmacılar ve bilim insanları için büyük bir yenilik sunuyor. \n\nLazySlide, genomik verilerle bütün slayt görüntülerini birleştirerek, biyolojik araştırmaların doğruluğunu ve etkinliğini artırmayı hedefliyor. Bu entegrasyon, araştırmacıların hem moleküler hem de görsel verileri bir arada analiz etmelerine olanak tanıyor. \n\nPython tabanlı bu paket, kullanıcı dostu bir arayüz sunarak karmaşık veri setleriyle çalışmayı kolaylaştırıyor ve biyoinformatik projelerinde daha derinlemesine analiz imkanı tanıyor. LazySlide ile bilim insanları, görüntü verilerini genomik verilerle bir araya getirerek daha kapsamlı ve detaylı sonuçlar elde edebilirler.\n\nBu yenilikçi araç, özellikle patoloji ve kanser araştırmaları gibi alanlarda büyük potansiyel taşıyor. Araştırmacılar, LazySlide sayesinde tüm slayt görüntülerini ve moleküler verileri entegre ederek daha anlamlı biyolojik sonuçlar elde edebilirler. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/artificial-intelligence/lazyslide-open-framework-for-integrating-whole-slide-and-molecular-data/",
+            "date": "2026-03-20T21:38:34.576678",
+            "timestamp": 1774042714.576687
+        },
         {
             "title": "RNA Geri Dönüşümü Ömrü Uzatıyor",
             "original_title": "RNA Recycling Extends Lifespan",
@@ -470,46 +510,6 @@
             "link": "https://www.genengnews.com/multimedia/webinars/mapping-biological-complexity-with-integrated-spatial-multiomics/",
             "date": "2026-03-17T13:43:23.178096",
             "timestamp": 1773755003.178102
-        },
-        {
-            "title": "Geliştirilmiş LNP'ler ile mRNA Aşılarının Etkinliği Artırılıyor, Yan Etkiler Azaltılıyor",
-            "original_title": "Engineered LNPs Enhance mRNA Vaccine Efficacy, Reduce Side Effects",
-            "content": "Lipit nanopartiküller (LNP'ler), çapraz bağlı iyonize lipitlerle mühendislik edilerek mRNA aşılarının etkinliğini artırmakta ve yan etkilerini azaltmaktadır. Araştırmalar, bu yenilikçi LNP'lerin dendritik hücre metabolizmasını güçlendirdiğini, mRNA aşılarının lenf düğümlerine daha etkili bir şekilde teslimatını sağladığını ve insan hücreleri ile fare modellerinde sistemik inflamasyonu ve yan etkileri azalttığını göstermektedir.\n\nmRNA aşıları, bağışıklık sistemine virüs proteinlerini kodlayan genetik talimatlar sağlayarak çalışır. Ancak, bu genetik materyalin hücrelere etkili bir şekilde iletilmesi ve yan etkilerin en aza indirilmesi için uygun taşıyıcı sistemlere ihtiyaç vardır. Bu noktada, lipid nanopartiküller kritik bir rol oynar.\n\nAraştırmacılar, çapraz bağlı iyonize lipitlerle geliştirilmiş LNP'lerin, mRNA'nın hücrelere daha etkili bir şekilde girişini sağladığını ve bağışıklık tepkisini artırarak aşı etkinliğini yükselttiğini belirtmektedir. Ayrıca, bu yeni tasarımın sistemik inflamasyonu azaltarak yan etki profilini iyileştirdiği gözlemlenmiştir.\n\nBu yenilikçi yaklaşım, gelecekteki mRNA bazlı terapötik uygulamaların daha güvenli ve etkili olmasına önemli katkılar sağlayabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/drug-discovery/engineered-lnps-enhance-mrna-vaccine-efficacy-reduce-side-effects/)",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/drug-discovery/engineered-lnps-enhance-mrna-vaccine-efficacy-reduce-side-effects/",
-            "date": "2026-03-17T13:43:30.253186",
-            "timestamp": 1773755010.253192
-        },
-        {
-            "title": "Parkinson Riskini İkiye Katlayan Pestisit!",
-            "original_title": "Common pesticide may more than double Parkinson’s disease risk",
-            "content": "Yeni bir UCLA Sağlık çalışması, pestisit klorpirifos'a uzun süreli maruz kalmanın Parkinson hastalığı riskini önemli ölçüde artırabileceğini öne sürüyor. Araştırmacılar, bu kimyasala sürekli maruz kalan bölgelerde yaşayan kişilerin, Parkinson hastalığı geliştirme olasılığının 2,5 kat daha fazla olduğunu buldular. Laboratuvar deneyleri de bu bulguyu güçlendirdi: Kimyasala maruz kalan hayvanlar hareket sorunları geliştirdi, dopamin üreten nöronlarını kaybetti ve Parkinson hastalarında görülen aynı toksik protein birikimini gösterdi.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260315225125.htm",
-            "date": "2026-03-17T02:48:33.416774",
-            "timestamp": 1773715713.416785
-        },
-        {
-            "title": "Kalabalıkta Sesleri Ayırt Etmenin Anahtarı: Beynin Güçlü Ses Konumlandırma Yeteneği",
-            "original_title": "Cocktail Party Problem Decoded: Sound Location Is Key to Hearing in a Crowd",
-            "content": "Araştırmacılar, beynin kalabalık bir ortamda, yani kokteyl partisi senaryosunda, farklı sesleri nasıl ayırt ettiğini anlamak için hesaplamalı modeller kullanarak önemli bir keşif yaptı. Bu senaryo, birçok kişinin aynı anda konuştuğu bir ortamı ifade eder ve beynin hangi sesleri dinlemesi gerektiğini seçebilmesi, bilim insanları için uzun zamandır çözülemeyen bir problem olmuştur.\n\nYeni araştırmalar, beynin bu problemi çözmek için basit ama etkili bir nöral 'güçlendirme' mekanizması kullandığını ortaya koyuyor. Bu mekanizma, seslerin mekansal konumlandırmalarını temel alarak, hangi sesin daha önemli olduğunu belirleyip dinleyiciye odaklanma yeteneği kazandırıyor. Araştırmacılar, bu sürecin karmaşık hesaplamalı modeller aracılığıyla simüle edilerek, beynin sesleri ayırt etme yeteneğinin nasıl çalıştığını daha iyi anladıklarını belirtiyorlar.\n\nBu bulgular, özellikle işitme cihazlarının ve diğer işitme destek teknolojilerinin geliştirilmesinde büyük bir potansiyele sahip. Beynin sesleri ayırt etme mekanizmasını daha iyi anlayarak, bu teknolojilerde seslerin daha doğal ve anlaşılır bir şekilde iletilmesi sağlanabilir. Ayrıca, bu tür araştırmalar, işitme kaybı yaşayan bireylerin yaşam kalitesini artırma potansiyeline de sahiptir.\n\nKaynak: Neuroscience News (2023). Cocktail Party Problem Decoded: Sound Location Is Key to Hearing in a Crowd. Retrieved from https://neurosciencenews.com/cocktail-party-problem-attention-30327/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/cocktail-party-problem-attention-30327/",
-            "date": "2026-03-16T21:50:17.372403",
-            "timestamp": 1773697817.372416
-        },
-        {
-            "title": "Korkunun Sesi: Beyinde 'Korkutucu' Sesler İçin Doğrudan Kısayol Keşfedildi",
-            "original_title": "Sound of Fear: A Direct Brain Shortcut for “Scary” Noises",
-            "content": "Yeni bir çalışma, insan beyninin 'korkutucu' sesleri işleyip yanıtlamasını sağlayan işitsel bir kısayolu ortaya koyuyor. Bu kısayol sayesinde, bu tür sesleri duyduğumuzun farkına varmadan önce beyinde bir tepki oluşuyor.\n\nAraştırmacılar, bu işitsel kısayolun, tehlikeli veya tehdit edici seslere hızlı bir şekilde tepki verebilmemiz için evrimsel bir avantaj sağladığını belirtiyor. Bu süreç, beynin belirli bölgeleri arasında hızlı ve doğrudan bir bağlantı kurarak işliyor. Özellikle amigdala adı verilen bölgenin bu süreçte kritik bir rol oynadığı keşfedildi.\n\nAmigdala, duygusal tepkilerin ve korku yanıtlarının düzenlenmesinde önemli bir beyin bölgesidir. Bu araştırma, amigdalanın korkutucu sesleri algıladıktan sonra beynin diğer bölgelerine sinyal göndererek vücudu potansiyel bir tehdide karşı hazırladığını gösteriyor.\n\nBu bulgular, özellikle anksiyete bozuklukları gibi durumların tedavisinde yeni yaklaşımlar geliştirilmesine katkı sağlayabilir. Araştırmacılar, bu tür seslerin beyinde nasıl işlendiğini daha iyi anlayarak, bu süreçleri hedef alan terapötik müdahaleler geliştirmeyi amaçlıyor.\n\nKaynakça:\nAPA: Neuroscience News. (2023). Sound of Fear: A Direct Brain Shortcut for “Scary” Noises. Erişim adresi: https://neurosciencenews.com/auditory-fear-pathway-human-brain-30326/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/auditory-fear-pathway-human-brain-30326/",
-            "date": "2026-03-16T21:50:23.503261",
-            "timestamp": 1773697823.503271
         }
     ]
 }
