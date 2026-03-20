@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-03-20T09:54:06.325272",
+    "last_updated": "2026-03-20T13:18:28.348793",
     "daily_news": {
-        "title": "Zihin Değiştiren Maddeler Klinik Denemelerde Hâlâ Bekleneni Vermiyor",
-        "original_title": "Mind-altering substances are (still) falling short in clinical trials",
-        "content": "Bu hafta, karşı kültürden çıkıp klinik araştırmaların ana odağı haline gelen zihin değiştiren maddeler olan psikedeliklerin konumunu incelemek istiyorum. Sihirli mantarlarda bulunan psilosibin gibi bileşikler, depresyon, travma sonrası stres bozukluğu (TSSB), bağımlılık ve hatta obezite gibi sağlık sorunlarının tedavileri için araştırılmaktadır. Ancak, tüm bu potansiyel uygulamalara rağmen, bu maddeler hala klinik denemelerde beklenen sonuçları verememektedir. Bu maddelerin potansiyel faydaları büyük bir ilgi toplasa da, bilimsel kesinlik ve tutarlılık sağlamada karşılaştıkları zorluklar nedeniyle klinik uygulamaların bir parçası haline gelmeleri için daha fazla araştırmaya ihtiyaç vardır.\n\nPsikedeliklerin klinik kullanımı, birçok bilim insanı ve araştırmacının ilgisini çekmekte ve bu konuda çok sayıda çalışma yürütülmektedir. Ancak, bu maddelerin karmaşık yapısı ve insan zihni üzerindeki etkileri nedeniyle, klinik denemelerde elde edilen sonuçlar genellikle tutarsız ve öngörülemez olabilmektedir. Bu da, psikedeliklerin sağlık alanında geniş çapta kabul görmelerinin önünde önemli bir engel oluşturmaktadır.\n\nÖzellikle, depresyon ve anksiyete gibi ruh sağlığı sorunlarının tedavisinde psikedeliklerin potansiyel rolü üzerine yoğun araştırmalar yapılmaktadır. Ancak, bu maddelerin uzun vadeli etkileri ve güvenliği konusundaki belirsizlikler, bu alandaki ilerlemeyi yavaşlatmaktadır. Klinisyenler, bu maddelerin terapötik potansiyelini tam olarak anlama ve güvenli bir şekilde uygulama konusunda dikkatli olmalıdır.\n\nSonuç olarak, psikedelikler, klinik araştırmaların önemli bir parçası olmaya devam etmektedir, ancak bu maddelerin klinik uygulamalarında daha ileriye gitmek için daha fazla bilimsel veriye ihtiyaç duyulmaktadır. Psikedeliklerin geleceği, bu alanda yapılacak kapsamlı ve titiz araştırmaların sonuçlarına bağlı olacaktır.",
+        "title": "Yapılan Dev Araştırma: Esrar, Anksiyete ve Depresyona İyi Gelmiyor",
+        "original_title": "Huge study finds no evidence cannabis helps anxiety, depression, or PTSD",
+        "content": "En geniş kapsamlı tıbbi esrar incelemesi, esrarın anksiyete, depresyon veya TSSB'yi etkili bir şekilde tedavi etmediğini ortaya koydu. Milyonlarca kişi bu nedenlerle esrar kullanmasına rağmen, araştırmacılar bunun zihinsel sağlığı daha da kötüleştirebileceği konusunda uyarıda bulunuyor. Psikoz ve bağımlılık gibi riskleri artırırken, kanıtlanmış tedavilerin gecikmesine neden olabilir. Uykusuzluk ve otizm gibi durumlar için bazı sınırlı faydalar görülse de, bu konudaki kanıtlar zayıf. Bu bulgular, esrar kullanımının artmaya devam etmesiyle birlikte daha sıkı denetim çağrılarını körüklüyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
         "category": "Psikoloji",
         "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
-        "date": "2026-03-20T09:54:06.064481",
-        "timestamp": 1774000446.064493
+        "link": "https://www.sciencedaily.com/releases/2026/03/260319044656.htm",
+        "date": "2026-03-20T13:18:17.430389",
+        "timestamp": 1774012697.430397
     },
     "news_list": [
+        {
+            "title": "Gözlerinizi Kapatmak Duyma Yetinizi Zayıflatabilir",
+            "original_title": "Closing your eyes to hear better might be a big mistake",
+            "content": "Birçok insan, gözlerini kapatmanın işitme duyusunu keskinleştirdiğine inanır, ancak bu her zaman doğru değildir. Gürültülü ortamlarda, katılımcılar gözleri kapalıyken zayıf sesleri duymakta daha fazla zorlanırken, eşleşen görseller işitmelerini kolaylaştırdı. Araştırmacılar, gözlerin kapatılmasının beynin gelen sesleri aşırı filtrelemesine yol açtığını buldular. Gözlerinizi açık tutmak, gürültülü ortamlarda ne kadar iyi duyduğunuzu gerçekten artırabilir.\n\nKaynakça: Mind & Brain News -- ScienceDaily. (2023). Closing your eyes to hear better might be a big mistake. ScienceDaily.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260320073819.htm",
+            "date": "2026-03-20T13:18:13.632511",
+            "timestamp": 1774012693.632521
+        },
+        {
+            "title": "Yapılan Dev Araştırma: Esrar, Anksiyete ve Depresyona İyi Gelmiyor",
+            "original_title": "Huge study finds no evidence cannabis helps anxiety, depression, or PTSD",
+            "content": "En geniş kapsamlı tıbbi esrar incelemesi, esrarın anksiyete, depresyon veya TSSB'yi etkili bir şekilde tedavi etmediğini ortaya koydu. Milyonlarca kişi bu nedenlerle esrar kullanmasına rağmen, araştırmacılar bunun zihinsel sağlığı daha da kötüleştirebileceği konusunda uyarıda bulunuyor. Psikoz ve bağımlılık gibi riskleri artırırken, kanıtlanmış tedavilerin gecikmesine neden olabilir. Uykusuzluk ve otizm gibi durumlar için bazı sınırlı faydalar görülse de, bu konudaki kanıtlar zayıf. Bu bulgular, esrar kullanımının artmaya devam etmesiyle birlikte daha sıkı denetim çağrılarını körüklüyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Psikoloji",
+            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260319044656.htm",
+            "date": "2026-03-20T13:18:17.430389",
+            "timestamp": 1774012697.430397
+        },
+        {
+            "title": "OpenAI, Tamamen Otomatik Araştırmacı İçin Bütün Kaynaklarını Seferber Ediyor",
+            "original_title": "OpenAI is throwing everything into building a fully automated researcher",
+            "content": "OpenAI, araştırma çabalarını yeniden odaklıyor ve kaynaklarını yeni bir büyük meydan okumaya yönlendiriyor. San Francisco merkezli firma, 'AI araştırmacısı' adını verdiği, tamamen otomatik, ajan tabanlı bir sistem inşa etmeye odaklanmış durumda. Bu sistem, büyük ve karmaşık problemleri kendi başına ele alabilecek kapasitede olacak. OpenAI, bu yeni hedefin, yapay zekanın potansiyelini daha da ileriye taşımak için büyük bir adım olduğunu belirtiyor. \n\nFirma, bu yeni sistemin bilimsel araştırmalarda devrim yaratacak potansiyele sahip olduğunu ve farklı disiplinlerde çığır açan keşifler yapabileceğini savunuyor. OpenAI, bu girişimin, teknolojik gelişmelerin sınırlarını zorlayarak, insan araştırmacılara yardımcı olabileceğini ve hatta bazı alanlarda onları geçebileceğini düşünüyor.\n\nBu girişim, yapay zekanın bağımsız biçimde araştırma yapabilme yeteneğini geliştirerek, bilim dünyasında ve endüstriyel uygulamalarda yeni fırsatlar yaratabilir. OpenAI, bu yeni AI araştırmacısının, özellikle karmaşık veri analizlerinde, hipotez geliştirmede ve deneysel tasarımda insanların iş yükünü hafifleteceğini ifade ediyor. \n\nOpenAI'nin bu yeni hedefi, yapay zekanın kendi kendine öğrenme ve problem çözme kapasitesine ne denli güvenildiğini de gösteriyor. Firmanın, bu hedefe ulaşmak için geniş bir kaynak yatırımı yapmayı planladığı belirtiliyor. \n\nBu heyecan verici gelişmenin, yapay zeka araştırmaları ve uygulamaları üzerinde derin etkiler yaratması bekleniyor. OpenAI'nin bu çabası, AI araştırmalarında yeni bir dönemin başlangıcını işaret edebilir.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+            "date": "2026-03-20T13:18:28.064206",
+            "timestamp": 1774012708.064215
+        },
         {
             "title": "Zihin Değiştiren Maddeler Klinik Denemelerde Hâlâ Bekleneni Vermiyor",
             "original_title": "Mind-altering substances are (still) falling short in clinical trials",
@@ -480,36 +510,6 @@
             "link": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/",
             "date": "2026-03-16T13:46:01.096805",
             "timestamp": 1773668761.096817
-        },
-        {
-            "title": "Geleceğin Yapay Zeka Çipleri Cam Üzerine İnşa Edilebilir",
-            "original_title": "The Download: glass chips and “AI-free” logos",
-            "content": "İnsan yapımı cam binlerce yıllık bir geçmişe sahip. Ancak günümüzde, dünyadaki en yeni yapay zeka çiplerinde kullanılmak üzere camın yeni bir rol üstlenmeye hazır olduğu görülüyor. Bu yenilik, camın yapısal özelliklerinin ve iletkenlik kapasitesinin, yapay zeka çiplerinin performansını artırma potansiyeline sahip olmasından kaynaklanıyor.\n\nGeleneksel yarı iletken malzemeler yerine cam kullanımı, çiplerin daha hızlı ve verimli çalışmasını sağlayabilir. Camın optik özellikleri, veri aktarım hızını artırırken enerji tüketimini azaltabilir. Bu, özellikle veri merkezleri ve büyük ölçekli yapay zeka uygulamaları için önemli bir avantaj sağlayabilir.\n\nAraştırmacılar, cam tabanlı çiplerin üretim maliyetlerini ve ölçeklenebilirliğini değerlendiriyor. Bu tür yenilikler, teknolojinin daha sürdürülebilir ve çevreye duyarlı hale gelmesine katkıda bulunabilir.\n\nKaynak:\nMIT Technology Review. (2023). The Download: glass chips and “AI-free” logos. https://www.technologyreview.com",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/",
-            "date": "2026-03-16T13:46:08.279133",
-            "timestamp": 1773668768.279141
-        },
-        {
-            "title": "Kanser Tedavisinde Yeni Hedef: B2 Vitamini Yolu",
-            "original_title": "Vitamin B2 Pathway Identified as Potential Target for Cancer Therapy",
-            "content": "Kanser hücrelerinin ferroptoz adı verilen programlı hücre ölümüne karşı direnç göstermesine yardımcı olan B2 vitamini metabolizması, yeni tedavi yöntemleri için potansiyel bir hedef olarak öne çıkıyor. Riboflavin ile ilgili yolları, roseoflavin gibi bileşiklerle hedef almak, tümör savunmalarını zayıflatabilir ve yeni kanser tedavilerinin önünü açabilir.\n\nFerroptoz, demir bağımlı bir hücre ölüm şekli olup, özellikle kanser hücrelerinin kontrol altına alınmasında önemli bir rol oynayabilir. Ancak, kanser hücreleri bu sürece direnç kazanarak hayatta kalma yeteneklerini artırabilirler. Araştırmacılar, B2 vitamini yollarını hedef alarak bu direnci kırmayı hedefliyor. Bu kapsamda, riboflavin metabolizmasının inhibe edilmesi, kanser hücrelerinin ferroptoz sürecine daha duyarlı hale getirilmesi için umut vadediyor.\n\nYeni tedavi yaklaşımları arasında roseoflavin gibi riboflavin analogu bileşiklerin kullanılması planlanıyor. Bu tür bileşikler, B2 vitamini metabolizmasını bozguna uğratarak, kanser hücrelerinin savunma mekanizmalarını zayıflatabilir ve tedaviye daha açık hale getirebilir.\n\nAraştırmacılar, bu yaklaşımın klinik denemelerde nasıl sonuçlar vereceğini görmek için çalışmalarına devam ediyorlar. Eğer başarılı olunursa, bu strateji kanser tedavisi için önemli bir adım olabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/cancer/vitamin-b2-pathway-identified-as-potential-target-for-cancer-therapy/)",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/vitamin-b2-pathway-identified-as-potential-target-for-cancer-therapy/",
-            "date": "2026-03-16T03:25:48.059736",
-            "timestamp": 1773631548.059747
-        },
-        {
-            "title": "Beyin Hastalıklarında Ruhsal Sıkıntılar: Klinik Bir Gerçeklik",
-            "original_title": "Spiritual Distress Is a Clinical Reality in Brain Disease",
-            "content": "Yeni araştırmalar, nörolojik hastalıkların kimlik kaybına neden olan etkileriyle karşı karşıya kalan hastalar için ruhsal ve varoluşsal kaygıların ele alınmasının neden hayati önem taşıdığını vurguluyor. Beyin hastalıkları, kişinin kimliğini ve hayat kalitesini derinden etkileyebilir. Bu tür hastalıklar, hastaların kendi varoluşları ve yaşam anlamlarıyla ilgili derin sorgulamalara girmelerine neden olabilir.\n\nRuhsal sıkıntılar, beyin hastalıkları olan hastalarda sıkça gözlemlenen bir durumdur. Bu durum, hastaların yalnızca fiziksel değil, aynı zamanda duygusal ve ruhsal sağlığını da etkileyebilir. Beyin hastalıklarının tedavisinde, ruhsal ve varoluşsal destek sağlamak, hastaların genel iyilik halini artırabilir ve tedavi süreçlerine olumlu katkıda bulunabilir.\n\nNörolojik hastalıklar, bireyin kimlik duygusunda değişikliklere neden olabilir. Bu değişiklikler, hastaların kendilerini ve hayatlarını nasıl gördüklerini etkileyebilir. Bu nedenle, sağlık hizmeti sağlayıcılarının, hastaların bu tür ruhsal ihtiyaçlarını tanımaları ve ele almaları önemlidir. Ruhsal bakım, hastaların yaşam kalitesini artırabilir ve hastalıkla başa çıkmalarına yardımcı olabilir.\n\nBu bağlamda, sağlık profesyonellerinin, nörolojik hastalıklara sahip hastalarla çalışırken, bu hastaların ruhsal ve varoluşsal kaygılarına duyarlı olmaları gerekmektedir. Ruh sağlığı uzmanları, sosyal hizmet uzmanları ve manevi danışmanlar, bu süreçte önemli bir rol oynayabilir. Bu tür bir bütünleşik bakım yaklaşımı, hastaların tedavi süreçlerinde kendilerini daha iyi hissetmelerine ve daha iyi sonuçlar elde etmelerine yardımcı olabilir.\n\nAPA: Neuroscience News. (2023). Spiritual Distress Is a Clinical Reality in Brain Disease. https://neurosciencenews.com/neurology-spiritual-care-30321/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/neurology-spiritual-care-30321/",
-            "date": "2026-03-15T18:53:31.470073",
-            "timestamp": 1773600811.470081
         }
     ]
 }
