@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-03-20T15:53:13.656002",
+    "last_updated": "2026-03-20T19:02:02.608951",
     "daily_news": {
-        "title": "OpenAI'nin Yeni Vizyonu: Tam Otomatik Araştırmacı",
-        "original_title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-        "content": "OpenAI, kendisine yeni bir büyük hedef belirledi: Tamamen otomatik bir araştırmacı geliştirmek. Bu, büyük ve karmaşık problemleri ele alabilecek bir yapay zeka araştırmacısı, yani tamamen otomatikleştirilmiş bir ajan tabanlı sistem inşa etmek anlamına geliyor. OpenAI'nin bu adımı, teknoloji dünyasında önemli bir dönüm noktası olarak görülüyor.\n\nBu yeni otomatik araştırmacı, bilimsel araştırmalarda devrim yaratacak potansiyele sahip. Mevcut yapay zeka sistemleri, genellikle belirli görevlerde yüksek performans gösterebilecek şekilde eğitiliyor. Ancak OpenAI'nin hedefi, bu sistemleri daha kapsamlı ve özerk hale getirerek, karmaşık ve çok yönlü sorunları çözebilecek kapasiteye ulaştırmak.\n\nBu tür bir yapay zeka sistemi, araştırmacıların saatlerce süren veri analizlerini ve modellemelerini otomatikleştirerek, insan araştırmacıların daha yaratıcı ve stratejik düşünmelerine olanak tanıyabilir. Ayrıca, insan hatasını minimize ederek, daha doğru ve güvenilir sonuçlar elde edilmesine katkı sağlayabilir.\n\nOpenAI'nin bu hedefi, yalnızca teknolojik bir yenilik olarak değil, aynı zamanda bilimsel metodolojilerde de köklü değişiklikler yaratabilir. Otomatik araştırmacılar, yalnızca mevcut bilgiyi kullanmakla kalmayıp, yeni bilgi ve anlayışlar da üretebilir. Bu da bilimsel keşif sürecini hızlandırabilir ve daha önce erişilemeyen bilgi alanlarını açığa çıkarabilir.\n\nYapay zeka araştırmalarında bu tür bir gelişme, etik ve güvenlik konularında da yeni tartışmaları beraberinde getirebilir. Özellikle, bu tür sistemlerin nasıl kontrol edileceği ve hangi sınırlar içinde çalışacağı önemli bir tartışma konusu.\n\nSonuç olarak, OpenAI'nin bu yöndeki çalışmaları, gelecekteki bilimsel araştırmaların doğasını önemli ölçüde değiştirebilir ve yapay zeka alanında yeni bir çağın kapılarını aralayabilir.\n\nKaynak: MIT Technology Review",
+        "title": "Ohio'da Yeni Hayat Bilimleri Eğitim Merkezi New Albany'de Kurulacak",
+        "original_title": "Ohio Life Science Training Center to Be Based in New Albany International Business Park",
+        "content": "Ohio Hayat Bilimleri Eğitim Merkezi, giriş seviyesindeki istihdamla uyumlu programlara odaklanacak ve mevcut İyi Üretim Uygulamaları (cGMP), bağlamsal üretim temelleri ve laboratuvar becerilerini içerecektir. Bu merkez, New Albany Uluslararası İş Parkı'nda kurulacak ve biyoproses alanında kariyer yapmak isteyenler için önemli bir fırsat sunacaktır. \n\nEğitim merkezi, öğrencilere biyoteknoloji ve ilaç endüstrilerinde başarı için gerekli olan temel becerileri kazandırmayı hedeflemektedir. cGMP eğitimi, ürünlerin güvenli ve etkili bir şekilde üretilmesini sağlamak için gerekli olan standartları öğretirken, üretim temelleri ve laboratuvar becerileri, katılımcıların üretim sürecine ve laboratuvar ortamlarına daha iyi uyum sağlamalarına yardımcı olacaktır.\n\nBu merkez, Ohio'daki bilim ve teknoloji eğitiminde önemli bir adım olarak görülüyor ve bölgedeki iş gücü gelişimine katkıda bulunması bekleniyor. Eğitim programları, katılımcılara pratik deneyimler sunarak onların sektördeki rekabet edebilirliklerini artırmayı amaçlamaktadır.\n\nKaynakça: GEN - Genetic Engineering and Biotechnology News. (tarih yok). Ohio Life Science Training Center to Be Based in New Albany International Business Park. Erişim adresi: https://www.genengnews.com/topics/bioprocessing/ohio-life-science-training-center-to-be-based-in-new-albany-international-business-park/",
         "category": "Yapay Zeka",
         "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
-        "date": "2026-03-20T15:53:13.481725",
-        "timestamp": 1774021993.481734
+        "link": "https://www.genengnews.com/topics/bioprocessing/ohio-life-science-training-center-to-be-based-in-new-albany-international-business-park/",
+        "date": "2026-03-20T19:02:02.608913",
+        "timestamp": 1774033322.608921
     },
     "news_list": [
+        {
+            "title": "RNA Geri Dönüşümü Ömrü Uzatıyor",
+            "original_title": "RNA Recycling Extends Lifespan",
+            "content": "Araştırmacılar, RNASEK enziminin yaşlanmayı yavaşlattığını ve hücrelerde zamanla biriken 'toksik' dairesel RNA'ları temizleyerek yaşam süresini uzattığını keşfetti. Bu bulgu, yaşlanma sürecine dair önemli ipuçları sunarak, gelecekte yaşlanmayı geciktirme ve yaşam kalitesini artırma potansiyeli taşıyan yeni tedavi yöntemlerinin geliştirilmesine kapı aralayabilir.\n\nRNASEK enzimi, hücrelerde birikerek zararlı etkilere neden olan dairesel RNA'ların temizlenmesinde kritik bir rol oynar. Bu dairesel RNA'lar, zamanla hücre fonksiyonlarını bozarak yaşlanmayı hızlandırır ve çeşitli hastalıkların ortaya çıkmasına neden olabilir. RNASEK sayesinde bu toksik moleküllerin ortadan kaldırılması, hücrelerin daha sağlıklı kalmasını ve dolayısıyla organizmanın daha uzun süre yaşamasını sağlar.\n\nBu araştırma, özellikle nörodejeneratif hastalıklar ve yaşlanma ile ilgili sağlık sorunları için umut vadeden bir gelişmedir. RNASEK enziminin işleyişinin daha iyi anlaşılması, yaşa bağlı hastalıkların önlenmesi ve tedavisinde yeni yaklaşımlar geliştirilmesine olanak tanıyabilir.\n\nKaynak: Neuroscience News (2023)",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/rnasek-aging-circular-rna-30353/",
+            "date": "2026-03-20T19:01:50.215916",
+            "timestamp": 1774033310.215928
+        },
+        {
+            "title": "Tip 1 Diyabetin Demans Riskine Etkisi",
+            "original_title": "How Type 1 Diabetes Impacts Dementia Risk",
+            "content": "Tip 1 diyabet hastalarının demans geliştirme olasılığı, diyabeti olmayanlara göre 3 kat daha fazladır. Bu risk, Tip 2 diyabetten önemli ölçüde daha yüksektir. Tip 1 diyabet, genellikle çocukluk veya gençlik döneminde teşhis edilen, insülin üretmeyen bir pankreas ile karakterize edilen bir durumdur. Bu hastalık kontrol altına alınmadığında, uzun vadede ciddi sağlık sorunlarına yol açabilir. \n\nDemans, zihinsel yeteneklerin bozulmasıyla karakterize edilen bir grup semptomdur ve günlük yaşam aktivitelerini etkiler. Bu durum genellikle yaşlılarda görülse de, Tip 1 diyabet gibi risk faktörleri, daha erken yaşlarda demans gelişimine neden olabilir. \n\nAraştırmalar, Tip 1 diyabetin demans riskini artırmasının birkaç nedeni olduğunu öne sürmektedir. Kronik yüksek kan şekeri seviyeleri, beyin damarlarına zarar vererek bilişsel işlevlerin bozulmasına yol açabilir. Ayrıca, Tip 1 diyabetin getirdiği diğer sağlık sorunları da demans riskini artırabilir.\n\nTip 1 diyabet hastalarının, demans riskini azaltmak için kan şekeri seviyelerini dikkatle izlemeleri ve doktorlarının önerdiği tedavi planlarına sadık kalmaları önemlidir. Bu, yaşam kalitelerini artırabilir ve uzun vadede demans gelişme riskini azaltabilir.\n\nKaynak: Neuroscience News",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/type-1-diabetes-dementia-risk-30352/",
+            "date": "2026-03-20T19:01:57.301352",
+            "timestamp": 1774033317.301361
+        },
+        {
+            "title": "Ohio'da Yeni Hayat Bilimleri Eğitim Merkezi New Albany'de Kurulacak",
+            "original_title": "Ohio Life Science Training Center to Be Based in New Albany International Business Park",
+            "content": "Ohio Hayat Bilimleri Eğitim Merkezi, giriş seviyesindeki istihdamla uyumlu programlara odaklanacak ve mevcut İyi Üretim Uygulamaları (cGMP), bağlamsal üretim temelleri ve laboratuvar becerilerini içerecektir. Bu merkez, New Albany Uluslararası İş Parkı'nda kurulacak ve biyoproses alanında kariyer yapmak isteyenler için önemli bir fırsat sunacaktır. \n\nEğitim merkezi, öğrencilere biyoteknoloji ve ilaç endüstrilerinde başarı için gerekli olan temel becerileri kazandırmayı hedeflemektedir. cGMP eğitimi, ürünlerin güvenli ve etkili bir şekilde üretilmesini sağlamak için gerekli olan standartları öğretirken, üretim temelleri ve laboratuvar becerileri, katılımcıların üretim sürecine ve laboratuvar ortamlarına daha iyi uyum sağlamalarına yardımcı olacaktır.\n\nBu merkez, Ohio'daki bilim ve teknoloji eğitiminde önemli bir adım olarak görülüyor ve bölgedeki iş gücü gelişimine katkıda bulunması bekleniyor. Eğitim programları, katılımcılara pratik deneyimler sunarak onların sektördeki rekabet edebilirliklerini artırmayı amaçlamaktadır.\n\nKaynakça: GEN - Genetic Engineering and Biotechnology News. (tarih yok). Ohio Life Science Training Center to Be Based in New Albany International Business Park. Erişim adresi: https://www.genengnews.com/topics/bioprocessing/ohio-life-science-training-center-to-be-based-in-new-albany-international-business-park/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/ohio-life-science-training-center-to-be-based-in-new-albany-international-business-park/",
+            "date": "2026-03-20T19:02:02.608913",
+            "timestamp": 1774033322.608921
+        },
         {
             "title": "Alkol, Tütün ve Opioid Bağımlılıklarının Genetik Kökleri Ortaya Çıktı",
             "original_title": "Alcohol, Tobacco, and Opioid Addictions Share Genetic Roots",
@@ -480,36 +510,6 @@
             "link": "https://neurosciencenews.com/auditory-fear-pathway-human-brain-30326/",
             "date": "2026-03-16T21:50:23.503261",
             "timestamp": 1773697823.503271
-        },
-        {
-            "title": "Beyin İmplantı İle Felçli Bireylere Yüksek Hızlı İletişim İmkanı",
-            "original_title": "Investigational Brain Implant Restores High-Speed Communication",
-            "content": "Yeni bir beyin-bilgisayar arayüzü, denenen parmak hareketlerini metne çevirerek felçli bireylerin neredeyse insan doğruluğunda yazı yazmalarına olanak tanıyor. Bu yenilikçi teknoloji, hareket kabiliyeti sınırlı olan bireylerin iletişim yeteneklerini önemli ölçüde artırmayı vaat ediyor. Çalışmanın sonuçları, bu tür beyin implantlarının, iletişimdeki hız ve doğruluk açısından önemli bir ilerleme sağlayabileceğini gösteriyor. Bu teknoloji, kullanıcıların zihinsel olarak düşündüğü parmak hareketlerini algılayarak, bunları dijital bir metin haline getiriyor. Araştırmacılar, bu gelişmenin, felçli bireylerin günlük yaşamda daha bağımsız olmalarına yardımcı olabileceğini belirtiyor. \n\nKaynak: Neuroscience News",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/brain-computer-interface-typing-paralysis-30325/",
-            "date": "2026-03-16T19:16:11.680110",
-            "timestamp": 1773688571.68012
-        },
-        {
-            "title": "Dikkat Dağınıklığının Gizli Sebebi: 'Yerel Uyku'",
-            "original_title": "The Awake “Sleep” Loop: Why Attention Lapses Occur in ADHD",
-            "content": "Yeni araştırmalar, yetişkinlerde dikkat eksikliği ve hiperaktivite bozukluğu (ADHD) olan bireylerde dikkat dağınıklığı ve daha yavaş tepki sürelerine neden olan gizli beyin mekanizmasını 'yerel uyku' olarak tanımlıyor. Bu durum, beynin bazı bölgelerinin uyanıkken bile uyku haline geçmesi anlamına geliyor. ADHD'li bireylerde bu yerel uyku döngüleri, dikkat toplamada zorluk ve bilgi işleme hızında yavaşlama gibi belirtilere yol açabiliyor. Araştırmalar, bu döngülerin beyindeki belirli bölgelerde meydana geldiğini ve bu bölgelerin dikkat ve uyanıklık düzenlemesinde önemli rol oynadığını gösteriyor. Bu bulgular, ADHD'nin tedavi ve yönetiminde yeni stratejiler geliştirilmesine olanak sağlayabilir. Araştırmayı yürüten bilim insanları, ADHD'li bireylerde yerel uykunun nasıl daha iyi yönetilebileceği ve dikkat dağınıklığının nasıl azaltılabileceği konusunda daha fazla çalışma yapılması gerektiğini belirtiyor.\n\nKaynak: Neuroscience News (2023, 24 Ekim). The Awake “Sleep” Loop: Why Attention Lapses Occur in ADHD. Erişim adresi: https://neurosciencenews.com/adhd-attention-sleep-activity-30324/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/adhd-attention-sleep-activity-30324/",
-            "date": "2026-03-16T19:16:28.194495",
-            "timestamp": 1773688588.194504
-        },
-        {
-            "title": "OpenAI Teknolojisi İran'da Nerelerde Kullanılabilir?",
-            "original_title": "Where OpenAI’s technology could show up in Iran",
-            "content": "Bu hikaye, haftalık yapay zeka bültenimiz The Algorithm'de ilk olarak yayınlandı. Bu ve benzeri hikayeleri ilk olarak e-posta kutunuzda görmek için buradan abone olabilirsiniz. OpenAI'nin, AI teknolojisini gizli ortamlarda kullanmak üzere Pentagon ile tartışmalı bir anlaşmaya varmasının üzerinden iki haftadan biraz fazla zaman geçti. OpenAI'nin bu teknolojisinin tam olarak nerelerde kullanılacağı konusunda hala önemli sorular var. İran'da bu teknolojinin nasıl ve nerelerde uygulanabileceği konusunda çeşitli spekülasyonlar yapılmakta. Ülkede AI kullanımının potansiyel alanları ve olası etkileri üzerine tartışmalar sürüyor.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
-            "date": "2026-03-16T19:16:32.574545",
-            "timestamp": 1773688592.574554
         }
     ]
 }
