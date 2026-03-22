@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-03-22T09:41:27.546418",
+    "last_updated": "2026-03-22T13:09:38.185804",
     "daily_news": {
-        "title": "Kalp Krizi Sonrası Bilişsel Fonksiyonu Öngören Kan Testi",
-        "original_title": "Blood Test Predicts Long-Term Cognitive Function After Cardiac Arrest",
-        "content": "Yeni bir çalışma, nörofilament hafif zincirinin (NfL), kalp krizi sonrası bilişsel fonksiyonları öngörmede üstün bir biyobelirteç olduğunu ortaya koyuyor. Bu 48 saatlik kan testinin, uzun vadeli beyin hasarı riskini belirlemede mevcut yöntemleri nasıl geride bıraktığını öğrenin.\n\nKalp krizi sonrası bilişsel fonksiyonların nasıl etkilendiği uzun süredir araştırmacıların ilgisini çeken bir konu olmuştur. Son dönemde yapılan bir çalışma, nörofilament hafif zincirlerinin (NfL) bu süreçte önemli bir rol oynayabileceğini göstermiştir. NfL, beyindeki sinir hücrelerinde bulunan ve beyin hücresi hasarının bir göstergesi olarak kabul edilen bir protein türüdür.\n\nÇalışmada, kalp krizi geçiren hastalardan alınan kan örneklerinde NfL seviyeleri ölçülmüş ve bu seviyelerin uzun vadeli bilişsel fonksiyonlarla ilişkisi incelenmiştir. Araştırmacılar, NfL seviyelerinin yüksek olduğu hastalarda bilişsel fonksiyonların daha fazla etkilendiğini ve uzun vadede daha ciddi beyin hasarları görüldüğünü tespit etmişlerdir.\n\nBu bulgular, kalp krizi sonrasında bilişsel fonksiyonların değerlendirilmesinde NfL'nin önemli bir biyobelirteç olabileceğini düşündürmektedir. Mevcut yöntemlere göre daha hızlı ve güvenilir sonuçlar veren bu kan testi, doktorların hastaların uzun vadeli beyin sağlığı risklerini daha iyi değerlendirmelerine olanak sağlayabilir.\n\nÇalışmanın sonuçları, gelecekte kalp krizi sonrası hasta bakımında NfL seviyelerinin rutin olarak izlenmesi gerektiğini önermektedir. Bu sayede, bilişsel fonksiyonların korunmasına yönelik daha etkili tedavi stratejileri geliştirilebilir.\n\nKaynak: Neuroscience News",
+        "title": "Ozempic: Kilo Kaybı İlacı Depresyon ve Anksiyeteyi Azaltıyor",
+        "original_title": "Weight loss drug Ozempic cuts depression, anxiety, and addiction risk",
+        "content": "GLP-1 tipi ilaçlar arasında yer alan semaglutid (Ozempic), kilo kaybı sağlamanın yanı sıra beklenmedik zihinsel sağlık faydaları da sunabilir. Büyük bir araştırma, bu ilacı kullanan bireylerde depresyon, anksiyete ve psikiyatriyle ilgili hastane ziyaretlerinde önemli düşüşler olduğunu ortaya koydu. Hatta, tedavi sırasında madde kullanımı bozuklukları bile belirgin şekilde azaldı. Araştırmacılar, bu etkilerin hem yaşam tarzı iyileştirmelerinden hem de ilacın beyin üzerindeki doğrudan etkilerinden kaynaklanabileceğini düşünüyorlar.\n\nKaynak: Mind & Brain News -- ScienceDaily",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/nfl-biomarker-cardiac-arrest-cognition-30362/",
-        "date": "2026-03-22T02:56:53.714492",
-        "timestamp": 1774148213.714502
+        "link": "https://www.sciencedaily.com/releases/2026/03/260322020250.htm",
+        "date": "2026-03-22T13:09:37.181779",
+        "timestamp": 1774184977.181793
     },
     "news_list": [
+        {
+            "title": "Ozempic: Kilo Kaybı İlacı Depresyon ve Anksiyeteyi Azaltıyor",
+            "original_title": "Weight loss drug Ozempic cuts depression, anxiety, and addiction risk",
+            "content": "GLP-1 tipi ilaçlar arasında yer alan semaglutid (Ozempic), kilo kaybı sağlamanın yanı sıra beklenmedik zihinsel sağlık faydaları da sunabilir. Büyük bir araştırma, bu ilacı kullanan bireylerde depresyon, anksiyete ve psikiyatriyle ilgili hastane ziyaretlerinde önemli düşüşler olduğunu ortaya koydu. Hatta, tedavi sırasında madde kullanımı bozuklukları bile belirgin şekilde azaldı. Araştırmacılar, bu etkilerin hem yaşam tarzı iyileştirmelerinden hem de ilacın beyin üzerindeki doğrudan etkilerinden kaynaklanabileceğini düşünüyorlar.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260322020250.htm",
+            "date": "2026-03-22T13:09:37.181779",
+            "timestamp": 1774184977.181793
+        },
         {
             "title": "Kalp Krizi Sonrası Bilişsel Fonksiyonu Öngören Kan Testi",
             "original_title": "Blood Test Predicts Long-Term Cognitive Function After Cardiac Arrest",
@@ -500,16 +510,6 @@
             "link": "https://neurosciencenews.com/glymphatic-system-psychosis-schizophrenia-30328/",
             "date": "2026-03-17T16:12:13.790998",
             "timestamp": 1773763933.791004
-        },
-        {
-            "title": "Farklı Anesteziklerde Ortak Sinir Bozukluğu Ortaya Çıkarıldı",
-            "original_title": "Computational Model Reveals Shared Neural Disruption Across Different Anesthetics",
-            "content": "Bu çalışma, hayvanlarda üç farklı anestezik kullanılarak yapılan sinirsel kayıtlar üzerinde uygulanan bir çerçeveye dayanıyor. Her üç anestezik, farklı reseptör sistemleri üzerinde etkili olmalarına rağmen aynı dengesizlik imzasını üretti.\n\nBu bulgu, anesteziklerin beyindeki etkilerini anlamada önemli bir adım olarak görülüyor. Araştırmacılar, bu ortak sinirsel bozukluğun, anesteziklerin beyindeki işleyiş mekanizmalarının daha iyi anlaşılmasını sağlayabileceğini belirtiyorlar. Bu tür bir anlayış, daha güvenli ve etkili anesteziklerin geliştirilmesine katkıda bulunabilir.\n\nÇalışma, anesteziklerin beyinde oluşturduğu etkilerin, farklı kimyasal etki mekanizmalarına rağmen benzer nörolojik sonuçlar doğurabileceğini gösteriyor. Bu da, sinir sisteminin anesteziklere karşı nasıl tepki verdiği konusunda yeni sorular ortaya çıkarıyor ve gelecekte yapılacak araştırmalar için önemli bir temel oluşturuyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (2023). Computational Model Reveals Shared Neural Disruption Across Different Anesthetics. GEN - Genetic Engineering and Biotechnology News. https://www.genengnews.com/topics/translational-medicine/computational-model-reveals-shared-neural-disruption-across-different-anesthetics/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/computational-model-reveals-shared-neural-disruption-across-different-anesthetics/",
-            "date": "2026-03-17T16:12:21.272761",
-            "timestamp": 1773763941.272768
         }
     ]
 }
