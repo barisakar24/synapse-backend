@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-03-23T19:07:16.861976",
+    "last_updated": "2026-03-23T21:46:27.475711",
     "daily_news": {
-        "title": "Babalarda Doğum Sonrası Depresyon Bir Yıl Sonra Zirve Yapıyor",
-        "original_title": "Paternal Depression Spikes One Year After Childbirth",
-        "content": "Bir milyondan fazla baba üzerinde yapılan bir araştırma, doğumdan bir yıl sonra babalarda depresyon ve stresle ilgili bozuklukların %30 oranında arttığını gösteriyor. Araştırmacılar, sağlık hizmeti sağlayıcılarına babaların ruh sağlığını doğum sonrası dönemin ötesinde de izlemelerini tavsiye ediyor. Bu bulgular, babaların da anneler kadar doğum sonrası dönemde ruh sağlığı sorunları yaşayabileceğini ortaya koyuyor. Dolayısıyla, babaların mental sağlık durumları da dikkatle izlenmeli ve gerekirse erken müdahale edilmelidir. Araştırmacılar, bu dönemde babalara yönelik destek mekanizmalarının geliştirilmesi gerektiğini vurguluyor. Babalarda gözlemlenen depresyon belirtileri arasında enerji kaybı, ilgi eksikliği ve günlük aktivitelerde zorlanma yer alıyor. Bu belirtiler, aile içindeki dinamikleri de olumsuz etkileyebiliyor. Dolayısıyla, babaların ruh sağlığının desteklenmesi, hem bireysel hem de ailevi düzeyde önemli bir ihtiyaç olarak karşımıza çıkıyor.\n\nKaynak: Neuroscience News",
+        "title": "Multipl Sklerozun Görülme Sıklığı Son 20 Yılda İki Katına Çıktı",
+        "original_title": "Multiple Sclerosis Prevalence Doubled in Two Decades",
+        "content": "Multipl skleroz (MS) görülme sıklığı 2000 yılından bu yana iki katına çıktı. Bu artışın arkasındaki temel nedenler arasında daha iyi tanı yöntemlerinin geliştirilmesi ve yaşam süresinin uzaması yer alıyor. Ancak araştırmacılar, sosyo-ekonomik eşitsizliklerin önemli bir sorun teşkil ettiğine dikkat çekiyor. Özellikle dezavantajlı bölgelerde yaşayan hastalar, daha yüksek ölüm oranları ve gecikmiş tedavi süreçleri ile karşı karşıya kalıyor.\n\nAPA: Neuroscience News. (2023). Multiple Sclerosis Prevalence Doubled in Two Decades. https://neurosciencenews.com/ms-prevalence-doubles-30368/",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/paternal-depression-delayed-childbirt-30367/",
-        "date": "2026-03-23T19:06:54.981648",
-        "timestamp": 1774292814.981659
+        "link": "https://neurosciencenews.com/ms-prevalence-doubles-30368/",
+        "date": "2026-03-23T21:46:15.029491",
+        "timestamp": 1774302375.029498
     },
     "news_list": [
+        {
+            "title": "Beyin Ağları Yaşam Boyu Nasıl 'Çözülüyor'?",
+            "original_title": "How Brain Networks “Unravel” Over a Lifetime",
+            "content": "Fare beyinleri, insanlar gibi neredeyse aynı 'ağ' deseninde yaşlanır. Beyin modül uzmanlaşmasındaki bu ortak düşüş, bilişsel yaşlanmayı yavaşlatmak veya tersine çevirmek için stratejilerin test edilmesi adına çığır açan bir model sunuyor.\n\nYaşlanma süreci, insan beyni üzerinde önemli etkiler yaratır ve bu etkiler, beyin ağlarının yapısında ve işleyişinde belirgin değişiklikler olarak karşımıza çıkar. Son araştırmalar, farelerin beyinlerinin de insanlar gibi yaşlandıkça benzer ağ desenlerinde değişiklikler gösterdiğini ortaya koymuştur. Bu benzerlik, bilim insanlarına fare modelleri üzerinden insanlardaki bilişsel yaşlanma süreçlerini inceleme ve potansiyel tedavi stratejileri geliştirme fırsatı sunmaktadır.\n\nFare beyinlerindeki bu değişim, beyin modüllerinin uzmanlaşmasında bir düşüşe işaret eder. Uzmanlaşma kaybı, beynin farklı bölümlerinin belirli görevlerde daha az etkili hale gelmesine neden olabilir. Ancak bu durum, aynı zamanda yeni tedavi yaklaşımlarının geliştirilmesi için de umut verici bir başlangıç noktası olarak değerlendirilmektedir.\n\nAraştırmalar, fare modelleri kullanılarak yapılacak deneylerin, insanlarda bilişsel yaşlanmayı yavaşlatma veya geri döndürme potansiyeline sahip olabileceğini göstermektedir. Bu modeller, yaşlanma ile ilişkili bilişsel gerilemenin nedenlerini daha iyi anlamamıza ve bu süreci yavaşlatacak veya durduracak yollar geliştirmemize olanak tanıyabilir.\n\nAPA Kaynak: Neuroscience News. (2023). How Brain Networks “Unravel” Over a Lifetime. Retrieved from https://neurosciencenews.com/mouse-human-brain-aging-30369/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/mouse-human-brain-aging-30369/",
+            "date": "2026-03-23T21:46:12.013506",
+            "timestamp": 1774302372.013517
+        },
+        {
+            "title": "Multipl Sklerozun Görülme Sıklığı Son 20 Yılda İki Katına Çıktı",
+            "original_title": "Multiple Sclerosis Prevalence Doubled in Two Decades",
+            "content": "Multipl skleroz (MS) görülme sıklığı 2000 yılından bu yana iki katına çıktı. Bu artışın arkasındaki temel nedenler arasında daha iyi tanı yöntemlerinin geliştirilmesi ve yaşam süresinin uzaması yer alıyor. Ancak araştırmacılar, sosyo-ekonomik eşitsizliklerin önemli bir sorun teşkil ettiğine dikkat çekiyor. Özellikle dezavantajlı bölgelerde yaşayan hastalar, daha yüksek ölüm oranları ve gecikmiş tedavi süreçleri ile karşı karşıya kalıyor.\n\nAPA: Neuroscience News. (2023). Multiple Sclerosis Prevalence Doubled in Two Decades. https://neurosciencenews.com/ms-prevalence-doubles-30368/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/ms-prevalence-doubles-30368/",
+            "date": "2026-03-23T21:46:15.029491",
+            "timestamp": 1774302375.029498
+        },
+        {
+            "title": "Farelerde Embriyonik İyileşme Mekanizması ile İz Bırakmadan Deri Yenilenmesi",
+            "original_title": "Skin Regeneration Enabled by Embryonic Healing Mechanism in Mice",
+            "content": "Yeni bir yöntem, doğumdan sonra kapanan bir iyileşme mekanizmasını açığa çıkararak iz bırakmadan deri yenilenmesini mümkün kılmaktadır. Fareler üzerinde gerçekleştirilen bu çalışma, insan hastalarda benzer tedavilerin geliştirilmesi için potansiyel bir yol sunmaktadır.\n\nBilim insanları, embriyonik dönemde aktif olan ancak doğumdan sonra kapanan bir iyileşme mekanizmasını yeniden etkinleştirerek farelerde derinin iz bırakmadan yenilenmesini sağlamıştır. Bu buluş, yara iyileşmesi ve doku yenilenmesi konularında önemli bir adım olarak değerlendirilmektedir. Araştırmacılar, bu mekanizmanın insanlarda da benzer şekilde çalışabileceğine inanmakta ve bu doğrultuda yeni tedavi yöntemleri geliştirmeyi hedeflemektedir.\n\nÇalışmanın temelinde, embriyonik dönemde deri yaralanmalarının iz bırakmadan iyileşmesini sağlayan biyolojik süreçlerin anlaşılması yatmaktadır. Araştırmacılar, bu süreçlerin erişkin farelerde de aktive edilmesiyle, yara iyileşmesinin daha etkili ve izsiz bir şekilde gerçekleşebileceğini göstermiştir. Bu buluş, özellikle yanık ve ciddi yaralanmaların tedavisinde devrim niteliğinde olabilecek potansiyel terapötik stratejiler sunmaktadır.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/translational-medicine/skin-regeneration-enabled-by-embryonic-healing-mechanism-in-mice/)",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/skin-regeneration-enabled-by-embryonic-healing-mechanism-in-mice/",
+            "date": "2026-03-23T21:46:22.051700",
+            "timestamp": 1774302382.051708
+        },
+        {
+            "title": "Yaşlanan Farelerde Beyin Ağı Gerilemesi İnsanlarla Ortak Özellikler Gösteriyor",
+            "original_title": "Aging Mice Share Features of Brain Network Decline with Humans",
+            "content": "Araştırmacılar, yaşlanmanın beyin ağı üzerindeki etkilerini incelemek için fareler üzerinde işlevsel manyetik rezonans görüntüleme (fMRI) kullandı ve bu hayvanların beyin ağlarındaki gerilemenin insanlara benzer özellikler taşıdığını buldular. Bu araştırma, yaşa bağlı bilişsel gerilemenin mekanizmalarını, risk faktörlerini ve olası müdahaleleri keşfetmek için yeni kapılar açabilir.\n\nYaşlanma sürecinin insan sağlığı üzerindeki etkileri uzun zamandır bilim insanlarının ilgi odağında olmuştur. İnsanlarda yaşlanma, genellikle bilişsel işlevlerde azalma ve beyin ağlarında değişikliklerle ilişkilendirilir. Ancak fareler üzerinde yapılan yeni araştırmalar, bu süreçlerin bazı yönlerinin insanlar ve fareler arasında benzerlikler gösterdiğini ortaya koymaktadır.\n\nBu çalışma, yaşlanma sırasında beyin ağlarının nasıl değiştiğini ve bu değişikliklerin bilişsel işlevler üzerindeki etkilerini daha iyi anlamak için önemli bir adım olarak görülüyor. Araştırmacılar, farelerin beyin ağlarındaki değişikliklerin, yaşa bağlı bilişsel gerilemenin altında yatan mekanizmaları ve potansiyel tedavi yaklaşımlarını daha iyi anlamalarına yardımcı olabileceğini umuyorlar.\n\nKaynakça:\nGEN - Genetic Engineering and Biotechnology News. (tarih). Aging Mice Share Features of Brain Network Decline with Humans. https://www.genengnews.com/topics/translational-medicine/aging-mice-share-features-of-brain-network-decline-with-humans/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/aging-mice-share-features-of-brain-network-decline-with-humans/",
+            "date": "2026-03-23T21:46:27.475670",
+            "timestamp": 1774302387.475676
+        },
         {
             "title": "Babalarda Doğum Sonrası Depresyon Bir Yıl Sonra Zirve Yapıyor",
             "original_title": "Paternal Depression Spikes One Year After Childbirth",
@@ -470,46 +510,6 @@
             "link": "https://www.genengnews.com/topics/bioprocessing/electrorheoimaging-helps-manage-droplet-viscosity-in-real-time/",
             "date": "2026-03-18T16:13:02.214505",
             "timestamp": 1773850382.214521
-        },
-        {
-            "title": "HDX-MS ve Hesaplamalı Yöntemlerle Protein-Protein Etkileşimlerinin Yeni İncelenmesi",
-            "original_title": "HDX-MS Plus Computational Methods Provide Novel Approach to Study of Protein-Protein Interactions",
-            "content": "Protein-protein etkileşimlerinin anlaşılması, özellikle ilaç geliştirme süreçlerinde önemli bir rol oynar. Geleneksel yöntemler bu etkileşimlerin incelenmesinde belirli sınırlamalara sahip olabilir. Ancak yeni bir yaklaşım, bu sınırlamaları aşmak için umut vaat ediyor. Hidrojen-Deuterium Değişim Kütle Spektrometrisi (HDX-MS) ile yapay zeka gibi hesaplamalı yöntemlerin birleşimi, protein-protein etkileşimlerinin daha derinlemesine incelenmesine olanak sağlayabilir.\n\nSandviç ELISA gibi geleneksel yöntemler genellikle protein etkileşimlerini analiz etmek için kullanılırken, HDX-MS teknolojisi ve hesaplamalı yöntemlerin entegrasyonu, özellikle preklinik ilaç geliştirme aşamalarında etkileşimlerin daha iyi anlaşılmasını sağlayabilir. Bu entegrasyon, proteinlerin dinamik yapılarını ve etkileşim mekanizmalarını daha ayrıntılı bir şekilde ortaya koyabilir.\n\nBu yeni yaklaşımın, ilaç geliştirme süreçlerinde önemli bir yenilik getirmesi ve daha etkili terapötik stratejilerin geliştirilmesine katkı sağlaması beklenmektedir. Özellikle yapay zeka destekli analizlerin, karmaşık protein ağlarını çözümleme ve etkileşim noktalarını belirleme konularında büyük fayda sağlayabileceği öngörülmektedir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/bioprocessing/researchers-develop-new-technique-for-studying-protein-protein-interaction/)",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/bioprocessing/researchers-develop-new-technique-for-studying-protein-protein-interaction/",
-            "date": "2026-03-18T16:13:19.158736",
-            "timestamp": 1773850399.158746
-        },
-        {
-            "title": "Kahvenin Beyin Sağlığına Faydaları: 43 Yıllık Çalışmanın Bulguları",
-            "original_title": "Your daily coffee may be protecting your brain, 43-year study finds",
-            "content": "Günlük kahve veya çay keyfiniz, beyin sağlığınızı sessizce destekliyor olabilir. Uzun süreli bir çalışma, orta düzeyde kafeinli kahve veya çay tüketiminin demans riskini %18 oranında azalttığını ve zamanla daha iyi bilişsel performans ile ilişkilendirildiğini buldu. Bu faydalar, günlük 2-3 fincan kahve veya 1-2 fincan çay tüketiminde en güçlü şekilde gözlemlendi ve hatta demansa genetik yatkınlığı olan kişiler için bile geçerliydi.\n\nKaynak: Mind & Brain News -- ScienceDaily. (tarih eklenmeli). Your daily coffee may be protecting your brain, 43-year study finds. Erişim adresi: link verilmeli.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260318033138.htm",
-            "date": "2026-03-18T13:45:13.799764",
-            "timestamp": 1773841513.799776
-        },
-        {
-            "title": "Pentagon'un Yeni Yapay Zeka Planları ve Gelecek Nesil Nükleer Reaktörler",
-            "original_title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
-            "content": "Pentagon, askeriye için özel yapay zeka versiyonları oluşturmak amacıyla, gizli veriler üzerinde eğitim yapabilecek güvenli ortamlar kurmayı planlıyor. Savunma yetkilileri, bu girişimle birlikte generatif yapay zeka şirketlerinin askeriye ile daha yakın çalışarak, savunma alanında yenilikçi çözümler geliştirmesini hedefliyor. Bu adım, yapay zeka teknolojilerinin askeri operasyonları nasıl dönüştürebileceğinin bir göstergesi olarak değerlendiriliyor.\n\nPentagon'un bu planları, yapay zekanın giderek daha fazla alanda kullanılmaya başlanmasıyla birlikte, savunma sektöründeki potansiyel uygulamalarına da dikkat çekiyor. Askeri operasyonların daha etkili ve verimli bir şekilde gerçekleştirilebilmesi için yapay zekanın sunduğu imkanlardan faydalanmak, savunma stratejilerinin önemli bir parçası haline gelmiş durumda.\n\nBu gelişmeler, sadece savunma alanında değil, aynı zamanda enerji sektöründe de yenilikçi teknolojilerin hayata geçirilmesine olanak tanıyor. Gelecek nesil nükleer reaktörler, enerji üretiminde daha güvenli ve sürdürülebilir çözümler sunarken, yapay zekanın bu süreçlere nasıl entegre edileceği de merakla bekleniyor.\n\nBu bağlamda, Pentagon'un yapay zeka konusundaki yeni hamleleri ve nükleer enerji alanındaki gelişmeler, teknoloji dünyasının gündeminde önemli bir yer tutuyor. Bu gelişmelerin, gelecekteki savunma ve enerji stratejilerini nasıl şekillendireceği ise zamanla daha net bir şekilde ortaya çıkacak.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
-            "date": "2026-03-18T13:45:22.815395",
-            "timestamp": 1773841522.815405
-        },
-        {
-            "title": "Yeni Nükleer Reaktörler Atık Sorununu Nasıl Etkileyecek?",
-            "original_title": "What do new nuclear reactors mean for waste?",
-            "content": "MIT Technology Review, teknoloji dünyasının karmaşık ve kaotik yapısını çözümleyerek gelecekte bizi nelerin beklediğini anlamanızı sağlıyor. Serinin diğer yazılarını buradan okuyabilirsiniz. Dünya, şu anda nükleer atıklarla başa çıkmak için son derece yaratıcı ve çeşitli yöntemler kullanıyor: Atıkları su havuzlarına batırmak, çelikle kaplamak, gömmek ve daha fazlası. Ancak yeni nükleer reaktörlerin devreye girmesiyle birlikte bu yöntemler yeterli olmayabilir. Yeni reaktörlerin tasarımı, enerji üretiminde daha verimli olabilirken, atık yönetimi konusunda da yeni zorluklar ve fırsatlar sunuyor. Bu reaktörler, daha az atık üretmek veya mevcut atıkları daha iyi işlemek için tasarlanmış olabilir. Ancak bu, atıkların nihai çözümü değil. Her ne kadar yeni teknolojiler umut verici görünse de, nükleer atıkların güvenli bir şekilde depolanması ve yönetimi hala büyük bir sorun olarak karşımızda duruyor. Gelecekteki enerji ihtiyaçlarımızı karşılamak için nükleer enerjiyi kullanmaya devam edeceksek, bu atıklarla başa çıkmanın daha sürdürülebilir yollarını bulmamız gerekecek.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
-            "date": "2026-03-18T10:03:08.913872",
-            "timestamp": 1773828188.913883
         }
     ]
 }
