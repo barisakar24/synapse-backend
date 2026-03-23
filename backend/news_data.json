@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-23T07:23:40.285221",
+    "last_updated": "2026-03-23T10:10:13.088151",
     "daily_news": {
-        "title": "Beyindeki Şaşırtıcı Tetikleyici: Yüksek Tansiyonun Yeni Nedeni Keşfedildi",
-        "original_title": "Scientists discover surprising brain trigger behind high blood pressure",
-        "content": "Bilim insanları, yüksek tansiyonun beyin temelli şaşırtıcı bir tetikleyicisini keşfetti. Beyin sapında, normalde nefes almayı kontrol eden küçük bir bölgeye kadar iz sürerek bu bağlantıyı ortaya çıkardılar. Öksürme, gülme veya egzersiz gibi güçlü nefes verme anlarında devreye giren bu bölge, aynı zamanda kan damarlarını sıkılaştıran sinirleri de aktif hale getiriyor ve bu da kan basıncını yükseltiyor. Araştırmacılar, deneylerde bu bölgeyi devre dışı bıraktıklarında kan basıncının normale döndüğünü gözlemlediler ve bu bulgunun hipertansiyonda doğrudan bir rol oynadığını öne sürdüler.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+        "title": "Alzheimer'ın Beyindeki Gizli 'Ölüm Anahtarı' Keşfedildi",
+        "original_title": "Scientists discover Alzheimer’s hidden “death switch” in the brain",
+        "content": "Bilim insanları, Alzheimer hastalığını tetikleyebilecek gizli bir 'ölüm anahtarı'nı beyinde keşfetti ve hatta farelerde bunu kapatmanın bir yolunu buldu. Suçlu olan, birleştiğinde beyin hücrelerinin yok olmasına ve hafıza kaybına yol açan iki proteinin toksik birleşimi. Araştırmacılar, bu ölümcül ikiliyi ayırmak için yeni bir bileşik kullanarak, hastalığın ilerlemesini yavaşlatmayı, beyin hücrelerini korumayı ve hatta karakteristik amiloid birikimini azaltmayı başardılar.\n\nKaynak: Mind & Brain News -- ScienceDaily (APA: Mind & Brain News. (tarih). Scientists discover Alzheimer’s hidden “death switch” in the brain. ScienceDaily. URL)",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260322020302.htm",
-        "date": "2026-03-23T05:11:01.256410",
-        "timestamp": 1774242661.256423
+        "link": "https://www.sciencedaily.com/releases/2026/03/260323005526.htm",
+        "date": "2026-03-23T10:10:05.726185",
+        "timestamp": 1774260605.726196
     },
     "news_list": [
+        {
+            "title": "Alzheimer'ın Beyindeki Gizli 'Ölüm Anahtarı' Keşfedildi",
+            "original_title": "Scientists discover Alzheimer’s hidden “death switch” in the brain",
+            "content": "Bilim insanları, Alzheimer hastalığını tetikleyebilecek gizli bir 'ölüm anahtarı'nı beyinde keşfetti ve hatta farelerde bunu kapatmanın bir yolunu buldu. Suçlu olan, birleştiğinde beyin hücrelerinin yok olmasına ve hafıza kaybına yol açan iki proteinin toksik birleşimi. Araştırmacılar, bu ölümcül ikiliyi ayırmak için yeni bir bileşik kullanarak, hastalığın ilerlemesini yavaşlatmayı, beyin hücrelerini korumayı ve hatta karakteristik amiloid birikimini azaltmayı başardılar.\n\nKaynak: Mind & Brain News -- ScienceDaily (APA: Mind & Brain News. (tarih). Scientists discover Alzheimer’s hidden “death switch” in the brain. ScienceDaily. URL)",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260323005526.htm",
+            "date": "2026-03-23T10:10:05.726185",
+            "timestamp": 1774260605.726196
+        },
+        {
+            "title": "Yapay Zeka ve Hayvan Refahı Hareketi: San Francisco'da Yenilikçi Bir Buluşma",
+            "original_title": "The Bay Area’s animal welfare movement wants to recruit AI",
+            "content": "Şubat ayının başlarında, hayvan refahı savunucuları ve yapay zeka araştırmacıları, San Francisco'da yer alan Mox isimli ayakkabısız çalışma alanında bir araya geldiler. Burası, sarı ve kırmızı tentelerin yukarıdan sarktığı, yere serili İran halılarının ve saksı bitkilerinin yanındaki mozaik lambaların parladığı bir ortamdı. Ortak alanda, bir yaban hayatı savunucusu, dinleyicilere tutkulu bir konuşma yaptı. Katılımcılar dikkatle dinliyor, hayvan refahı ile yapay zekanın nasıl bir araya getirilebileceği üzerine fikir alışverişinde bulunuyorlardı. Bu buluşma, teknolojinin hayvan refahı üzerine potansiyel etkilerini araştırmak ve bu alanda yenilikçi çözümler geliştirmek için önemli bir adım teşkil ediyordu.\n\nKaynakça: MIT Technology Review. (2023). The Bay Area’s animal welfare movement wants to recruit AI.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
+            "date": "2026-03-23T10:10:12.861210",
+            "timestamp": 1774260612.861218
+        },
         {
             "title": "Beyindeki Şaşırtıcı Tetikleyici: Yüksek Tansiyonun Yeni Nedeni Keşfedildi",
             "original_title": "Scientists discover surprising brain trigger behind high blood pressure",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/artificial-intelligence/metapipeline-dna-automates-and-standardizes-genome-sequencing-analysis/",
             "date": "2026-03-17T21:48:48.725573",
             "timestamp": 1773784128.725584
-        },
-        {
-            "title": "Astellas ve CytomX'in 1,7 Milyar Dolarlık Kanser İmmünoterapisi İş Birliği Sona Erdi",
-            "original_title": "Astellas Scraps Up-to-$1.7B CytomX Cancer Immunotherapy Collaboration",
-            "content": "Astellas ve CytomX arasında 1,7 milyar dolara kadar değer biçilen kanser immünoterapisi iş birliği sona erdi. İş birliğinin ilk kamuya açık sorun işareti, 2025'in ilk çeyreğinde ortaya çıktı. Bu dönemde Astellas, şirketlerin ilk iş birliği hedefi için başlattığı IND (Investigational New Drug) hazırlık faaliyetlerine devam etmeme kararı aldı. Bunun yerine, ikinci iş birliği hedefini önceliklendirmeyi seçerek molekül için GLP (Good Laboratory Practices) toksikoloji çalışmalarını başlattı.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/cancer/astellas-scraps-up-to-1-7b-cytomx-cancer-immunotherapy-collaboration/)",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/astellas-scraps-up-to-1-7b-cytomx-cancer-immunotherapy-collaboration/",
-            "date": "2026-03-17T21:48:53.448625",
-            "timestamp": 1773784133.448634
-        },
-        {
-            "title": "Çalışma Belleğinin Kısa Dönemli Plastisitesinin Haritalandırılması",
-            "original_title": "Mapping the Short-Term Plasticity of Working Memory",
-            "content": "Yeni araştırmalar, sinapsların aktivite sırasında 'güçlenmesini' sağlayan kilit protein olarak Munc13-1'i tanımlıyor. Bu süreç, günlük bilgilerin tutulması için hayati öneme sahiptir. Çalışma belleği, beynin kısa süreli bilgi depolama ve işleme kapasitesini ifade eder. Sinaptik plastisite ise sinapsların işlevselliğini aktiviteye bağlı olarak değiştirme yeteneğidir. Araştırmacılar Munc13-1 proteininin, sinaptik plastisitenin sağlanmasında kritik bir rol oynadığını keşfettiler. Bu proteinin varlığı, sinapsların bilgi depolama kapasitesini artırarak çalışma belleğinin etkinliğini geliştirmektedir. Araştırmanın bulguları, çalışma belleği ile ilişkili bozuklukların tedavisinde yeni hedefler sunabilir. Bu keşif, sinaptik mekanizmaların daha iyi anlaşılması ve nörolojik hastalıkların tedavisinde potansiyel yaklaşımlar geliştirilmesi açısından önemli bir adımdır.\n\nKaynak: Neuroscience News (2023)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/munc13-working-memory-synapse-30331/",
-            "date": "2026-03-17T19:14:41.539475",
-            "timestamp": 1773774881.539483
         }
     ]
 }
