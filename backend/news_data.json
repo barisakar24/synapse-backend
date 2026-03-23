@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-03-23T16:05:09.073454",
+    "last_updated": "2026-03-23T19:07:16.861976",
     "daily_news": {
-        "title": "Hayvan Refahı Hareketi ve Beyaz Saray'ın Yapay Zeka Politikası",
-        "original_title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
-        "content": "Hayvan refahı hareketi, yapay zeka (YZ) teknolojisini kullanarak yeni bir ivme kazanmayı hedefliyor. Şubat ayının başlarında, hayvan refahı savunucuları ve YZ araştırmacıları, ayakkabısız bir çalışma ortamı olan Mox'ta bir araya geldi. Bay Area merkezli bu girişim, hayvan refahı hareketine yeni bir boyut kazandırmayı amaçlıyor. \n\nBu hareket, hayvanların yaşam koşullarını iyileştirmek için YZ teknolojilerinden nasıl yararlanılabileceğini araştırıyor. Yapay zeka, hayvan davranışlarını daha iyi anlamak ve onların ihtiyaçlarını daha etkili bir şekilde karşılamak için kullanılabilecek. \n\nAynı zamanda, Beyaz Saray da kendi YZ politikasını açıkladı. Beyaz Saray'ın yeni YZ politikası, teknoloji sektöründe etik standartların yükseltilmesini ve YZ'nin toplum üzerindeki etkilerinin dikkatlice ele alınmasını hedefliyor. Bu politika, YZ'nin sorumlu bir şekilde geliştirilmesini teşvik etmeyi ve olası etik sorunları önlemeyi amaçlıyor.\n\nBu gelişmeler, hem hayvan refahı hareketi hem de YZ politikaları açısından önemli adımlar olarak değerlendiriliyor. YZ'nin toplumun farklı alanlarında nasıl daha fazla entegre edileceği ve bu süreçte etik standartların nasıl korunacağı, önümüzdeki dönemde sıkça tartışılacak konular arasında yer alacak. \n\nKaynak: MIT Technology Review",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
-        "date": "2026-03-23T13:27:17.589666",
-        "timestamp": 1774272437.589679
+        "title": "Babalarda Doğum Sonrası Depresyon Bir Yıl Sonra Zirve Yapıyor",
+        "original_title": "Paternal Depression Spikes One Year After Childbirth",
+        "content": "Bir milyondan fazla baba üzerinde yapılan bir araştırma, doğumdan bir yıl sonra babalarda depresyon ve stresle ilgili bozuklukların %30 oranında arttığını gösteriyor. Araştırmacılar, sağlık hizmeti sağlayıcılarına babaların ruh sağlığını doğum sonrası dönemin ötesinde de izlemelerini tavsiye ediyor. Bu bulgular, babaların da anneler kadar doğum sonrası dönemde ruh sağlığı sorunları yaşayabileceğini ortaya koyuyor. Dolayısıyla, babaların mental sağlık durumları da dikkatle izlenmeli ve gerekirse erken müdahale edilmelidir. Araştırmacılar, bu dönemde babalara yönelik destek mekanizmalarının geliştirilmesi gerektiğini vurguluyor. Babalarda gözlemlenen depresyon belirtileri arasında enerji kaybı, ilgi eksikliği ve günlük aktivitelerde zorlanma yer alıyor. Bu belirtiler, aile içindeki dinamikleri de olumsuz etkileyebiliyor. Dolayısıyla, babaların ruh sağlığının desteklenmesi, hem bireysel hem de ailevi düzeyde önemli bir ihtiyaç olarak karşımıza çıkıyor.\n\nKaynak: Neuroscience News",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/paternal-depression-delayed-childbirt-30367/",
+        "date": "2026-03-23T19:06:54.981648",
+        "timestamp": 1774292814.981659
     },
     "news_list": [
+        {
+            "title": "Babalarda Doğum Sonrası Depresyon Bir Yıl Sonra Zirve Yapıyor",
+            "original_title": "Paternal Depression Spikes One Year After Childbirth",
+            "content": "Bir milyondan fazla baba üzerinde yapılan bir araştırma, doğumdan bir yıl sonra babalarda depresyon ve stresle ilgili bozuklukların %30 oranında arttığını gösteriyor. Araştırmacılar, sağlık hizmeti sağlayıcılarına babaların ruh sağlığını doğum sonrası dönemin ötesinde de izlemelerini tavsiye ediyor. Bu bulgular, babaların da anneler kadar doğum sonrası dönemde ruh sağlığı sorunları yaşayabileceğini ortaya koyuyor. Dolayısıyla, babaların mental sağlık durumları da dikkatle izlenmeli ve gerekirse erken müdahale edilmelidir. Araştırmacılar, bu dönemde babalara yönelik destek mekanizmalarının geliştirilmesi gerektiğini vurguluyor. Babalarda gözlemlenen depresyon belirtileri arasında enerji kaybı, ilgi eksikliği ve günlük aktivitelerde zorlanma yer alıyor. Bu belirtiler, aile içindeki dinamikleri de olumsuz etkileyebiliyor. Dolayısıyla, babaların ruh sağlığının desteklenmesi, hem bireysel hem de ailevi düzeyde önemli bir ihtiyaç olarak karşımıza çıkıyor.\n\nKaynak: Neuroscience News",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/paternal-depression-delayed-childbirt-30367/",
+            "date": "2026-03-23T19:06:54.981648",
+            "timestamp": 1774292814.981659
+        },
+        {
+            "title": "Hafif Hipoksi Erken Doğan Beynini Zarar Vermeden Yeniden Şekillendiriyor",
+            "original_title": "Mild Hypoxia Rewires the Preterm Brain Without Direct Injury",
+            "content": "Özet: Erken doğan bebeklerde hafif hipoksi, hipokampustaki protein kanallarını değiştirerek hafıza üzerinde olumsuz etkiler yapmaktadır. Araştırmacılar, bu hafıza bozukluklarını yetişkin modellerde başarıyla tersine çevirmiş ve uzun vadeli bilişsel sorunların tedavisi için potansiyel bir hedef belirlemişlerdir.\n\nHafif hipoksi, oksijen eksikliği nedeniyle erken doğan bebeklerin beyin gelişimini etkileyen bir durumdur. Bu durum, özellikle hafıza ve öğrenme süreçlerinde önemli rol oynayan hipokampusta protein kanallarında değişikliklere yol açmaktadır. Erken doğan bebeklerin beyinleri, yeterli oksijen alamadıklarında hipoksiye maruz kalır ve bu durum, nörolojik gelişim üzerinde kalıcı etkiler bırakabilir.\n\nAraştırmalar, hafif hipoksinin doğrudan beyin hasarı yaratmadığını, ancak beyin yapılarını ve işlevlerini yeniden şekillendirdiğini göstermektedir. Bu, hafıza fonksiyonları üzerinde olumsuz etkilere neden olabilir. Ancak yeni bulgular, bu etkilerin yetişkinlik döneminde tersine çevrilebileceğini göstermektedir.\n\nBilim insanları, yetişkin modeller üzerinde yaptıkları çalışmalarda, hafif hipokside meydana gelen bu hafıza bozukluklarını başarıyla geri çevirmiştir. Bu gelişme, hafif hipoksi nedeniyle bilişsel işlev bozukluğu yaşayan bireyler için umut verici bir tedavi hedefi oluşturmaktadır.\n\nSonuç olarak, hafif hipoksiye maruz kalan erken doğan bebeklerin uzun vadeli bilişsel sorunları, hipokampustaki protein kanalları üzerinde yapılan müdahalelerle potansiyel olarak tedavi edilebilir. Bu buluş, nörobilim alanında önemli bir ilerleme olarak kabul edilmektedir.\n\nKaynak: Neuroscience News",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/preterm-hypoxia-memory-hippocampus-30366/",
+            "date": "2026-03-23T19:07:04.658268",
+            "timestamp": 1774292824.658278
+        },
+        {
+            "title": "Yapay Zeka Destekli Yanılsamalar Hakkında Cevaplanması En Zor Soru",
+            "original_title": "The hardest question to answer about AI-fueled delusions",
+            "content": "Bu hikaye, haftalık yapay zeka bültenimiz The Algorithm'de ilk olarak yayınlandı. Bu tür hikayeleri ilk olarak gelen kutunuzda görmek için buradan abone olun. Bu haftaki bülteni, yapay zeka ve İran hakkında, özellikle de geçen Salı günü kırdığımız haber olan Pentagon'un yapay zeka şirketlerinin İran'da eğitim alması için planlar yaptığı haberine odaklanarak yazmayı planlamıştım. Ancak, yapay zekanın yanılsamaları nasıl beslediği konusundaki karmaşık sorulara yanıt bulmanın daha zor olduğu ortaya çıktı. Yapay zeka algoritmalarının, kullanıcıların gerçeklik algısını nasıl şekillendirdiği ve bu algının ne kadarının doğru olduğuna dair tartışmalar sürüyor. Bu konular, hem etik hem de toplumsal açıdan derinlemesine incelenmesi gereken meseleler olarak karşımıza çıkıyor. Algoritmaların, kullanıcıları yanıltıcı ve yanlış bilgilere yönlendirme potansiyeli, teknolojinin sorumlu kullanımı üzerine ciddi soruları gündeme getiriyor. Makine öğrenimi ve derin öğrenme gibi yapay zeka teknikleri, karmaşık veri setlerini analiz etmekte ve tahminlerde bulunmakta oldukça etkili. Ancak, bu teknolojilerin yanlış ellerde veya yanlış amaçlarla kullanılması, bilgi kirliliğine yol açabilir ve toplumda yanılsamalar yaratabilir. Bu bağlamda, yapay zekanın denetimi ve regülasyonu kritik bir öneme sahiptir. Yapay zeka destekli yanılsamaların etkilerini en aza indirmek ve teknolojiyi sorumlu bir şekilde kullanmak için daha fazla araştırma ve düzenleme gerekmektedir. \n\nKaynak: MIT Technology Review. (tarih). The hardest question to answer about AI-fueled delusions. https://www.technologyreview.com/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+            "date": "2026-03-23T19:07:16.649362",
+            "timestamp": 1774292836.649372
+        },
         {
             "title": "Hayvan Refahı Hareketi ve Beyaz Saray'ın Yapay Zeka Politikası",
             "original_title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
@@ -480,36 +510,6 @@
             "link": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
             "date": "2026-03-18T10:03:08.913872",
             "timestamp": 1773828188.913883
-        },
-        {
-            "title": "Çocukluk Stresi, Ömür Boyu Sindirim Sorunlarına Yol Açabilir",
-            "original_title": "Scientists link childhood stress to lifelong digestive issues",
-            "content": "Erken yaşta yaşanan stresin, bağırsak-beyin bağlantısını bozarak uzun vadeli sindirim sorunlarına zemin hazırlayabileceği ortaya çıktı. Hem fareler üzerinde hem de binlerce çocuk üzerinde yapılan araştırmalar, stresin ağrı, kabızlık ve irritabl bağırsak sendromu (IBS) gibi semptomlarla bağlantılı olduğunu buldu. Bilim insanları, farklı biyolojik yolların farklı bağırsak sorunlarını kontrol ettiğini keşfederek gelecekte daha kişiselleştirilmiş tedavilere işaret etti. Araştırma ayrıca, bir çocuğun erken dönem çevresinin sadece duygusal değil, aynı zamanda kalıcı fiziksel etkiler de bırakabileceğini vurguluyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260317064444.htm",
-            "date": "2026-03-18T02:54:49.764268",
-            "timestamp": 1773802489.764278
-        },
-        {
-            "title": "Pentagon, Yapay Zekanın Gizli Verilerle Eğitilmesi İçin Plan Yapıyor",
-            "original_title": "The Pentagon is planning for AI companies to train on classified data, defense official says",
-            "content": "Pentagon, generatif yapay zeka şirketlerinin askeriye özelinde geliştirdikleri modellerini gizli veriler üzerinde eğitebilmeleri için güvenli ortamlar oluşturmayı planlıyor. MIT Technology Review'un öğrendiğine göre, bu planlar henüz tartışma aşamasında. Anthropic'in Claude gibi yapay zeka modelleri, halihazırda gizli ortamlarda soru cevaplamak için kullanılıyor; bu uygulamalar arasında İran'daki hedeflerin analiz edilmesi de yer alıyor. Ancak modellerin bu tür veriler üzerinde eğitilmesine izin verilmesi, daha önce görülmemiş bir adım olacak.\n\nBu tür bir eğitimin, yapay zekanın askeri operasyonlardaki etkinliğini artırabileceği düşünülüyor. Ancak, gizli verilerin güvenliği ve yapay zeka modellerinin nasıl kontrol edileceği konusunda önemli endişeler de mevcut. Pentagon, bu sürecin güvenli ve verimli bir şekilde yönetilebilmesi için çeşitli stratejiler geliştirmeyi hedefliyor. Bu tür bir girişim, yapay zeka teknolojilerinin askeri kullanımı için yeni bir dönemin başlangıcı olabilir.\n\nKaynak:\nMIT Technology Review. (2023). The Pentagon is planning for AI companies to train on classified data, defense official says. MIT Technology Review. ",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/",
-            "date": "2026-03-18T02:54:55.273530",
-            "timestamp": 1773802495.273538
-        },
-        {
-            "title": "Axplora, İtalya'daki Farmabios Tesislerini Genişletiyor",
-            "original_title": "Axplora Expands Manufacturing Facilities at Its Italian Farmabios Site",
-            "content": "Axplora, İtalya'daki Farmabios tesislerinde üretim kapasitesini artırıyor. Bu yatırım, Axplora ağındaki son genişlemelerin bir parçası olarak dikkat çekiyor. Şirket, Fransa'nın Le Mans şehrinde yer alan ve ADC ve sitotoksik ilaçların üretimiyle uğraşan tesisinde, çok milyon euroluk liyofilizasyon genişlemesi gerçekleştirmişti. Bu yeni genişleme ile Axplora, küresel biyoteknoloji ve genetik mühendisliği alanında önemli bir adım daha atmış oluyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). Axplora expands manufacturing facilities at its Italian Farmabios site. Retrieved from https://www.genengnews.com/topics/bioprocessing/axplora-expands-manufacturing-facilities-at-its-italian-farmabios-site/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/bioprocessing/axplora-expands-manufacturing-facilities-at-its-italian-farmabios-site/",
-            "date": "2026-03-18T02:54:59.901522",
-            "timestamp": 1773802499.901531
         }
     ]
 }
