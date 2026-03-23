@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-03-22T21:34:22.661916",
+    "last_updated": "2026-03-23T02:57:04.981143",
     "daily_news": {
-        "title": "Novartis, Pikavation'ı 3 Milyar Dolara Kadar Satın Alarak Kanser Araştırmalarını Genişletiyor",
-        "original_title": "Novartis Acquires Pikavation for up to $3B, Expanding Cancer Pipeline",
-        "content": "Novartis, Pikavation'ı 3 milyar dolara kadar bir bedelle satın alarak kanser araştırmalarındaki portföyünü genişletiyor. Pikavation'ın önde gelen projeleri arasında yer alan SNV4818, pan-mutant selektif PI3Kα (fosfatidilinositol-4,5-bisfosfat 3-kinaz katalitik alt birimi alfa) inhibitörü olarak dikkat çekiyor. Bu inhibitör, hormon reseptörü pozitif/insan epidermal büyüme faktörü reseptörü 2-negatif (HR+/HER2-) metastatik meme kanseri ve diğer solid tümörlerin tedavisi için erken aşama klinik denemelerde bulunuyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Novartis Acquires Pikavation for up to $3B, Expanding Cancer Pipeline. https://www.genengnews.com/topics/cancer/novartis-acquires-pikavation-for-up-to-3b-expanding-cancer-pipeline/",
-        "category": "Genetik",
-        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/cancer/novartis-acquires-pikavation-for-up-to-3b-expanding-cancer-pipeline/",
-        "date": "2026-03-22T21:34:22.661867",
-        "timestamp": 1774215262.661878
+        "title": "CytomX Hisseleri Kolorektal Kanser Verileriyle Dalgalandı",
+        "original_title": "StockWatch: CytomX Shares Yo-Yo on Colorectal Cancer Data",
+        "content": "CytomX'in yeni ilacı Varseta-M, kolorektal kanser hastalarında yüzde 32'lik bir genel yanıt oranı (ORR) ve 10 mg/kg'lık yüksek dozda 7.1 ay medyan progresyonsuz sağkalım (mPFS) elde etti. Bu olumlu haberin ardından CytomX hisseleri yüzde 75 yükselerek 4.68 dolardan 8.20 dolara fırladı. Ancak daha sonra yüzde 44'lük bir kazançla günü 6.75 dolardan kapatarak bir miktar geri çekildi. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News, https://www.genengnews.com/topics/cancer/stockwatch-cytomx-shares-yo-yo-on-colorectal-cancer-data/",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/cancer/stockwatch-cytomx-shares-yo-yo-on-colorectal-cancer-data/",
+        "date": "2026-03-23T02:57:04.981081",
+        "timestamp": 1774234624.981094
     },
     "news_list": [
+        {
+            "title": "CytomX Hisseleri Kolorektal Kanser Verileriyle Dalgalandı",
+            "original_title": "StockWatch: CytomX Shares Yo-Yo on Colorectal Cancer Data",
+            "content": "CytomX'in yeni ilacı Varseta-M, kolorektal kanser hastalarında yüzde 32'lik bir genel yanıt oranı (ORR) ve 10 mg/kg'lık yüksek dozda 7.1 ay medyan progresyonsuz sağkalım (mPFS) elde etti. Bu olumlu haberin ardından CytomX hisseleri yüzde 75 yükselerek 4.68 dolardan 8.20 dolara fırladı. Ancak daha sonra yüzde 44'lük bir kazançla günü 6.75 dolardan kapatarak bir miktar geri çekildi. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News, https://www.genengnews.com/topics/cancer/stockwatch-cytomx-shares-yo-yo-on-colorectal-cancer-data/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/stockwatch-cytomx-shares-yo-yo-on-colorectal-cancer-data/",
+            "date": "2026-03-23T02:57:04.981081",
+            "timestamp": 1774234624.981094
+        },
         {
             "title": "Novartis, Pikavation'ı 3 Milyar Dolara Kadar Satın Alarak Kanser Araştırmalarını Genişletiyor",
             "original_title": "Novartis Acquires Pikavation for up to $3B, Expanding Cancer Pipeline",
@@ -500,16 +510,6 @@
             "link": "https://neurosciencenews.com/eye-closure-hearing-noise-30330/",
             "date": "2026-03-17T19:14:46.396914",
             "timestamp": 1773774886.396923
-        },
-        {
-            "title": "Canlı İnsan Beyninde Gen Aktivitesinin Haritalanması",
-            "original_title": "Mapping Gene Activity in the Living Human Brain",
-            "content": "Yeni araştırmalar, canlı insanlarda gerçek zamanlı nörotransmisyonu yönlendiren spesifik 'genetik yazılımı' tanımlayarak psikiyatrik tedavi için yeni bir ufuk sunuyor. Beyin üzerinde yapılan bu araştırmalar, genlerin nasıl çalıştığını ve beynin fonksiyonlarını nasıl etkilediğini anlama konusunda önemli adımlar atıyor. Bu, özellikle nörotransmitterlerin nasıl düzenlendiğini ve beyin hücreleri arasındaki iletişimi nasıl etkilediğini anlamak için kritik öneme sahip. Gelecekte, bu genetik yazılımın manipülasyonu ile ruhsal bozuklukların tedavisinde daha etkili yöntemler geliştirilmesi mümkün olabilir. Bu, gen ekspresyonunun nörotransmisyon üzerindeki etkileri hakkındaki bilgi boşluklarını doldurabilir ve nörobilim alanında devrim yaratabilir.\n\nKaynak: Neuroscience News (2023). Mapping Gene Activity in the Living Human Brain. https://neurosciencenews.com/gene-expression-neurotransmission-30329/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/gene-expression-neurotransmission-30329/",
-            "date": "2026-03-17T16:12:05.767275",
-            "timestamp": 1773763925.767285
         }
     ]
 }
