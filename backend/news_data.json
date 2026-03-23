@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-03-23T10:10:13.088151",
+    "last_updated": "2026-03-23T13:27:17.851592",
     "daily_news": {
-        "title": "Alzheimer'ın Beyindeki Gizli 'Ölüm Anahtarı' Keşfedildi",
-        "original_title": "Scientists discover Alzheimer’s hidden “death switch” in the brain",
-        "content": "Bilim insanları, Alzheimer hastalığını tetikleyebilecek gizli bir 'ölüm anahtarı'nı beyinde keşfetti ve hatta farelerde bunu kapatmanın bir yolunu buldu. Suçlu olan, birleştiğinde beyin hücrelerinin yok olmasına ve hafıza kaybına yol açan iki proteinin toksik birleşimi. Araştırmacılar, bu ölümcül ikiliyi ayırmak için yeni bir bileşik kullanarak, hastalığın ilerlemesini yavaşlatmayı, beyin hücrelerini korumayı ve hatta karakteristik amiloid birikimini azaltmayı başardılar.\n\nKaynak: Mind & Brain News -- ScienceDaily (APA: Mind & Brain News. (tarih). Scientists discover Alzheimer’s hidden “death switch” in the brain. ScienceDaily. URL)",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260323005526.htm",
-        "date": "2026-03-23T10:10:05.726185",
-        "timestamp": 1774260605.726196
+        "title": "Hayvan Refahı Hareketi ve Beyaz Saray'ın Yapay Zeka Politikası",
+        "original_title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
+        "content": "Hayvan refahı hareketi, yapay zeka (YZ) teknolojisini kullanarak yeni bir ivme kazanmayı hedefliyor. Şubat ayının başlarında, hayvan refahı savunucuları ve YZ araştırmacıları, ayakkabısız bir çalışma ortamı olan Mox'ta bir araya geldi. Bay Area merkezli bu girişim, hayvan refahı hareketine yeni bir boyut kazandırmayı amaçlıyor. \n\nBu hareket, hayvanların yaşam koşullarını iyileştirmek için YZ teknolojilerinden nasıl yararlanılabileceğini araştırıyor. Yapay zeka, hayvan davranışlarını daha iyi anlamak ve onların ihtiyaçlarını daha etkili bir şekilde karşılamak için kullanılabilecek. \n\nAynı zamanda, Beyaz Saray da kendi YZ politikasını açıkladı. Beyaz Saray'ın yeni YZ politikası, teknoloji sektöründe etik standartların yükseltilmesini ve YZ'nin toplum üzerindeki etkilerinin dikkatlice ele alınmasını hedefliyor. Bu politika, YZ'nin sorumlu bir şekilde geliştirilmesini teşvik etmeyi ve olası etik sorunları önlemeyi amaçlıyor.\n\nBu gelişmeler, hem hayvan refahı hareketi hem de YZ politikaları açısından önemli adımlar olarak değerlendiriliyor. YZ'nin toplumun farklı alanlarında nasıl daha fazla entegre edileceği ve bu süreçte etik standartların nasıl korunacağı, önümüzdeki dönemde sıkça tartışılacak konular arasında yer alacak. \n\nKaynak: MIT Technology Review",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
+        "date": "2026-03-23T13:27:17.589666",
+        "timestamp": 1774272437.589679
     },
     "news_list": [
+        {
+            "title": "Hayvan Refahı Hareketi ve Beyaz Saray'ın Yapay Zeka Politikası",
+            "original_title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
+            "content": "Hayvan refahı hareketi, yapay zeka (YZ) teknolojisini kullanarak yeni bir ivme kazanmayı hedefliyor. Şubat ayının başlarında, hayvan refahı savunucuları ve YZ araştırmacıları, ayakkabısız bir çalışma ortamı olan Mox'ta bir araya geldi. Bay Area merkezli bu girişim, hayvan refahı hareketine yeni bir boyut kazandırmayı amaçlıyor. \n\nBu hareket, hayvanların yaşam koşullarını iyileştirmek için YZ teknolojilerinden nasıl yararlanılabileceğini araştırıyor. Yapay zeka, hayvan davranışlarını daha iyi anlamak ve onların ihtiyaçlarını daha etkili bir şekilde karşılamak için kullanılabilecek. \n\nAynı zamanda, Beyaz Saray da kendi YZ politikasını açıkladı. Beyaz Saray'ın yeni YZ politikası, teknoloji sektöründe etik standartların yükseltilmesini ve YZ'nin toplum üzerindeki etkilerinin dikkatlice ele alınmasını hedefliyor. Bu politika, YZ'nin sorumlu bir şekilde geliştirilmesini teşvik etmeyi ve olası etik sorunları önlemeyi amaçlıyor.\n\nBu gelişmeler, hem hayvan refahı hareketi hem de YZ politikaları açısından önemli adımlar olarak değerlendiriliyor. YZ'nin toplumun farklı alanlarında nasıl daha fazla entegre edileceği ve bu süreçte etik standartların nasıl korunacağı, önümüzdeki dönemde sıkça tartışılacak konular arasında yer alacak. \n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
+            "date": "2026-03-23T13:27:17.589666",
+            "timestamp": 1774272437.589679
+        },
         {
             "title": "Alzheimer'ın Beyindeki Gizli 'Ölüm Anahtarı' Keşfedildi",
             "original_title": "Scientists discover Alzheimer’s hidden “death switch” in the brain",
@@ -500,16 +510,6 @@
             "link": "https://www.genengnews.com/topics/bioprocessing/axplora-expands-manufacturing-facilities-at-its-italian-farmabios-site/",
             "date": "2026-03-18T02:54:59.901522",
             "timestamp": 1773802499.901531
-        },
-        {
-            "title": "Metapipeline-DNA: Genom Dizileme Analizinde Yeni Dönem",
-            "original_title": "Metapipeline-DNA Automates and Standardizes Genome Sequencing Analysis",
-            "content": "Araştırmacılar, ham dizileme okumalarını genetik özellikler ve evrimsel özelliklere dönüştürebilen, otomatikleştirilmiş, yüksek derecede özelleştirilebilir ve hesaplama açısından bağımsız, ölçeklenebilir bulut uyumlu bir DNA dizileme analiz hattı geliştirdiler. Metapipeline-DNA adı verilen bu sistem, büyük ve karmaşık dizileme veri kümelerinin üstesinden gelebilme kapasitesine sahip. Bu yenilik, araştırmacıların dizileme verilerini daha hızlı ve etkili bir şekilde analiz etmelerini sağlayarak genetik mühendisliği ve biyoteknoloji alanlarında önemli ilerlemelere kapı aralayacak.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Metapipeline-DNA Automates and Standardizes Genome Sequencing Analysis. https://www.genengnews.com/topics/artificial-intelligence/metapipeline-dna-automates-and-standardizes-genome-sequencing-analysis/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/artificial-intelligence/metapipeline-dna-automates-and-standardizes-genome-sequencing-analysis/",
-            "date": "2026-03-17T21:48:48.725573",
-            "timestamp": 1773784128.725584
         }
     ]
 }
