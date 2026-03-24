@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-24T13:43:15.298789",
+    "last_updated": "2026-03-24T16:13:24.175656",
     "daily_news": {
-        "title": "Modifiye Lipid Nanopartiküllerle mRNA Aşı Teslimatında Yenilik",
-        "original_title": "Modified Lipid Nanoparticles Boost mRNA Vaccine Delivery to Lymph Nodes",
-        "content": "<p>Bilim insanları, karaciğeri atlayarak doğrudan lenf düğümlerine ulaşan ve burada mRNA teslimatını artıran aromatik, biyoreducible lipid nanopartiküller geliştirdi. Bu yenilik, farelerde güçlü bağışıklık tepkilerini sürdürürken sistemik iltihabı azaltıyor ve hedef dışı etkileri en aza indiriyor.</p>\n<p>Geleneksel mRNA aşılarının karaciğer gibi organlarda yoğunlaşması, aşı etkinliğini sınırlayan ve istenmeyen yan etkilere neden olabilen bir durumdu. Ancak yeni geliştirilen nanopartiküller, bu sorunu aşarak doğrudan bağışıklık sisteminin merkezi olan lenf düğümlerine odaklanıyor. Bu sayede, mRNA'nın doğru yerlere ulaşması sağlanarak daha etkili bir bağışıklık tepkisi elde ediliyor.</p>\n<p>Bu teknolojinin, gelecekte daha düşük dozlarda daha etkili aşılar geliştirilmesine olanak tanıyabileceği düşünülüyor. Ayrıca, sistemik yan etkilerin azaltılması, aşıların geniş kitlelere daha güvenli bir şekilde uygulanabilmesi açısından önem taşıyor.</p>\n<p>Bu yenilik, genetik mühendislik ve biyoteknoloji alanında geleceğe yönelik umut verici gelişmelerden biri olarak dikkat çekiyor.</p>\n<p>Kaynak: GEN – Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/drug-discovery/modified-lipid-nanoparticles-boost-mrna-vaccine-delivery-to-lymph-nodes/)</p>",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/drug-discovery/modified-lipid-nanoparticles-boost-mrna-vaccine-delivery-to-lymph-nodes/",
-        "date": "2026-03-24T13:43:08.643469",
-        "timestamp": 1774359788.643475
+        "title": "Yapay Zeka 'Yaratıcılığı' İnsan Düşüncesinden Daha Öngörülebilir",
+        "original_title": "AI “Creativity” is More Predictable Than Human Thought",
+        "content": "Yeni araştırmalar, yapay zekanın 'yaratıcı' yanıtlar üretebilmesine rağmen, çıktılarının insan düşüncesinden çok daha tekrarlayıcı ve öngörülebilir olduğunu gösteriyor. Büyük Dil Modellerine (LLM'ler) dayanarak beyin fırtınası yapmak, insan fikirlerinin çeşitliliğini istemeden sınırlayabilir. Yapay zeka, belirli kalıplara ve algoritmalara dayalı olarak çalıştığından, ürettiği içerikler genellikle belirli bir düzende ve sınırlı bir yenilikle ortaya çıkıyor. İnsan yaratıcılığı ise deneyimler, duygular ve rastlantısal düşüncelerle şekillendiği için daha geniş bir yelpazede ve öngörülemez bir şekilde gelişiyor. Bu durum, yapay zekanın yaratıcı süreçlerde destekleyici bir araç olarak kullanılması gerektiğini, ancak insan yaratıcılığının yerini tam anlamıyla alamayacağını gösteriyor.\n\nKaynak: Neuroscience News (2023, Mart 26). AI 'Creativity' is More Predictable Than Human Thought. Neuroscience News. Erişim adresi: https://neurosciencenews.com/ai-creativity-homogeneity-llm-30371/.",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/ai-creativity-homogeneity-llm-30371/",
+        "date": "2026-03-24T16:13:16.018915",
+        "timestamp": 1774368796.018926
     },
     "news_list": [
+        {
+            "title": "Yapay Zeka 'Yaratıcılığı' İnsan Düşüncesinden Daha Öngörülebilir",
+            "original_title": "AI “Creativity” is More Predictable Than Human Thought",
+            "content": "Yeni araştırmalar, yapay zekanın 'yaratıcı' yanıtlar üretebilmesine rağmen, çıktılarının insan düşüncesinden çok daha tekrarlayıcı ve öngörülebilir olduğunu gösteriyor. Büyük Dil Modellerine (LLM'ler) dayanarak beyin fırtınası yapmak, insan fikirlerinin çeşitliliğini istemeden sınırlayabilir. Yapay zeka, belirli kalıplara ve algoritmalara dayalı olarak çalıştığından, ürettiği içerikler genellikle belirli bir düzende ve sınırlı bir yenilikle ortaya çıkıyor. İnsan yaratıcılığı ise deneyimler, duygular ve rastlantısal düşüncelerle şekillendiği için daha geniş bir yelpazede ve öngörülemez bir şekilde gelişiyor. Bu durum, yapay zekanın yaratıcı süreçlerde destekleyici bir araç olarak kullanılması gerektiğini, ancak insan yaratıcılığının yerini tam anlamıyla alamayacağını gösteriyor.\n\nKaynak: Neuroscience News (2023, Mart 26). AI 'Creativity' is More Predictable Than Human Thought. Neuroscience News. Erişim adresi: https://neurosciencenews.com/ai-creativity-homogeneity-llm-30371/.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/ai-creativity-homogeneity-llm-30371/",
+            "date": "2026-03-24T16:13:16.018915",
+            "timestamp": 1774368796.018926
+        },
+        {
+            "title": "Pandemi Sürecinin Çocukların Yönetsel Becerilerine Etkileri",
+            "original_title": "COVID-19’s Stalling Effect on Children’s Executive Function",
+            "content": "COVID-19 pandemisi, çocukların yönetsel becerilerinin gelişimini, aile gelirinden bağımsız olarak önemli ölçüde engelledi. Özellikle özdenetim ve dikkat gelişimindeki bu gecikme, pandemi sonrası akademik ve davranışsal sorunların ana nedeni olabilir. Yönetsel fonksiyonlar, planlama, problem çözme, dikkat, esneklik ve özdenetim gibi bilişsel süreçleri içerir. Bu beceriler, çocukların akademik başarıları ve sosyal ilişkileri için kritik öneme sahiptir. Yapılan araştırmalar, pandemi sürecinde okulların kapanması, sosyal izolasyon ve rutinlerin bozulması gibi faktörlerin çocukların bu becerilerinde gerilemelere yol açtığını göstermektedir. Bu durum, çocukların gelecekteki eğitim ve sosyal başarılarını olumsuz etkileyebilir. Uzmanlar, bu gerilemenin önüne geçmek için çocuklara uygun destek ve kaynakların sağlanması gerektiğini vurgulamaktadır. \n\nKaynak: Neuroscience News (2023). COVID-19's Stalling Effect on Children's Executive Function. Erişim adresi: https://neurosciencenews.com/covid-pandemic-child-executive-function-30370/.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/covid-pandemic-child-executive-function-30370/",
+            "date": "2026-03-24T16:13:23.117025",
+            "timestamp": 1774368803.117034
+        },
         {
             "title": "Yapay Zeka Destekli Yanılsamaların İzinde: OpenAI ve Microsoft'un Riskleri",
             "original_title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/cannabis-disorder-adolescent-psychosis-30337/",
             "date": "2026-03-18T21:42:52.665567",
             "timestamp": 1773870172.665577
-        },
-        {
-            "title": "Çift Vektör Sistemi ile Vücutta CAR T Hücrelerinin Üretilmesi",
-            "original_title": "Dual-Vector System Generates CAR T Cells In Vivo",
-            "content": "Bilim insanları, CAR T hücrelerini <i>in vivo</i> üretmek için iki vektörlü bir strateji geliştirdiler. Bu strateji, ön klinik model testlerinde agresif lösemi, multipl miyelom ve hatta bir solid tümörü tedavi etti.\n\nCAR T hücre tedavileri, kanserle savaşmak amacıyla bağışıklık sisteminin T hücrelerini genetik olarak modifiye ederek hastanın vücuduna geri verilmesi esasına dayanır. Ancak bu süreç genellikle pahalı ve zaman alıcıdır, çünkü hücrelerin hastadan alınıp laboratuvar ortamında modifiye edilmesi ve ardından tekrar hastaya verilmesi gerekmektedir.\n\nYeni geliştirilen iki-vectörlü sistem ise bu süreci daha hızlı ve etkili hale getirmeyi hedefliyor. Vektörler, T hücrelerini vücut içinde modifiye ederek CAR T hücrelerinin direkt olarak hastanın vücudunda oluşmasını sağlıyor. Bu yöntem, tedavi maliyetlerini düşürürken aynı zamanda tedavi sürecini de hızlandırabilir.\n\nAraştırmalar, bu sistemin lösemi ve multipl miyelom gibi kan kanserlerinin yanı sıra solid tümörler üzerinde de etkili olabileceğini gösteriyor. Bu durum, CAR T hücre tedavilerinin kullanım alanını genişletebilir ve birçok hasta için yeni umutlar doğurabilir.\n\nBu yenilikçi yaklaşım, kanser tedavilerinde devrim niteliğinde bir adım olabilir ve gelecekte daha geniş kapsamlı klinik araştırmalarla desteklenmesi bekleniyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/drug-discovery/dual-vector-system-generates-car-t-cells-in-vivo/)",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/drug-discovery/dual-vector-system-generates-car-t-cells-in-vivo/",
-            "date": "2026-03-18T21:43:00.923451",
-            "timestamp": 1773870180.923459
-        },
-        {
-            "title": "Trilyon Gen Atlası: Yeni Nesil AI Terapötikleri İçin Evrimsel Verilerde Büyük Genişleme",
-            "original_title": "Trillion Gene Atlas Expands Evolutionary Datasets for Next-Generation AI Therapeutics",
-            "content": "<p>Basecamp Research, Trilyon Gen Atlası'nı ortaklarıyla birlikte başlatarak, 100 milyon türden genomik veri toplamayı hedefliyor. Bu proje, genetik çeşitliliği 100 kat artırarak, yapay zeka modellerinin daha hızlı ve ölçeklenebilir ilaç keşfi yapabilmesini sağlayacak.</p>\n<p>Trilyon Gen Atlası, dünya çapında geniş bir biyolojik ve genetik veri tabanı oluşturmayı amaçlıyor. Bu veriler, yapay zeka destekli terapötik çözümlerin geliştirilmesinde kullanılacak. Projenin odak noktası, genetik çeşitliliği artırarak, hastalıkların tedavisi için yeni ve etkili yollar bulmak.</p>\n<p>Bu öncü girişim, sadece ilaç keşfi sürecini hızlandırmakla kalmayacak, aynı zamanda biyoteknoloji ve gen mühendisliği alanında yeni ufuklar açacak. Yapay zeka algoritmaları, bu genişletilmiş veri setleri sayesinde daha doğru tahminler yapabilecek ve tedavi süreçlerini optimize edebilecek.</p>\n<p>Basecamp Research, bu devasa projeyi gerçekleştirebilmek için çeşitli üniversiteler ve araştırma enstitüleri ile işbirliği yapıyor. Proje, genetik araştırmaların kapsamını genişleterek, geleceğin sağlık çözümlerine ışık tutacak.</p>\n<p>Kaynak: GEN - Genetic Engineering and Biotechnology News</p>\n<p>Referans: GEN – Genetic Engineering and Biotechnology News. (2023). Trillion Gene Atlas Expands Evolutionary Datasets for Next-Generation AI Therapeutics. Retrieved from https://www.genengnews.com/topics/artificial-intelligence/trillion-gene-atlas-expands-evolutionary-datasets-for-next-generation-ai-therapeutics/</p>",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/artificial-intelligence/trillion-gene-atlas-expands-evolutionary-datasets-for-next-generation-ai-therapeutics/",
-            "date": "2026-03-18T21:43:07.002384",
-            "timestamp": 1773870187.002393
         }
     ]
 }
