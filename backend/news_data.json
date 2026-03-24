@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-24T19:16:26.726016",
+    "last_updated": "2026-03-24T21:47:26.654782",
     "daily_news": {
-        "title": "Yaşlanma ve Beyin Gerilemesi Arasındaki Yeni Bağlantı Keşfedildi",
-        "original_title": "A New Link Between Aging and Brain Decline",
-        "content": "Bilim insanları, hem progeria benzeri yaşlanmaya hem de beyin bozukluklarına neden olan yeni bir hastalık keşfetti. Bu durum, IVNS1ABP mutasyonu olarak adlandırılan genetik bir değişiklikten kaynaklanıyor. Araştırmalar, bu mutasyonun yaşlanma sürecini hızlandırdığını ve beyinde bilişsel bozukluklara yol açtığını gösteriyor. Progeria, çocuklarda erken yaşlanmaya neden olan nadir bir genetik hastalıktır. Ancak IVNS1ABP mutasyonu, hem yaşlanma belirtilerini hem de beyin fonksiyonlarındaki gerilemeyi tetikleyebilir. Bu yeni bulgular, yaşlanma sürecinin nasıl işlediğine dair önemli ipuçları sunarken, yaşa bağlı beyin hastalıklarının tedavisi için de yeni yollar açabilir.\n\nAPA Kaynağı: Neuroscience News. (2023). A New Link Between Aging and Brain Decline. https://neurosciencenews.com/ivns1abp-genetic-disease-aging-brain-30380/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/ivns1abp-genetic-disease-aging-brain-30380/",
-        "date": "2026-03-24T19:16:03.100768",
-        "timestamp": 1774379763.100781
+        "title": "Katı Tümörler için İmmünoterapide Metabolit Algılayıcı Reseptörlerle Yeni Dönem",
+        "original_title": "Immunotherapy for Solid Tumors Enhanced by Metabolite-Sensing Receptors",
+        "content": "Özet: Yeni bir yaklaşım, bağışıklık hücrelerini kanser hücrelerinin yan ürünlerini tanıyacak şekilde mühendislik ederek, katı tümörlere doğru göçü tetikler. Bu yöntem, kanser hücresinin yüzeyine bağlı proteinleri tanıyan CAR T-hücre tedavisinden farklıdır.\n\nDetaylı Makale: İmmünoterapide yenilikçi bir adım olarak, kanser hücrelerinin metabolitlerini algılayan bağışıklık hücreleri geliştirilmiştir. Bu yeni yöntem, kanser hücrelerinin ürettiği yan ürünleri tanıyan ve bu sinyaller doğrultusunda hareket eden bağışıklık hücrelerini içerir. Bu hücreler, katı tümörlere ulaşmak ve onları hedef almak için daha etkili bir yol sunmaktadır.\n\nGeleneksel CAR T-hücre terapisi, kanser hücresinin yüzeyine bağlı olan proteinleri tanıma prensibine dayanmaktadır. Ancak bu yeni yaklaşım, hücre yüzeyindeki proteinler yerine, hücrelerin metabolik faaliyetleri sonucunda oluşan yan ürünleri hedef alarak, bağışıklık sisteminin kanserli dokuları daha etkin bir şekilde tanımasına ve tepki vermesine olanak tanır.\n\nBu teknolojinin geliştirilmesi, katı tümörlerin tedavisinde önemli bir dönüm noktası olabilir. Metabolit algılayan reseptörlerle donatılmış bağışıklık hücreleri, sadece daha hassas bir hedefleme sağlamakla kalmaz, aynı zamanda kanserli dokuların mikro çevresindeki değişiklikleri de algılayarak, tedavinin etkinliğini artırabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (tarih). Immunotherapy for Solid Tumors Enhanced by Metabolite-Sensing Receptors. Erişim adresi: https://www.genengnews.com/topics/cancer/immunotherapy-for-solid-tumors-enhanced-by-metabolite-sensing-receptors/",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/cancer/immunotherapy-for-solid-tumors-enhanced-by-metabolite-sensing-receptors/",
+        "date": "2026-03-24T21:47:21.253267",
+        "timestamp": 1774388841.253277
     },
     "news_list": [
+        {
+            "title": "Katı Tümörler için İmmünoterapide Metabolit Algılayıcı Reseptörlerle Yeni Dönem",
+            "original_title": "Immunotherapy for Solid Tumors Enhanced by Metabolite-Sensing Receptors",
+            "content": "Özet: Yeni bir yaklaşım, bağışıklık hücrelerini kanser hücrelerinin yan ürünlerini tanıyacak şekilde mühendislik ederek, katı tümörlere doğru göçü tetikler. Bu yöntem, kanser hücresinin yüzeyine bağlı proteinleri tanıyan CAR T-hücre tedavisinden farklıdır.\n\nDetaylı Makale: İmmünoterapide yenilikçi bir adım olarak, kanser hücrelerinin metabolitlerini algılayan bağışıklık hücreleri geliştirilmiştir. Bu yeni yöntem, kanser hücrelerinin ürettiği yan ürünleri tanıyan ve bu sinyaller doğrultusunda hareket eden bağışıklık hücrelerini içerir. Bu hücreler, katı tümörlere ulaşmak ve onları hedef almak için daha etkili bir yol sunmaktadır.\n\nGeleneksel CAR T-hücre terapisi, kanser hücresinin yüzeyine bağlı olan proteinleri tanıma prensibine dayanmaktadır. Ancak bu yeni yaklaşım, hücre yüzeyindeki proteinler yerine, hücrelerin metabolik faaliyetleri sonucunda oluşan yan ürünleri hedef alarak, bağışıklık sisteminin kanserli dokuları daha etkin bir şekilde tanımasına ve tepki vermesine olanak tanır.\n\nBu teknolojinin geliştirilmesi, katı tümörlerin tedavisinde önemli bir dönüm noktası olabilir. Metabolit algılayan reseptörlerle donatılmış bağışıklık hücreleri, sadece daha hassas bir hedefleme sağlamakla kalmaz, aynı zamanda kanserli dokuların mikro çevresindeki değişiklikleri de algılayarak, tedavinin etkinliğini artırabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (tarih). Immunotherapy for Solid Tumors Enhanced by Metabolite-Sensing Receptors. Erişim adresi: https://www.genengnews.com/topics/cancer/immunotherapy-for-solid-tumors-enhanced-by-metabolite-sensing-receptors/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/immunotherapy-for-solid-tumors-enhanced-by-metabolite-sensing-receptors/",
+            "date": "2026-03-24T21:47:21.253267",
+            "timestamp": 1774388841.253277
+        },
+        {
+            "title": "Glioblastoma Büyüme Mekanizması Keşfedildi: Yeni Tedavi Hedefleri Belirlenebilir",
+            "original_title": "Glioblastoma Growth Mechanism Identified, Pointing to Potential Therapeutic Targets",
+            "content": "Bilim insanları, glioblastoma'nın büyümesini ve yayılmasını sağlayan kritik bir mekanizmayı ortaya çıkardı. Bu çalışmada, doğal bağışıklık kontrol noktası olan CD47'nin, tümör hücrelerinin içinde de doğrudan rol oynayarak, onların büyümelerine ve çevredeki beyin dokusuna yayılmalarına yardımcı olduğu gösterildi. \n\nGlioblastoma, beyin tümörlerinin en agresif türlerinden biri olarak bilinir ve tedavi edilmesi oldukça zordur. Bu yeni bulgu, CD47'nin sadece bağışıklık sistemi üzerinde değil, tümör hücreleri içinde de işlev gördüğünü ve bu nedenle potansiyel bir tedavi hedefi olabileceğini ortaya koymaktadır. Araştırmacılar, bu mekanizmayı hedef alarak geliştirilecek yeni tedavilerin, glioblastoma tedavisine katkı sağlayabileceğini belirtmektedir. \n\nBu çalışma, CD47'nin tümör hücrelerinde nasıl işlev gördüğünü anlamamıza yardımcı olmakla kalmayıp, aynı zamanda glioblastoma gibi zorlu kanser türleri için yeni tedavi stratejileri geliştirme yolunda umut vaat etmektedir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News, 2023",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/glioblastoma-growth-mechanism-identified-pointing-to-potential-therapeutic-targets/",
+            "date": "2026-03-24T21:47:26.654741",
+            "timestamp": 1774388846.654748
+        },
         {
             "title": "Yaşlanma ve Beyin Gerilemesi Arasındaki Yeni Bağlantı Keşfedildi",
             "original_title": "A New Link Between Aging and Brain Decline",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/dopamine-guidance-trajectory-30345/",
             "date": "2026-03-19T21:44:32.460442",
             "timestamp": 1773956672.460451
-        },
-        {
-            "title": "Otokolog Hücre Terapisinin Ticarileştirilmesi: Klinik Başarı ve Büyük Ölçekli Üretim Arasındaki Köprü",
-            "original_title": "Commercializing Autologous Cell Therapy: Bridging Clinical and Large-Scale Manufacturing",
-            "content": "Bu GEN web seminerinde, hücre ve gen terapisi üretiminde uzmanlar, klinik başarı ile ticari uygulanabilirlik arasındaki büyüyen kopukluğun arkasındaki itici güçleri inceleyecek ve bu geçişin neden ele alınması gerektiğini tartışacaklar. Klinik deneylerde elde edilen başarılar, genellikle bu tedavilerin geniş çapta ticari olarak uygulanabilir hale getirilmesiyle örtüşmeyebilir. Bu nedenle, klinik araştırmalardan büyük ölçekli üretime geçiş sürecinin planlanması ve optimize edilmesi büyük önem taşımaktadır. Uzmanlar, bu süreçte karşılaşılan teknik, ekonomik ve düzenleyici zorlukları ele alarak, otokolog hücre terapilerinin başarılı bir şekilde ticarileştirilmesi için atılması gereken adımları paylaşacaklar.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/multimedia/webinars/commercializing-autologous-cell-therapy-bridging-clinical-and-large-scale-manufacturing/",
-            "date": "2026-03-19T21:44:38.815693",
-            "timestamp": 1773956678.815702
-        },
-        {
-            "title": "Baylor Tıp Fakültesi, Kanser Proteomikleri için Nautilus'un Voyager Platformunu Kullanıyor",
-            "original_title": "Baylor College of Medicine Taps Nautilus’ Voyager for Cancer Proteomics",
-            "content": "Baylor Tıp Fakültesi, kanser araştırmalarında kullanılmak üzere çoklu omik araç takımı geliştirmek amacıyla Nautilus'un Voyager platformunu kullanmaya başladı. Bu platform, tek molekül proteomikleri ve izoform düzeyinde analiz yapabilme yeteneği sunarak araştırmalarda büyük bir avantaj sağlıyor. Nautilus'un Voyager platformu, ilk erken erişim müşterisi olarak Baylor Tıp Fakültesi'nde konuşlandırılıyor. Bu iş birliği, kanser araştırmalarında daha derinlemesine analizler yapabilme ve yeni bulgular elde etme potansiyelini artırıyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/cancer/baylor-college-of-medicine-taps-nautilus-voyager-for-cancer-proteomics/)",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/baylor-college-of-medicine-taps-nautilus-voyager-for-cancer-proteomics/",
-            "date": "2026-03-19T21:44:41.709394",
-            "timestamp": 1773956681.709403
         }
     ]
 }
