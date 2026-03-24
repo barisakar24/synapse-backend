@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-03-23T21:46:27.475711",
+    "last_updated": "2026-03-24T02:49:12.050433",
     "daily_news": {
-        "title": "Multipl Sklerozun Görülme Sıklığı Son 20 Yılda İki Katına Çıktı",
-        "original_title": "Multiple Sclerosis Prevalence Doubled in Two Decades",
-        "content": "Multipl skleroz (MS) görülme sıklığı 2000 yılından bu yana iki katına çıktı. Bu artışın arkasındaki temel nedenler arasında daha iyi tanı yöntemlerinin geliştirilmesi ve yaşam süresinin uzaması yer alıyor. Ancak araştırmacılar, sosyo-ekonomik eşitsizliklerin önemli bir sorun teşkil ettiğine dikkat çekiyor. Özellikle dezavantajlı bölgelerde yaşayan hastalar, daha yüksek ölüm oranları ve gecikmiş tedavi süreçleri ile karşı karşıya kalıyor.\n\nAPA: Neuroscience News. (2023). Multiple Sclerosis Prevalence Doubled in Two Decades. https://neurosciencenews.com/ms-prevalence-doubles-30368/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/ms-prevalence-doubles-30368/",
-        "date": "2026-03-23T21:46:15.029491",
-        "timestamp": 1774302375.029498
+        "title": "HIV Tedavi Çekilmesinden Sonra Bazı Hastalarda Baskılanmış Kalıyor",
+        "original_title": "HIV Remains Suppressed in Some Patients After Treatment Withdrawal",
+        "content": "HIV ile yaşayan kişiler üzerinde yapılan bir araştırma, virüsün nadiren de olsa tedavi çekilmesinden sonra uzun süre baskılanmış halde kalabileceğini gösteriyor. Çalışma, ayrıca diyabet ilacı metforminin, uzun süreli remisyon sağlanmasına yardımcı olabileceğini işaret ediyor.\n\nAraştırmada, HIV tedavisi gören bazı bireylerin, tedaviden çekilme sonrasında bile virüsü baskı altında tutmaya devam ettikleri gözlemlendi. Bu durum, HIV'in doğal olarak kontrol altında tutulabileceği yönündeki umutları artırıyor. Araştırmacılar, özellikle metforminin bağışıklık sistemi üzerindeki olumlu etkilerinin, HIV'in kontrol altında tutulmasına katkı sağlayabileceğini belirtiyor.\n\nMetformin, genellikle tip 2 diyabet tedavisinde kullanılan bir ilaç olarak biliniyor ve bu çalışmanın bulguları, ilacın HIV tedavisinde de potansiyel bir rol oynayabileceğini gösteriyor. Araştırmacılar, metforminin bağışıklık sistemine olan etkilerini daha iyi anlayarak, HIV tedavisinde yeni stratejiler geliştirmeyi umuyorlar.\n\nBu çalışma, HIV tedavisinde yeni bir dönemin başlangıcı olabilir ve HIV ile yaşayan bireyler için umut verici gelişmeler sunabilir. Ancak, bu bulguların geniş çapta doğrulanması ve metforminin HIV tedavisindeki etkinliğinin daha detaylı araştırılması gerektiği belirtiliyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). HIV Remains Suppressed in Some Patients After Treatment Withdrawal. Erişim adresi: https://www.genengnews.com/topics/infectious-diseases/hiv-remains-suppressed-in-some-patients-after-treatment-withdrawal/",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/infectious-diseases/hiv-remains-suppressed-in-some-patients-after-treatment-withdrawal/",
+        "date": "2026-03-24T02:49:12.050378",
+        "timestamp": 1774320552.050388
     },
     "news_list": [
+        {
+            "title": "HIV Tedavi Çekilmesinden Sonra Bazı Hastalarda Baskılanmış Kalıyor",
+            "original_title": "HIV Remains Suppressed in Some Patients After Treatment Withdrawal",
+            "content": "HIV ile yaşayan kişiler üzerinde yapılan bir araştırma, virüsün nadiren de olsa tedavi çekilmesinden sonra uzun süre baskılanmış halde kalabileceğini gösteriyor. Çalışma, ayrıca diyabet ilacı metforminin, uzun süreli remisyon sağlanmasına yardımcı olabileceğini işaret ediyor.\n\nAraştırmada, HIV tedavisi gören bazı bireylerin, tedaviden çekilme sonrasında bile virüsü baskı altında tutmaya devam ettikleri gözlemlendi. Bu durum, HIV'in doğal olarak kontrol altında tutulabileceği yönündeki umutları artırıyor. Araştırmacılar, özellikle metforminin bağışıklık sistemi üzerindeki olumlu etkilerinin, HIV'in kontrol altında tutulmasına katkı sağlayabileceğini belirtiyor.\n\nMetformin, genellikle tip 2 diyabet tedavisinde kullanılan bir ilaç olarak biliniyor ve bu çalışmanın bulguları, ilacın HIV tedavisinde de potansiyel bir rol oynayabileceğini gösteriyor. Araştırmacılar, metforminin bağışıklık sistemine olan etkilerini daha iyi anlayarak, HIV tedavisinde yeni stratejiler geliştirmeyi umuyorlar.\n\nBu çalışma, HIV tedavisinde yeni bir dönemin başlangıcı olabilir ve HIV ile yaşayan bireyler için umut verici gelişmeler sunabilir. Ancak, bu bulguların geniş çapta doğrulanması ve metforminin HIV tedavisindeki etkinliğinin daha detaylı araştırılması gerektiği belirtiliyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). HIV Remains Suppressed in Some Patients After Treatment Withdrawal. Erişim adresi: https://www.genengnews.com/topics/infectious-diseases/hiv-remains-suppressed-in-some-patients-after-treatment-withdrawal/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/infectious-diseases/hiv-remains-suppressed-in-some-patients-after-treatment-withdrawal/",
+            "date": "2026-03-24T02:49:12.050378",
+            "timestamp": 1774320552.050388
+        },
         {
             "title": "Beyin Ağları Yaşam Boyu Nasıl 'Çözülüyor'?",
             "original_title": "How Brain Networks “Unravel” Over a Lifetime",
@@ -500,16 +510,6 @@
             "link": "https://www.genengnews.com/topics/bioprocessing/exozymes-cell-free-biomanufacturing-platform-gets-positive-feedback-from-cayman-chemical/",
             "date": "2026-03-18T19:14:33.038069",
             "timestamp": 1773861273.038077
-        },
-        {
-            "title": "Elektrorehoimaging ile Damla Viskozitesini Gerçek Zamanlı Yönetme",
-            "original_title": "Electrorheoimaging Helps Manage Droplet Viscosity in Real-time",
-            "content": "Yeni bir reolojik teknik, görüntüleme ve sürekli faz malzeme tasarımını birleştirerek, elektrik alanı kullanarak damla faz hacimlerinde ayarlanabilir, geri dönüşümlü viskozite oluşturur ve akışlarını yönetir. Bu teknik, damlacıkların viskozitesini gerçek zamanlı olarak kontrol etmeyi sağlar, bu da özellikle biyoproses uygulamalarında önemli avantajlar sunar. Elektrorehoimaging, elektrik alanlarının kullanılmasıyla damlacıkların iç yapısının değiştirilmesine olanak tanır. Böylece, istenilen viskozite değerlerine ulaşmak mümkün hale gelir. Bu yöntem, biyoteknoloji ve genetik mühendisliği alanında, özellikle ilaç geliştirme ve üretim süreçlerinde devrim niteliğinde bir yenilik olarak görülmektedir. Sürekli faz malzemelerinin tasarımı, damlacıkların iç dinamiklerini optimize eder, bu da daha kontrollü ve verimli bir üretim süreci sağlar. Elektrorehoimaging teknolojisinin, endüstriyel uygulamalarda geniş bir kullanım alanı bulması beklenmektedir.\n\nKaynakça: GEN – Genetic Engineering and Biotechnology News. (tarih). Electrorheoimaging Helps Manage Droplet Viscosity in Real-time. GEN - Genetic Engineering and Biotechnology News web sitesi: https://www.genengnews.com/topics/bioprocessing/electrorheoimaging-helps-manage-droplet-viscosity-in-real-time/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/bioprocessing/electrorheoimaging-helps-manage-droplet-viscosity-in-real-time/",
-            "date": "2026-03-18T16:13:02.214505",
-            "timestamp": 1773850382.214521
         }
     ]
 }
