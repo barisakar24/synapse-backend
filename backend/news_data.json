@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-03-24T10:01:59.507274",
+    "last_updated": "2026-03-24T13:43:15.298789",
     "daily_news": {
-        "title": "HIV Tedavi Çekilmesinden Sonra Bazı Hastalarda Baskılanmış Kalıyor",
-        "original_title": "HIV Remains Suppressed in Some Patients After Treatment Withdrawal",
-        "content": "HIV ile yaşayan kişiler üzerinde yapılan bir araştırma, virüsün nadiren de olsa tedavi çekilmesinden sonra uzun süre baskılanmış halde kalabileceğini gösteriyor. Çalışma, ayrıca diyabet ilacı metforminin, uzun süreli remisyon sağlanmasına yardımcı olabileceğini işaret ediyor.\n\nAraştırmada, HIV tedavisi gören bazı bireylerin, tedaviden çekilme sonrasında bile virüsü baskı altında tutmaya devam ettikleri gözlemlendi. Bu durum, HIV'in doğal olarak kontrol altında tutulabileceği yönündeki umutları artırıyor. Araştırmacılar, özellikle metforminin bağışıklık sistemi üzerindeki olumlu etkilerinin, HIV'in kontrol altında tutulmasına katkı sağlayabileceğini belirtiyor.\n\nMetformin, genellikle tip 2 diyabet tedavisinde kullanılan bir ilaç olarak biliniyor ve bu çalışmanın bulguları, ilacın HIV tedavisinde de potansiyel bir rol oynayabileceğini gösteriyor. Araştırmacılar, metforminin bağışıklık sistemine olan etkilerini daha iyi anlayarak, HIV tedavisinde yeni stratejiler geliştirmeyi umuyorlar.\n\nBu çalışma, HIV tedavisinde yeni bir dönemin başlangıcı olabilir ve HIV ile yaşayan bireyler için umut verici gelişmeler sunabilir. Ancak, bu bulguların geniş çapta doğrulanması ve metforminin HIV tedavisindeki etkinliğinin daha detaylı araştırılması gerektiği belirtiliyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (2023). HIV Remains Suppressed in Some Patients After Treatment Withdrawal. Erişim adresi: https://www.genengnews.com/topics/infectious-diseases/hiv-remains-suppressed-in-some-patients-after-treatment-withdrawal/",
+        "title": "Modifiye Lipid Nanopartiküllerle mRNA Aşı Teslimatında Yenilik",
+        "original_title": "Modified Lipid Nanoparticles Boost mRNA Vaccine Delivery to Lymph Nodes",
+        "content": "<p>Bilim insanları, karaciğeri atlayarak doğrudan lenf düğümlerine ulaşan ve burada mRNA teslimatını artıran aromatik, biyoreducible lipid nanopartiküller geliştirdi. Bu yenilik, farelerde güçlü bağışıklık tepkilerini sürdürürken sistemik iltihabı azaltıyor ve hedef dışı etkileri en aza indiriyor.</p>\n<p>Geleneksel mRNA aşılarının karaciğer gibi organlarda yoğunlaşması, aşı etkinliğini sınırlayan ve istenmeyen yan etkilere neden olabilen bir durumdu. Ancak yeni geliştirilen nanopartiküller, bu sorunu aşarak doğrudan bağışıklık sisteminin merkezi olan lenf düğümlerine odaklanıyor. Bu sayede, mRNA'nın doğru yerlere ulaşması sağlanarak daha etkili bir bağışıklık tepkisi elde ediliyor.</p>\n<p>Bu teknolojinin, gelecekte daha düşük dozlarda daha etkili aşılar geliştirilmesine olanak tanıyabileceği düşünülüyor. Ayrıca, sistemik yan etkilerin azaltılması, aşıların geniş kitlelere daha güvenli bir şekilde uygulanabilmesi açısından önem taşıyor.</p>\n<p>Bu yenilik, genetik mühendislik ve biyoteknoloji alanında geleceğe yönelik umut verici gelişmelerden biri olarak dikkat çekiyor.</p>\n<p>Kaynak: GEN – Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/drug-discovery/modified-lipid-nanoparticles-boost-mrna-vaccine-delivery-to-lymph-nodes/)</p>",
         "category": "Yapay Zeka",
         "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/infectious-diseases/hiv-remains-suppressed-in-some-patients-after-treatment-withdrawal/",
-        "date": "2026-03-24T02:49:12.050378",
-        "timestamp": 1774320552.050388
+        "link": "https://www.genengnews.com/topics/drug-discovery/modified-lipid-nanoparticles-boost-mrna-vaccine-delivery-to-lymph-nodes/",
+        "date": "2026-03-24T13:43:08.643469",
+        "timestamp": 1774359788.643475
     },
     "news_list": [
+        {
+            "title": "Yapay Zeka Destekli Yanılsamaların İzinde: OpenAI ve Microsoft'un Riskleri",
+            "original_title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+            "content": "Stanford araştırmacıları, yapay zeka ile delüzyon yaşayan chatbot kullanıcılarının dökümlerini analiz ederek bu durumun nasıl geliştiğini anlamaya çalıştılar. Araştırmanın bulguları, insanların yapay zekayla etkileşimleri sırasında nasıl yanılgıya düştüklerini ve bu süreçte nasıl bir spirale girdiklerini ortaya koyuyor. Bu tür bir araştırma, yapay zekanın insan psikolojisi üzerindeki etkilerini daha iyi anlamamıza yardımcı olabilir. \n\nDiğer yandan, OpenAI, Microsoft ile olan işbirliğinin getirdiği riskleri kabul etti. Bu tür büyük teknoloji ortaklıkları, yapay zekanın gelişimi ve kullanımı açısından önemli fırsatlar sunarken, aynı zamanda çeşitli etik ve güvenlik konularını da gündeme getiriyor. OpenAI'nin bu riskleri kabul etmesi, bu konuların daha fazla incelenmesine ve ele alınmasına yönelik bir çağrı olarak değerlendirilebilir. \n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+            "date": "2026-03-24T13:42:56.313129",
+            "timestamp": 1774359776.313138
+        },
+        {
+            "title": "Modifiye Lipid Nanopartiküllerle mRNA Aşı Teslimatında Yenilik",
+            "original_title": "Modified Lipid Nanoparticles Boost mRNA Vaccine Delivery to Lymph Nodes",
+            "content": "<p>Bilim insanları, karaciğeri atlayarak doğrudan lenf düğümlerine ulaşan ve burada mRNA teslimatını artıran aromatik, biyoreducible lipid nanopartiküller geliştirdi. Bu yenilik, farelerde güçlü bağışıklık tepkilerini sürdürürken sistemik iltihabı azaltıyor ve hedef dışı etkileri en aza indiriyor.</p>\n<p>Geleneksel mRNA aşılarının karaciğer gibi organlarda yoğunlaşması, aşı etkinliğini sınırlayan ve istenmeyen yan etkilere neden olabilen bir durumdu. Ancak yeni geliştirilen nanopartiküller, bu sorunu aşarak doğrudan bağışıklık sisteminin merkezi olan lenf düğümlerine odaklanıyor. Bu sayede, mRNA'nın doğru yerlere ulaşması sağlanarak daha etkili bir bağışıklık tepkisi elde ediliyor.</p>\n<p>Bu teknolojinin, gelecekte daha düşük dozlarda daha etkili aşılar geliştirilmesine olanak tanıyabileceği düşünülüyor. Ayrıca, sistemik yan etkilerin azaltılması, aşıların geniş kitlelere daha güvenli bir şekilde uygulanabilmesi açısından önem taşıyor.</p>\n<p>Bu yenilik, genetik mühendislik ve biyoteknoloji alanında geleceğe yönelik umut verici gelişmelerden biri olarak dikkat çekiyor.</p>\n<p>Kaynak: GEN – Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/drug-discovery/modified-lipid-nanoparticles-boost-mrna-vaccine-delivery-to-lymph-nodes/)</p>",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/drug-discovery/modified-lipid-nanoparticles-boost-mrna-vaccine-delivery-to-lymph-nodes/",
+            "date": "2026-03-24T13:43:08.643469",
+            "timestamp": 1774359788.643475
+        },
+        {
+            "title": "Artis BioSolutions, Boston'da Sentetik DNA Üretim Merkezi Kurdu",
+            "original_title": "Synthetic DNA Manufacturing Hub Set Up in Boston by Artis BioSolutions",
+            "content": "Artis BioSolutions, ABD'deki tesisinde Syngoi Teknolojilerini sunarak, erken gelişimden klinik üretime odaklanan müşterilerine çok ihtiyaç duyulan bir yetenek sunuyor ve küresel operasyonel dayanıklılığını güçlendiriyor. Bu adım, biyoteknoloji alanında faaliyet gösteren şirketin kapasitesini artırırken, Ar-Ge ve üretim süreçlerinde önemli bir avantaj sağlamaktadır.\n\nArtis BioSolutions'ın Boston'da kurduğu bu yeni sentetik DNA üretim merkezi, biyoteknoloji ve genetik mühendisliği alanlarında yenilikçi çözümler sunmayı amaçlıyor. Şirket, bu merkez aracılığıyla sentetik DNA üretiminde yüksek kalite ve hız sağlamayı hedefliyor. Syngoi Teknolojileri'nin kullanılacak olması, sentetik DNA üretim süreçlerini daha verimli ve güvenilir hale getirecek.\n\nBu gelişme, Artis BioSolutions'ın sadece ABD'de değil, dünya genelinde de operasyonel esnekliğini artırmasına olanak tanıyacak. Şirket, küresel pazarda rekabet gücünü artırırken, müşterilerine daha iyi hizmet sunmayı planlıyor.\n\nArtis BioSolutions'ın bu yatırımı, biyoteknoloji sektöründe hem bilimsel araştırmalar hem de endüstriyel uygulamalar için önemli bir dönüm noktası olabilir. Boston'daki bu merkez, özellikle genetik araştırmalar ve biyoteknolojik ürün geliştirme alanında çalışanlar için büyük fırsatlar sunacak.\n\nKaynakça:\nGEN - Genetic Engineering and Biotechnology News. (2023). Synthetic DNA Manufacturing Hub Set Up in Boston by Artis BioSolutions. Erişim adresi: https://www.genengnews.com/topics/omics/synthetic-dna-manufacturing-hub-set-up-in-boston-by-artis-biosolutions/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/omics/synthetic-dna-manufacturing-hub-set-up-in-boston-by-artis-biosolutions/",
+            "date": "2026-03-24T13:43:15.298752",
+            "timestamp": 1774359795.298758
+        },
         {
             "title": "HIV Tedavi Çekilmesinden Sonra Bazı Hastalarda Baskılanmış Kalıyor",
             "original_title": "HIV Remains Suppressed in Some Patients After Treatment Withdrawal",
@@ -480,36 +510,6 @@
             "link": "https://www.genengnews.com/topics/artificial-intelligence/trillion-gene-atlas-expands-evolutionary-datasets-for-next-generation-ai-therapeutics/",
             "date": "2026-03-18T21:43:07.002384",
             "timestamp": 1773870187.002393
-        },
-        {
-            "title": "Fiziksel Aktivite Travma Geçirmiş Beyni Yeniden Yapılandırıyor",
-            "original_title": "Physical Activity Rewires the Traumatized Brain",
-            "content": "Yeni bir araştırma, haftalık 150–390 dakika egzersizin, çocuklukta zorluk yaşamış bireylerin sinir yollarını yeniden yapılandırabileceğini ortaya koyuyor. Yapılan araştırmalar, fiziksel aktivitenin sadece vücut sağlığını korumakla kalmayıp aynı zamanda beyin üzerinde de olumlu etkileri olduğunu gösteriyor. Özellikle çocuklukta travma yaşamış bireylerde görülen psikolojik ve nörolojik etkilerin, düzenli egzersizle hafifletilebileceği belirtiliyor.\n\nAraştırmanın bulguları, egzersizin beyin plastisitesine katkı sağladığını ve stresle başa çıkma becerilerini artırdığını gösteriyor. Egzersiz, beyindeki nörotransmitterlerin salınımını artırarak duygusal iyileşmeye katkıda bulunuyor ve bu da travmanın uzun vadeli etkilerini azaltabiliyor. Araştırmacılar, bu sürecin beyindeki yeni nöral bağlantıların oluşumunu destekleyerek, bireylerin daha dirençli hale gelmelerine yardımcı olduğunu belirtiyor.\n\nEgzersizin, beyindeki hipokampus bölgesini olumlu yönde etkileyerek hafıza ve öğrenme süreçlerini geliştirdiği de vurgulanıyor. Bu nedenle, fiziksel aktivite, hem fiziksel sağlığı iyileştirmek hem de zihinsel esnekliği artırmak için güçlü bir araç olarak görülüyor.\n\nBu çalışma, egzersizin travma sonrası stres bozukluğu (TSSB) gibi durumların tedavisinde tamamlayıcı bir rol oynayabileceği yönünde önemli ipuçları sunuyor. Araştırmacılar, bireylerin egzersizi yaşam tarzı haline getirerek, beyin sağlığını koruma ve geliştirme potansiyelinin altını çiziyor.\n\nKaynak: Neuroscience News APA: Neuroscience News. (2023). Physical Activity Rewires the Traumatized Brain. Retrieved from https://neurosciencenews.com/physical-activity-trauma-resilience-30335/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/physical-activity-trauma-resilience-30335/",
-            "date": "2026-03-18T19:14:21.789752",
-            "timestamp": 1773861261.789762
-        },
-        {
-            "title": "Şizofreni ve Karar Verme Arasındaki Bağlantı: Yeni Gen Keşfi",
-            "original_title": "Gene Linking Schizophrenia to Decision-Making Found",
-            "content": "Bilim insanları, beynin kendi gerçeklik versiyonunu güncellemesini engelleyen genetik mutasyonu tespit etti. Bu keşif, şizofreni tedavisi için yeni bir hedef sunuyor. Yapılan araştırmalar, GRIN2A adı verilen bu genin, beynin gerçekliği değerlendirme ve karar verme süreçlerinde önemli bir rol oynadığını ortaya koyuyor. GRIN2A genindeki mutasyonlar, bireylerin çevresel değişikliklere uyum sağlamasını ve doğru kararlar almasını zorlaştırıyor. Bu genetik varyantın tespiti, şizofreni için daha etkili tedavi yöntemlerinin geliştirilmesi adına umut vadediyor. Araştırmacılar, bu genin işleyişini ve etkilerini derinlemesine inceleyerek, şizofreni hastalarının yaşam kalitesini artırmayı hedefliyor. \n\nAPA Kaynağı: Neuroscience News. (2023). Gene Linking Schizophrenia to Decision-Making Found. Erişim adresi: https://neurosciencenews.com/grin2a-schizophrenia-reality-circuit-30334/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/grin2a-schizophrenia-reality-circuit-30334/",
-            "date": "2026-03-18T19:14:26.607094",
-            "timestamp": 1773861266.607104
-        },
-        {
-            "title": "eXoZymes'in Hücresiz Biyoproses Platformu Cayman Chemical'dan Olumlu Geri Bildirim Aldı",
-            "original_title": "eXoZymes’ Cell-Free Biomanufacturing Platform Gets Positive Feedback from Cayman Chemical",
-            "content": "eXoZymes, Cayman Chemical ile gerçekleştirdiği pilot çalışmayı, hücresiz platformunun önemli bir doğrulaması olarak görüyor. Bu çalışma, platformun ölçeklenebilirlikte güvenilir bir şekilde performans gösterdiğini ve dış bir ortak tarafından kullanıldığında güçlü sonuçlar verdiğini kanıtlıyor. Bu gelişme, eXoZymes'in biyoproses alanında yenilikçi çözümler sunma hedefinin bir parçası olarak büyük önem taşıyor. \n\nCayman Chemical, biyokimya araştırmaları için çeşitli kimyasallar ve biyolojik malzemeler sağlayan bir şirkettir. eXoZymes'in hücresiz biyoproses platformu, hücre tabanlı sistemlere alternatif olarak yüksek verimlilik ve esneklik sunar. Bu teknolojinin, farklı biyomoleküllerin üretiminde, özellikle de karmaşık bileşiklerin sentezinde önemli avantajlar sağladığı belirtilmektedir. \n\nPilot çalışma sırasında, eXoZymes, platformlarının verimliliğini ve güvenilirliğini, Cayman Chemical'in tesislerinde başarılı bir şekilde sergilemiştir. Bu sonuçlar, eXoZymes'in biyoproses endüstrisindeki konumunu güçlendirmekte ve gelecekteki iş birlikleri için kapı aralamaktadır. \n\nKaynakça:\nGEN - Genetic Engineering and Biotechnology News. (tarih). eXoZymes’ Cell-Free Biomanufacturing Platform Gets Positive Feedback from Cayman Chemical. Erişim adresi: https://www.genengnews.com/topics/bioprocessing/exozymes-cell-free-biomanufacturing-platform-gets-positive-feedback-from-cayman-chemical/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/bioprocessing/exozymes-cell-free-biomanufacturing-platform-gets-positive-feedback-from-cayman-chemical/",
-            "date": "2026-03-18T19:14:33.038069",
-            "timestamp": 1773861273.038077
         }
     ]
 }
