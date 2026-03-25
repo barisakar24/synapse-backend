@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-03-25T19:07:21.731748",
+    "last_updated": "2026-03-25T21:50:11.368838",
     "daily_news": {
-        "title": "Bağırsak Beyine Yemeyi Durdurmasını Nasıl Söyler?",
-        "original_title": "How the Gut Tells the Brain to Stop Eating",
-        "content": "Araştırmacılar, bağırsak bağışıklık sistemi ile beyin arasındaki moleküler yolu keşfettiler. Tuft hücrelerinin vagus sinirine nasıl sinyal gönderdiğini haritalandırarak, parazit enfeksiyonları ve bağırsak sorunlarının neden kalıcı iştah kaybına yol açtığını açıklayan bu çalışma, yeni ufuklar açıyor. Bağırsaklarımızdaki özel hücreler olan tuft hücreleri, vücuda giren parazitler veya diğer sorunlar karşısında beyine sinyaller göndererek iştahımızı azaltmaktadır. Bu sinyaller vagus siniri aracılığıyla beyine iletilir ve böylece vücut kendini koruma altına alır. Bu keşif, sindirim sistemi ve sinir sistemi arasındaki karmaşık etkileşimleri daha iyi anlamamızı sağlarken, gelecekte iştah kontrolü ve kilo yönetimi konularında yeni tedavi yöntemlerinin geliştirilmesine de öncülük edebilir. Bu bilgiler ışığında, bağırsak sağlığının genel sağlık üzerindeki etkilerini daha iyi anlamak mümkün hale geliyor.\n\nKaynak: Neuroscience News (2023). How the Gut Tells the Brain to Stop Eating. https://neurosciencenews.com/gut-immune-brain-appetite-30386/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/gut-immune-brain-appetite-30386/",
-        "date": "2026-03-25T19:07:04.659795",
-        "timestamp": 1774465624.659805
+        "title": "Merck, 6.7 Milyar Dolarlık Terns Satın Alımıyla Kanser Araştırmalarını Güçlendiriyor",
+        "original_title": "Merck Bolsters Cancer Pipeline with $6.7B Terns Buyout",
+        "content": "Merck, kanser araştırmalarını güçlendirmek amacıyla önemli bir adım attı ve Terns Therapeutics'i 6.7 milyar dolara satın aldı. Bu satın alım, Terns'in en önde gelen ve tek klinik adayı olan TERN-701'i Merck'in portföyüne katıyor. TERN-701, alışılmış tirozin kinaz inhibitörlerinden (TKI) farklı bir etki mekanizmasına sahip olan, allosterik kırılma noktası küme bölgesi–Abelson murine lösemi viral onkogen homoloğu 1 tirozin kinaz inhibitörü (BCR::ABL1 TKI) olarak tasarlandı. Bu yenilikçi tedavi, ABL miyristoyl cebini hedef alarak çalışıyor. Bu gelişme, Merck'in kanser tedavi alanındaki yenilikçi çözümler geliştirme çabalarını daha da ileriye taşıyacak bir hamle olarak değerlendiriliyor. \n\nKaynakça:\nGEN – Genetic Engineering and Biotechnology News. (tarih). Merck Bolsters Cancer Pipeline with $6.7B Terns Buyout. Erişim adresi: https://www.genengnews.com/topics/cancer/merck-bolsters-cancer-pipeline-with-6-7b-terns-buyout/",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/cancer/merck-bolsters-cancer-pipeline-with-6-7b-terns-buyout/",
+        "date": "2026-03-25T21:50:05.808228",
+        "timestamp": 1774475405.808238
     },
     "news_list": [
+        {
+            "title": "Bir Sahnenin Özünü Anlamak: Birincil Görsel Korteksin Rolü",
+            "original_title": "How the Primary Visual Cortex Computes the “Gist” of a Scene",
+            "content": "Araştırmacılar, birincil görsel korteksin (V1) karmaşık hareketlerin istatistiksel özetlerini, örneğin ortalama ve varyansı hesapladığını göstermiştir. Bu 'toplu algı' süreci, görsel hiyerarşinin erken aşamalarında başlar ve beynin bir sahnenin özünü hızlıca kavramasına olanak tanır. Bu bulgular, görsel bilginin nasıl işlendiğine dair önemli ipuçları sunarak, görsel algının temel mekanizmalarına ışık tutmaktadır. V1'in bu şekilde işlev görmesi, insanların çevresel bilgileri hızla anlamlandırabilmesini ve buna uygun tepkiler verebilmesini sağlamaktadır. Bu çalışma, özellikle görme bozuklukları ve algı süreçleri üzerine yeni tedavi yöntemlerinin geliştirilmesinde önemli potansiyel taşımaktadır.\n\nAPA Kaynağı: Neuroscience News. (2023). How the Primary Visual Cortex Computes the “Gist” of a Scene. https://neurosciencenews.com/v1-ensemble-perception-visual-gist-30388/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/v1-ensemble-perception-visual-gist-30388/",
+            "date": "2026-03-25T21:49:54.273032",
+            "timestamp": 1774475394.273045
+        },
+        {
+            "title": "ADHD İlaçları Psikozdan Koruyor: Şizofreniye Karşı Kalkan Olabilir mi?",
+            "original_title": "ADHD Medication May Shield Against Psychosis",
+            "content": "700,000 kişiyi kapsayan geniş çaplı bir çalışma, çocuklukta ADHD (Dikkat Eksikliği ve Hiperaktivite Bozukluğu) ilaçlarının psikoz riskini artırmadığını ortaya koyuyor. Araştırma, özellikle 13 yaşından önce başlanan tedavinin, yetişkinlikte şizofreni gibi psikiyatrik rahatsızlıklara karşı koruma sağlayabileceğini gösteriyor. ADHD tedavisinin, yalnızca dikkat ve hiperaktivite semptomlarını hafifletmekle kalmayıp, aynı zamanda uzun vadeli psikiyatrik sağlık üzerinde de olumlu etkileri olabileceği vurgulanıyor.\n\nBu bulgular, ADHD ilaçlarının güvenliği ve potansiyel yararları konusundaki endişeleri gidermeye yardımcı olabilir. Araştırmacılar, erken yaşta başlanan tedavinin, beyin gelişimi üzerindeki olumlu etkilerini incelemeye devam ediyor. Çalışmanın sonuçları, ADHD tedavisinin sadece kısa vadeli değil, uzun vadeli psikiyatrik sağlık açısından da önemli olabileceğine işaret ediyor.\n\nKaynak: Neuroscience News (2026). ADHD Medication May Shield Against Psychosis. Retrieved from https://neurosciencenews.com/adhd-medication-psychosis-protection-30387/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/adhd-medication-psychosis-protection-30387/",
+            "date": "2026-03-25T21:49:59.838264",
+            "timestamp": 1774475399.838274
+        },
+        {
+            "title": "Merck, 6.7 Milyar Dolarlık Terns Satın Alımıyla Kanser Araştırmalarını Güçlendiriyor",
+            "original_title": "Merck Bolsters Cancer Pipeline with $6.7B Terns Buyout",
+            "content": "Merck, kanser araştırmalarını güçlendirmek amacıyla önemli bir adım attı ve Terns Therapeutics'i 6.7 milyar dolara satın aldı. Bu satın alım, Terns'in en önde gelen ve tek klinik adayı olan TERN-701'i Merck'in portföyüne katıyor. TERN-701, alışılmış tirozin kinaz inhibitörlerinden (TKI) farklı bir etki mekanizmasına sahip olan, allosterik kırılma noktası küme bölgesi–Abelson murine lösemi viral onkogen homoloğu 1 tirozin kinaz inhibitörü (BCR::ABL1 TKI) olarak tasarlandı. Bu yenilikçi tedavi, ABL miyristoyl cebini hedef alarak çalışıyor. Bu gelişme, Merck'in kanser tedavi alanındaki yenilikçi çözümler geliştirme çabalarını daha da ileriye taşıyacak bir hamle olarak değerlendiriliyor. \n\nKaynakça:\nGEN – Genetic Engineering and Biotechnology News. (tarih). Merck Bolsters Cancer Pipeline with $6.7B Terns Buyout. Erişim adresi: https://www.genengnews.com/topics/cancer/merck-bolsters-cancer-pipeline-with-6-7b-terns-buyout/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/cancer/merck-bolsters-cancer-pipeline-with-6-7b-terns-buyout/",
+            "date": "2026-03-25T21:50:05.808228",
+            "timestamp": 1774475405.808238
+        },
+        {
+            "title": "Rejeneratif Tıbbın Tam Potansiyelini Kullanmak İçin Proaktif Bir Yaklaşım Gerekiyor",
+            "original_title": "Leveraging the Full Potential of Regenerative Medicine Requires a Proactive Approach",
+            "content": "Rejeneratif terapiler, sorumlu bir şekilde geliştirilip sağlık sistemlerine dikkatlice entegre edilirse, tıbbı daha proaktif bir modele doğru kaydırabilir. Bu model, sağlığın korunmasına, fonksiyonun sürdürülmesine ve sağlıklı yaşam süresinin uzatılmasına odaklanır.\n\nGünümüzde rejeneratif tıbbın potansiyeli, daha iyi sağlık sonuçları elde etme ve hastalıkları daha erken safhalarda önleme konusunda büyük umutlar vaat etmektedir. Ancak bunun gerçekleşebilmesi için, bu yenilikçi tedavi yöntemlerinin sağlık hizmetleri sistemine entegrasyonunun dikkatli bir şekilde planlanması ve uygulanması gerekmektedir.\n\nRejeneratif tıp, kök hücre tedavileri, doku mühendisliği ve gen terapisi gibi alanlarda önemli ilerlemeler kaydetmiştir. Bu alanlardaki gelişmeler, hasarlı dokuların ve organların onarılmasına, hatta yeniden oluşturulmasına imkan tanımaktadır. Bu durum, kronik hastalıkların tedavisinde çığır açıcı bir potansiyel sunmaktadır.\n\nAncak, bu terapilerin etkili bir şekilde kullanılabilmesi için sağlık politikalarının, finansman stratejilerinin ve etik standartların yeniden gözden geçirilmesi gerekmektedir. Ayrıca, sağlık profesyonellerinin bu yeni tedavi yöntemleri hakkında eğitilmesi ve toplumun bilgilendirilmesi önem taşımaktadır.\n\nSonuç olarak, rejeneratif tıbbın tam potansiyelini gerçekleştirmek için, sağlık sistemlerinin daha proaktif bir yaklaşıma geçiş yapması gerekmektedir. Bu geçiş, bireylerin sağlığını koruma ve hastalıkları önleme konusundaki stratejilerin merkeze alındığı bir sağlık modeli ile mümkün olabilir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/translational-medicine/leveraging-the-full-potential-of-regenerative-medicine-requires-a-proactive-approach/",
+            "date": "2026-03-25T21:50:11.368791",
+            "timestamp": 1774475411.368801
+        },
         {
             "title": "Bağırsak Beyine Yemeyi Durdurmasını Nasıl Söyler?",
             "original_title": "How the Gut Tells the Brain to Stop Eating",
@@ -470,46 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/03/260322020250.htm",
             "date": "2026-03-22T13:09:37.181779",
             "timestamp": 1774184977.181793
-        },
-        {
-            "title": "Kalp Krizi Sonrası Bilişsel Fonksiyonu Öngören Kan Testi",
-            "original_title": "Blood Test Predicts Long-Term Cognitive Function After Cardiac Arrest",
-            "content": "Yeni bir çalışma, nörofilament hafif zincirinin (NfL), kalp krizi sonrası bilişsel fonksiyonları öngörmede üstün bir biyobelirteç olduğunu ortaya koyuyor. Bu 48 saatlik kan testinin, uzun vadeli beyin hasarı riskini belirlemede mevcut yöntemleri nasıl geride bıraktığını öğrenin.\n\nKalp krizi sonrası bilişsel fonksiyonların nasıl etkilendiği uzun süredir araştırmacıların ilgisini çeken bir konu olmuştur. Son dönemde yapılan bir çalışma, nörofilament hafif zincirlerinin (NfL) bu süreçte önemli bir rol oynayabileceğini göstermiştir. NfL, beyindeki sinir hücrelerinde bulunan ve beyin hücresi hasarının bir göstergesi olarak kabul edilen bir protein türüdür.\n\nÇalışmada, kalp krizi geçiren hastalardan alınan kan örneklerinde NfL seviyeleri ölçülmüş ve bu seviyelerin uzun vadeli bilişsel fonksiyonlarla ilişkisi incelenmiştir. Araştırmacılar, NfL seviyelerinin yüksek olduğu hastalarda bilişsel fonksiyonların daha fazla etkilendiğini ve uzun vadede daha ciddi beyin hasarları görüldüğünü tespit etmişlerdir.\n\nBu bulgular, kalp krizi sonrasında bilişsel fonksiyonların değerlendirilmesinde NfL'nin önemli bir biyobelirteç olabileceğini düşündürmektedir. Mevcut yöntemlere göre daha hızlı ve güvenilir sonuçlar veren bu kan testi, doktorların hastaların uzun vadeli beyin sağlığı risklerini daha iyi değerlendirmelerine olanak sağlayabilir.\n\nÇalışmanın sonuçları, gelecekte kalp krizi sonrası hasta bakımında NfL seviyelerinin rutin olarak izlenmesi gerektiğini önermektedir. Bu sayede, bilişsel fonksiyonların korunmasına yönelik daha etkili tedavi stratejileri geliştirilebilir.\n\nKaynak: Neuroscience News",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/nfl-biomarker-cardiac-arrest-cognition-30362/",
-            "date": "2026-03-22T02:56:53.714492",
-            "timestamp": 1774148213.714502
-        },
-        {
-            "title": "Kan-Beyin Bariyerindeki Sızıntı ve Sporcularda CTE'nin Gelişimi",
-            "original_title": "How Blood-Brain Barrier Failure Drives CTE in Athletes",
-            "content": "Yeni bir çalışma, tekrarlayan kafa darbeleri ve emekli sporcularda görülen demans arasında 'eksik bir halka' olarak sızıntılı bir kan-beyin bariyerini tanımlıyor. Araştırmacılar, bu kalıcı sızıntının toksik protein birikimini tetiklediğini ve bunun erken teşhis ve tedavi için yeni bir hedef sunduğunu buldular.\n\nSporcularda kronik travmatik ensefalopati (CTE), tekrarlayan kafa travmaları ile ilişkilendirilen bir beyin hastalığıdır. Genellikle boks, Amerikan futbolu gibi yoğun fiziksel temas içeren sporları yapmış kişilerde emeklilik dönemlerinde ortaya çıkar. CTE'nin kesin mekanizmaları uzun zamandır araştırmacıların ilgi odağı olmuştur.\n\nBu yeni çalışma, CTE'nin gelişiminde kan-beyin bariyerinin önemli bir rol oynadığını öne sürüyor. Kan-beyin bariyeri, beyindeki kan damarlarını çevreleyen ve toksinlerin beyne geçişini engelleyen bir yapıdır. Ancak tekrarlayan kafa darbeleri bu bariyerde sızıntılara neden olabilir. Bu sızıntılar, beyinde zararlı proteinlerin birikmesine yol açarak CTE'nin gelişimini hızlandırabilir.\n\nAraştırmacılar, bu sızıntının erken teşhis edilmesi ve tedavi edilmesi durumunda CTE'nin ilerlemesinin durdurulabileceğini veya en azından yavaşlatılabileceğini öne sürüyorlar. Çalışma, gelecekte bu konuda yapılacak klinik araştırmalara ışık tutabilir ve sporcularda CTE'nin önlenmesine yönelik yeni stratejilerin geliştirilmesine katkıda bulunabilir.\n\nKaynak: Neuroscience News",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/blood-brain-barrier-sports-injury-cte-30361/",
-            "date": "2026-03-21T21:33:17.020008",
-            "timestamp": 1774128797.020018
-        },
-        {
-            "title": "İnsan-AI İş Birliğinde Başarının Anahtarı: Hibrid Bilişsel Uyum",
-            "original_title": "Alignment is the Secret to Human-AI Teamwork",
-            "content": "Yapay zeka neden iş yerinde başarısız oluyor? Yeni araştırmalar, insan ve yapay zeka ekip çalışmasında 'hibrid bilişsel uyum'un eksik bağlantı olduğunu vurguluyor. Yapay zeka sistemlerinin iş yerinde etkili bir şekilde kullanılabilmesi için insanlarla uyumlu bir şekilde çalışabilmesi gerekmektedir. Ancak, bu uyumun sağlanabilmesi için bilişsel süreçlerin nasıl entegre edileceği konusunda hala birçok soru işareti bulunmaktadır.\n\nAraştırmacılar, insan ve yapay zeka arasındaki iş birliğinin başarılı olabilmesi için bilişsel süreçlerin uyumlu hale getirilmesi gerektiğini belirtiyorlar. Bu uyum, yapay zekanın insan düşünce süreçlerini daha iyi anlayabilmesi ve tahmin edebilmesi anlamına geliyor. İnsanların ve makinelerin birlikte çalıştığı karmaşık görevlerde, her iki tarafın da güçlü yönlerinden faydalanılarak daha etkili sonuçlar elde edilebileceği vurgulanıyor.\n\nMakine öğrenimi ve yapay zeka teknolojilerinin iş yerlerinde daha yaygın hale gelmesiyle birlikte, bu teknolojilerin insanlarla uyumlu bir şekilde çalışabilmesi giderek daha önemli bir hale geliyor. Bu bağlamda, 'hibrid bilişsel uyum', hem insan hem de yapay zeka sistemlerinin iş birliği içinde daha verimli ve etkili çalışmasını sağlayacak bir anahtar olarak görülüyor.\n\nAPA Kaynağı: Neuroscience News. (2026, March 30). Alignment is the Secret to Human-AI Teamwork. https://neurosciencenews.com/human-ai-alignment-collaboration-psychology-30360/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/human-ai-alignment-collaboration-psychology-30360/",
-            "date": "2026-03-21T21:33:21.285557",
-            "timestamp": 1774128801.285565
-        },
-        {
-            "title": "Karıncaların Sosyal Kimlik Haritalama Yeteneği",
-            "original_title": "How Ants Map Social Identity",
-            "content": "Araştırmacılar, klonal yağmacı karıncaların, genetik olarak farklı dışarıdan gelenleri tekrar tekrar maruz kalma yoluyla tolere etmeyi öğrenebileceğini keşfettiler. Bu süreç, karıncaların beynindeki 'kime ait' şablonunu etkili bir şekilde güncelleyerek sosyal tanımlama yeteneklerini geliştiriyor.\n\nKarıncalar, sosyal böcekler arasında yer alır ve kolonilerinde karmaşık sosyal yapılar geliştirirler. Bu sosyal yapılar, kolonideki üyelerin birbirlerini tanıma yeteneklerine dayanır. Genellikle karıncalar, farklı genetik yapılara sahip olan bireyleri düşman olarak algılar ve onlara karşı agresif davranışlar sergilerler. Ancak bu yeni araştırma, klonal yağmacı karıncaların, tekrar eden temaslar yoluyla bu algılarını değiştirebildiklerini göstermektedir.\n\nAraştırmacılar, klonal yağmacı karıncaların zamanla genetik açıdan farklı bireylere olan toleranslarını nasıl geliştirdiklerini gözlemlemiştir. Bu süreçte, karıncaların beyinlerinde bir tür 'kimlik güncellemesi' meydana gelmektedir. Bu güncelleme, karıncaların sosyal çevrelerinde değişikliklere uyum sağlamalarına olanak tanır ve kolonilerinin hayatta kalma şansını artırır.\n\nBu bulgular, sosyal tanıma mekanizmalarının evrimini anlamak için önemli bir adım olarak değerlendirilmektedir. Karıncaların sosyal kimlik haritalama yetenekleri, daha geniş bir biyolojik bağlamda sosyal ilişkilerin ve tanıma süreçlerinin nasıl evrimleştiğine dair ipuçları sunmaktadır.\n\nAPA Kaynağı: Neuroscience News. (2023). How Ants Map Social Identity. Erişim adresi: https://neurosciencenews.com/ant-social-recognition-behavioral-30359/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/ant-social-recognition-behavioral-30359/",
-            "date": "2026-03-21T18:49:12.379905",
-            "timestamp": 1774118952.379915
         }
     ]
 }
