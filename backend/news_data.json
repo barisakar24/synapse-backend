@@ -1,16 +1,76 @@
 {
-    "last_updated": "2026-03-25T13:42:29.816273",
+    "last_updated": "2026-03-25T16:18:34.317942",
     "daily_news": {
-        "title": "E. coli Kapsüllerinin Genomik Haritalaması: Aşılar İçin Yüksek Riskli Türler Belirlendi",
-        "original_title": "Genomic Mapping of E. coli Capsules Identifies High-Risk Types for Vaccines",
-        "content": "Makale içeriği: <p>Bir suşun invaziv hale gelip gelmediğini belirleyen temel faktörlerden biri, bakteriyi bağışıklık tespitinden ve belirli tedavilerden koruyabilen şeker açısından zengin dış tabaka olan kapsülüdür.</p><p>Bu çalışma, E. coli bakterilerinin kapsüllerinin genomik haritalaması yoluyla, aşı geliştirilmesinde yüksek risk taşıyan türlerin belirlenmesini amaçlamaktadır. Kapsüller, bakterinin bağışıklık sisteminden saklanmasına yardımcı olan ve invaziv enfeksiyonların gelişiminde önemli rol oynayan yapılar olarak bilinir. Çalışmada, E. coli'nin farklı kapsül türleri detaylı şekilde incelenmiş ve hangi türlerin daha yüksek risk taşıdığı belirlenmiştir.</p><p>Bu tür çalışmalar, gelecekteki aşı geliştirme süreçlerinde kritik bir öneme sahip olabilir ve potansiyel olarak daha etkili aşı stratejilerinin geliştirilmesine olanak sağlayabilir.</p><p>Kaynak: GEN – Genetic Engineering and Biotechnology News</p>",
+        "title": "Başarılı Yapay Zeka Uygulamaları İçin Üç Temel Direk",
+        "original_title": "The Three Pillars of Successful AI Deployments",
+        "content": "Yapay zeka modelleri, zamanla öğrenen dinamik sistemlerdir. Ancak, sağlam veri, uygun modeller ve güçlü yapay zeka yönetimi olmadan, güvenilir gibi görünen modeller uygulandıklarında başarısız olabilirler. \n\nYapay zeka teknolojileri, günümüzde birçok sektörde devrim yaratmaya devam ediyor. Ancak, bu teknolojilerin başarılı bir şekilde uygulanabilmesi için üç ana unsurun dikkate alınması gerekiyor: veri kalitesi, uygun model seçimi ve etkili yapay zeka yönetimi. \n\nİlk olarak, veri kalitesinin önemi vurgulanmalıdır. Yapay zeka modellerinin güvenilir sonuçlar üretebilmesi için sağlam ve kaliteli verilere ihtiyaç vardır. Verilerin eksik veya hatalı olması durumunda, modeller yanlış sonuçlar verebilir ve bu, ciddi sorunlara yol açabilir.\n\nİkinci olarak, uygun model seçimi, başarılı yapay zeka uygulamaları için kritik bir rol oynar. Her problem için en uygun modelin seçilmesi, yapay zeka sistemlerinin etkinliğini artırır. Yanlış model seçimi, hem zaman kaybına hem de kaynakların israfına neden olabilir.\n\nSon olarak, yapay zeka yönetimi, bu teknolojilerin sürdürülebilirliği ve güvenliği için olmazsa olmazdır. Yapay zeka sistemlerinin sürekli izlenmesi ve güncellenmesi, olası hataların önüne geçebilmek için önemlidir. Ayrıca, etik ve yasal düzenlemelere uyum sağlamak da yapay zeka yönetiminin önemli bir parçasıdır.\n\nBu üç temel direk, yapay zekanın etkin ve verimli bir şekilde kullanılmasını sağlarken, olası riskleri de en aza indirir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/bioprocessing/the-three-pillars-of-successful-ai-deployments/)",
         "category": "Yapay Zeka",
         "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/infectious-diseases/genomic-mapping-of-e-coli-capsules-identifies-high-risk-types-for-vaccines/",
-        "date": "2026-03-25T13:42:29.816226",
-        "timestamp": 1774446149.816235
+        "link": "https://www.genengnews.com/topics/bioprocessing/the-three-pillars-of-successful-ai-deployments/",
+        "date": "2026-03-25T16:18:28.690301",
+        "timestamp": 1774455508.690309
     },
     "news_list": [
+        {
+            "title": "Dopaminin Rolünü Belirleyen Asetilkolin: Öğrenme ve Hareketin Yeni Anahtarı",
+            "original_title": "Acetylcholine Decides Dopamine’s Role",
+            "content": "Makale içeriği: Asetilkolin salgısının zamanlaması, dopaminin öğrenmeyi mi yoksa hareketi mi teşvik edeceğini belirliyor. Milisaniye düzeyindeki bu etkileşim, Parkinson ve depresyonu anlamak için yeni bir çerçeve sunuyor. Dopaminin öğrenme ve hareket üzerindeki etkisi, beyindeki nörotransmitterlerin karmaşık etkileşimleriyle şekilleniyor. Yeni araştırmalar, asetilkolin ve dopamin arasındaki hassas zamanlamanın bu süreçlerde kritik bir rol oynadığını ortaya koyuyor. Bu bulgular, Parkinson hastalığı ve depresyon gibi nörolojik ve psikiyatrik rahatsızlıkların tedavisi için yeni stratejiler geliştirilmesine katkıda bulunabilir. Kaynak: Neuroscience News, 2023, Acetylcholine Decides Dopamine’s Role, https://neurosciencenews.com/dopamine-acetylcholine-timing-learning-movement-30382/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/dopamine-acetylcholine-timing-learning-movement-30382/",
+            "date": "2026-03-25T16:17:54.309116",
+            "timestamp": 1774455474.309126
+        },
+        {
+            "title": "İnsan Beyninin Gizemini Çözmek: 30 Milyon Hücre Haritalandı",
+            "original_title": "Mapping 30 Million Cells to Unlock Brain Secrets",
+            "content": "İnsan beynini benzersiz kılan nedir? Yeni bir neokorteks atlası, 30 milyon hücreyi haritalayarak insan zekâsı ve beyin bozukluklarının ardındaki genetik yolları ortaya koyuyor. Bilim insanları, bu atlas sayesinde beynin işleyişini daha iyi anlayarak, zihinsel hastalıkların tedavisinde yeni yöntemler geliştirmeyi hedefliyor. \n\nAraştırma, insan beyni ile ilgili pek çok bilinmeyeni aydınlatma potansiyeline sahip. Özellikle neokorteks bölgesindeki hücrelerin genetik çeşitliliği ve organizasyonu, beynin karmaşık yapısını anlamada önemli ipuçları sunuyor. Bu kapsamda, elde edilen verilerle beynin farklı bölümlerinin nasıl işlediği ve bu süreçlerin zekâ ile nasıl ilişkili olduğu daha detaylı bir biçimde incelenebilecek.\n\nBu yeni harita, nörobilim alanında çığır açıcı gelişmelere kapı aralayabilir. Beyin bozukluklarının genetik temellerinin daha iyi anlaşılması, gelecekte bu tür rahatsızlıkların daha etkili tedavi edilmesine olanak sağlayabilir. Özellikle Alzheimer, şizofreni ve otizm gibi hastalıkların genetik nedenleri üzerine yapılan araştırmalar bu yeni atlasla hız kazanabilir.\n\nSonuç olarak, bu çalışma, insan beyninin daha önce keşfedilmemiş yönlerini ortaya çıkarmak ve nörobilimdeki bilgi dağarcığını genişletmek adına önemli bir adım olarak nitelendiriliyor.\n\nKaynak: Neuroscience News (2023). Mapping 30 Million Cells to Unlock Brain Secrets. Retrieved from https://neurosciencenews.com/neocortex-atlas-brain-mapping-30381/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/neocortex-atlas-brain-mapping-30381/",
+            "date": "2026-03-25T16:18:02.141617",
+            "timestamp": 1774455482.141626
+        },
+        {
+            "title": "Batarya Endüstrisinde Kriz: SES AI Neden Yapay Zekaya Yöneliyor?",
+            "original_title": "Why this battery company is pivoting to AI",
+            "content": "SES AI CEO'su Qichao Hu, batarya endüstrisinin mevcut durumu hakkında oldukça açık sözlü. \"Neredeyse her Batılı batarya şirketi ya öldü ya da ölecek. Gerçek böyle,\" diyor. Massachusetts merkezli bir batarya şirketi olan SES AI, bir zamanlar büyük miktarlarda batarya üretmeyi amaçlıyordu. Ancak, endüstrinin içinde bulunduğu zorlu koşullar nedeniyle, şirket stratejik bir değişiklik yaparak yapay zeka alanına odaklanma kararı aldı. Hu, batarya endüstrisinin karşı karşıya olduğu finansal ve teknolojik zorlukları vurgularken, yapay zekanın bu zorlukları aşmada nasıl bir rol oynayabileceğini araştırdıklarını belirtiyor. Batarya üretiminde maliyetleri düşürmek ve verimliliği artırmak için yapay zekanın potansiyelini değerlendiriyorlar. SES AI, bu yeni yönelimle birlikte, hem sürdürülebilir enerji çözümlerine katkıda bulunmayı hem de rekabetçi bir avantaj elde etmeyi hedefliyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
+            "date": "2026-03-25T16:18:09.699533",
+            "timestamp": 1774455489.699543
+        },
+        {
+            "title": "Matematikte Devrim: Axiom Math'in Yapay Zeka Aracı Axplorer",
+            "original_title": "This startup wants to change how mathematicians do math",
+            "content": "Kaliforniya, Palo Alto merkezli Axiom Math isimli startup, matematikçilerin çalışma biçimini değiştirmeyi hedefleyen yeni bir yapay zeka aracı geliştirdi. Ücretsiz olarak sunulan bu araç, uzun süredir çözülemeyen problemlerin çözümlerini ortaya çıkarabilecek matematiksel kalıpları keşfetmek için tasarlandı. Axplorer adı verilen bu araç, François Charton tarafından 2024 yılında ortak geliştirilen PatternBoost adlı mevcut bir aracın yeniden tasarımıdır. Şu anda Axiom'da araştırma bilimcisi olarak çalışan Charton, bu yeni aracın matematiksel araştırmalarda devrim yaratabileceğine inanıyor. Axplorer, matematikçilerin daha önce gözden kaçırmış olabileceği kalıpları ve bağlantıları ortaya çıkararak, keşif sürecini hızlandırmayı vaat ediyor. Özellikle karmaşık problemlerin çözümünde büyük bir potansiyele sahip olan bu araç, matematiksel düşüncenin sınırlarını zorlamayı amaçlıyor.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+            "date": "2026-03-25T16:18:19.012874",
+            "timestamp": 1774455499.012882
+        },
+        {
+            "title": "Başarılı Yapay Zeka Uygulamaları İçin Üç Temel Direk",
+            "original_title": "The Three Pillars of Successful AI Deployments",
+            "content": "Yapay zeka modelleri, zamanla öğrenen dinamik sistemlerdir. Ancak, sağlam veri, uygun modeller ve güçlü yapay zeka yönetimi olmadan, güvenilir gibi görünen modeller uygulandıklarında başarısız olabilirler. \n\nYapay zeka teknolojileri, günümüzde birçok sektörde devrim yaratmaya devam ediyor. Ancak, bu teknolojilerin başarılı bir şekilde uygulanabilmesi için üç ana unsurun dikkate alınması gerekiyor: veri kalitesi, uygun model seçimi ve etkili yapay zeka yönetimi. \n\nİlk olarak, veri kalitesinin önemi vurgulanmalıdır. Yapay zeka modellerinin güvenilir sonuçlar üretebilmesi için sağlam ve kaliteli verilere ihtiyaç vardır. Verilerin eksik veya hatalı olması durumunda, modeller yanlış sonuçlar verebilir ve bu, ciddi sorunlara yol açabilir.\n\nİkinci olarak, uygun model seçimi, başarılı yapay zeka uygulamaları için kritik bir rol oynar. Her problem için en uygun modelin seçilmesi, yapay zeka sistemlerinin etkinliğini artırır. Yanlış model seçimi, hem zaman kaybına hem de kaynakların israfına neden olabilir.\n\nSon olarak, yapay zeka yönetimi, bu teknolojilerin sürdürülebilirliği ve güvenliği için olmazsa olmazdır. Yapay zeka sistemlerinin sürekli izlenmesi ve güncellenmesi, olası hataların önüne geçebilmek için önemlidir. Ayrıca, etik ve yasal düzenlemelere uyum sağlamak da yapay zeka yönetiminin önemli bir parçasıdır.\n\nBu üç temel direk, yapay zekanın etkin ve verimli bir şekilde kullanılmasını sağlarken, olası riskleri de en aza indirir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/bioprocessing/the-three-pillars-of-successful-ai-deployments/)",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/the-three-pillars-of-successful-ai-deployments/",
+            "date": "2026-03-25T16:18:28.690301",
+            "timestamp": 1774455508.690309
+        },
+        {
+            "title": "Yapay Zeka, Biyofarma Üretiminde Devrim Yaratıyor",
+            "original_title": "Biopharma Benefitting from AI in Manufacturing",
+            "content": "Biyofarmasötik endüstrisi, üretimde yapay zeka teknolojisinden şimdiden faydalanmaya başlamış durumda. Cenevre merkezli bir endüstri grubu olan IFPMA'ya göre, süreç geliştirme, görsel denetim ve kalite güvencesi gibi alanlarda bu tür sistemlerin kullanımı artıyor. Yapay zeka, biyofarmasötik üretim süreçlerini daha verimli, güvenilir ve hızlı hale getirerek sektörde önemli bir değişime öncülük ediyor. Özellikle süreç geliştirme aşamasında, yapay zeka algoritmaları, üretim süreçlerini optimize ederek zaman ve maliyet tasarrufu sağlıyor. Görsel denetim alanında ise, kalite kontrol süreçlerinde insan hatasını minimize eden yapay zeka sistemleri, ürün kalitesini artırıyor. Kalite güvencesi açısından, yapay zeka destekli sistemler, ürünlerdeki olası hataları önceden tespit ederek üretim süreçlerinin daha güvenilir olmasına katkı sağlıyor. Bu gelişmeler, biyofarmasötik sektörünün gelecekteki büyüme potansiyelini artırırken, yenilikçi üretim teknikleriyle de endüstri standartlarını yükseltiyor.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News, https://www.genengnews.com/topics/bioprocessing/biopharma-benefitting-from-ai-in-manufacturing/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/biopharma-benefitting-from-ai-in-manufacturing/",
+            "date": "2026-03-25T16:18:34.317896",
+            "timestamp": 1774455514.317904
+        },
         {
             "title": "Metformin'in Beyindeki Gizli Yolu: Diyabet Tedavisinde Yeni Ufuklar",
             "original_title": "Metformin’s hidden brain pathway revealed after 60 years",
@@ -450,66 +510,6 @@
             "link": "https://www.genengnews.com/topics/translational-medicine/engineered-esophagus-rebuilds-missing-organ-segment-in-pig-models/",
             "date": "2026-03-20T21:38:29.152373",
             "timestamp": 1774042709.152382
-        },
-        {
-            "title": "LazySlide: Bütün Slayt ve Moleküler Verileri Entegre Etmek İçin Açık Çerçeve",
-            "original_title": "LazySlide: Open Framework for Integrating Whole-Slide and Molecular Data",
-            "content": "LazySlide, tüm slayt görüntü analizini daha erişilebilir hale getirmek ve modern genomik süreçleri yönlendiren mevcut hesaplamalı iş akışlarına entegre edilebilir hale getirmek için tasarlanmış açık kaynaklı bir Python paketidir. Bu araç, biyoinformatik alanında çalışan araştırmacılar ve bilim insanları için büyük bir yenilik sunuyor. \n\nLazySlide, genomik verilerle bütün slayt görüntülerini birleştirerek, biyolojik araştırmaların doğruluğunu ve etkinliğini artırmayı hedefliyor. Bu entegrasyon, araştırmacıların hem moleküler hem de görsel verileri bir arada analiz etmelerine olanak tanıyor. \n\nPython tabanlı bu paket, kullanıcı dostu bir arayüz sunarak karmaşık veri setleriyle çalışmayı kolaylaştırıyor ve biyoinformatik projelerinde daha derinlemesine analiz imkanı tanıyor. LazySlide ile bilim insanları, görüntü verilerini genomik verilerle bir araya getirerek daha kapsamlı ve detaylı sonuçlar elde edebilirler.\n\nBu yenilikçi araç, özellikle patoloji ve kanser araştırmaları gibi alanlarda büyük potansiyel taşıyor. Araştırmacılar, LazySlide sayesinde tüm slayt görüntülerini ve moleküler verileri entegre ederek daha anlamlı biyolojik sonuçlar elde edebilirler. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/artificial-intelligence/lazyslide-open-framework-for-integrating-whole-slide-and-molecular-data/",
-            "date": "2026-03-20T21:38:34.576678",
-            "timestamp": 1774042714.576687
-        },
-        {
-            "title": "RNA Geri Dönüşümü Ömrü Uzatıyor",
-            "original_title": "RNA Recycling Extends Lifespan",
-            "content": "Araştırmacılar, RNASEK enziminin yaşlanmayı yavaşlattığını ve hücrelerde zamanla biriken 'toksik' dairesel RNA'ları temizleyerek yaşam süresini uzattığını keşfetti. Bu bulgu, yaşlanma sürecine dair önemli ipuçları sunarak, gelecekte yaşlanmayı geciktirme ve yaşam kalitesini artırma potansiyeli taşıyan yeni tedavi yöntemlerinin geliştirilmesine kapı aralayabilir.\n\nRNASEK enzimi, hücrelerde birikerek zararlı etkilere neden olan dairesel RNA'ların temizlenmesinde kritik bir rol oynar. Bu dairesel RNA'lar, zamanla hücre fonksiyonlarını bozarak yaşlanmayı hızlandırır ve çeşitli hastalıkların ortaya çıkmasına neden olabilir. RNASEK sayesinde bu toksik moleküllerin ortadan kaldırılması, hücrelerin daha sağlıklı kalmasını ve dolayısıyla organizmanın daha uzun süre yaşamasını sağlar.\n\nBu araştırma, özellikle nörodejeneratif hastalıklar ve yaşlanma ile ilgili sağlık sorunları için umut vadeden bir gelişmedir. RNASEK enziminin işleyişinin daha iyi anlaşılması, yaşa bağlı hastalıkların önlenmesi ve tedavisinde yeni yaklaşımlar geliştirilmesine olanak tanıyabilir.\n\nKaynak: Neuroscience News (2023)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/rnasek-aging-circular-rna-30353/",
-            "date": "2026-03-20T19:01:50.215916",
-            "timestamp": 1774033310.215928
-        },
-        {
-            "title": "Tip 1 Diyabetin Demans Riskine Etkisi",
-            "original_title": "How Type 1 Diabetes Impacts Dementia Risk",
-            "content": "Tip 1 diyabet hastalarının demans geliştirme olasılığı, diyabeti olmayanlara göre 3 kat daha fazladır. Bu risk, Tip 2 diyabetten önemli ölçüde daha yüksektir. Tip 1 diyabet, genellikle çocukluk veya gençlik döneminde teşhis edilen, insülin üretmeyen bir pankreas ile karakterize edilen bir durumdur. Bu hastalık kontrol altına alınmadığında, uzun vadede ciddi sağlık sorunlarına yol açabilir. \n\nDemans, zihinsel yeteneklerin bozulmasıyla karakterize edilen bir grup semptomdur ve günlük yaşam aktivitelerini etkiler. Bu durum genellikle yaşlılarda görülse de, Tip 1 diyabet gibi risk faktörleri, daha erken yaşlarda demans gelişimine neden olabilir. \n\nAraştırmalar, Tip 1 diyabetin demans riskini artırmasının birkaç nedeni olduğunu öne sürmektedir. Kronik yüksek kan şekeri seviyeleri, beyin damarlarına zarar vererek bilişsel işlevlerin bozulmasına yol açabilir. Ayrıca, Tip 1 diyabetin getirdiği diğer sağlık sorunları da demans riskini artırabilir.\n\nTip 1 diyabet hastalarının, demans riskini azaltmak için kan şekeri seviyelerini dikkatle izlemeleri ve doktorlarının önerdiği tedavi planlarına sadık kalmaları önemlidir. Bu, yaşam kalitelerini artırabilir ve uzun vadede demans gelişme riskini azaltabilir.\n\nKaynak: Neuroscience News",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/type-1-diabetes-dementia-risk-30352/",
-            "date": "2026-03-20T19:01:57.301352",
-            "timestamp": 1774033317.301361
-        },
-        {
-            "title": "Ohio'da Yeni Hayat Bilimleri Eğitim Merkezi New Albany'de Kurulacak",
-            "original_title": "Ohio Life Science Training Center to Be Based in New Albany International Business Park",
-            "content": "Ohio Hayat Bilimleri Eğitim Merkezi, giriş seviyesindeki istihdamla uyumlu programlara odaklanacak ve mevcut İyi Üretim Uygulamaları (cGMP), bağlamsal üretim temelleri ve laboratuvar becerilerini içerecektir. Bu merkez, New Albany Uluslararası İş Parkı'nda kurulacak ve biyoproses alanında kariyer yapmak isteyenler için önemli bir fırsat sunacaktır. \n\nEğitim merkezi, öğrencilere biyoteknoloji ve ilaç endüstrilerinde başarı için gerekli olan temel becerileri kazandırmayı hedeflemektedir. cGMP eğitimi, ürünlerin güvenli ve etkili bir şekilde üretilmesini sağlamak için gerekli olan standartları öğretirken, üretim temelleri ve laboratuvar becerileri, katılımcıların üretim sürecine ve laboratuvar ortamlarına daha iyi uyum sağlamalarına yardımcı olacaktır.\n\nBu merkez, Ohio'daki bilim ve teknoloji eğitiminde önemli bir adım olarak görülüyor ve bölgedeki iş gücü gelişimine katkıda bulunması bekleniyor. Eğitim programları, katılımcılara pratik deneyimler sunarak onların sektördeki rekabet edebilirliklerini artırmayı amaçlamaktadır.\n\nKaynakça: GEN - Genetic Engineering and Biotechnology News. (tarih yok). Ohio Life Science Training Center to Be Based in New Albany International Business Park. Erişim adresi: https://www.genengnews.com/topics/bioprocessing/ohio-life-science-training-center-to-be-based-in-new-albany-international-business-park/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/bioprocessing/ohio-life-science-training-center-to-be-based-in-new-albany-international-business-park/",
-            "date": "2026-03-20T19:02:02.608913",
-            "timestamp": 1774033322.608921
-        },
-        {
-            "title": "Alkol, Tütün ve Opioid Bağımlılıklarının Genetik Kökleri Ortaya Çıktı",
-            "original_title": "Alcohol, Tobacco, and Opioid Addictions Share Genetic Roots",
-            "content": "Geniş çaplı bir araştırma, bağımlılık genetik riskinin büyük ölçüde tüm maddeler arasında paylaşıldığını ve beynin 'dürtü kontrol' merkezi ile bağlantılı olduğunu ortaya koyuyor. Araştırma, alkol, tütün ve opioid gibi bağımlılık yaratan maddelerin ardındaki genetik faktörlerin büyük oranda örtüştüğünü gösteriyor. Bu bulgular, bağımlılıkların ortak genetik kökenlerini anlamada önemli bir adım olarak değerlendiriliyor. \n\nAraştırmacılar, bağımlılık eğilimlerinin genetik olarak belirlenmiş olabileceğini ve bu eğilimlerin beynin dürtü kontrolüyle ilişkili bölgeleriyle bağlantılı olduğunu belirtiyor. Bu, özellikle bağımlılıkla mücadelede yeni tedavi yöntemlerinin geliştirilmesi açısından umut verici olabilir. Beynin karar verme ve kontrol mekanizmaları üzerindeki genetik etkilerin anlaşılması, bağımlılık tedavilerinin daha kişiselleştirilmiş ve etkili olmasına katkı sağlayabilir.\n\nSonuç olarak, bu çalışma, bağımlılığın genetik temelleri hakkında daha derin bir anlayış sunarak, gelecekte daha etkili önleme ve tedavi stratejilerinin geliştirilmesine olanak tanıyabilir.\n\nKaynak: Neuroscience News. (2023). Alcohol, Tobacco, and Opioid Addictions Share Genetic Roots. https://neurosciencenews.com/genetics-addiction-impulse-control-30350/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/genetics-addiction-impulse-control-30350/",
-            "date": "2026-03-20T15:52:49.848305",
-            "timestamp": 1774021969.848316
-        },
-        {
-            "title": "Beynin İçsel Pusulası Hafızaları Nasıl Sabit Tutuyor?",
-            "original_title": "The Brain’s Compass Keeps Memories Stable",
-            "content": "Araştırmacılar, beynin 'içsel pusulasının' aylar boyunca stabil kaldığını keşfettiler. Bu içsel pusula, hipokampus yeniden organize olsa bile, anıların kalıcı bir çapa noktası olarak işlev görüyor. İçsel pusulanın stabilitesi, hafızaların zaman içinde nasıl tutarlı ve güvenilir kaldığına dair önemli bilgiler sağlıyor. Bu çalışma, beynin navigasyon ve hafıza süreçlerine dair daha derin bir anlayış geliştiriyor ve bellek bozukluklarının tedavisine yönelik potansiyel yeni yollar açabilir. Araştırma, beynin farklı bölgelerinin nasıl etkileşimde bulunduğunu ve bu etkileşimlerin hafıza üzerindeki etkilerini anlamamıza yardımcı oluyor. Beynin bu içsel pusulası, özellikle yön bulma ve uzamsal farkındalığın kritik olduğu anıların sabitlenmesinde önemli bir rol oynuyor. Bu buluş, hafıza stabilitesinin nörolojik temelini daha iyi anlamamıza katkıda bulunuyor.\n\nKaynak: Neuroscience News. (2023). The Brain’s Compass Keeps Memories Stable. https://neurosciencenews.com/head-direction-memory-stability-30349/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/head-direction-memory-stability-30349/",
-            "date": "2026-03-20T15:52:57.233384",
-            "timestamp": 1774021977.233393
         }
     ]
 }
