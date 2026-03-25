@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-03-25T16:18:34.317942",
+    "last_updated": "2026-03-25T19:07:21.731748",
     "daily_news": {
-        "title": "Başarılı Yapay Zeka Uygulamaları İçin Üç Temel Direk",
-        "original_title": "The Three Pillars of Successful AI Deployments",
-        "content": "Yapay zeka modelleri, zamanla öğrenen dinamik sistemlerdir. Ancak, sağlam veri, uygun modeller ve güçlü yapay zeka yönetimi olmadan, güvenilir gibi görünen modeller uygulandıklarında başarısız olabilirler. \n\nYapay zeka teknolojileri, günümüzde birçok sektörde devrim yaratmaya devam ediyor. Ancak, bu teknolojilerin başarılı bir şekilde uygulanabilmesi için üç ana unsurun dikkate alınması gerekiyor: veri kalitesi, uygun model seçimi ve etkili yapay zeka yönetimi. \n\nİlk olarak, veri kalitesinin önemi vurgulanmalıdır. Yapay zeka modellerinin güvenilir sonuçlar üretebilmesi için sağlam ve kaliteli verilere ihtiyaç vardır. Verilerin eksik veya hatalı olması durumunda, modeller yanlış sonuçlar verebilir ve bu, ciddi sorunlara yol açabilir.\n\nİkinci olarak, uygun model seçimi, başarılı yapay zeka uygulamaları için kritik bir rol oynar. Her problem için en uygun modelin seçilmesi, yapay zeka sistemlerinin etkinliğini artırır. Yanlış model seçimi, hem zaman kaybına hem de kaynakların israfına neden olabilir.\n\nSon olarak, yapay zeka yönetimi, bu teknolojilerin sürdürülebilirliği ve güvenliği için olmazsa olmazdır. Yapay zeka sistemlerinin sürekli izlenmesi ve güncellenmesi, olası hataların önüne geçebilmek için önemlidir. Ayrıca, etik ve yasal düzenlemelere uyum sağlamak da yapay zeka yönetiminin önemli bir parçasıdır.\n\nBu üç temel direk, yapay zekanın etkin ve verimli bir şekilde kullanılmasını sağlarken, olası riskleri de en aza indirir.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News (https://www.genengnews.com/topics/bioprocessing/the-three-pillars-of-successful-ai-deployments/)",
-        "category": "Yapay Zeka",
-        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/bioprocessing/the-three-pillars-of-successful-ai-deployments/",
-        "date": "2026-03-25T16:18:28.690301",
-        "timestamp": 1774455508.690309
+        "title": "Bağırsak Beyine Yemeyi Durdurmasını Nasıl Söyler?",
+        "original_title": "How the Gut Tells the Brain to Stop Eating",
+        "content": "Araştırmacılar, bağırsak bağışıklık sistemi ile beyin arasındaki moleküler yolu keşfettiler. Tuft hücrelerinin vagus sinirine nasıl sinyal gönderdiğini haritalandırarak, parazit enfeksiyonları ve bağırsak sorunlarının neden kalıcı iştah kaybına yol açtığını açıklayan bu çalışma, yeni ufuklar açıyor. Bağırsaklarımızdaki özel hücreler olan tuft hücreleri, vücuda giren parazitler veya diğer sorunlar karşısında beyine sinyaller göndererek iştahımızı azaltmaktadır. Bu sinyaller vagus siniri aracılığıyla beyine iletilir ve böylece vücut kendini koruma altına alır. Bu keşif, sindirim sistemi ve sinir sistemi arasındaki karmaşık etkileşimleri daha iyi anlamamızı sağlarken, gelecekte iştah kontrolü ve kilo yönetimi konularında yeni tedavi yöntemlerinin geliştirilmesine de öncülük edebilir. Bu bilgiler ışığında, bağırsak sağlığının genel sağlık üzerindeki etkilerini daha iyi anlamak mümkün hale geliyor.\n\nKaynak: Neuroscience News (2023). How the Gut Tells the Brain to Stop Eating. https://neurosciencenews.com/gut-immune-brain-appetite-30386/",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/gut-immune-brain-appetite-30386/",
+        "date": "2026-03-25T19:07:04.659795",
+        "timestamp": 1774465624.659805
     },
     "news_list": [
+        {
+            "title": "Bağırsak Beyine Yemeyi Durdurmasını Nasıl Söyler?",
+            "original_title": "How the Gut Tells the Brain to Stop Eating",
+            "content": "Araştırmacılar, bağırsak bağışıklık sistemi ile beyin arasındaki moleküler yolu keşfettiler. Tuft hücrelerinin vagus sinirine nasıl sinyal gönderdiğini haritalandırarak, parazit enfeksiyonları ve bağırsak sorunlarının neden kalıcı iştah kaybına yol açtığını açıklayan bu çalışma, yeni ufuklar açıyor. Bağırsaklarımızdaki özel hücreler olan tuft hücreleri, vücuda giren parazitler veya diğer sorunlar karşısında beyine sinyaller göndererek iştahımızı azaltmaktadır. Bu sinyaller vagus siniri aracılığıyla beyine iletilir ve böylece vücut kendini koruma altına alır. Bu keşif, sindirim sistemi ve sinir sistemi arasındaki karmaşık etkileşimleri daha iyi anlamamızı sağlarken, gelecekte iştah kontrolü ve kilo yönetimi konularında yeni tedavi yöntemlerinin geliştirilmesine de öncülük edebilir. Bu bilgiler ışığında, bağırsak sağlığının genel sağlık üzerindeki etkilerini daha iyi anlamak mümkün hale geliyor.\n\nKaynak: Neuroscience News (2023). How the Gut Tells the Brain to Stop Eating. https://neurosciencenews.com/gut-immune-brain-appetite-30386/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/gut-immune-brain-appetite-30386/",
+            "date": "2026-03-25T19:07:04.659795",
+            "timestamp": 1774465624.659805
+        },
+        {
+            "title": "Soğuk Hissini Tetikleyen Minik Yağ Molekülü: TRPM8'in Sırrı",
+            "original_title": "Tiny Fat Molecule Triggers the Sensation of Cold",
+            "content": "Bilim insanları, soğuk ve mentholu algılayan TRPM8 proteinini oluşturan atomik hareketleri haritalandırdı. Bu 'moleküler film', lipitlerin proteini açık tutarak nasıl kilitlediğini ortaya koyuyor ve soğuk kaynaklı ağrıların tedavisi için yeni bir hedef sunuyor. TRPM8 proteini, vücudumuzda soğuk hissini algılayan önemli bir bileşen olarak biliniyor. Bilim insanları, bu proteinin işleyişini daha iyi anlayarak, soğuğa duyarlılığı nasıl yönlendirdiğini ve bunun ağrı yönetiminde nasıl kullanılabileceğini araştırıyorlar. Yeni yapılan bu çalışma, TRPM8'in atomik düzeydeki hareketlerini detaylandırarak, bu proteinin nasıl aktif hale geldiğini ve lipitler tarafından nasıl düzenlendiğini gösteriyor. Bu bilgiler, soğuk kaynaklı ağrıları tedavi etmek için yeni yollar geliştirmek amacıyla kullanılabilir. Özellikle kronik soğuk hassasiyetine sahip kişiler ve soğuk hava koşullarında çalışanlar için bu bulgular umut verici olabilir. Araştırmacılar, TRPM8'in yapısını ve işlevini daha iyi anlamak için çalışmalarını sürdürmeyi planlıyor ve bu alanda daha fazla keşif yapmayı umuyorlar. Çalışmanın sonuçları, soğuk algısı ve ağrı yönetimi konularında büyük bir ilerleme kaydedilmesini sağlayabilir. \n\nKaynak: Neuroscience News",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/trpm8-cold-sensor-mechanism-30385/",
+            "date": "2026-03-25T19:07:12.229212",
+            "timestamp": 1774465632.229221
+        },
+        {
+            "title": "Uzay Keşfinin Yeni Çağı: Mars, Asteroidler ve Ayda Yaşam",
+            "original_title": "Roundtables: The Next Era of Space Exploration",
+            "content": "Bilim insanlarının Mars'ta yaşam bulma yarışı, ölümcül asteroitleri alt etme kampanyası ve Ay'ı astronotlar için kalıcı bir yuva yapma arayışı, insanlığın gelecekteki yönü hakkında daha fazla bilgi edinmemize olanak tanıyor. Bu aboneye özel tartışma, uzayda kaydedilen ilerlemeleri ve olasılıkları inceliyor. Mars'ta yaşam arayışından Ay'da kalıcı bir yerleşim oluşturma vizyonuna kadar uzanan bu geniş alan, bilim insanlarının ve mühendislerin sınırlarını zorladığı bir dönemi sembolize ediyor. Ayrıca, asteroitlerin Dünya üzerindeki potansiyel tehditleri nasıl önleneceği üzerine yapılan çalışmalar, insanlığın uzun vadeli hayatta kalma stratejilerini şekillendiren önemli bir araştırma alanı olarak öne çıkıyor. Tüm bu çabalar, uzay keşfinin gelecekteki yönünü ve insanlık için yeni ufuklar açma potansiyelini gözler önüne seriyor. Bu çerçevede, bilim insanları ve uzmanlar, uzayda yaşamı sürdürülebilir kılacak yenilikçi çözümler geliştirmenin yollarını arıyorlar.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
+            "date": "2026-03-25T19:07:21.422491",
+            "timestamp": 1774465641.422499
+        },
         {
             "title": "Dopaminin Rolünü Belirleyen Asetilkolin: Öğrenme ve Hareketin Yeni Anahtarı",
             "original_title": "Acetylcholine Decides Dopamine’s Role",
@@ -480,36 +510,6 @@
             "link": "https://neurosciencenews.com/ant-social-recognition-behavioral-30359/",
             "date": "2026-03-21T18:49:12.379905",
             "timestamp": 1774118952.379915
-        },
-        {
-            "title": "Mali Çöküş Beyin Yaşlanmasını Hızlandırıyor",
-            "original_title": "Financial Decline Accelerates Brain Aging",
-            "content": "Araştırmacılar, ciddi mali gerileme yaşayan yetişkinlerin her yıl fazladan beş aylık yaşlanmaya eşdeğer hafıza kaybı yaşadıklarını buldular. Bu çalışma, mali durumdaki ani ve olumsuz değişikliklerin, bireylerin bilişsel sağlıkları üzerinde önemli etkileri olabileceğini gösteriyor. \n\nAraştırmanın bulgularına göre, finansal zorluklar bireylerin zihinsel işlevlerinde hızlanmış bir yaşlanma sürecine neden olabilir. Bu durum, ekonomik sıkıntıların sadece maddi değil, aynı zamanda bilişsel sağlık üzerinde de ciddi etkiler yaratabileceğini ortaya koyuyor. \n\nBulgular, mali istikrarsızlık yaşayan kişilerin, yaşlanma sürecinde normalde beklenenden daha hızlı bir şekilde bilişsel gerileme yaşayabileceğini belirtiyor. Araştırmanın sonuçları, mali durumdaki dalgalanmaların uzun vadeli sağlık üzerinde nasıl etkiler yaratabileceğine dair önemli ipuçları sunuyor.\n\nAPA Kaynağı: Neuroscience News. (2023). Financial Decline Accelerates Brain Aging. https://neurosciencenews.com/financial-decline-cognitive-aging-30358/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/financial-decline-cognitive-aging-30358/",
-            "date": "2026-03-20T21:38:18.399188",
-            "timestamp": 1774042698.399202
-        },
-        {
-            "title": "Köpek Melezlemesi ve Anksiyete Arasındaki Bağ Keşfedildi",
-            "original_title": "New Study Links Crossbreeding to Dog Anxiety",
-            "content": "Yeni bir araştırma, Cockapoo, Cavapoo ve Labradoodle gibi melez köpeklerin, onları oluşturan safkan köpeklere kıyasla daha fazla saldırganlık, korku ve heyecan gösterdiğini ortaya koydu. Araştırma, 9.000'den fazla köpek üzerinde yapılan gözlemler sonucunda, melez köpeklerin davranışsal sorunlar yaşama eğiliminde olduğunu belirtti. Uzmanlar, bu durumun genetik faktörler ve yetiştirme yöntemleriyle ilgili olabileceğini düşünüyor. Melez köpek sahipleri için, köpeklerin eğitim ve sosyalleşme süreçlerine dikkat edilmesi gerektiği vurgulandı. Bu bulgular, köpek sahiplerini ve yetiştiricileri melez köpeklerin psikolojik sağlıklarına daha fazla önem vermeye teşvik ediyor.\n\nKaynak: Neuroscience News. (2023). New Study Links Crossbreeding to Dog Anxiety. Erişim adresi: https://neurosciencenews.com/dog-crossbreed-anxiety-30357/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/dog-crossbreed-anxiety-30357/",
-            "date": "2026-03-20T21:38:22.416024",
-            "timestamp": 1774042702.416032
-        },
-        {
-            "title": "Mühendislik Ürünü Yemek Borusu: Domuz Modellerinde Kayıp Organ Segmentini Yeniden İnşa Ediyor",
-            "original_title": "Engineered Esophagus Rebuilds Missing Organ Segment in Pig Models",
-            "content": "Donör domuzlardan laboratuvar ortamında geliştirilen bir yemek borusu, hayvan modellerinde eksik bir segmenti başarıyla değiştirerek yutkunmayı yeniden sağladı. Bu durum, uzun boşluklu yemek borusu atrezisi ile doğan çocuklara nasıl yardımcı olabileceğini gösteren erken kanıtlar sunuyor. \n\nGenetik Mühendislik ve Biyoteknoloji Haberleri'nde yayımlanan bu araştırma, rejeneratif tıbbın potansiyelini ortaya koyuyor. Yemek borusu atrezisi, yemek borusunun bir kısmının eksik olduğu doğumsal bir durum olup, ciddi sağlık sorunlarına yol açabiliyor. Geleneksel cerrahi yöntemler, bu eksik segmenti onarmak için yeterli olmayabilirken, mühendislik ürünü bu yeni yaklaşım, doğal işlevin geri kazanılmasına olanak tanıyor.\n\nAraştırma ekibi, yemek borusu dokusunu laboratuvar ortamında geliştirip, domuz modellerine naklederek bu yenilikçi yöntemi test etti. Sonuçlar, nakledilen dokunun başarılı bir şekilde entegre olduğunu ve yutkunma fonksiyonunu geri kazandırdığını gösterdi. Bu gelişme, gelecekte insan uygulamaları için umut vadeden bir adım olarak değerlendiriliyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (2023). Engineered Esophagus Rebuilds Missing Organ Segment in Pig Models. https://www.genengnews.com/topics/translational-medicine/engineered-esophagus-rebuilds-missing-organ-segment-in-pig-models/",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/engineered-esophagus-rebuilds-missing-organ-segment-in-pig-models/",
-            "date": "2026-03-20T21:38:29.152373",
-            "timestamp": 1774042709.152382
         }
     ]
 }
