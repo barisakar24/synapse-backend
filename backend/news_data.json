@@ -1,16 +1,46 @@
 {
-    "last_updated": "2026-03-24T21:47:26.654782",
+    "last_updated": "2026-03-25T02:53:44.877458",
     "daily_news": {
-        "title": "Katı Tümörler için İmmünoterapide Metabolit Algılayıcı Reseptörlerle Yeni Dönem",
-        "original_title": "Immunotherapy for Solid Tumors Enhanced by Metabolite-Sensing Receptors",
-        "content": "Özet: Yeni bir yaklaşım, bağışıklık hücrelerini kanser hücrelerinin yan ürünlerini tanıyacak şekilde mühendislik ederek, katı tümörlere doğru göçü tetikler. Bu yöntem, kanser hücresinin yüzeyine bağlı proteinleri tanıyan CAR T-hücre tedavisinden farklıdır.\n\nDetaylı Makale: İmmünoterapide yenilikçi bir adım olarak, kanser hücrelerinin metabolitlerini algılayan bağışıklık hücreleri geliştirilmiştir. Bu yeni yöntem, kanser hücrelerinin ürettiği yan ürünleri tanıyan ve bu sinyaller doğrultusunda hareket eden bağışıklık hücrelerini içerir. Bu hücreler, katı tümörlere ulaşmak ve onları hedef almak için daha etkili bir yol sunmaktadır.\n\nGeleneksel CAR T-hücre terapisi, kanser hücresinin yüzeyine bağlı olan proteinleri tanıma prensibine dayanmaktadır. Ancak bu yeni yaklaşım, hücre yüzeyindeki proteinler yerine, hücrelerin metabolik faaliyetleri sonucunda oluşan yan ürünleri hedef alarak, bağışıklık sisteminin kanserli dokuları daha etkin bir şekilde tanımasına ve tepki vermesine olanak tanır.\n\nBu teknolojinin geliştirilmesi, katı tümörlerin tedavisinde önemli bir dönüm noktası olabilir. Metabolit algılayan reseptörlerle donatılmış bağışıklık hücreleri, sadece daha hassas bir hedefleme sağlamakla kalmaz, aynı zamanda kanserli dokuların mikro çevresindeki değişiklikleri de algılayarak, tedavinin etkinliğini artırabilir.\n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (tarih). Immunotherapy for Solid Tumors Enhanced by Metabolite-Sensing Receptors. Erişim adresi: https://www.genengnews.com/topics/cancer/immunotherapy-for-solid-tumors-enhanced-by-metabolite-sensing-receptors/",
-        "category": "Genetik",
-        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/cancer/immunotherapy-for-solid-tumors-enhanced-by-metabolite-sensing-receptors/",
-        "date": "2026-03-24T21:47:21.253267",
-        "timestamp": 1774388841.253277
+        "title": "Beynimizin Anı Depolama Sırrı Çözüldü: Ne ve Nerede/Ne Zaman Ayrımı",
+        "original_title": "Scientists just solved a major mystery about how your brain stores memories",
+        "content": "Bilim insanları, beynimizin anıları nasıl sakladığına dair önemli bir gizemi çözdü. Araştırmalar, beynimizin anıları 'ne' ve 'nerede/ne zaman' olarak iki farklı nöron grubu aracılığıyla ayırdığını ortaya koydu. Bir grup nöron belirli nesneler veya insanlara tepki verirken, diğer grup bağlamı veya durumu takip ediyor. Bir şeyi doğru hatırladığımızda, bu nöron grupları kısa bir süreliğine birleşerek tam anıyı yeniden inşa ediyor. Bu sistem, tamamen farklı deneyimler arasında aynı şeyleri nasıl tanıyabildiğimizin arkasındaki sır olabilir. \n\nKaynak: Mind & Brain News -- ScienceDaily. (2023). Scientists just solved a major mystery about how your brain stores memories.",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260324024247.htm",
+        "date": "2026-03-25T02:53:41.229623",
+        "timestamp": 1774407221.22963
     },
     "news_list": [
+        {
+            "title": "Beyin Okuyabilen Tuz Tanesi Boyutunda İmplant",
+            "original_title": "This tiny implant, smaller than a grain of salt, can read your brain",
+            "content": "Bilim insanları, beyin aktivitesini takip edebilen ve kablosuz olarak iletebilen, bir tuz tanesi boyutunda yeni bir nöral implant geliştirdiler. Bu ultra mini cihaz, beyin üzerinde herhangi bir invaziv kablolama gerektirmeden bilimsel araştırmaların seyrini değiştirebilir. İmplant, doku üzerinden güvenli bir şekilde geçen lazer ışığı ile çalışıyor ve küçük kızılötesi sinyaller kullanarak iletişim kuruyor. Cihaz, bir yıldan uzun süre boyunca beyin aktivitelerini takip edebiliyor ve bu süreçte bir devrim yaratabilecek potansiyelde. Bu yenilik, daha önce mümkün olmayan hassasiyetle beyin araştırmalarının yapılmasına olanak tanıyor.\n\nKaynak: Mind & Brain News - ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260324024249.htm",
+            "date": "2026-03-25T02:53:37.929228",
+            "timestamp": 1774407217.929238
+        },
+        {
+            "title": "Beynimizin Anı Depolama Sırrı Çözüldü: Ne ve Nerede/Ne Zaman Ayrımı",
+            "original_title": "Scientists just solved a major mystery about how your brain stores memories",
+            "content": "Bilim insanları, beynimizin anıları nasıl sakladığına dair önemli bir gizemi çözdü. Araştırmalar, beynimizin anıları 'ne' ve 'nerede/ne zaman' olarak iki farklı nöron grubu aracılığıyla ayırdığını ortaya koydu. Bir grup nöron belirli nesneler veya insanlara tepki verirken, diğer grup bağlamı veya durumu takip ediyor. Bir şeyi doğru hatırladığımızda, bu nöron grupları kısa bir süreliğine birleşerek tam anıyı yeniden inşa ediyor. Bu sistem, tamamen farklı deneyimler arasında aynı şeyleri nasıl tanıyabildiğimizin arkasındaki sır olabilir. \n\nKaynak: Mind & Brain News -- ScienceDaily. (2023). Scientists just solved a major mystery about how your brain stores memories.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260324024247.htm",
+            "date": "2026-03-25T02:53:41.229623",
+            "timestamp": 1774407221.22963
+        },
+        {
+            "title": "Sanofi, Kali ile 1.23 Milyar Dolarlık İş Birliği ile Otoimmün Hastalıklar Alanında İlerliyor",
+            "original_title": "Sanofi Steps Up Autoimmune Push with Up-to-$1.23B+ Kali Collaboration",
+            "content": "Sanofi, Kali'nin keşif ve araştırma platformunu kullanarak keşfettiği KT501 için dünya çapında münhasır haklar elde etmek üzere anlaşma yaptı. KT501, CD3, CD19 ve BCMA'ya yüksek afinitesi ile bağlanmak üzere tasarlanmış, bağışıklık sistemi hücrelerinden biri olan T hücrelerini hedef alan IgG-benzeri üçlü bir spesifik moleküldür. Bu sayede, geniş bir B hücre popülasyonunu hedef alabilmektedir. Bu iş birliği, Sanofi'nin otoimmün hastalıklar alanındaki stratejik hamlelerinden biri olarak öne çıkıyor. \n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/drug-discovery/sanofi-steps-up-autoimmune-push-with-up-to-1-23b-kali-collaboration/)",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/drug-discovery/sanofi-steps-up-autoimmune-push-with-up-to-1-23b-kali-collaboration/",
+            "date": "2026-03-25T02:53:44.877419",
+            "timestamp": 1774407224.877427
+        },
         {
             "title": "Katı Tümörler için İmmünoterapide Metabolit Algılayıcı Reseptörlerle Yeni Dönem",
             "original_title": "Immunotherapy for Solid Tumors Enhanced by Metabolite-Sensing Receptors",
@@ -480,36 +510,6 @@
             "link": "https://www.genengnews.com/topics/cancer/metastasis-slowed-by-targeting-lipid-metabolism-in-healthy-lung-cells/",
             "date": "2026-03-20T02:47:14.368988",
             "timestamp": 1773974834.368995
-        },
-        {
-            "title": "T Hücre Reseptörü Modifikasyonu ile Hedefe Yönelik Kanser Tedavisinde Gelişme",
-            "original_title": "Modifying T Cell Receptor Improves Targeted Cancer Therapy",
-            "content": "<p>Araştırmacılar, prostat kanseri hücrelerini daha etkili ve hassas bir şekilde öldürebilen T hücrelerini mühendislik yoluyla geliştirdi. T hücre reseptörleri, kanser hücreleriyle olan bağın dayanıklılığını artıracak şekilde modifiye edildi. Bu sayede, hedefe yönelik kanser tedavisinde önemli bir adım atılmış oldu.</p>\n\n<p>Bu yenilikçi yaklaşım, bağışıklık sisteminin kanser hücrelerini tanıma ve yok etme kapasitesini artırarak tedavi sürecinde önemli bir iyileşme sağlıyor. Araştırmanın sonuçları, gelecekteki kanser tedavilerinde T hücrelerinin nasıl daha etkili bir şekilde kullanılabileceğine dair umut verici ipuçları sunuyor.</p>\n\n<p>Kaynak: GEN – Genetic Engineering and Biotechnology News. (2023). Modifying T Cell Receptor Improves Targeted Cancer Therapy. Erişim adresi: https://www.genengnews.com/topics/cancer/modifying-t-cell-receptor-improves-targeted-cancer-therapy/</p>",
-            "category": "Genetik",
-            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/modifying-t-cell-receptor-improves-targeted-cancer-therapy/",
-            "date": "2026-03-20T02:47:18.401605",
-            "timestamp": 1773974838.401613
-        },
-        {
-            "title": "Beyinlerin Senkronizasyonu: Grup Hayatta Kalma İçin Ortak Çalışma",
-            "original_title": "How Brains Sync for Group Survival",
-            "content": "Bilim insanları, sosyal grupların tek bir sistem olarak hareket edebilmesini sağlayan beyin bölgelerini haritalandırdı. Bu beyin bölgeleri, grubun hayatta kalabilmesi için zorlanan üyeleri telafi ederek herkesin hayatta kalmasını sağlıyor. Araştırma, sosyal dayanıklılığın nörolojik temellerini anlamada önemli bir adım olarak değerlendiriliyor. Özellikle kriz anlarında, gruptaki bireylerin beyinlerinin nasıl senkronize olduğu ve bu senkronizasyonun grubun genel dayanıklılığına nasıl katkı sağladığı incelenmiştir. Çalışma, sosyal hayatta kalma stratejilerinin geliştirilmesine yönelik yeni yollar açabilir ve grup dinamiklerinin daha iyi anlaşılmasına yardımcı olabilir. \n\nKaynak: Neuroscience News. (2023). How Brains Sync for Group Survival. Erişim adresi: https://neurosciencenews.com/collective-social-resilience-brain-30347/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/collective-social-resilience-brain-30347/",
-            "date": "2026-03-19T21:44:25.314887",
-            "timestamp": 1773956665.314897
-        },
-        {
-            "title": "Dopamin: Ödülün Ötesinde Beynin Yön Bulma Sistemi",
-            "original_title": "Dopamine GPS: Visual Guidance Beyond Reward",
-            "content": "Dopamin yalnızca bir ödül aracı değil. Yeni araştırmalar, dopaminin biyolojik bir GPS gibi çalışarak, beynimize gerçek zamanlı 'yönlendirme sinyalleri' gönderdiğini ve doğru yolda kalmamızı sağladığını ortaya koyuyor. \n\nDopamin, genellikle ödül ve mutluluk hormonu olarak bilinir. Ancak, bu yeni bulgular dopaminin işlevinin sadece ödülle sınırlı olmadığını gösteriyor. Araştırmacılar, dopaminin beyinde bir tür yol gösterici olarak çalıştığını ve bireylerin hedeflerine ulaşmak için doğru rotayı takip etmelerine yardımcı olduğunu belirtiyor. \n\nBu keşif, dopaminin yalnızca ödül mekanizmalarında değil, aynı zamanda navigasyon ve karar verme süreçlerinde de kritik bir rol oynadığını gösteriyor. Beynin farklı bölgelerinde bulunan dopamin nöronları, çevresel ipuçlarına tepki vererek, bireylerin hareketlerini ve seçimlerini yönlendiriyor. \n\nBu çalışma, yalnızca nörobilim alanında değil, aynı zamanda davranış bilimi ve psikoloji alanlarında da önemli etkiler yaratabilir. Dopaminin rolünün daha iyi anlaşılması, nörolojik ve psikiyatrik hastalıkların tedavisinde yeni yaklaşımlar geliştirilmesine de yardımcı olabilir. \n\nKaynak: Neuroscience News (2023). Dopamine GPS: Visual Guidance Beyond Reward. https://neurosciencenews.com/dopamine-guidance-trajectory-30345/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/dopamine-guidance-trajectory-30345/",
-            "date": "2026-03-19T21:44:32.460442",
-            "timestamp": 1773956672.460451
         }
     ]
 }
