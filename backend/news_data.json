@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-03-25T10:01:08.034920",
+    "last_updated": "2026-03-25T13:42:29.816273",
     "daily_news": {
-        "title": "Yapay Zeka Savaşında Son Durum: Anthropic ve Pentagon'un Çatışması",
-        "original_title": "The AI Hype Index: AI goes to war",
-        "content": "Yapay zeka savaş alanında. Anthropic ve Pentagon, Anthropic'in yapay zeka modeli Claude'un nasıl silahlandırılacağı konusunda bir anlaşmazlık yaşadı. Ardından, OpenAI, Pentagon ile \"fırsatçı ve özensiz\" bir anlaşma yaparak dikkatleri üzerine çekti. Kullanıcılar, ChatGPT'yi topluca terk etti. Londra'da, bugüne kadarki en büyük yapay zeka karşıtı protesto düzenlendi. Eğer durumu değerlendiriyorsanız, Anthropic—şirket kuruldu... \n\nKaynak: MIT Technology Review",
+        "title": "E. coli Kapsüllerinin Genomik Haritalaması: Aşılar İçin Yüksek Riskli Türler Belirlendi",
+        "original_title": "Genomic Mapping of E. coli Capsules Identifies High-Risk Types for Vaccines",
+        "content": "Makale içeriği: <p>Bir suşun invaziv hale gelip gelmediğini belirleyen temel faktörlerden biri, bakteriyi bağışıklık tespitinden ve belirli tedavilerden koruyabilen şeker açısından zengin dış tabaka olan kapsülüdür.</p><p>Bu çalışma, E. coli bakterilerinin kapsüllerinin genomik haritalaması yoluyla, aşı geliştirilmesinde yüksek risk taşıyan türlerin belirlenmesini amaçlamaktadır. Kapsüller, bakterinin bağışıklık sisteminden saklanmasına yardımcı olan ve invaziv enfeksiyonların gelişiminde önemli rol oynayan yapılar olarak bilinir. Çalışmada, E. coli'nin farklı kapsül türleri detaylı şekilde incelenmiş ve hangi türlerin daha yüksek risk taşıdığı belirlenmiştir.</p><p>Bu tür çalışmalar, gelecekteki aşı geliştirme süreçlerinde kritik bir öneme sahip olabilir ve potansiyel olarak daha etkili aşı stratejilerinin geliştirilmesine olanak sağlayabilir.</p><p>Kaynak: GEN – Genetic Engineering and Biotechnology News</p>",
         "category": "Yapay Zeka",
         "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-        "date": "2026-03-25T10:01:07.773848",
-        "timestamp": 1774432867.773859
+        "link": "https://www.genengnews.com/topics/infectious-diseases/genomic-mapping-of-e-coli-capsules-identifies-high-risk-types-for-vaccines/",
+        "date": "2026-03-25T13:42:29.816226",
+        "timestamp": 1774446149.816235
     },
     "news_list": [
+        {
+            "title": "Metformin'in Beyindeki Gizli Yolu: Diyabet Tedavisinde Yeni Ufuklar",
+            "original_title": "Metformin’s hidden brain pathway revealed after 60 years",
+            "content": "Metformin'in, vücutta olduğu kadar beyinde de etkili bir şekilde çalıştığı ortaya çıktı. Bilim insanları, bu ilacın sadece vücuttaki kan şekerini düşürmekle kalmayıp, beynin belirli bölgelerinde de etkili olduğunu keşfetti. Metformin, beyin üzerindeki etkisini, belirli bir proteini kapatarak ve özel nöronları aktif hale getirerek gösteriyor. Bu yeni yol, şimdiye kadar bilinmeyen bir mekanizma olarak diyabet tedavisinde devrim yaratabilir.\n\nMetformin, uzun yıllardır diyabet tedavisinde yaygın olarak kullanılan bir ilaç. Ancak, bu ilacın beyindeki etkileri hakkında bugüne kadar çok az şey biliniyordu. Araştırmacılar, metforminin beyindeki bu yeni etkilerini keşfederek, hem bilim dünyasında büyük bir heyecan yarattı hem de diyabet tedavisi için yeni stratejilerin geliştirilmesine kapı araladı.\n\nBu keşif, metforminin beyindeki özel nöronları etkileyerek, kan şekeri seviyelerini kontrol altına alabildiğini gösteriyor. Bu mekanizma, diyabet hastalarında daha etkili tedavi yöntemleri geliştirmek için büyük bir umut vaat ediyor. Bilim insanları, bu bulguların ilerleyen dönemlerde daha fazla araştırılarak, özellikle diyabet tedavisinde kişiselleştirilmiş tıp uygulamalarının geliştirilmesine olanak sağlayacağını belirtiyor.\n\nBu önemli bulgular, yalnızca diyabet tedavisi için değil, aynı zamanda beyinle ilgili diğer hastalıkların tedavisi için de yeni kapılar açabilir. Metformin'in beyindeki bu yeni etkisi, nöroloji alanında da heyecan verici gelişmelere yol açabilir.\n\nMind & Brain News -- ScienceDaily (Yayınlanma Tarihi: Yıl, Ay, Gün). Metformin’s hidden brain pathway revealed after 60 years. ScienceDaily'den alındı: URL",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260325055441.htm",
+            "date": "2026-03-25T13:42:09.396638",
+            "timestamp": 1774446129.39665
+        },
+        {
+            "title": "Dondurulmuş Beyinler Yeniden Hayata Dönüyor: Bilim ve Teknolojinin Sınırları",
+            "original_title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
+            "content": "Bu, teknoloji dünyasında olup bitenleri günlük olarak ele alan haftalık bültenimiz The Download'un bugünkü sayısıdır. Bilim insanı, arkadaşının kriyo-korunmuş beynini ısıttı ve inceledi. L. Stephen Coles'un beyni Arizona'daki bir depolama tesisinde bir kap içinde duruyor. Beyin burada düşük bir sıcaklıkta muhafaza ediliyor. Kriyojenik koruma, bir kişinin ölümünden hemen sonra vücudunun veya beyninin dondurularak gelecekte yeniden canlandırılma umuduyla saklanması işlemidir. Ancak, bu süreçte yeniden canlandırmanın mümkün olup olmadığı veya ne zaman mümkün olacağı henüz belirsizliğini koruyor. Bilim insanları bu alanda çeşitli deneyler yaparak, kriyojenik korunmuş dokuların yeniden canlandırılmasının yollarını araştırıyorlar. Bu deneylerin bir kısmı, kriyo-korunmuş beyinlerin belirli bölümlerini dikkatlice ısıtarak, dokuların zarar görmeden eski haline dönmesini sağlamak üzerine odaklanıyor. Bu tür çalışmalar, gelecekte insanların ölümlerinin ardından yeniden hayata dönebilmeleri için bilimsel yolların geliştirilmesine katkı sağlayabilir.\n\nKaynak: MIT Technology Review",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
+            "date": "2026-03-25T13:42:16.690571",
+            "timestamp": 1774446136.69058
+        },
+        {
+            "title": "Dijital Çağın Yeni Yüzü: Gerçek ve Bağlam Üzerine Kurulu Ajans Tabanlı Ticaret",
+            "original_title": "Agentic commerce runs on truth and context",
+            "content": "Günümüzde dijital dünyada büyük bir dönüşüm süreci yaşanıyor. Artık dijital ajanlar, sadece bilgi sağlamakla kalmıyor, aynı zamanda işlemleri de bizim adımıza gerçekleştirebiliyor. Hayal edin, bir dijital ajana 'Puanlarımı kullanarak ailem için İtalya'ya bir gezi ayarla. Bütçe dahilinde kalsın, daha önce beğendiğimiz otelleri seç ve detayları hallet.' dediğinizde size bir dizi bağlantı sunmak yerine, tüm gezi planını hazırlayıp satın alma işlemini gerçekleştiriyor.\n\nBu değişim, dijital asistanların sadece yardımcı olmaktan çıkıp doğrudan uygulayıcı bir role bürünmesi anlamına geliyor. Bu tür bir yapay zeka, kendi kendine hareket edebilen ticaret sistemlerinin temelini oluşturuyor. Bu sistemler, kullanıcıların tercihlerine ve geçmiş deneyimlerine dayanarak en uygun seçenekleri sunuyor ve gerekli işlemleri tamamlıyor.\n\nBöylesi bir sistemin başarısının temelinde ise, doğru ve bağlamsal bilgiye hızlı erişim yatıyor. Ajans tabanlı ticaret, kullanıcının geçmişteki tercihlerine, mevcut bütçesine ve diğer kişisel verilere dayanarak en uygun sonuçları sunuyor. Kullanıcılar artık uzun araştırmalar yapmak zorunda kalmadan, sadece isteklerini belirterek kapsamlı hizmet alabiliyor.\n\nBu yeni dijital ticaret modeli, kullanıcı deneyimini daha kişiselleştirilmiş ve etkili hale getiriyor. Kullanıcılar, kendileri için en uygun seçenekleri sunan ve işlemleri hızlı bir şekilde gerçekleştiren dijital ajanlardan faydalanarak zamandan ve emekten tasarruf edebiliyor.\n\nSonuç olarak, ajans tabanlı ticaretin yükselişi, dijital dünyada yeni bir dönemin kapılarını aralıyor. Bu sistemler, kullanıcıların hayatını kolaylaştırırken, ticaretin de daha verimli ve kullanıcı odaklı bir hale gelmesine katkı sağlıyor.",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+            "date": "2026-03-25T13:42:24.425676",
+            "timestamp": 1774446144.425685
+        },
+        {
+            "title": "E. coli Kapsüllerinin Genomik Haritalaması: Aşılar İçin Yüksek Riskli Türler Belirlendi",
+            "original_title": "Genomic Mapping of E. coli Capsules Identifies High-Risk Types for Vaccines",
+            "content": "Makale içeriği: <p>Bir suşun invaziv hale gelip gelmediğini belirleyen temel faktörlerden biri, bakteriyi bağışıklık tespitinden ve belirli tedavilerden koruyabilen şeker açısından zengin dış tabaka olan kapsülüdür.</p><p>Bu çalışma, E. coli bakterilerinin kapsüllerinin genomik haritalaması yoluyla, aşı geliştirilmesinde yüksek risk taşıyan türlerin belirlenmesini amaçlamaktadır. Kapsüller, bakterinin bağışıklık sisteminden saklanmasına yardımcı olan ve invaziv enfeksiyonların gelişiminde önemli rol oynayan yapılar olarak bilinir. Çalışmada, E. coli'nin farklı kapsül türleri detaylı şekilde incelenmiş ve hangi türlerin daha yüksek risk taşıdığı belirlenmiştir.</p><p>Bu tür çalışmalar, gelecekteki aşı geliştirme süreçlerinde kritik bir öneme sahip olabilir ve potansiyel olarak daha etkili aşı stratejilerinin geliştirilmesine olanak sağlayabilir.</p><p>Kaynak: GEN – Genetic Engineering and Biotechnology News</p>",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/infectious-diseases/genomic-mapping-of-e-coli-capsules-identifies-high-risk-types-for-vaccines/",
+            "date": "2026-03-25T13:42:29.816226",
+            "timestamp": 1774446149.816235
+        },
         {
             "title": "Yapay Zeka Savaşında Son Durum: Anthropic ve Pentagon'un Çatışması",
             "original_title": "The AI Hype Index: AI goes to war",
@@ -470,46 +510,6 @@
             "link": "https://neurosciencenews.com/head-direction-memory-stability-30349/",
             "date": "2026-03-20T15:52:57.233384",
             "timestamp": 1774021977.233393
-        },
-        {
-            "title": "OpenAI'nin Yeni Vizyonu: Tam Otomatik Araştırmacı",
-            "original_title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-            "content": "OpenAI, kendisine yeni bir büyük hedef belirledi: Tamamen otomatik bir araştırmacı geliştirmek. Bu, büyük ve karmaşık problemleri ele alabilecek bir yapay zeka araştırmacısı, yani tamamen otomatikleştirilmiş bir ajan tabanlı sistem inşa etmek anlamına geliyor. OpenAI'nin bu adımı, teknoloji dünyasında önemli bir dönüm noktası olarak görülüyor.\n\nBu yeni otomatik araştırmacı, bilimsel araştırmalarda devrim yaratacak potansiyele sahip. Mevcut yapay zeka sistemleri, genellikle belirli görevlerde yüksek performans gösterebilecek şekilde eğitiliyor. Ancak OpenAI'nin hedefi, bu sistemleri daha kapsamlı ve özerk hale getirerek, karmaşık ve çok yönlü sorunları çözebilecek kapasiteye ulaştırmak.\n\nBu tür bir yapay zeka sistemi, araştırmacıların saatlerce süren veri analizlerini ve modellemelerini otomatikleştirerek, insan araştırmacıların daha yaratıcı ve stratejik düşünmelerine olanak tanıyabilir. Ayrıca, insan hatasını minimize ederek, daha doğru ve güvenilir sonuçlar elde edilmesine katkı sağlayabilir.\n\nOpenAI'nin bu hedefi, yalnızca teknolojik bir yenilik olarak değil, aynı zamanda bilimsel metodolojilerde de köklü değişiklikler yaratabilir. Otomatik araştırmacılar, yalnızca mevcut bilgiyi kullanmakla kalmayıp, yeni bilgi ve anlayışlar da üretebilir. Bu da bilimsel keşif sürecini hızlandırabilir ve daha önce erişilemeyen bilgi alanlarını açığa çıkarabilir.\n\nYapay zeka araştırmalarında bu tür bir gelişme, etik ve güvenlik konularında da yeni tartışmaları beraberinde getirebilir. Özellikle, bu tür sistemlerin nasıl kontrol edileceği ve hangi sınırlar içinde çalışacağı önemli bir tartışma konusu.\n\nSonuç olarak, OpenAI'nin bu yöndeki çalışmaları, gelecekteki bilimsel araştırmaların doğasını önemli ölçüde değiştirebilir ve yapay zeka alanında yeni bir çağın kapılarını aralayabilir.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
-            "date": "2026-03-20T15:53:13.481725",
-            "timestamp": 1774021993.481734
-        },
-        {
-            "title": "Gözlerinizi Kapatmak Duyma Yetinizi Zayıflatabilir",
-            "original_title": "Closing your eyes to hear better might be a big mistake",
-            "content": "Birçok insan, gözlerini kapatmanın işitme duyusunu keskinleştirdiğine inanır, ancak bu her zaman doğru değildir. Gürültülü ortamlarda, katılımcılar gözleri kapalıyken zayıf sesleri duymakta daha fazla zorlanırken, eşleşen görseller işitmelerini kolaylaştırdı. Araştırmacılar, gözlerin kapatılmasının beynin gelen sesleri aşırı filtrelemesine yol açtığını buldular. Gözlerinizi açık tutmak, gürültülü ortamlarda ne kadar iyi duyduğunuzu gerçekten artırabilir.\n\nKaynakça: Mind & Brain News -- ScienceDaily. (2023). Closing your eyes to hear better might be a big mistake. ScienceDaily.",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260320073819.htm",
-            "date": "2026-03-20T13:18:13.632511",
-            "timestamp": 1774012693.632521
-        },
-        {
-            "title": "Yapılan Dev Araştırma: Esrar, Anksiyete ve Depresyona İyi Gelmiyor",
-            "original_title": "Huge study finds no evidence cannabis helps anxiety, depression, or PTSD",
-            "content": "En geniş kapsamlı tıbbi esrar incelemesi, esrarın anksiyete, depresyon veya TSSB'yi etkili bir şekilde tedavi etmediğini ortaya koydu. Milyonlarca kişi bu nedenlerle esrar kullanmasına rağmen, araştırmacılar bunun zihinsel sağlığı daha da kötüleştirebileceği konusunda uyarıda bulunuyor. Psikoz ve bağımlılık gibi riskleri artırırken, kanıtlanmış tedavilerin gecikmesine neden olabilir. Uykusuzluk ve otizm gibi durumlar için bazı sınırlı faydalar görülse de, bu konudaki kanıtlar zayıf. Bu bulgular, esrar kullanımının artmaya devam etmesiyle birlikte daha sıkı denetim çağrılarını körüklüyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Psikoloji",
-            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260319044656.htm",
-            "date": "2026-03-20T13:18:17.430389",
-            "timestamp": 1774012697.430397
-        },
-        {
-            "title": "OpenAI, Tamamen Otomatik Araştırmacı İçin Bütün Kaynaklarını Seferber Ediyor",
-            "original_title": "OpenAI is throwing everything into building a fully automated researcher",
-            "content": "OpenAI, araştırma çabalarını yeniden odaklıyor ve kaynaklarını yeni bir büyük meydan okumaya yönlendiriyor. San Francisco merkezli firma, 'AI araştırmacısı' adını verdiği, tamamen otomatik, ajan tabanlı bir sistem inşa etmeye odaklanmış durumda. Bu sistem, büyük ve karmaşık problemleri kendi başına ele alabilecek kapasitede olacak. OpenAI, bu yeni hedefin, yapay zekanın potansiyelini daha da ileriye taşımak için büyük bir adım olduğunu belirtiyor. \n\nFirma, bu yeni sistemin bilimsel araştırmalarda devrim yaratacak potansiyele sahip olduğunu ve farklı disiplinlerde çığır açan keşifler yapabileceğini savunuyor. OpenAI, bu girişimin, teknolojik gelişmelerin sınırlarını zorlayarak, insan araştırmacılara yardımcı olabileceğini ve hatta bazı alanlarda onları geçebileceğini düşünüyor.\n\nBu girişim, yapay zekanın bağımsız biçimde araştırma yapabilme yeteneğini geliştirerek, bilim dünyasında ve endüstriyel uygulamalarda yeni fırsatlar yaratabilir. OpenAI, bu yeni AI araştırmacısının, özellikle karmaşık veri analizlerinde, hipotez geliştirmede ve deneysel tasarımda insanların iş yükünü hafifleteceğini ifade ediyor. \n\nOpenAI'nin bu yeni hedefi, yapay zekanın kendi kendine öğrenme ve problem çözme kapasitesine ne denli güvenildiğini de gösteriyor. Firmanın, bu hedefe ulaşmak için geniş bir kaynak yatırımı yapmayı planladığı belirtiliyor. \n\nBu heyecan verici gelişmenin, yapay zeka araştırmaları ve uygulamaları üzerinde derin etkiler yaratması bekleniyor. OpenAI'nin bu çabası, AI araştırmalarında yeni bir dönemin başlangıcını işaret edebilir.\n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-            "date": "2026-03-20T13:18:28.064206",
-            "timestamp": 1774012708.064215
         }
     ]
 }
