@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-03-25T07:14:02.852215",
+    "last_updated": "2026-03-25T10:01:08.034920",
     "daily_news": {
-        "title": "Yaşlandıkça Dengenizi Bozan Beyin: Fazla Çalışan Sinir Sistemi ve Kaslar",
-        "original_title": "Why your brain may be sabotaging your balance as you age",
-        "content": "Yaşlanma sürecinde ve Parkinson hastalığında denge sorunlarının, vücudun az çalışmasından değil, aksine fazla çalışmasından kaynaklanabileceği öne sürülüyor. Bilim insanları, beynin ve kasların küçük rahatsızlıklar sırasında bile aşırı aktif hale geldiğini keşfettiler. Ancak bu durum, dengeyi yeniden kazanmayı zorlaştırarak aslında dengeyi daha da zayıflatıyor. Aynı zamanda, kaslar birbirine karşı sertleşebilir, bu da hareketi daha az kararlı hale getirir. Bu beklenmedik desen, kimin düşme olasılığının daha yüksek olduğunu tahmin etmeye yardımcı olabilir.\n\nAraştırmalar, yaşlandıkça dengeyi sağlamak için beynin ve kasların daha fazla çaba sarf ettiğini, ancak bu aşırı çabanın dengeyi sağlamada ters etki yarattığını ortaya koyuyor. Beynin ve kasların bu aşırı aktivitesi, özellikle yaşlı bireylerde ve Parkinson hastalarında, küçük bir dengesizliğin bile vücutta büyük bir dengesizlik yaratmasına neden oluyor. Bu durum, kasların birbiriyle uyumlu şekilde çalışmasını güçleştirirken, hareket kabiliyetini de azaltıyor.\n\nBu bulgular, yaşlılık ve Parkinson hastalığı ile bağlantılı olarak denge sorunları yaşayan bireyler için yeni tedavi yöntemlerinin geliştirilmesine olanak tanıyabilir. Özellikle düşme riski yüksek olan bireylerin tespit edilmesi ve bu riskin azaltılması için daha fazla araştırma yapılması gerektiği belirtiliyor.\n\nKaynak: Mind & Brain News - ScienceDaily",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260324230102.htm",
-        "date": "2026-03-25T05:01:57.205872",
-        "timestamp": 1774414917.205883
+        "title": "Yapay Zeka Savaşında Son Durum: Anthropic ve Pentagon'un Çatışması",
+        "original_title": "The AI Hype Index: AI goes to war",
+        "content": "Yapay zeka savaş alanında. Anthropic ve Pentagon, Anthropic'in yapay zeka modeli Claude'un nasıl silahlandırılacağı konusunda bir anlaşmazlık yaşadı. Ardından, OpenAI, Pentagon ile \"fırsatçı ve özensiz\" bir anlaşma yaparak dikkatleri üzerine çekti. Kullanıcılar, ChatGPT'yi topluca terk etti. Londra'da, bugüne kadarki en büyük yapay zeka karşıtı protesto düzenlendi. Eğer durumu değerlendiriyorsanız, Anthropic—şirket kuruldu... \n\nKaynak: MIT Technology Review",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+        "date": "2026-03-25T10:01:07.773848",
+        "timestamp": 1774432867.773859
     },
     "news_list": [
+        {
+            "title": "Yapay Zeka Savaşında Son Durum: Anthropic ve Pentagon'un Çatışması",
+            "original_title": "The AI Hype Index: AI goes to war",
+            "content": "Yapay zeka savaş alanında. Anthropic ve Pentagon, Anthropic'in yapay zeka modeli Claude'un nasıl silahlandırılacağı konusunda bir anlaşmazlık yaşadı. Ardından, OpenAI, Pentagon ile \"fırsatçı ve özensiz\" bir anlaşma yaparak dikkatleri üzerine çekti. Kullanıcılar, ChatGPT'yi topluca terk etti. Londra'da, bugüne kadarki en büyük yapay zeka karşıtı protesto düzenlendi. Eğer durumu değerlendiriyorsanız, Anthropic—şirket kuruldu... \n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+            "date": "2026-03-25T10:01:07.773848",
+            "timestamp": 1774432867.773859
+        },
         {
             "title": "Yaşlandıkça Dengenizi Bozan Beyin: Fazla Çalışan Sinir Sistemi ve Kaslar",
             "original_title": "Why your brain may be sabotaging your balance as you age",
@@ -500,16 +510,6 @@
             "link": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
             "date": "2026-03-20T13:18:28.064206",
             "timestamp": 1774012708.064215
-        },
-        {
-            "title": "Zihin Değiştiren Maddeler Klinik Denemelerde Hâlâ Bekleneni Vermiyor",
-            "original_title": "Mind-altering substances are (still) falling short in clinical trials",
-            "content": "Bu hafta, karşı kültürden çıkıp klinik araştırmaların ana odağı haline gelen zihin değiştiren maddeler olan psikedeliklerin konumunu incelemek istiyorum. Sihirli mantarlarda bulunan psilosibin gibi bileşikler, depresyon, travma sonrası stres bozukluğu (TSSB), bağımlılık ve hatta obezite gibi sağlık sorunlarının tedavileri için araştırılmaktadır. Ancak, tüm bu potansiyel uygulamalara rağmen, bu maddeler hala klinik denemelerde beklenen sonuçları verememektedir. Bu maddelerin potansiyel faydaları büyük bir ilgi toplasa da, bilimsel kesinlik ve tutarlılık sağlamada karşılaştıkları zorluklar nedeniyle klinik uygulamaların bir parçası haline gelmeleri için daha fazla araştırmaya ihtiyaç vardır.\n\nPsikedeliklerin klinik kullanımı, birçok bilim insanı ve araştırmacının ilgisini çekmekte ve bu konuda çok sayıda çalışma yürütülmektedir. Ancak, bu maddelerin karmaşık yapısı ve insan zihni üzerindeki etkileri nedeniyle, klinik denemelerde elde edilen sonuçlar genellikle tutarsız ve öngörülemez olabilmektedir. Bu da, psikedeliklerin sağlık alanında geniş çapta kabul görmelerinin önünde önemli bir engel oluşturmaktadır.\n\nÖzellikle, depresyon ve anksiyete gibi ruh sağlığı sorunlarının tedavisinde psikedeliklerin potansiyel rolü üzerine yoğun araştırmalar yapılmaktadır. Ancak, bu maddelerin uzun vadeli etkileri ve güvenliği konusundaki belirsizlikler, bu alandaki ilerlemeyi yavaşlatmaktadır. Klinisyenler, bu maddelerin terapötik potansiyelini tam olarak anlama ve güvenli bir şekilde uygulama konusunda dikkatli olmalıdır.\n\nSonuç olarak, psikedelikler, klinik araştırmaların önemli bir parçası olmaya devam etmektedir, ancak bu maddelerin klinik uygulamalarında daha ileriye gitmek için daha fazla bilimsel veriye ihtiyaç duyulmaktadır. Psikedeliklerin geleceği, bu alanda yapılacak kapsamlı ve titiz araştırmaların sonuçlarına bağlı olacaktır.",
-            "category": "Psikoloji",
-            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
-            "date": "2026-03-20T09:54:06.064481",
-            "timestamp": 1774000446.064493
         }
     ]
 }
