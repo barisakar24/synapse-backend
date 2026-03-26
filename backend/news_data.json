@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-26T16:17:57.911458",
+    "last_updated": "2026-03-26T19:19:53.646477",
     "daily_news": {
-        "title": "İnme Geçiren Beyinler Gençleşiyor: Hasarı Telafi Etmek İçin Yeniden Yapılanma",
-        "original_title": "Stroke Survivors’ Brains Rejuvenate to Compensate for Injury",
-        "content": "İnme sonrası beyinde meydana gelen değişiklikler, beynin yaşlanmasını durdurabilir mi? Yeni araştırmalar, derin öğrenme teknikleri kullanarak, inmeye uğramış beyinlerde zarar görmemiş bölgelerin yeniden organize olduğunu ve 'genç' yapısal kalıplar sergileyerek ciddi hasarları telafi ettiğini ortaya koyuyor. Bu bulgular, beyin plastisitesinin, yani beynin kendini yeniden organize etme yeteneğinin, inme gibi ciddi nörolojik olaylar sonrasında bile devam edebileceğine işaret ediyor. Araştırmacılar, bu durumun inme rehabilitasyonu için yeni yaklaşımlar geliştirilmesine olanak sağlayabileceğini belirtiyor. \n\nKaynak: Neuroscience News (2023). Stroke Survivors’ Brains Rejuvenate to Compensate for Injury. https://neurosciencenews.com/stroke-brain-age-reorganization-30392/",
+        "title": "Dikkat Bozuklukları, Demansın Erken Teşhisinde Hafızadan Daha Etkili Olabilir",
+        "original_title": "Attention Failures May Predict Dementia Better Than Memory",
+        "content": "Yeni bir çalışma, demansın erken teşhisi için hafıza kaybı yerine dikkat bozukluklarının merkezde olması gerektiğini savunuyor. Araştırma, 'dikkat aşırı yüklenmesinin' günlük yaşam üzerindeki etkilerini vurguluyor ve bakım kalitesini artırmak için yeni yollar öneriyor. Bu bulgular, demansın erken belirtilerine odaklanarak bireylerin yaşam kalitesini iyileştirmeyi amaçlayan yeni yaklaşımlar geliştirmeye yardımcı olabilir. \n\nKaynak: Neuroscience News. (tarih). Attention Failures May Predict Dementia Better Than Memory. Erişim adresi: https://neurosciencenews.com/attention-impairment-dementia-30395/",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/stroke-brain-age-reorganization-30392/",
-        "date": "2026-03-26T16:17:47.835563",
-        "timestamp": 1774541867.835573
+        "link": "https://neurosciencenews.com/attention-impairment-dementia-30395/",
+        "date": "2026-03-26T19:19:52.436484",
+        "timestamp": 1774552792.436493
     },
     "news_list": [
+        {
+            "title": "Felç Sonrası Erken Dönemde Yüksek Yoğunluklu Terapinin Etkisi Sınırlı",
+            "original_title": "The Natural “Biological Clock” of Stroke Recovery",
+            "content": "Yeni bir araştırmaya göre, felç geçiren bireylerde erken dönemde uygulanan yüksek yoğunluklu terapiler, el iyileşmesini standart bakımdan daha fazla geliştirmemektedir. İlk iki hafta içinde verilen yüksek yoğunluklu terapinin, el fonksiyonlarının geri kazanılması üzerindeki etkisi beklenenden düşük çıkmıştır. Bu durum, erken iyileşme sürecinde doğal biyolojik onarım süreçlerinin daha baskın olduğunu göstermektedir. \n\nAraştırmalar, felç sonrası rehabilitasyon sürecinde yoğun terapinin zamanlamasının kritik olduğunu, ancak doğal iyileşme süreçlerinin erken dönemde daha etkili olabileceğini öne sürmektedir. Uzmanlar, bu bulgunun rehabilitasyon stratejilerini yeniden değerlendirmek ve kişiselleştirilmiş tedavi planları geliştirmek için önemli bir adım olduğunu belirtmektedirler. \n\nSonuç olarak, felç sonrası iyileşme sürecinde doğal biyolojik süreçlerin önemi bir kez daha vurgulanmış ve erken dönemdeki yoğun terapilerin etkisinin sınırlı olduğu gösterilmiştir. Bu da uzun vadeli rehabilitasyon planlarının daha kapsamlı değerlendirilmesi gerektiğine işaret etmektedir.\n\nKaynak: Neuroscience News. (2023). The Natural “Biological Clock” of Stroke Recovery. https://neurosciencenews.com/stroke-rehab-early-intensity-recovery-30396/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/stroke-rehab-early-intensity-recovery-30396/",
+            "date": "2026-03-26T19:19:49.024908",
+            "timestamp": 1774552789.02492
+        },
+        {
+            "title": "Dikkat Bozuklukları, Demansın Erken Teşhisinde Hafızadan Daha Etkili Olabilir",
+            "original_title": "Attention Failures May Predict Dementia Better Than Memory",
+            "content": "Yeni bir çalışma, demansın erken teşhisi için hafıza kaybı yerine dikkat bozukluklarının merkezde olması gerektiğini savunuyor. Araştırma, 'dikkat aşırı yüklenmesinin' günlük yaşam üzerindeki etkilerini vurguluyor ve bakım kalitesini artırmak için yeni yollar öneriyor. Bu bulgular, demansın erken belirtilerine odaklanarak bireylerin yaşam kalitesini iyileştirmeyi amaçlayan yeni yaklaşımlar geliştirmeye yardımcı olabilir. \n\nKaynak: Neuroscience News. (tarih). Attention Failures May Predict Dementia Better Than Memory. Erişim adresi: https://neurosciencenews.com/attention-impairment-dementia-30395/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/attention-impairment-dementia-30395/",
+            "date": "2026-03-26T19:19:52.436484",
+            "timestamp": 1774552792.436493
+        },
         {
             "title": "İnme Geçiren Beyinler Gençleşiyor: Hasarı Telafi Etmek İçin Yeniden Yapılanma",
             "original_title": "Stroke Survivors’ Brains Rejuvenate to Compensate for Injury",
@@ -490,26 +510,6 @@
             "link": "https://www.genengnews.com/topics/translational-medicine/skin-regeneration-enabled-by-embryonic-healing-mechanism-in-mice/",
             "date": "2026-03-23T21:46:22.051700",
             "timestamp": 1774302382.051708
-        },
-        {
-            "title": "Yaşlanan Farelerde Beyin Ağı Gerilemesi İnsanlarla Ortak Özellikler Gösteriyor",
-            "original_title": "Aging Mice Share Features of Brain Network Decline with Humans",
-            "content": "Araştırmacılar, yaşlanmanın beyin ağı üzerindeki etkilerini incelemek için fareler üzerinde işlevsel manyetik rezonans görüntüleme (fMRI) kullandı ve bu hayvanların beyin ağlarındaki gerilemenin insanlara benzer özellikler taşıdığını buldular. Bu araştırma, yaşa bağlı bilişsel gerilemenin mekanizmalarını, risk faktörlerini ve olası müdahaleleri keşfetmek için yeni kapılar açabilir.\n\nYaşlanma sürecinin insan sağlığı üzerindeki etkileri uzun zamandır bilim insanlarının ilgi odağında olmuştur. İnsanlarda yaşlanma, genellikle bilişsel işlevlerde azalma ve beyin ağlarında değişikliklerle ilişkilendirilir. Ancak fareler üzerinde yapılan yeni araştırmalar, bu süreçlerin bazı yönlerinin insanlar ve fareler arasında benzerlikler gösterdiğini ortaya koymaktadır.\n\nBu çalışma, yaşlanma sırasında beyin ağlarının nasıl değiştiğini ve bu değişikliklerin bilişsel işlevler üzerindeki etkilerini daha iyi anlamak için önemli bir adım olarak görülüyor. Araştırmacılar, farelerin beyin ağlarındaki değişikliklerin, yaşa bağlı bilişsel gerilemenin altında yatan mekanizmaları ve potansiyel tedavi yaklaşımlarını daha iyi anlamalarına yardımcı olabileceğini umuyorlar.\n\nKaynakça:\nGEN - Genetic Engineering and Biotechnology News. (tarih). Aging Mice Share Features of Brain Network Decline with Humans. https://www.genengnews.com/topics/translational-medicine/aging-mice-share-features-of-brain-network-decline-with-humans/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/aging-mice-share-features-of-brain-network-decline-with-humans/",
-            "date": "2026-03-23T21:46:27.475670",
-            "timestamp": 1774302387.475676
-        },
-        {
-            "title": "Babalarda Doğum Sonrası Depresyon Bir Yıl Sonra Zirve Yapıyor",
-            "original_title": "Paternal Depression Spikes One Year After Childbirth",
-            "content": "Bir milyondan fazla baba üzerinde yapılan bir araştırma, doğumdan bir yıl sonra babalarda depresyon ve stresle ilgili bozuklukların %30 oranında arttığını gösteriyor. Araştırmacılar, sağlık hizmeti sağlayıcılarına babaların ruh sağlığını doğum sonrası dönemin ötesinde de izlemelerini tavsiye ediyor. Bu bulgular, babaların da anneler kadar doğum sonrası dönemde ruh sağlığı sorunları yaşayabileceğini ortaya koyuyor. Dolayısıyla, babaların mental sağlık durumları da dikkatle izlenmeli ve gerekirse erken müdahale edilmelidir. Araştırmacılar, bu dönemde babalara yönelik destek mekanizmalarının geliştirilmesi gerektiğini vurguluyor. Babalarda gözlemlenen depresyon belirtileri arasında enerji kaybı, ilgi eksikliği ve günlük aktivitelerde zorlanma yer alıyor. Bu belirtiler, aile içindeki dinamikleri de olumsuz etkileyebiliyor. Dolayısıyla, babaların ruh sağlığının desteklenmesi, hem bireysel hem de ailevi düzeyde önemli bir ihtiyaç olarak karşımıza çıkıyor.\n\nKaynak: Neuroscience News",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/paternal-depression-delayed-childbirt-30367/",
-            "date": "2026-03-23T19:06:54.981648",
-            "timestamp": 1774292814.981659
         }
     ]
 }
