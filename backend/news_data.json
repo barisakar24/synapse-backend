@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-26T13:48:45.306268",
+    "last_updated": "2026-03-26T16:17:57.911458",
     "daily_news": {
-        "title": "UCB'nin Yeni ABD Biyolojik Üretim Tesisi İçin Georgia Seçildi",
-        "original_title": "Georgia Chosen as the Location for UCB’s New U.S. Biologics Manufacturing Facility",
-        "content": "UCB, Amerikan biyolojik üretim ağına yeni bir boyut kazandırmak amacıyla Georgia, Gwinnett County'de 79 dönümlük bir alana yaklaşık 42,700 metrekarelik yeni bir tesis kurmayı planlıyor. Bu tesis, UCB'nin küresel biyolojik üretim ağı için temel taşlardan biri olarak tasarlandı. Georgia'nın bu önemli yatırım için seçilmesi, bölgenin biyoteknoloji sektöründeki yükselen konumunu da pekiştiriyor. UCB'nin bu yeni yatırımı, hem bölgesel ekonomi hem de küresel biyoteknoloji alanında önemli bir rol oynayacak.\n\nKaynakça: GEN - Genetic Engineering and Biotechnology News. (2023). Georgia Chosen as the Location for UCB’s New U.S. Biologics Manufacturing Facility. Erişim adresi: https://www.genengnews.com/topics/bioprocessing/georgia-chosen-as-the-location-for-ucbs-new-u-s-biologics-manufacturing-facility/",
-        "category": "Genetik",
-        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/bioprocessing/georgia-chosen-as-the-location-for-ucbs-new-u-s-biologics-manufacturing-facility/",
-        "date": "2026-03-26T13:48:45.306229",
-        "timestamp": 1774532925.306237
+        "title": "İnme Geçiren Beyinler Gençleşiyor: Hasarı Telafi Etmek İçin Yeniden Yapılanma",
+        "original_title": "Stroke Survivors’ Brains Rejuvenate to Compensate for Injury",
+        "content": "İnme sonrası beyinde meydana gelen değişiklikler, beynin yaşlanmasını durdurabilir mi? Yeni araştırmalar, derin öğrenme teknikleri kullanarak, inmeye uğramış beyinlerde zarar görmemiş bölgelerin yeniden organize olduğunu ve 'genç' yapısal kalıplar sergileyerek ciddi hasarları telafi ettiğini ortaya koyuyor. Bu bulgular, beyin plastisitesinin, yani beynin kendini yeniden organize etme yeteneğinin, inme gibi ciddi nörolojik olaylar sonrasında bile devam edebileceğine işaret ediyor. Araştırmacılar, bu durumun inme rehabilitasyonu için yeni yaklaşımlar geliştirilmesine olanak sağlayabileceğini belirtiyor. \n\nKaynak: Neuroscience News (2023). Stroke Survivors’ Brains Rejuvenate to Compensate for Injury. https://neurosciencenews.com/stroke-brain-age-reorganization-30392/",
+        "category": "Nöroloji",
+        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+        "link": "https://neurosciencenews.com/stroke-brain-age-reorganization-30392/",
+        "date": "2026-03-26T16:17:47.835563",
+        "timestamp": 1774541867.835573
     },
     "news_list": [
+        {
+            "title": "İnme Geçiren Beyinler Gençleşiyor: Hasarı Telafi Etmek İçin Yeniden Yapılanma",
+            "original_title": "Stroke Survivors’ Brains Rejuvenate to Compensate for Injury",
+            "content": "İnme sonrası beyinde meydana gelen değişiklikler, beynin yaşlanmasını durdurabilir mi? Yeni araştırmalar, derin öğrenme teknikleri kullanarak, inmeye uğramış beyinlerde zarar görmemiş bölgelerin yeniden organize olduğunu ve 'genç' yapısal kalıplar sergileyerek ciddi hasarları telafi ettiğini ortaya koyuyor. Bu bulgular, beyin plastisitesinin, yani beynin kendini yeniden organize etme yeteneğinin, inme gibi ciddi nörolojik olaylar sonrasında bile devam edebileceğine işaret ediyor. Araştırmacılar, bu durumun inme rehabilitasyonu için yeni yaklaşımlar geliştirilmesine olanak sağlayabileceğini belirtiyor. \n\nKaynak: Neuroscience News (2023). Stroke Survivors’ Brains Rejuvenate to Compensate for Injury. https://neurosciencenews.com/stroke-brain-age-reorganization-30392/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/stroke-brain-age-reorganization-30392/",
+            "date": "2026-03-26T16:17:47.835563",
+            "timestamp": 1774541867.835573
+        },
+        {
+            "title": "Tekrarlayan Yemekler ile Daha Hızlı Kilo Verin",
+            "original_title": "Repetition is Key: Eating the Same Meals Speeds Up Weight Loss",
+            "content": "Birçok kişi kilo vermek için farklı diyetler denerken, yapılan yeni bir araştırma rutin yemek yemenin kilo verme sürecini hızlandırabileceğini ortaya koydu. 12 haftalık bir çalışma, aynı öğünleri tekrar etmenin daha fazla kilo kaybına yol açtığını gösteriyor. Bu çalışmada, tekrarlayan yemek alışkanlığı sayesinde katılımcılar vücut ağırlıklarının %5.9'unu kaybederken, çeşitli diyetler uygulayanlar %4.3 oranında kilo verdiler.\n\nBu sonuca göre, karar verme yorgunluğunu azaltan 'rutin yemek yeme' alışkanlığı, kilo verme sürecine olumlu bir etki yapıyor. Çeşitli yemek seçenekleri arasında karar vermek zorunda kalmamak, bireylerin daha az strese girmesine ve bu sayede kilo verme hedeflerine daha kolay ulaşmalarına yardımcı oluyor.\n\nUzmanlar, tekrarlayan yemek alışkanlığının, diyet sürecinde kişilere bir yapı kazandırdığını, bu yapı sayesinde de kişilerin kilo verme çabalarına daha fazla odaklanabildiklerini belirtiyor. Ayrıca, aynı yemekleri yemek, yemek hazırlama sürecini de basitleştirerek, kişilerin diyetlerini sürdürmelerini kolaylaştırıyor.\n\nKaynak: Neuroscience News (2023). Repetition is Key: Eating the Same Meals Speeds Up Weight Loss. https://neurosciencenews.com/routine-eating-weight-loss-30391/.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/routine-eating-weight-loss-30391/",
+            "date": "2026-03-26T16:17:56.821692",
+            "timestamp": 1774541876.821702
+        },
         {
             "title": "Batarya Şirketinin Yapay Zekaya Yönelimi",
             "original_title": "The Download: a battery pivot to AI, and rewriting math",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/paternal-depression-delayed-childbirt-30367/",
             "date": "2026-03-23T19:06:54.981648",
             "timestamp": 1774292814.981659
-        },
-        {
-            "title": "Hafif Hipoksi Erken Doğan Beynini Zarar Vermeden Yeniden Şekillendiriyor",
-            "original_title": "Mild Hypoxia Rewires the Preterm Brain Without Direct Injury",
-            "content": "Özet: Erken doğan bebeklerde hafif hipoksi, hipokampustaki protein kanallarını değiştirerek hafıza üzerinde olumsuz etkiler yapmaktadır. Araştırmacılar, bu hafıza bozukluklarını yetişkin modellerde başarıyla tersine çevirmiş ve uzun vadeli bilişsel sorunların tedavisi için potansiyel bir hedef belirlemişlerdir.\n\nHafif hipoksi, oksijen eksikliği nedeniyle erken doğan bebeklerin beyin gelişimini etkileyen bir durumdur. Bu durum, özellikle hafıza ve öğrenme süreçlerinde önemli rol oynayan hipokampusta protein kanallarında değişikliklere yol açmaktadır. Erken doğan bebeklerin beyinleri, yeterli oksijen alamadıklarında hipoksiye maruz kalır ve bu durum, nörolojik gelişim üzerinde kalıcı etkiler bırakabilir.\n\nAraştırmalar, hafif hipoksinin doğrudan beyin hasarı yaratmadığını, ancak beyin yapılarını ve işlevlerini yeniden şekillendirdiğini göstermektedir. Bu, hafıza fonksiyonları üzerinde olumsuz etkilere neden olabilir. Ancak yeni bulgular, bu etkilerin yetişkinlik döneminde tersine çevrilebileceğini göstermektedir.\n\nBilim insanları, yetişkin modeller üzerinde yaptıkları çalışmalarda, hafif hipokside meydana gelen bu hafıza bozukluklarını başarıyla geri çevirmiştir. Bu gelişme, hafif hipoksi nedeniyle bilişsel işlev bozukluğu yaşayan bireyler için umut verici bir tedavi hedefi oluşturmaktadır.\n\nSonuç olarak, hafif hipoksiye maruz kalan erken doğan bebeklerin uzun vadeli bilişsel sorunları, hipokampustaki protein kanalları üzerinde yapılan müdahalelerle potansiyel olarak tedavi edilebilir. Bu buluş, nörobilim alanında önemli bir ilerleme olarak kabul edilmektedir.\n\nKaynak: Neuroscience News",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/preterm-hypoxia-memory-hippocampus-30366/",
-            "date": "2026-03-23T19:07:04.658268",
-            "timestamp": 1774292824.658278
-        },
-        {
-            "title": "Yapay Zeka Destekli Yanılsamalar Hakkında Cevaplanması En Zor Soru",
-            "original_title": "The hardest question to answer about AI-fueled delusions",
-            "content": "Bu hikaye, haftalık yapay zeka bültenimiz The Algorithm'de ilk olarak yayınlandı. Bu tür hikayeleri ilk olarak gelen kutunuzda görmek için buradan abone olun. Bu haftaki bülteni, yapay zeka ve İran hakkında, özellikle de geçen Salı günü kırdığımız haber olan Pentagon'un yapay zeka şirketlerinin İran'da eğitim alması için planlar yaptığı haberine odaklanarak yazmayı planlamıştım. Ancak, yapay zekanın yanılsamaları nasıl beslediği konusundaki karmaşık sorulara yanıt bulmanın daha zor olduğu ortaya çıktı. Yapay zeka algoritmalarının, kullanıcıların gerçeklik algısını nasıl şekillendirdiği ve bu algının ne kadarının doğru olduğuna dair tartışmalar sürüyor. Bu konular, hem etik hem de toplumsal açıdan derinlemesine incelenmesi gereken meseleler olarak karşımıza çıkıyor. Algoritmaların, kullanıcıları yanıltıcı ve yanlış bilgilere yönlendirme potansiyeli, teknolojinin sorumlu kullanımı üzerine ciddi soruları gündeme getiriyor. Makine öğrenimi ve derin öğrenme gibi yapay zeka teknikleri, karmaşık veri setlerini analiz etmekte ve tahminlerde bulunmakta oldukça etkili. Ancak, bu teknolojilerin yanlış ellerde veya yanlış amaçlarla kullanılması, bilgi kirliliğine yol açabilir ve toplumda yanılsamalar yaratabilir. Bu bağlamda, yapay zekanın denetimi ve regülasyonu kritik bir öneme sahiptir. Yapay zeka destekli yanılsamaların etkilerini en aza indirmek ve teknolojiyi sorumlu bir şekilde kullanmak için daha fazla araştırma ve düzenleme gerekmektedir. \n\nKaynak: MIT Technology Review. (tarih). The hardest question to answer about AI-fueled delusions. https://www.technologyreview.com/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
-            "date": "2026-03-23T19:07:16.649362",
-            "timestamp": 1774292836.649372
         }
     ]
 }
