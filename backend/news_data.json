@@ -1,16 +1,26 @@
 {
-    "last_updated": "2026-03-26T03:18:41.921070",
+    "last_updated": "2026-03-26T07:22:13.773239",
     "daily_news": {
-        "title": "Amigdala: Korku Anında Donma veya Kaçış Kararını Nasıl Veriyor?",
-        "original_title": "How the Amygdala Decides Between Freezing and Fleeing",
-        "content": "Araştırmacılar, hayvanların korku anında donup kalma veya kaçma kararını nasıl verdiklerini anlamak için merkezi amigdala içerisindeki beyin devrelerini tanımladılar. Çalışma, korkunun 'unutulmasının' aslında bu devrelerin yeniden kalibre edilmesi süreci olduğunu gösteriyor ve bu bulgu, Travma Sonrası Stres Bozukluğu (TSSB) konusuna yeni bir bakış açısı sunuyor. Bu araştırma, beynin korkuya tepkisini kontrol eden mekanizmaları daha iyi anlamamıza yardımcı olabilir ve gelecekte TSSB tedavileri için yeni stratejiler geliştirilmesine yol açabilir.\n\nKaynak: Neuroscience News, (tarih), \"How the Amygdala Decides Between Freezing and Fleeing\", URL: https://neurosciencenews.com/amygdala-fear-circuits-freezing-flight-30390/",
+        "title": "Canlı Rüyalar Daha Dinlendirici Bir Uyku Sağlayabilir",
+        "original_title": "Vivid dreams may be the secret to deeper, more restful sleep",
+        "content": "Canlı rüyalar, gece boyunca zihninizi eğlendirmekten daha fazlasını yapıyor olabilir. Araştırmacılar, etkileyici rüya görmenin, beyin aktivitesi yüksek olsa bile uykuyu daha derin ve yenileyici hissettirebileceğini buldu. Şaşırtıcı bir şekilde, insanlar en derin uykularını yoğun rüya deneyimlerinden sonra, sadece sessiz ve hareketsiz dönemlerde değil, yaşadıklarını bildirdiler. Bu durum, rüyaların gerçekten dinlenmiş hissetmemize yardımcı olmada önemli bir rol oynayabileceğini göstermektedir.\n\nKaynak: Mind & Brain News -- ScienceDaily, Ekim 2023.",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/amygdala-fear-circuits-freezing-flight-30390/",
-        "date": "2026-03-26T03:18:34.248056",
-        "timestamp": 1774495114.248065
+        "link": "https://www.sciencedaily.com/releases/2026/03/260326011458.htm",
+        "date": "2026-03-26T07:22:13.140380",
+        "timestamp": 1774509733.140396
     },
     "news_list": [
+        {
+            "title": "Canlı Rüyalar Daha Dinlendirici Bir Uyku Sağlayabilir",
+            "original_title": "Vivid dreams may be the secret to deeper, more restful sleep",
+            "content": "Canlı rüyalar, gece boyunca zihninizi eğlendirmekten daha fazlasını yapıyor olabilir. Araştırmacılar, etkileyici rüya görmenin, beyin aktivitesi yüksek olsa bile uykuyu daha derin ve yenileyici hissettirebileceğini buldu. Şaşırtıcı bir şekilde, insanlar en derin uykularını yoğun rüya deneyimlerinden sonra, sadece sessiz ve hareketsiz dönemlerde değil, yaşadıklarını bildirdiler. Bu durum, rüyaların gerçekten dinlenmiş hissetmemize yardımcı olmada önemli bir rol oynayabileceğini göstermektedir.\n\nKaynak: Mind & Brain News -- ScienceDaily, Ekim 2023.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260326011458.htm",
+            "date": "2026-03-26T07:22:13.140380",
+            "timestamp": 1774509733.140396
+        },
         {
             "title": "Amigdala: Korku Anında Donma veya Kaçış Kararını Nasıl Veriyor?",
             "original_title": "How the Amygdala Decides Between Freezing and Fleeing",
@@ -500,16 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/03/260322020302.htm",
             "date": "2026-03-23T05:11:01.256410",
             "timestamp": 1774242661.256423
-        },
-        {
-            "title": "CytomX Hisseleri Kolorektal Kanser Verileriyle Dalgalandı",
-            "original_title": "StockWatch: CytomX Shares Yo-Yo on Colorectal Cancer Data",
-            "content": "CytomX'in yeni ilacı Varseta-M, kolorektal kanser hastalarında yüzde 32'lik bir genel yanıt oranı (ORR) ve 10 mg/kg'lık yüksek dozda 7.1 ay medyan progresyonsuz sağkalım (mPFS) elde etti. Bu olumlu haberin ardından CytomX hisseleri yüzde 75 yükselerek 4.68 dolardan 8.20 dolara fırladı. Ancak daha sonra yüzde 44'lük bir kazançla günü 6.75 dolardan kapatarak bir miktar geri çekildi. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News, https://www.genengnews.com/topics/cancer/stockwatch-cytomx-shares-yo-yo-on-colorectal-cancer-data/",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/cancer/stockwatch-cytomx-shares-yo-yo-on-colorectal-cancer-data/",
-            "date": "2026-03-23T02:57:04.981081",
-            "timestamp": 1774234624.981094
         }
     ]
 }
