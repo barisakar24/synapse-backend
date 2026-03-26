@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-03-26T10:07:10.854871",
+    "last_updated": "2026-03-26T13:48:45.306268",
     "daily_news": {
-        "title": "Canlı Rüyalar Daha Dinlendirici Bir Uyku Sağlayabilir",
-        "original_title": "Vivid dreams may be the secret to deeper, more restful sleep",
-        "content": "Canlı rüyalar, gece boyunca zihninizi eğlendirmekten daha fazlasını yapıyor olabilir. Araştırmacılar, etkileyici rüya görmenin, beyin aktivitesi yüksek olsa bile uykuyu daha derin ve yenileyici hissettirebileceğini buldu. Şaşırtıcı bir şekilde, insanlar en derin uykularını yoğun rüya deneyimlerinden sonra, sadece sessiz ve hareketsiz dönemlerde değil, yaşadıklarını bildirdiler. Bu durum, rüyaların gerçekten dinlenmiş hissetmemize yardımcı olmada önemli bir rol oynayabileceğini göstermektedir.\n\nKaynak: Mind & Brain News -- ScienceDaily, Ekim 2023.",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260326011458.htm",
-        "date": "2026-03-26T07:22:13.140380",
-        "timestamp": 1774509733.140396
+        "title": "UCB'nin Yeni ABD Biyolojik Üretim Tesisi İçin Georgia Seçildi",
+        "original_title": "Georgia Chosen as the Location for UCB’s New U.S. Biologics Manufacturing Facility",
+        "content": "UCB, Amerikan biyolojik üretim ağına yeni bir boyut kazandırmak amacıyla Georgia, Gwinnett County'de 79 dönümlük bir alana yaklaşık 42,700 metrekarelik yeni bir tesis kurmayı planlıyor. Bu tesis, UCB'nin küresel biyolojik üretim ağı için temel taşlardan biri olarak tasarlandı. Georgia'nın bu önemli yatırım için seçilmesi, bölgenin biyoteknoloji sektöründeki yükselen konumunu da pekiştiriyor. UCB'nin bu yeni yatırımı, hem bölgesel ekonomi hem de küresel biyoteknoloji alanında önemli bir rol oynayacak.\n\nKaynakça: GEN - Genetic Engineering and Biotechnology News. (2023). Georgia Chosen as the Location for UCB’s New U.S. Biologics Manufacturing Facility. Erişim adresi: https://www.genengnews.com/topics/bioprocessing/georgia-chosen-as-the-location-for-ucbs-new-u-s-biologics-manufacturing-facility/",
+        "category": "Genetik",
+        "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/bioprocessing/georgia-chosen-as-the-location-for-ucbs-new-u-s-biologics-manufacturing-facility/",
+        "date": "2026-03-26T13:48:45.306229",
+        "timestamp": 1774532925.306237
     },
     "news_list": [
+        {
+            "title": "Batarya Şirketinin Yapay Zekaya Yönelimi",
+            "original_title": "The Download: a battery pivot to AI, and rewriting math",
+            "content": "Bu, teknoloji dünyasında neler olup bittiğine dair günlük bir doz sağlayan hafta içi bültenimiz The Download'un bugünkü sayısıdır. \n\nNeden bu batarya şirketi yapay zekaya yöneliyor? Qichao Hu, batarya endüstrisinin durumu hakkında sözünü sakınmıyor. \"Neredeyse her Batılı batarya şirketi ya öldü ya da ölecek. Bu bir çeşit...\"\n\nQichao Hu'nun bu iddialı açıklamaları, batarya endüstrisindeki mevcut zorlukları ve değişim gerekliliğini gözler önüne seriyor. Batarya teknolojisi, özellikle enerji depolama ve verimlilik konularında uzun süredir önemli bir konu olsa da, birçok Batılı şirket bu alanda ayakta kalmakta zorlanıyor. \n\nPeki, bir batarya şirketi neden yapay zekaya yöneliyor? Yapay zeka, enerji verimliliği ve depolama kapasitelerini artırmak, ayrıca üretim süreçlerini optimize etmek için yenilikçi çözümler sunabilir. Bu tür bir dönüşüm, şirketlerin rekabet avantajı elde etmesine ve piyasanın zorlu koşullarında hayatta kalmasına yardımcı olabilir. \n\nBatarya endüstrisi, sürdürülebilir enerji kaynaklarına olan talebin artmasıyla birlikte önemli bir dönemden geçiyor. Ancak, bu talep karşısında geleneksel yöntemlerle ayakta kalmak giderek zorlaşıyor. Yapay zeka, bu zorlukların üstesinden gelmek için bir çözüm olabilir.\n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
+            "date": "2026-03-26T13:48:28.867632",
+            "timestamp": 1774532908.867645
+        },
+        {
+            "title": "Kar Tanrıları: İki Kayak Tutkununun İnternetin En İyi Hava Durumu Uygulamasını İnşa Etmesi",
+            "original_title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
+            "content": "En iyi kar tahmini uygulaması, ne devlet destekli hava durumu hizmetlerinden ne de büyük markalardan geliyor. Bu, hükümet verilerini, kendi yapay zeka modellerini ve yılların alp yaşamı deneyimini kullanan bağımsız bir uygulama girişimidir. Bu uygulama, kayakçılar ve snowboardcular için diğer her şeyden daha iyi kar ve yakında çığ tahminleri sunmaktadır. MIT Technology Review'e göre, bu yenilikçi uygulama, kullanıcılara daha doğru ve güvenilir hava durumu tahminleri sağlamak için çeşitli veri kaynaklarını bir araya getirmekte ve böylece dağ sporları tutkunlarının güvenliğini ve deneyimini artırmaktadır. Uygulamanın arkasındaki ekip, yıllar içinde edindikleri tecrübeleri ve ileri teknoloji çözümlerini birleştirerek sektörde devrim yaratmayı hedeflemektedir. \n\nKaynak: MIT Technology Review",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
+            "date": "2026-03-26T13:48:34.294404",
+            "timestamp": 1774532914.294414
+        },
+        {
+            "title": "Değişkenlikten Güvenilirliğe: Tutarlı Karakterizasyon için Yeni Bir IgG4 Referans Standardı",
+            "original_title": "From Variability to Reliability: A New IgG4 Reference Standard for Consistent Characterization",
+            "content": "Özet: Bu web seminerinde, IgG4 referans standartlarının tutarlı bir şekilde karakterize edilmesi ve değişkenlikten güvenilirliğe geçişteki rolü ele alınmaktadır. Yeni geliştirilen IgG4 referans standardı, biyoteknoloji ve genetik mühendisliği alanlarında önemli bir yenilik olarak değerlendirilmektedir.\n\nIgG4, bağışıklık sistemi tarafından üretilen ve genellikle alerjik reaksiyonlarla ilişkilendirilen bir antikor türüdür. Bu antikorun doğru bir şekilde ölçülmesi ve karakterize edilmesi, tedavi süreçlerinde ve araştırmalarda büyük önem taşımaktadır. Ancak, IgG4 antikorlarının ölçümünde karşılaşılan değişkenlikler, sonuçların güvenilirliğini etkileyebilir.\n\nYeni IgG4 referans standardı, bu sorunların üstesinden gelmek için geliştirilmiştir. Bu standart, çeşitli laboratuvarlarda ve araştırmalarda tutarlı sonuçlar elde edilmesine yardımcı olacak şekilde tasarlanmıştır. Böylece, IgG4 ile ilgili çalışmalar daha güvenilir hale gelecek ve tedavi süreçleri daha etkin bir şekilde yönetilebilecektir.\n\nWeb seminerinde, bu yeni standardın geliştirilme süreci, avantajları ve uygulama alanları detaylı bir şekilde ele alınmaktadır. Katılımcılar, IgG4 referans standardının biyoteknoloji alanındaki yenilikçi uygulamalarını ve bu alanda sağladığı faydaları öğrenme fırsatı bulacaktır.\n\nKaynakça: GEN – Genetic Engineering and Biotechnology News. (tarih). From Variability to Reliability: A New IgG4 Reference Standard for Consistent Characterization. https://www.genengnews.com/multimedia/webinars/from-variability-to-reliability-a-new-igg4-reference-standard-for-consistent-characterization/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/multimedia/webinars/from-variability-to-reliability-a-new-igg4-reference-standard-for-consistent-characterization/",
+            "date": "2026-03-26T13:48:40.784966",
+            "timestamp": 1774532920.784974
+        },
+        {
+            "title": "UCB'nin Yeni ABD Biyolojik Üretim Tesisi İçin Georgia Seçildi",
+            "original_title": "Georgia Chosen as the Location for UCB’s New U.S. Biologics Manufacturing Facility",
+            "content": "UCB, Amerikan biyolojik üretim ağına yeni bir boyut kazandırmak amacıyla Georgia, Gwinnett County'de 79 dönümlük bir alana yaklaşık 42,700 metrekarelik yeni bir tesis kurmayı planlıyor. Bu tesis, UCB'nin küresel biyolojik üretim ağı için temel taşlardan biri olarak tasarlandı. Georgia'nın bu önemli yatırım için seçilmesi, bölgenin biyoteknoloji sektöründeki yükselen konumunu da pekiştiriyor. UCB'nin bu yeni yatırımı, hem bölgesel ekonomi hem de küresel biyoteknoloji alanında önemli bir rol oynayacak.\n\nKaynakça: GEN - Genetic Engineering and Biotechnology News. (2023). Georgia Chosen as the Location for UCB’s New U.S. Biologics Manufacturing Facility. Erişim adresi: https://www.genengnews.com/topics/bioprocessing/georgia-chosen-as-the-location-for-ucbs-new-u-s-biologics-manufacturing-facility/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/georgia-chosen-as-the-location-for-ucbs-new-u-s-biologics-manufacturing-facility/",
+            "date": "2026-03-26T13:48:45.306229",
+            "timestamp": 1774532925.306237
+        },
         {
             "title": "Canlı Rüyalar Daha Dinlendirici Bir Uyku Sağlayabilir",
             "original_title": "Vivid dreams may be the secret to deeper, more restful sleep",
@@ -470,46 +510,6 @@
             "link": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
             "date": "2026-03-23T19:07:16.649362",
             "timestamp": 1774292836.649372
-        },
-        {
-            "title": "Hayvan Refahı Hareketi ve Beyaz Saray'ın Yapay Zeka Politikası",
-            "original_title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
-            "content": "Hayvan refahı hareketi, yapay zeka (YZ) teknolojisini kullanarak yeni bir ivme kazanmayı hedefliyor. Şubat ayının başlarında, hayvan refahı savunucuları ve YZ araştırmacıları, ayakkabısız bir çalışma ortamı olan Mox'ta bir araya geldi. Bay Area merkezli bu girişim, hayvan refahı hareketine yeni bir boyut kazandırmayı amaçlıyor. \n\nBu hareket, hayvanların yaşam koşullarını iyileştirmek için YZ teknolojilerinden nasıl yararlanılabileceğini araştırıyor. Yapay zeka, hayvan davranışlarını daha iyi anlamak ve onların ihtiyaçlarını daha etkili bir şekilde karşılamak için kullanılabilecek. \n\nAynı zamanda, Beyaz Saray da kendi YZ politikasını açıkladı. Beyaz Saray'ın yeni YZ politikası, teknoloji sektöründe etik standartların yükseltilmesini ve YZ'nin toplum üzerindeki etkilerinin dikkatlice ele alınmasını hedefliyor. Bu politika, YZ'nin sorumlu bir şekilde geliştirilmesini teşvik etmeyi ve olası etik sorunları önlemeyi amaçlıyor.\n\nBu gelişmeler, hem hayvan refahı hareketi hem de YZ politikaları açısından önemli adımlar olarak değerlendiriliyor. YZ'nin toplumun farklı alanlarında nasıl daha fazla entegre edileceği ve bu süreçte etik standartların nasıl korunacağı, önümüzdeki dönemde sıkça tartışılacak konular arasında yer alacak. \n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
-            "date": "2026-03-23T13:27:17.589666",
-            "timestamp": 1774272437.589679
-        },
-        {
-            "title": "Alzheimer'ın Beyindeki Gizli 'Ölüm Anahtarı' Keşfedildi",
-            "original_title": "Scientists discover Alzheimer’s hidden “death switch” in the brain",
-            "content": "Bilim insanları, Alzheimer hastalığını tetikleyebilecek gizli bir 'ölüm anahtarı'nı beyinde keşfetti ve hatta farelerde bunu kapatmanın bir yolunu buldu. Suçlu olan, birleştiğinde beyin hücrelerinin yok olmasına ve hafıza kaybına yol açan iki proteinin toksik birleşimi. Araştırmacılar, bu ölümcül ikiliyi ayırmak için yeni bir bileşik kullanarak, hastalığın ilerlemesini yavaşlatmayı, beyin hücrelerini korumayı ve hatta karakteristik amiloid birikimini azaltmayı başardılar.\n\nKaynak: Mind & Brain News -- ScienceDaily (APA: Mind & Brain News. (tarih). Scientists discover Alzheimer’s hidden “death switch” in the brain. ScienceDaily. URL)",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260323005526.htm",
-            "date": "2026-03-23T10:10:05.726185",
-            "timestamp": 1774260605.726196
-        },
-        {
-            "title": "Yapay Zeka ve Hayvan Refahı Hareketi: San Francisco'da Yenilikçi Bir Buluşma",
-            "original_title": "The Bay Area’s animal welfare movement wants to recruit AI",
-            "content": "Şubat ayının başlarında, hayvan refahı savunucuları ve yapay zeka araştırmacıları, San Francisco'da yer alan Mox isimli ayakkabısız çalışma alanında bir araya geldiler. Burası, sarı ve kırmızı tentelerin yukarıdan sarktığı, yere serili İran halılarının ve saksı bitkilerinin yanındaki mozaik lambaların parladığı bir ortamdı. Ortak alanda, bir yaban hayatı savunucusu, dinleyicilere tutkulu bir konuşma yaptı. Katılımcılar dikkatle dinliyor, hayvan refahı ile yapay zekanın nasıl bir araya getirilebileceği üzerine fikir alışverişinde bulunuyorlardı. Bu buluşma, teknolojinin hayvan refahı üzerine potansiyel etkilerini araştırmak ve bu alanda yenilikçi çözümler geliştirmek için önemli bir adım teşkil ediyordu.\n\nKaynakça: MIT Technology Review. (2023). The Bay Area’s animal welfare movement wants to recruit AI.",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
-            "date": "2026-03-23T10:10:12.861210",
-            "timestamp": 1774260612.861218
-        },
-        {
-            "title": "Beyindeki Şaşırtıcı Tetikleyici: Yüksek Tansiyonun Yeni Nedeni Keşfedildi",
-            "original_title": "Scientists discover surprising brain trigger behind high blood pressure",
-            "content": "Bilim insanları, yüksek tansiyonun beyin temelli şaşırtıcı bir tetikleyicisini keşfetti. Beyin sapında, normalde nefes almayı kontrol eden küçük bir bölgeye kadar iz sürerek bu bağlantıyı ortaya çıkardılar. Öksürme, gülme veya egzersiz gibi güçlü nefes verme anlarında devreye giren bu bölge, aynı zamanda kan damarlarını sıkılaştıran sinirleri de aktif hale getiriyor ve bu da kan basıncını yükseltiyor. Araştırmacılar, deneylerde bu bölgeyi devre dışı bıraktıklarında kan basıncının normale döndüğünü gözlemlediler ve bu bulgunun hipertansiyonda doğrudan bir rol oynadığını öne sürdüler.\n\nKaynak: Mind & Brain News -- ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260322020302.htm",
-            "date": "2026-03-23T05:11:01.256410",
-            "timestamp": 1774242661.256423
         }
     ]
 }
