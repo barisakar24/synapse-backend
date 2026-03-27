@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-27T10:00:29.907650",
+    "last_updated": "2026-03-27T13:24:46.700987",
     "daily_news": {
-        "title": "Ölümden Sonra Hayat: Beyin Dondurma ve Gelecekte Diriliş Umudu",
-        "original_title": "Here’s why some people choose cryonics to store their bodies and brains after death",
-        "content": "Bu hafta, L. Stephen Coles'un beynine odaklanan oldukça sıra dışı bir araştırmayı bildirdim. Coles, 2014 yılında pankreas kanserinden ölen bir gerontologdu. Kariyerinin son bölümünde insan ömrünü uzatma konusunda uzmanlaşmıştı. Ölmeden önce, beynini kriyojenik olarak muhafaza ettirmeye karar verdi. \n\nKriyojeni, düşük sıcaklıklarda canlı dokuların korunması anlamına gelir ve genellikle ölümden sonra bir kişinin vücudunu veya beynini gelecekteki bir tarihte diriltme umuduyla dondurmayı içerir. Bu süreç, bilim dünyasında tartışmalı bir konu olmasına rağmen, bazı insanlar için ölümden sonra bir tür varoluşu sürdürme umudu sunmaktadır.\n\nColes gibi bazı bilim insanları, gelecekteki teknolojik gelişmelerin ölü hücreleri onarabileceğine ve bilinçli yaşamı yeniden başlatabileceğine inanıyorlar. Bu nedenle, ölümden sonra bedenlerini dondurmayı seçiyorlar. Ancak, bu yöntemin pratikliği ve etik açıdan kabul edilebilirliği konusunda birçok soru işareti bulunmaktadır.\n\nColes'un beyninin korunması, hem bilimsel hem de etik boyutlarıyla dikkat çekici bir deney oluşturuyor. Bu tür araştırmalar, ölümden sonraki yaşamın bilimsel bir gerçeklik haline gelip gelemeyeceği sorusunu gündeme getiriyor.\n\nKaynak: MIT Technology Review",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
-        "date": "2026-03-27T10:00:29.761111",
-        "timestamp": 1774605629.761122
+        "title": "Tam Genom Dizilimi, Sıtma Taşıyan Sivrisineklerin Böcek İlacına Adaptasyonunu Ortaya Çıkardı",
+        "original_title": "Complete Genome Sequencing Reveals Malaria Mosquito Adapting to Insecticides",
+        "content": "<p><i>An. darlingi</i> popülasyonlarının kıta genelinde nasıl bölündüğünü ve çevresel baskılara nasıl yanıt verdiklerini anlamak, izleme stratejilerini, böcek ilacı kullanımını ve gelecekteki genetik kontrol yaklaşımlarını bilgilendirebilir.</p>\n<p>Bu kapsamlı çalışma, <i>An. darlingi</i> adlı sıtma taşıyan sivrisinek türünün böcek ilaçlarına nasıl uyum sağladığını ortaya koyuyor. Bu türün genomu üzerinde yapılan detaylı analizler, böcek ilaçlarına karşı artan direncin genetik temellerini anlamamıza yardımcı oluyor. Elde edilen bulgular, sıtma ile mücadelede kullanılan stratejilerin gözden geçirilmesi ve optimize edilmesi gerektiğine işaret ediyor.</p>\n<p>Çalışma, bu sivrisinek türünün farklı coğrafi bölgelerdeki popülasyonlarının genetik farklılıklarını ve bu farklılıkların çevresel değişimlere nasıl tepkiler verdiğini de ortaya koyuyor. Bu bilgi, sivrisineklerin yayılımını izlemek, kontrol altına almak ve gelecekte daha etkili genetik müdahale yöntemleri geliştirmek için kritik öneme sahip.</p>\n<p>Kaynak: GEN – Genetic Engineering and Biotechnology News, 2023. <a href=\"https://www.genengnews.com/topics/infectious-diseases/complete-genome-sequencing-reveals-malaria-mosquito-adapting-to-insecticides/\">Complete Genome Sequencing Reveals Malaria Mosquito Adapting to Insecticides</a>. GEN - Genetic Engineering and Biotechnology News. Erişim Tarihi: 2023.</p>",
+        "category": "Psikoloji",
+        "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/infectious-diseases/complete-genome-sequencing-reveals-malaria-mosquito-adapting-to-insecticides/",
+        "date": "2026-03-27T13:24:46.700941",
+        "timestamp": 1774617886.700952
     },
     "news_list": [
+        {
+            "title": "İnternetin En İyi Hava Durumu Uygulamasını Yapan Kayak Tutkunları",
+            "original_title": "The Download: the internet’s best weather app, and why people freeze their brains",
+            "content": "Bu, teknoloji dünyasında neler olup bittiğine dair günlük bir doz sağlayan haftalık bültenimiz The Download'un bugünkü sayısıdır. \n\nKayakçılar için en iyi kar tahmin uygulaması ne devlet destekli bir hizmet ne de büyük bir marka. Bu uygulama, hükümet verilerini, kendi yapay zekasını kullanan bir girişim olan OpenSnow'dur. \n\nOpenSnow, kayak ve snowboard meraklıları için en doğru kar tahminlerini sunmayı amaçlayan bir hava durumu uygulaması olarak öne çıkıyor. Girişimin arkasındaki yaratıcılar, sektördeki eksiklikleri ve kullanıcıların beklentilerini karşılayacak bir çözüm sunmak için yola çıkmış. Bu uygulama, kullanıcılarına doğru ve güncel bilgiler sunarak kayakçılar için vazgeçilmez bir araç haline gelmiş durumda. \n\nKaynak: MIT Technology Review",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
+            "date": "2026-03-27T13:24:39.132753",
+            "timestamp": 1774617879.132767
+        },
+        {
+            "title": "Tam Genom Dizilimi, Sıtma Taşıyan Sivrisineklerin Böcek İlacına Adaptasyonunu Ortaya Çıkardı",
+            "original_title": "Complete Genome Sequencing Reveals Malaria Mosquito Adapting to Insecticides",
+            "content": "<p><i>An. darlingi</i> popülasyonlarının kıta genelinde nasıl bölündüğünü ve çevresel baskılara nasıl yanıt verdiklerini anlamak, izleme stratejilerini, böcek ilacı kullanımını ve gelecekteki genetik kontrol yaklaşımlarını bilgilendirebilir.</p>\n<p>Bu kapsamlı çalışma, <i>An. darlingi</i> adlı sıtma taşıyan sivrisinek türünün böcek ilaçlarına nasıl uyum sağladığını ortaya koyuyor. Bu türün genomu üzerinde yapılan detaylı analizler, böcek ilaçlarına karşı artan direncin genetik temellerini anlamamıza yardımcı oluyor. Elde edilen bulgular, sıtma ile mücadelede kullanılan stratejilerin gözden geçirilmesi ve optimize edilmesi gerektiğine işaret ediyor.</p>\n<p>Çalışma, bu sivrisinek türünün farklı coğrafi bölgelerdeki popülasyonlarının genetik farklılıklarını ve bu farklılıkların çevresel değişimlere nasıl tepkiler verdiğini de ortaya koyuyor. Bu bilgi, sivrisineklerin yayılımını izlemek, kontrol altına almak ve gelecekte daha etkili genetik müdahale yöntemleri geliştirmek için kritik öneme sahip.</p>\n<p>Kaynak: GEN – Genetic Engineering and Biotechnology News, 2023. <a href=\"https://www.genengnews.com/topics/infectious-diseases/complete-genome-sequencing-reveals-malaria-mosquito-adapting-to-insecticides/\">Complete Genome Sequencing Reveals Malaria Mosquito Adapting to Insecticides</a>. GEN - Genetic Engineering and Biotechnology News. Erişim Tarihi: 2023.</p>",
+            "category": "Psikoloji",
+            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/infectious-diseases/complete-genome-sequencing-reveals-malaria-mosquito-adapting-to-insecticides/",
+            "date": "2026-03-27T13:24:46.700941",
+            "timestamp": 1774617886.700952
+        },
         {
             "title": "Ölümden Sonra Hayat: Beyin Dondurma ve Gelecekte Diriliş Umudu",
             "original_title": "Here’s why some people choose cryonics to store their bodies and brains after death",
@@ -490,26 +510,6 @@
             "link": "https://neurosciencenews.com/covid-pandemic-child-executive-function-30370/",
             "date": "2026-03-24T16:13:23.117025",
             "timestamp": 1774368803.117034
-        },
-        {
-            "title": "Yapay Zeka Destekli Yanılsamaların İzinde: OpenAI ve Microsoft'un Riskleri",
-            "original_title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
-            "content": "Stanford araştırmacıları, yapay zeka ile delüzyon yaşayan chatbot kullanıcılarının dökümlerini analiz ederek bu durumun nasıl geliştiğini anlamaya çalıştılar. Araştırmanın bulguları, insanların yapay zekayla etkileşimleri sırasında nasıl yanılgıya düştüklerini ve bu süreçte nasıl bir spirale girdiklerini ortaya koyuyor. Bu tür bir araştırma, yapay zekanın insan psikolojisi üzerindeki etkilerini daha iyi anlamamıza yardımcı olabilir. \n\nDiğer yandan, OpenAI, Microsoft ile olan işbirliğinin getirdiği riskleri kabul etti. Bu tür büyük teknoloji ortaklıkları, yapay zekanın gelişimi ve kullanımı açısından önemli fırsatlar sunarken, aynı zamanda çeşitli etik ve güvenlik konularını da gündeme getiriyor. OpenAI'nin bu riskleri kabul etmesi, bu konuların daha fazla incelenmesine ve ele alınmasına yönelik bir çağrı olarak değerlendirilebilir. \n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
-            "date": "2026-03-24T13:42:56.313129",
-            "timestamp": 1774359776.313138
-        },
-        {
-            "title": "Modifiye Lipid Nanopartiküllerle mRNA Aşı Teslimatında Yenilik",
-            "original_title": "Modified Lipid Nanoparticles Boost mRNA Vaccine Delivery to Lymph Nodes",
-            "content": "<p>Bilim insanları, karaciğeri atlayarak doğrudan lenf düğümlerine ulaşan ve burada mRNA teslimatını artıran aromatik, biyoreducible lipid nanopartiküller geliştirdi. Bu yenilik, farelerde güçlü bağışıklık tepkilerini sürdürürken sistemik iltihabı azaltıyor ve hedef dışı etkileri en aza indiriyor.</p>\n<p>Geleneksel mRNA aşılarının karaciğer gibi organlarda yoğunlaşması, aşı etkinliğini sınırlayan ve istenmeyen yan etkilere neden olabilen bir durumdu. Ancak yeni geliştirilen nanopartiküller, bu sorunu aşarak doğrudan bağışıklık sisteminin merkezi olan lenf düğümlerine odaklanıyor. Bu sayede, mRNA'nın doğru yerlere ulaşması sağlanarak daha etkili bir bağışıklık tepkisi elde ediliyor.</p>\n<p>Bu teknolojinin, gelecekte daha düşük dozlarda daha etkili aşılar geliştirilmesine olanak tanıyabileceği düşünülüyor. Ayrıca, sistemik yan etkilerin azaltılması, aşıların geniş kitlelere daha güvenli bir şekilde uygulanabilmesi açısından önem taşıyor.</p>\n<p>Bu yenilik, genetik mühendislik ve biyoteknoloji alanında geleceğe yönelik umut verici gelişmelerden biri olarak dikkat çekiyor.</p>\n<p>Kaynak: GEN – Genetic Engineering and Biotechnology News. (https://www.genengnews.com/topics/drug-discovery/modified-lipid-nanoparticles-boost-mrna-vaccine-delivery-to-lymph-nodes/)</p>",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/drug-discovery/modified-lipid-nanoparticles-boost-mrna-vaccine-delivery-to-lymph-nodes/",
-            "date": "2026-03-24T13:43:08.643469",
-            "timestamp": 1774359788.643475
         }
     ]
 }
