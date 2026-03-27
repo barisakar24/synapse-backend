@@ -1,16 +1,56 @@
 {
-    "last_updated": "2026-03-27T15:59:22.931215",
+    "last_updated": "2026-03-27T19:06:28.950208",
     "daily_news": {
-        "title": "TIE2 Proteininin Engellenmesi Beyin Damar Kusurlarını Önleyebilir",
-        "original_title": "Blocking TIE2 Protein May Prevent Blood Vessel Defects in the Brain",
-        "content": "Yeni bir çalışma, TIE2'yi, beyin damar kusurlarına yol açan yollar arasında kilit bir bağlantı olarak tanımlıyor. Bu durum, kanama, inme ve nöbetlere neden olabilen lezyonların önlenmesi için hedefe yönelik ilaçların geliştirilebileceğini öne sürüyor. Araştırma, serebral kavernöz malformasyonlar üzerinde odaklanıyor ve bu protein yolunun engellenmesinin beyin damarlarındaki bu tür kusurların önlenmesinde potansiyel bir tedavi stratejisi olabileceğini ortaya koyuyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (tarih). Blocking TIE2 Protein May Prevent Blood Vessel Defects in the Brain. GEN - Genetic Engineering and Biotechnology News. Erişim: https://www.genengnews.com/topics/translational-medicine/blocking-tie2-protein-may-prevent-blood-vessel-defects-in-the-brain/",
-        "category": "Nöroloji",
-        "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.genengnews.com/topics/translational-medicine/blocking-tie2-protein-may-prevent-blood-vessel-defects-in-the-brain/",
-        "date": "2026-03-27T15:59:22.931177",
-        "timestamp": 1774627162.931185
+        "title": "Yapay Zekanın Düzenlenmesi ve Biyoteknolojide Yenilikler: Sanal Hücrelerden Aşı Takviyelerine",
+        "original_title": "Agentic AI, Virtual Cell, LNP Vaccine Boosters, Engineered Organs, and Mergers",
+        "content": "Bu bölümde <i>GEN</i>'in <i>Touching Base</i> programında, editörler yapay zekanın düzenlenmesi, yeni bir sanal hücre modeli, aşı teslimatının LNP ile geliştirilmesi, mühendislik ürünü organlar ve kurumsal birleşmeler konularını ele alıyor.\n\nYapay zekanın düzenlenmesi, özellikle agentic AI (özneştirici yapay zeka) alanında, hızla gelişen bir alan olarak dikkat çekiyor. Bu tür yapay zeka sistemlerinin insan karar verme süreçlerine daha fazla dahil olması, etik ve güvenlik endişelerini de beraberinde getiriyor. Bu yüzden, düzenleyici çerçevelerin geliştirilmesi büyük bir önem taşıyor.\n\nDiğer yandan, sanal hücre modellemesi, biyolojik süreçlerin daha iyi anlaşılmasını sağlıyor. Yeni geliştirilen bu model, hücresel aktiviteleri simüle ederek, araştırmacıların daha hızlı ve verimli bir şekilde deneyler yapmasına olanak tanıyor.\n\nAşıların etkili bir şekilde teslim edilmesini sağlamak için kullanılan LNP (Lipid Nanopartikül) teknolojisi, aşıların etkinliğini artırmak amacıyla geliştirilmeye devam ediliyor. Bu yenilikler, özellikle COVID-19 pandemisi sırasında aşıların daha geniş kitlelere ulaşmasını sağladı.\n\nMühendislik ürünü organlar alanında ise, bilim insanları yapay organlar geliştirerek sağlık sektörüne önemli katkılar sunuyor. Bu organlar, organ nakli bekleyen hastalar için umut vadediyor.\n\nSon olarak, biyoteknoloji sektöründe gerçekleşen kurumsal birleşmeler, bu alandaki yeniliklerin hızlanmasına ve kaynakların daha verimli kullanılmasına olanak tanıyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). Agentic AI, Virtual Cell, LNP Vaccine Boosters, Engineered Organs, and Mergers. Retrieved from https://www.genengnews.com/topics/artificial-intelligence/agentic-ai-virtual-cell-lnp-vaccine-boosters-engineered-organs-and-mergers/",
+        "category": "Yapay Zeka",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+        "link": "https://www.genengnews.com/topics/artificial-intelligence/agentic-ai-virtual-cell-lnp-vaccine-boosters-engineered-organs-and-mergers/",
+        "date": "2026-03-27T19:06:26.873433",
+        "timestamp": 1774638386.873442
     },
     "news_list": [
+        {
+            "title": "Beyin Ritmleri ve Fiziksel Bağlantılar: Ömür Boyu Süren Bir İlişki",
+            "original_title": "AI Links Brain Rhythms to Physical “Wiring” Across Lifespan",
+            "content": "Araştırmacılar, 5 ile 100 yaş arasındaki 1.965 kişi üzerinde yaptıkları çalışmada beyin dalgası hızının beynin fiziksel bağlantıları tarafından belirlendiğini ortaya koydu. Yeni Xi–αNET modeli, yaşlanma sürecinde yavaşlayan alfa dalgalarının, beyaz maddenin azalmasının doğrudan bir göstergesi olduğunu gösteriyor. \n\nBu çalışma, beyin dalgalarının hızının beyaz maddenin kalitesiyle doğrudan ilişkili olduğunu ve yaşlandıkça bu beyaz maddenin azaldığını ortaya koyuyor. Alfa dalgaları, beyin aktivitesinin önemli bir parçası olarak bilinir ve bu dalgaların hızı, beyindeki beyaz madde miktarı ve sağlığı ile doğrudan bağlantılıdır. \n\nAraştırma, beynin elektriksel aktivitesinin fiziksel yapısıyla olan ilişkisini daha iyi anlamak ve yaşlanma sürecinde beyin sağlığını izlemek için yeni yollar açabilir. Bu bulgular, yaşlanma ile ilişkili nörolojik hastalıkların erken teşhisinde ve tedavisinde de potansiyel olarak kullanılabilir. \n\nKaynak: Neuroscience News, https://neurosciencenews.com/xi-alpha-net-brain-rhythms-aging-30405/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/xi-alpha-net-brain-rhythms-aging-30405/",
+            "date": "2026-03-27T19:06:13.299410",
+            "timestamp": 1774638373.299422
+        },
+        {
+            "title": "Makine Öğrenimi ile Kişilik Testlerinde 4 Kat Hız Artışı!",
+            "original_title": "Machine Learning is Making Personality Tests 4x Faster",
+            "content": "Araştırmacılar, DISC kişilik testini makine öğrenimi kullanarak daha verimli hale getirdiler. Testin soru sayısını 40'tan 10'a düşüren bu yeni yöntem, %91 doğruluk oranı sağlıyor. Ayrıca, geleneksel yöntemlerin tespit edemediği karmaşık 'karışık' kişilik özelliklerini de tanımlayabiliyor. Bu gelişme, kişilik testlerinin hem hızını hem de doğruluğunu artırarak, daha etkili ve kapsamlı değerlendirmeler yapılmasına olanak tanıyor.\n\nKaynak: Neuroscience News (2023). Machine Learning is Making Personality Tests 4x Faster. Erişim adresi: https://neurosciencenews.com/ai-disc-personality-assessment-30403/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/ai-disc-personality-assessment-30403/",
+            "date": "2026-03-27T19:06:16.456585",
+            "timestamp": 1774638376.456594
+        },
+        {
+            "title": "Yapay Zekanın Düzenlenmesi ve Biyoteknolojide Yenilikler: Sanal Hücrelerden Aşı Takviyelerine",
+            "original_title": "Agentic AI, Virtual Cell, LNP Vaccine Boosters, Engineered Organs, and Mergers",
+            "content": "Bu bölümde <i>GEN</i>'in <i>Touching Base</i> programında, editörler yapay zekanın düzenlenmesi, yeni bir sanal hücre modeli, aşı teslimatının LNP ile geliştirilmesi, mühendislik ürünü organlar ve kurumsal birleşmeler konularını ele alıyor.\n\nYapay zekanın düzenlenmesi, özellikle agentic AI (özneştirici yapay zeka) alanında, hızla gelişen bir alan olarak dikkat çekiyor. Bu tür yapay zeka sistemlerinin insan karar verme süreçlerine daha fazla dahil olması, etik ve güvenlik endişelerini de beraberinde getiriyor. Bu yüzden, düzenleyici çerçevelerin geliştirilmesi büyük bir önem taşıyor.\n\nDiğer yandan, sanal hücre modellemesi, biyolojik süreçlerin daha iyi anlaşılmasını sağlıyor. Yeni geliştirilen bu model, hücresel aktiviteleri simüle ederek, araştırmacıların daha hızlı ve verimli bir şekilde deneyler yapmasına olanak tanıyor.\n\nAşıların etkili bir şekilde teslim edilmesini sağlamak için kullanılan LNP (Lipid Nanopartikül) teknolojisi, aşıların etkinliğini artırmak amacıyla geliştirilmeye devam ediliyor. Bu yenilikler, özellikle COVID-19 pandemisi sırasında aşıların daha geniş kitlelere ulaşmasını sağladı.\n\nMühendislik ürünü organlar alanında ise, bilim insanları yapay organlar geliştirerek sağlık sektörüne önemli katkılar sunuyor. Bu organlar, organ nakli bekleyen hastalar için umut vadediyor.\n\nSon olarak, biyoteknoloji sektöründe gerçekleşen kurumsal birleşmeler, bu alandaki yeniliklerin hızlanmasına ve kaynakların daha verimli kullanılmasına olanak tanıyor.\n\nKaynak: GEN - Genetic Engineering and Biotechnology News. (n.d.). Agentic AI, Virtual Cell, LNP Vaccine Boosters, Engineered Organs, and Mergers. Retrieved from https://www.genengnews.com/topics/artificial-intelligence/agentic-ai-virtual-cell-lnp-vaccine-boosters-engineered-organs-and-mergers/",
+            "category": "Yapay Zeka",
+            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/artificial-intelligence/agentic-ai-virtual-cell-lnp-vaccine-boosters-engineered-organs-and-mergers/",
+            "date": "2026-03-27T19:06:26.873433",
+            "timestamp": 1774638386.873442
+        },
+        {
+            "title": "Lonza, Singapur'da Yeni Medya Geliştirme Laboratuvarı Kuruyor",
+            "original_title": "Lonza Media Development Lab Set Up in Singapore",
+            "content": "Lonza, deney tasarımı hizmetini kullanarak birden çok değişkeni aynı anda değerlendiren ve anahtar performans etkenlerini belirlemeyi amaçlayan bir süreci uygulamaya koyuyor. Bu yaklaşım, geliştirme zaman çizelgelerini hızlandırmayı ve gereksiz tekrarları azaltmayı hedefliyor. Lonza'nın Singapur'da kurduğu yeni medya geliştirme laboratuvarı, bu hedefler doğrultusunda önemli bir adımı temsil ediyor. \n\nKaynak: GEN – Genetic Engineering and Biotechnology News. (n.d.). Lonza Media Development Lab Set Up in Singapore. Retrieved from https://www.genengnews.com/topics/bioprocessing/lonza-media-development-lab-set-up-in-singapore/",
+            "category": "Genetik",
+            "image": "https://images.unsplash.com/photo-1530026405186-ed1f139313f8?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.genengnews.com/topics/bioprocessing/lonza-media-development-lab-set-up-in-singapore/",
+            "date": "2026-03-27T19:06:28.950171",
+            "timestamp": 1774638388.950179
+        },
         {
             "title": "Kök Hücrelerin Eşiğinde: Çığır Açan Gelişmeler, Engeller ve Gelecek",
             "original_title": "Stem Cells at the Frontier: Breakthroughs, Barriers, and What’s Next",
@@ -470,46 +510,6 @@
             "link": "https://neurosciencenews.com/ivns1abp-genetic-disease-aging-brain-30380/",
             "date": "2026-03-24T19:16:03.100768",
             "timestamp": 1774379763.100781
-        },
-        {
-            "title": "Bakteriyel Enfeksiyonlar Beyin Yaşlanmasını Hızlandırıyor ve Demans Riskini Artırıyor",
-            "original_title": "Bacterial Infections Accelerate Brain Aging, Dementia Risk",
-            "content": "Yeni araştırmalar, şiddetli bakteriyel enfeksiyonlar ve idrar yolu enfeksiyonlarının diğer sağlık faktörlerinden bağımsız olarak artan demans riski ile bağlantılı olduğunu gösteriyor. Bu enfeksiyonların beyin yaşlanmasını nasıl hızlandırabileceğini öğrenin.\n\nAraştırmacılar, çeşitli bakteriyel enfeksiyonların beyin sağlığı üzerindeki etkilerini inceleyerek, bu enfeksiyonların sinir sistemine zarar verip vermediğini araştırdı. Sonuçlar, özellikle yaşlı bireylerde, uzun süreli ve ciddi enfeksiyonların beyin iltihabını tetikleyerek bilişsel işlevleri olumsuz etkileyebileceğini ortaya koyuyor.\n\nEnfeksiyonlar, bağışıklık sisteminin aşırı tepki vermesine neden olabilir ve bu da beyinde enflamasyona yol açabilir. Bu durum, zamanla beyin dokusunun hasar görmesine ve sinir hücrelerinin ölmesine neden olabilir. Araştırmacılar, bu sürecin beyin yaşlanmasını hızlandırarak demans riskini artırabileceğini belirtiyor.\n\nBu bulgular, özellikle yaşlı bireylerin enfeksiyonlardan korunmasının önemini vurguluyor ve sağlık uzmanlarına, yaşlı hastalar için enfeksiyonların yönetimi konusunda daha dikkatli olmaları gerektiğini hatırlatıyor.\n\nKaynak: Neuroscience News (2023). Bacterial Infections Accelerate Brain Aging, Dementia Risk. https://neurosciencenews.com/severe-infection-dementia-risk-30379/",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://neurosciencenews.com/severe-infection-dementia-risk-30379/",
-            "date": "2026-03-24T19:16:09.526507",
-            "timestamp": 1774379769.526515
-        },
-        {
-            "title": "Yapay Zeka Ajanlarına Anahtarları Teslim Etmeye Hazır mıyız?",
-            "original_title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
-            "content": "Yapay zeka (YZ) ajanlarına gerçek anlamda özerklik vermeye başladık, ancak bunun sonunda nelerle karşılaşabileceğimize hazır mıyız? Bu yalnızca abonelere özel eKitap, bu konuyu ve uzmanların görüşlerini araştırıyor. Örneğin, \"Eğer mevcut yolda devam edersek... Temelde insanlıkla Rus ruleti oynuyoruz.\" diyor Grace Huckins. Yapay zekanın gelişimi, insanlık için birçok fırsat sunarken, beraberinde ciddi riskleri de getiriyor. Bu eKitap, YZ'nin artan özerkliği konusunda toplumun, bilim insanlarının ve politika yapıcıların nasıl bir yol izlemesi gerektiğine dair derinlemesine analizler sunuyor. Birçok uzmanın görüşlerine yer verilen bu çalışma, yapay zekanın yönetimi ve geleceği konusundaki tartışmaları derinleştiriyor. İlgili Hikayeler: Tüm aboneye özel içeriklere erişim... \n\nKaynak: Huckins, G. (2025, June 12). Exclusive eBook: Are we ready to hand AI agents the keys? MIT Technology Review.",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
-            "date": "2026-03-24T19:16:15.450781",
-            "timestamp": 1774379775.450789
-        },
-        {
-            "title": "Bilim İnsanının Beyni Yıllar Sonra İncelendi",
-            "original_title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
-            "content": "L. Stephen Coles’un beyni, Arizona'daki bir depolama tesisinde bir varil içinde yastıklanmış olarak duruyor. Beyin, on yıldan fazla bir süredir yaklaşık −146 derece °C sıcaklıkta, büyük ölçüde el değmeden tutuluyordu. Yani, bir yıldan biraz daha uzun bir süre önce bilim insanlarının beyni yavaşça kaldırıp fotoğraflarını çektiği zamana kadar. \n\nL. Stephen Coles, yaşamı boyunca yaşlanma ve uzun ömür üzerine yaptığı çalışmalarla tanınan ünlü bir bilim insanıydı. Ölümünün ardından, beyninin kriyojenik olarak korunmasını isteyerek ileride yapılacak bilimsel araştırmalara katkıda bulunmayı amaçladı. Coles'un beyni, kriyojenik koruma altında tutulan birçok beyinden sadece biri. Kriyojenik koruma, bilim insanlarının gelecekteki teknolojik gelişmelerle bu beyinlerden bilgi edinmeyi umduğu bir yöntem.\n\nBilim insanları, beyni incelediklerinde, kriyojenik süreçlerin beyin yapısını nasıl etkilediğini ve uzun süreli dondurmanın sinir hücrelerinin bütünlüğüne zarar verip vermediğini anlamaya çalışıyorlar. Bu tür çalışmalar, gelecekte bellek ve kişilik gibi bilişsel özelliklerin korunması veya yeniden canlandırılması konularında önemli bilgiler sağlayabilir.\n\nKaynak: MIT Technology Review",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
-            "date": "2026-03-24T19:16:22.259764",
-            "timestamp": 1774379782.259773
-        },
-        {
-            "title": "Mahkeme Kararı: RFK Jr.'ın Aşı Değişikliklerine Durdurma Kararı Devam Ediyor",
-            "original_title": "Judge’s Halt on RFK Jr.’s Vaccine Changes Remains in Effect, At Least for Now",
-            "content": "<p>ABD'de aşı konusundaki tartışmalar, Trump yönetiminin son hamlesiyle daha da karmaşık bir hale geliyor. RFK Jr.'ın aşı değişikliklerine yönelik önerileri, mahkeme tarafından durdurulmuş durumda ve bu karar şimdilik yürürlükte kalmaya devam ediyor. Bu gelişme, Amerikan sağlık sistemi ve araştırmalarını olumsuz etkileyebilecek bir adım olarak değerlendiriliyor.</p><p>Trump yönetimi, daha önce de bilimsel kurumların fonlarını kesmiş ve araştırma hibelerini kısıtlamıştı. Bu durum, bilimsel araştırmaların ve sağlık hizmetlerinin geleceğini tehdit eden bir dizi politik kararın parçası olarak görülüyor.</p><p>Kaynak: GEN - Genetic Engineering and Biotechnology News. (2023). Judge’s Halt on RFK Jr.’s Vaccine Changes Remains in Effect, At Least for Now. GEN - Genetic Engineering and Biotechnology News. https://www.genengnews.com/topics/translational-medicine/judges-halt-on-rfk-jr-s-vaccine-changes-remains-in-effect-at-least-for-now/</p>",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/translational-medicine/judges-halt-on-rfk-jr-s-vaccine-changes-remains-in-effect-at-least-for-now/",
-            "date": "2026-03-24T19:16:26.725978",
-            "timestamp": 1774379786.725987
         }
     ]
 }
