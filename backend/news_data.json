@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-28T15:39:02.955977",
+    "last_updated": "2026-03-28T18:54:52.164704",
     "daily_news": {
-        "title": "Bağırsak Hücreleri ve Multipl Skleroz: Beklenmedik Bir Tetikleyici",
-        "original_title": "How Intestinal Cells Trigger Multiple Sclerosis",
-        "content": "Araştırmacılar, bağırsak astarındaki hücrelerin Multipl Skleroz (MS) hastalığında görülen nöroenflamasyonu tetiklediğini keşfettiler. Bu hücreler, yanlışlıkla antijenleri 'sunarak' patojenik Th17 hücreleri oluştururlar. Bu hücreler daha sonra beyin ve omuriliğe göç eder. \n\nMS, merkezi sinir sisteminde (CNS) oluşan bir otoimmün hastalıktır. Bu hastalıkta, bağışıklık sistemi yanlışlıkla CNS'ye saldırır ve bu da sinirlerin koruyucu kılıfı olan miyelinin hasar görmesine yol açar. Miyelin hasarı, sinir sinyallerinin iletimini engelleyerek çeşitli nörolojik problemlere neden olur. \n\nYeni yapılan bu çalışma, bağırsak hücrelerinin MS'in başlangıcında nasıl bir rol oynadığına dair önemli bulgular sunuyor. Araştırmacılar, bağırsak mukozasında bulunan bazı hücrelerin, bağışıklık sisteminin yanlış tepkisini tetikleyebileceğini ve böylece hastalığın gelişimine katkıda bulunabileceğini belirtiyorlar. Bu durum, bağırsak sağlığının MS gibi otoimmün hastalıkların önlenmesi ve yönetilmesinde ne kadar önemli olabileceğine dair yeni kanıtlar sunuyor. \n\nBu bulgular, bağırsak sağlığını hedef alan tedavi yaklaşımlarının MS'in ilerlemesini yavaşlatma veya durdurma potansiyeline sahip olabileceğini düşündürmektedir. Gelecekteki araştırmalar, bu mekanizmaların daha iyi anlaşılmasına ve yeni tedavi yöntemlerinin geliştirilmesine yardımcı olabilir.\n\nKaynak: Neuroscience News (2023)",
+        "title": "SLIT3 Proteini: Obezite ile Mücadelede Yeni Umut",
+        "original_title": "Split Protein Builds the Infrastructure for Weight Loss",
+        "content": "Araştırmacılar, SLIT3 proteinini keşfederek, bu proteinin kendini ikiye bölerek kahverengi yağın 'altyapısını' oluşturduğunu ortaya çıkardılar. SLIT3, kan damarlarını ve sinirleri genişleterek kahverengi yağın daha fazla enerji yakmasını sağlıyor ve bu da obezite tedavisinde iştah temelli olmayan yeni bir strateji sunuyor. Kahverengi yağ, vücudun enerji harcamasını artırarak kilo kontrolüne katkıda bulunabilir. Bilim insanları, SLIT3 proteinini hedef alarak obezite ile mücadelede yeni tedavi yöntemleri geliştirmeyi amaçlıyor. Bu buluş, obeziteye karşı daha etkili ve yan etkisi az olan tedavi seçeneklerinin geliştirilmesi için umut vadediyor.\n\nKaynak: Neuroscience News. (2023). Split Protein Builds the Infrastructure for Weight Loss. Erişim adresi: https://neurosciencenews.com/slit3-protein-brown-fat-obesity-30410/",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/gut-immune-responses-ms-trigger-30406/",
-        "date": "2026-03-28T15:39:01.750436",
-        "timestamp": 1774712341.750446
+        "link": "https://neurosciencenews.com/slit3-protein-brown-fat-obesity-30410/",
+        "date": "2026-03-28T18:54:48.647040",
+        "timestamp": 1774724088.64705
     },
     "news_list": [
+        {
+            "title": "SLIT3 Proteini: Obezite ile Mücadelede Yeni Umut",
+            "original_title": "Split Protein Builds the Infrastructure for Weight Loss",
+            "content": "Araştırmacılar, SLIT3 proteinini keşfederek, bu proteinin kendini ikiye bölerek kahverengi yağın 'altyapısını' oluşturduğunu ortaya çıkardılar. SLIT3, kan damarlarını ve sinirleri genişleterek kahverengi yağın daha fazla enerji yakmasını sağlıyor ve bu da obezite tedavisinde iştah temelli olmayan yeni bir strateji sunuyor. Kahverengi yağ, vücudun enerji harcamasını artırarak kilo kontrolüne katkıda bulunabilir. Bilim insanları, SLIT3 proteinini hedef alarak obezite ile mücadelede yeni tedavi yöntemleri geliştirmeyi amaçlıyor. Bu buluş, obeziteye karşı daha etkili ve yan etkisi az olan tedavi seçeneklerinin geliştirilmesi için umut vadediyor.\n\nKaynak: Neuroscience News. (2023). Split Protein Builds the Infrastructure for Weight Loss. Erişim adresi: https://neurosciencenews.com/slit3-protein-brown-fat-obesity-30410/",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/slit3-protein-brown-fat-obesity-30410/",
+            "date": "2026-03-28T18:54:48.647040",
+            "timestamp": 1774724088.64705
+        },
+        {
+            "title": "Derin Beyin Stimülasyonu ile Tedaviye Dirençli Depresyonun Üstesinden Gelinebilir mi?",
+            "original_title": "Can Deep Brain Stimulation Unlock Treatment-Resistant Depression?",
+            "content": "Araştırmacılar, tedaviye dirençli depresyon için Derin Beyin Stimülasyonu (DBS) yöntemini test ediyorlar. \"Beyin kalp pili\" olarak işlev gören bu cihaz, standart ilaçlar veya terapi ile rahatlama bulamayan hastalara yardımcı olmak amacıyla beyaz maddeyi hedef alıyor. DBS, beynin belirli bölgelerine elektriksel uyarılar göndererek sinirsel aktiviteyi değiştirmeyi hedefleyen bir tedavi yöntemidir. Bu yöntem, özellikle diğer tedavi yöntemlerine yanıt vermeyen depresyon vakalarında umut verici bir seçenek olarak değerlendirilmektedir. Beyaz madde, beynin farklı bölgeleri arasında iletişimi sağlayan sinir liflerinden oluşur ve bu bölgelerin hedeflenmesi, depresyon semptomlarını hafifletebilir. Araştırmacılar, bu yöntemle hastaların yaşam kalitesini artırmayı ve depresyonun etkilerini azaltmayı umuyorlar.\n\nKaynak: Neuroscience News, 2023",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/dbs-treatment-resistant-depression-30409/",
+            "date": "2026-03-28T18:54:51.289347",
+            "timestamp": 1774724091.289354
+        },
         {
             "title": "Bağırsak Hücreleri ve Multipl Skleroz: Beklenmedik Bir Tetikleyici",
             "original_title": "How Intestinal Cells Trigger Multiple Sclerosis",
@@ -490,26 +510,6 @@
             "link": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
             "date": "2026-03-25T10:01:07.773848",
             "timestamp": 1774432867.773859
-        },
-        {
-            "title": "Yaşlandıkça Dengenizi Bozan Beyin: Fazla Çalışan Sinir Sistemi ve Kaslar",
-            "original_title": "Why your brain may be sabotaging your balance as you age",
-            "content": "Yaşlanma sürecinde ve Parkinson hastalığında denge sorunlarının, vücudun az çalışmasından değil, aksine fazla çalışmasından kaynaklanabileceği öne sürülüyor. Bilim insanları, beynin ve kasların küçük rahatsızlıklar sırasında bile aşırı aktif hale geldiğini keşfettiler. Ancak bu durum, dengeyi yeniden kazanmayı zorlaştırarak aslında dengeyi daha da zayıflatıyor. Aynı zamanda, kaslar birbirine karşı sertleşebilir, bu da hareketi daha az kararlı hale getirir. Bu beklenmedik desen, kimin düşme olasılığının daha yüksek olduğunu tahmin etmeye yardımcı olabilir.\n\nAraştırmalar, yaşlandıkça dengeyi sağlamak için beynin ve kasların daha fazla çaba sarf ettiğini, ancak bu aşırı çabanın dengeyi sağlamada ters etki yarattığını ortaya koyuyor. Beynin ve kasların bu aşırı aktivitesi, özellikle yaşlı bireylerde ve Parkinson hastalarında, küçük bir dengesizliğin bile vücutta büyük bir dengesizlik yaratmasına neden oluyor. Bu durum, kasların birbiriyle uyumlu şekilde çalışmasını güçleştirirken, hareket kabiliyetini de azaltıyor.\n\nBu bulgular, yaşlılık ve Parkinson hastalığı ile bağlantılı olarak denge sorunları yaşayan bireyler için yeni tedavi yöntemlerinin geliştirilmesine olanak tanıyabilir. Özellikle düşme riski yüksek olan bireylerin tespit edilmesi ve bu riskin azaltılması için daha fazla araştırma yapılması gerektiği belirtiliyor.\n\nKaynak: Mind & Brain News - ScienceDaily",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260324230102.htm",
-            "date": "2026-03-25T05:01:57.205872",
-            "timestamp": 1774414917.205883
-        },
-        {
-            "title": "Yeni Babaların Bir Yıl Sonra Artan Depresyon Riski",
-            "original_title": "Fathers face rising depression risk a year after baby arrives",
-            "content": "Yeni babalar, gebelik süresince ve doğumdan sonraki ilk aylarda daha az zihinsel sağlık teşhisi alıyor gibi görünüyorlar. Ancak, bu erken istikrar uzun süre devam etmiyor. Yaklaşık bir yıl sonra, depresyon ve stresle ilişkili rahatsızlıklar önemli ölçüde artıyor ve bu durum araştırmacıları şaşırtıyor. Bulgular, babalığın duygusal yükünün anında değil, zamanla biriktiğini öne sürüyor. \n\nYeni bir çalışma, babaların zihinsel sağlıklarının doğumdan sonraki ilk yıl boyunca nispeten sağlam kalabileceğini, ancak bir yılın sonunda bu durumun değişebileceğini gösteriyor. Araştırmacılar, yeni babaların başlangıçta yaşanan mutluluk ve heyecanla birlikte zihinsel sağlıklarının daha iyi durumda olduğunu ancak zamanla artan sorumluluklar, uykusuzluk gibi faktörlerin etkisiyle depresyon ve stres seviyelerinde artış yaşadıklarını belirtiyor. \n\nBu durumu anlamak için, araştırmacılar yeni babaların ilk bir yıl içindeki zihinsel sağlık durumlarını incelediler. Bulgular, babaların genellikle ilk aylarda daha az depresyon belirtisi gösterdiğini ancak bir yıl geçtikten sonra bu belirtilerin arttığını gösteriyor. Bu artış, babaların karşılaştığı ekonomik zorluklar, iş-yaşam dengesi ve artan aile içi sorumluluklarla ilişkilendiriliyor. \n\nAraştırmacılar, bu bulguların, yeni babaların da anneler gibi duygusal desteğe ihtiyaç duyduğunu ve babalık rolünün getirdiği duygusal yükün anında değil, zamanla biriktiğini gösterdiğini ifade ediyor. Bu nedenle, yeni babaların zihinsel sağlığını desteklemek için daha fazla kaynak ve destek sistemleri geliştirilmesi gerektiği vurgulanıyor.\n\nKaynak: Mind & Brain News -- ScienceDaily.",
-            "category": "Psikoloji",
-            "image": "https://images.unsplash.com/photo-1493836512294-502baa1986e2?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.sciencedaily.com/releases/2026/03/260324230057.htm",
-            "date": "2026-03-25T05:02:06.535500",
-            "timestamp": 1774414926.535508
         }
     ]
 }
