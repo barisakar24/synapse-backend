@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-29T18:56:19.154756",
+    "last_updated": "2026-03-29T21:40:53.296773",
     "daily_news": {
-        "title": "Gençlerin Beslenme Alışkanlıkları Ruh Sağlıklarını Etkileyebilir",
-        "original_title": "What teens eat could be affecting their mental health more than we thought",
-        "content": "Gençlerin beslenme alışkanlıkları, ruh sağlıklarını düşündüğümüzden daha fazla etkileyebilir. Yaklaşık 20 çalışmayı kapsayan kapsamlı bir inceleme, daha sağlıklı diyetlerin genellikle daha az depresif semptomlarla bağlantılı olduğunu, kötü beslenme alışkanlıklarının ise daha fazla psikolojik stresle el ele gidebileceğini ortaya koydu. İlginç bir şekilde, sadece bireysel besinler değil, genel diyet kalıplarına odaklanmanın daha tutarlı faydalar sağladığı görüldü. Bu da genel beslenme alışkanlıklarının, beyin gelişiminin bu kritik aşamasında anlamlı bir rol oynayabileceğini düşündürüyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+        "title": "Nikotinli E-Sigaralar, Sigarayı Bırakmada Yama ve Sakızdan Daha Etkili",
+        "original_title": "Nicotine Vapes Outperform Patches and Gum for Quitters",
+        "content": "14 sistematik incelemenin büyük bir değerlendirmesi, nikotinli e-sigaraların sigarayı bırakmada yamalar, sakız veya davranışsal destekten daha etkili olduğunu doğruluyor. Araştırmacılar, kanıtların artık \"açık ve tutarlı\" olduğunu belirtiyorlar. Bu değerlendirme, sigarayı bırakma yöntemleri arasında e-sigaraların diğer yaygın yöntemlere göre daha güçlü bir seçenek olduğunu vurguluyor. Nikotin yamaları ve sakızları, uzun yıllardır sigarayı bırakmaya çalışan insanlar için popüler seçenekler arasındaydı; ancak bu yeni bulgular, e-sigaraların daha etkili bir alternatif sunduğunu gösteriyor.\n\nAraştırmacılar, e-sigaraların sigarayı bırakma sürecinde daha fazla başarı oranı sağladığını ve bu yöntemin daha hızlı sonuç verdiğini öne sürüyorlar. Çalışma, e-sigaraların nikotin ihtiyacını daha etkili bir şekilde karşıladığını ve bu sayede sigara içme isteğini azalttığını belirtiyor. Bununla birlikte, e-sigaraların uzun vadeli sağlık etkileri üzerine daha fazla araştırma yapılması gerektiği de vurgulanıyor.\n\nBu bulgular, sigarayı bırakmak isteyen birçok insan için önemli bir kavşak noktası olabilir. E-sigaraların daha geniş bir kabul görmesi, sigara bağımlılığı ile mücadelede yeni stratejilerin geliştirilmesine katkı sağlayabilir.\n\nKaynak: Neuroscience News, \"Nicotine Vapes Outperform Patches and Gum for Quitters\", erişim tarihi: 2023.",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260328043602.htm",
-        "date": "2026-03-29T09:48:46.625657",
-        "timestamp": 1774777726.625666
+        "link": "https://neurosciencenews.com/nicotine-vapes-smoking-cessation-30411/",
+        "date": "2026-03-29T21:40:52.239276",
+        "timestamp": 1774820452.239282
     },
     "news_list": [
+        {
+            "title": "Genç Yetişkinlikte Madde Kullanımı, 65 Yaşındaki Hafızayı Etkiliyor",
+            "original_title": "Young Adult Substance Use Affects Memory at 65",
+            "content": "18 ile 30 yaşları arasında yoğun madde kullanımı, 65 yaşında kötü hafızayla ilişkilendiriliyor. Sigara içmek, doğrudan uzun vadeli hasara neden olurken, alkol ve esrar kullanımı, orta yaşta bağımlılık riskini artırarak hafızayı etkiliyor.\n\nAraştırmalara göre, genç yetişkinlik döneminde yoğun madde kullanımı, yaşlılık döneminde bellek sorunlarına yol açabiliyor. Özellikle sigara, beyin hücrelerine doğrudan zarar vererek hafıza kaybına neden oluyor. Alkol ve esrar ise, bu maddelere olan bağımlılık riskini artırarak dolaylı yoldan hafızayı olumsuz etkiliyor.\n\nYapılan çalışmalarda, genç yaşlarda başlayan madde bağımlılığının, orta yaşlarda artan bağımlılık düzeyleriyle birleşerek hafıza kaybına zemin hazırladığı ortaya konuluyor. Uzmanlar, bu durumun önüne geçilmesi için gençlerin madde kullanımından kaçınmasının önemini vurguluyor.\n\nKaynak: Neuroscience News",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/young-adult-substance-use-memory-30412/",
+            "date": "2026-03-29T21:40:47.762378",
+            "timestamp": 1774820447.762386
+        },
+        {
+            "title": "Nikotinli E-Sigaralar, Sigarayı Bırakmada Yama ve Sakızdan Daha Etkili",
+            "original_title": "Nicotine Vapes Outperform Patches and Gum for Quitters",
+            "content": "14 sistematik incelemenin büyük bir değerlendirmesi, nikotinli e-sigaraların sigarayı bırakmada yamalar, sakız veya davranışsal destekten daha etkili olduğunu doğruluyor. Araştırmacılar, kanıtların artık \"açık ve tutarlı\" olduğunu belirtiyorlar. Bu değerlendirme, sigarayı bırakma yöntemleri arasında e-sigaraların diğer yaygın yöntemlere göre daha güçlü bir seçenek olduğunu vurguluyor. Nikotin yamaları ve sakızları, uzun yıllardır sigarayı bırakmaya çalışan insanlar için popüler seçenekler arasındaydı; ancak bu yeni bulgular, e-sigaraların daha etkili bir alternatif sunduğunu gösteriyor.\n\nAraştırmacılar, e-sigaraların sigarayı bırakma sürecinde daha fazla başarı oranı sağladığını ve bu yöntemin daha hızlı sonuç verdiğini öne sürüyorlar. Çalışma, e-sigaraların nikotin ihtiyacını daha etkili bir şekilde karşıladığını ve bu sayede sigara içme isteğini azalttığını belirtiyor. Bununla birlikte, e-sigaraların uzun vadeli sağlık etkileri üzerine daha fazla araştırma yapılması gerektiği de vurgulanıyor.\n\nBu bulgular, sigarayı bırakmak isteyen birçok insan için önemli bir kavşak noktası olabilir. E-sigaraların daha geniş bir kabul görmesi, sigara bağımlılığı ile mücadelede yeni stratejilerin geliştirilmesine katkı sağlayabilir.\n\nKaynak: Neuroscience News, \"Nicotine Vapes Outperform Patches and Gum for Quitters\", erişim tarihi: 2023.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://neurosciencenews.com/nicotine-vapes-smoking-cessation-30411/",
+            "date": "2026-03-29T21:40:52.239276",
+            "timestamp": 1774820452.239282
+        },
         {
             "title": "Gençlerin Beslenme Alışkanlıkları Ruh Sağlıklarını Etkileyebilir",
             "original_title": "What teens eat could be affecting their mental health more than we thought",
@@ -490,26 +510,6 @@
             "link": "https://www.sciencedaily.com/releases/2026/03/260325055441.htm",
             "date": "2026-03-25T13:42:09.396638",
             "timestamp": 1774446129.39665
-        },
-        {
-            "title": "Dondurulmuş Beyinler Yeniden Hayata Dönüyor: Bilim ve Teknolojinin Sınırları",
-            "original_title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
-            "content": "Bu, teknoloji dünyasında olup bitenleri günlük olarak ele alan haftalık bültenimiz The Download'un bugünkü sayısıdır. Bilim insanı, arkadaşının kriyo-korunmuş beynini ısıttı ve inceledi. L. Stephen Coles'un beyni Arizona'daki bir depolama tesisinde bir kap içinde duruyor. Beyin burada düşük bir sıcaklıkta muhafaza ediliyor. Kriyojenik koruma, bir kişinin ölümünden hemen sonra vücudunun veya beyninin dondurularak gelecekte yeniden canlandırılma umuduyla saklanması işlemidir. Ancak, bu süreçte yeniden canlandırmanın mümkün olup olmadığı veya ne zaman mümkün olacağı henüz belirsizliğini koruyor. Bilim insanları bu alanda çeşitli deneyler yaparak, kriyojenik korunmuş dokuların yeniden canlandırılmasının yollarını araştırıyorlar. Bu deneylerin bir kısmı, kriyo-korunmuş beyinlerin belirli bölümlerini dikkatlice ısıtarak, dokuların zarar görmeden eski haline dönmesini sağlamak üzerine odaklanıyor. Bu tür çalışmalar, gelecekte insanların ölümlerinin ardından yeniden hayata dönebilmeleri için bilimsel yolların geliştirilmesine katkı sağlayabilir.\n\nKaynak: MIT Technology Review",
-            "category": "Nöroloji",
-            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
-            "date": "2026-03-25T13:42:16.690571",
-            "timestamp": 1774446136.69058
-        },
-        {
-            "title": "Dijital Çağın Yeni Yüzü: Gerçek ve Bağlam Üzerine Kurulu Ajans Tabanlı Ticaret",
-            "original_title": "Agentic commerce runs on truth and context",
-            "content": "Günümüzde dijital dünyada büyük bir dönüşüm süreci yaşanıyor. Artık dijital ajanlar, sadece bilgi sağlamakla kalmıyor, aynı zamanda işlemleri de bizim adımıza gerçekleştirebiliyor. Hayal edin, bir dijital ajana 'Puanlarımı kullanarak ailem için İtalya'ya bir gezi ayarla. Bütçe dahilinde kalsın, daha önce beğendiğimiz otelleri seç ve detayları hallet.' dediğinizde size bir dizi bağlantı sunmak yerine, tüm gezi planını hazırlayıp satın alma işlemini gerçekleştiriyor.\n\nBu değişim, dijital asistanların sadece yardımcı olmaktan çıkıp doğrudan uygulayıcı bir role bürünmesi anlamına geliyor. Bu tür bir yapay zeka, kendi kendine hareket edebilen ticaret sistemlerinin temelini oluşturuyor. Bu sistemler, kullanıcıların tercihlerine ve geçmiş deneyimlerine dayanarak en uygun seçenekleri sunuyor ve gerekli işlemleri tamamlıyor.\n\nBöylesi bir sistemin başarısının temelinde ise, doğru ve bağlamsal bilgiye hızlı erişim yatıyor. Ajans tabanlı ticaret, kullanıcının geçmişteki tercihlerine, mevcut bütçesine ve diğer kişisel verilere dayanarak en uygun sonuçları sunuyor. Kullanıcılar artık uzun araştırmalar yapmak zorunda kalmadan, sadece isteklerini belirterek kapsamlı hizmet alabiliyor.\n\nBu yeni dijital ticaret modeli, kullanıcı deneyimini daha kişiselleştirilmiş ve etkili hale getiriyor. Kullanıcılar, kendileri için en uygun seçenekleri sunan ve işlemleri hızlı bir şekilde gerçekleştiren dijital ajanlardan faydalanarak zamandan ve emekten tasarruf edebiliyor.\n\nSonuç olarak, ajans tabanlı ticaretin yükselişi, dijital dünyada yeni bir dönemin kapılarını aralıyor. Bu sistemler, kullanıcıların hayatını kolaylaştırırken, ticaretin de daha verimli ve kullanıcı odaklı bir hale gelmesine katkı sağlıyor.",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
-            "date": "2026-03-25T13:42:24.425676",
-            "timestamp": 1774446144.425685
         }
     ]
 }
