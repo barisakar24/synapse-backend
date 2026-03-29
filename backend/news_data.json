@@ -1,16 +1,36 @@
 {
-    "last_updated": "2026-03-29T07:15:56.607768",
+    "last_updated": "2026-03-29T09:48:49.856517",
     "daily_news": {
-        "title": "SLIT3 Proteini: Obezite ile Mücadelede Yeni Umut",
-        "original_title": "Split Protein Builds the Infrastructure for Weight Loss",
-        "content": "Araştırmacılar, SLIT3 proteinini keşfederek, bu proteinin kendini ikiye bölerek kahverengi yağın 'altyapısını' oluşturduğunu ortaya çıkardılar. SLIT3, kan damarlarını ve sinirleri genişleterek kahverengi yağın daha fazla enerji yakmasını sağlıyor ve bu da obezite tedavisinde iştah temelli olmayan yeni bir strateji sunuyor. Kahverengi yağ, vücudun enerji harcamasını artırarak kilo kontrolüne katkıda bulunabilir. Bilim insanları, SLIT3 proteinini hedef alarak obezite ile mücadelede yeni tedavi yöntemleri geliştirmeyi amaçlıyor. Bu buluş, obeziteye karşı daha etkili ve yan etkisi az olan tedavi seçeneklerinin geliştirilmesi için umut vadediyor.\n\nKaynak: Neuroscience News. (2023). Split Protein Builds the Infrastructure for Weight Loss. Erişim adresi: https://neurosciencenews.com/slit3-protein-brown-fat-obesity-30410/",
+        "title": "Gençlerin Beslenme Alışkanlıkları Ruh Sağlıklarını Etkileyebilir",
+        "original_title": "What teens eat could be affecting their mental health more than we thought",
+        "content": "Gençlerin beslenme alışkanlıkları, ruh sağlıklarını düşündüğümüzden daha fazla etkileyebilir. Yaklaşık 20 çalışmayı kapsayan kapsamlı bir inceleme, daha sağlıklı diyetlerin genellikle daha az depresif semptomlarla bağlantılı olduğunu, kötü beslenme alışkanlıklarının ise daha fazla psikolojik stresle el ele gidebileceğini ortaya koydu. İlginç bir şekilde, sadece bireysel besinler değil, genel diyet kalıplarına odaklanmanın daha tutarlı faydalar sağladığı görüldü. Bu da genel beslenme alışkanlıklarının, beyin gelişiminin bu kritik aşamasında anlamlı bir rol oynayabileceğini düşündürüyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
         "category": "Nöroloji",
         "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
-        "link": "https://neurosciencenews.com/slit3-protein-brown-fat-obesity-30410/",
-        "date": "2026-03-28T18:54:48.647040",
-        "timestamp": 1774724088.64705
+        "link": "https://www.sciencedaily.com/releases/2026/03/260328043602.htm",
+        "date": "2026-03-29T09:48:46.625657",
+        "timestamp": 1774777726.625666
     },
     "news_list": [
+        {
+            "title": "Gençlerin Beslenme Alışkanlıkları Ruh Sağlıklarını Etkileyebilir",
+            "original_title": "What teens eat could be affecting their mental health more than we thought",
+            "content": "Gençlerin beslenme alışkanlıkları, ruh sağlıklarını düşündüğümüzden daha fazla etkileyebilir. Yaklaşık 20 çalışmayı kapsayan kapsamlı bir inceleme, daha sağlıklı diyetlerin genellikle daha az depresif semptomlarla bağlantılı olduğunu, kötü beslenme alışkanlıklarının ise daha fazla psikolojik stresle el ele gidebileceğini ortaya koydu. İlginç bir şekilde, sadece bireysel besinler değil, genel diyet kalıplarına odaklanmanın daha tutarlı faydalar sağladığı görüldü. Bu da genel beslenme alışkanlıklarının, beyin gelişiminin bu kritik aşamasında anlamlı bir rol oynayabileceğini düşündürüyor.\n\nKaynak: Mind & Brain News -- ScienceDaily",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260328043602.htm",
+            "date": "2026-03-29T09:48:46.625657",
+            "timestamp": 1774777726.625666
+        },
+        {
+            "title": "Yeni Gen Terapisi: Bağımlılık Yapmadan Ağrıyı Durduruyor",
+            "original_title": "This new therapy turns off pain without opioids or addiction",
+            "content": "Bilim insanları, ağrıyı beynin kaynağında sessize alan ve opioidlerin bağımlılık risklerini taşımayan yeni bir gen terapisi geliştirdiler. Yapay zeka kullanarak ağrının nasıl işlendiğini haritalandıran araştırmacılar, morfinin faydalarını taklit eden ancak tehlikeli yan etkilerinden kaçınan hedefe yönelik bir 'kapatma anahtarı' yarattılar. İlk testlerde, normal duyuları etkilemeden kalıcı rahatlama sağladı. Bu keşif, daha güvenli ve bağımlılık yapmayan ağrı tedavilerine yönelik büyük bir adım olabilir.\n\nKaynak: Mind & Brain News -- ScienceDaily.",
+            "category": "Nöroloji",
+            "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?auto=format&fit=crop&w=800&q=80",
+            "link": "https://www.sciencedaily.com/releases/2026/03/260328043558.htm",
+            "date": "2026-03-29T09:48:49.137080",
+            "timestamp": 1774777729.137089
+        },
         {
             "title": "SLIT3 Proteini: Obezite ile Mücadelede Yeni Umut",
             "original_title": "Split Protein Builds the Infrastructure for Weight Loss",
@@ -490,26 +510,6 @@
             "link": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
             "date": "2026-03-25T13:42:24.425676",
             "timestamp": 1774446144.425685
-        },
-        {
-            "title": "E. coli Kapsüllerinin Genomik Haritalaması: Aşılar İçin Yüksek Riskli Türler Belirlendi",
-            "original_title": "Genomic Mapping of E. coli Capsules Identifies High-Risk Types for Vaccines",
-            "content": "Makale içeriği: <p>Bir suşun invaziv hale gelip gelmediğini belirleyen temel faktörlerden biri, bakteriyi bağışıklık tespitinden ve belirli tedavilerden koruyabilen şeker açısından zengin dış tabaka olan kapsülüdür.</p><p>Bu çalışma, E. coli bakterilerinin kapsüllerinin genomik haritalaması yoluyla, aşı geliştirilmesinde yüksek risk taşıyan türlerin belirlenmesini amaçlamaktadır. Kapsüller, bakterinin bağışıklık sisteminden saklanmasına yardımcı olan ve invaziv enfeksiyonların gelişiminde önemli rol oynayan yapılar olarak bilinir. Çalışmada, E. coli'nin farklı kapsül türleri detaylı şekilde incelenmiş ve hangi türlerin daha yüksek risk taşıdığı belirlenmiştir.</p><p>Bu tür çalışmalar, gelecekteki aşı geliştirme süreçlerinde kritik bir öneme sahip olabilir ve potansiyel olarak daha etkili aşı stratejilerinin geliştirilmesine olanak sağlayabilir.</p><p>Kaynak: GEN – Genetic Engineering and Biotechnology News</p>",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.genengnews.com/topics/infectious-diseases/genomic-mapping-of-e-coli-capsules-identifies-high-risk-types-for-vaccines/",
-            "date": "2026-03-25T13:42:29.816226",
-            "timestamp": 1774446149.816235
-        },
-        {
-            "title": "Yapay Zeka Savaşında Son Durum: Anthropic ve Pentagon'un Çatışması",
-            "original_title": "The AI Hype Index: AI goes to war",
-            "content": "Yapay zeka savaş alanında. Anthropic ve Pentagon, Anthropic'in yapay zeka modeli Claude'un nasıl silahlandırılacağı konusunda bir anlaşmazlık yaşadı. Ardından, OpenAI, Pentagon ile \"fırsatçı ve özensiz\" bir anlaşma yaparak dikkatleri üzerine çekti. Kullanıcılar, ChatGPT'yi topluca terk etti. Londra'da, bugüne kadarki en büyük yapay zeka karşıtı protesto düzenlendi. Eğer durumu değerlendiriyorsanız, Anthropic—şirket kuruldu... \n\nKaynak: MIT Technology Review",
-            "category": "Yapay Zeka",
-            "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800&q=80",
-            "link": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-            "date": "2026-03-25T10:01:07.773848",
-            "timestamp": 1774432867.773859
         }
     ]
 }
